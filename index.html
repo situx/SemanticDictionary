@@ -1,0 +1,242 @@
+<html>
+  <head>
+    <title>Semantic Dictionary for Ancient Languages</title>
+    <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://mottie.github.io/tablesorter/js/jquery.tablesorter.combined.js"></script>
+    <!--<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">-->
+    <link rel="stylesheet" href="https://mottie.github.io/tablesorter/docs/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="https://mottie.github.io/tablesorter/docs/css/bootstrap-v3.min.css">
+    
+    <link rel="stylesheet" href="https://mottie.github.io/tablesorter/css/theme.blue.css"/>
+  <link rel="stylesheet" href="css/demo.css">
+    <script src="js/akkadian.js"></script>
+    <script src="js/egyptian.js"></script>
+    <script src="js/hittite.js"></script>
+  <script src="js/sumerian.js"></script>
+  <style>dialog {  
+    width: 500px;  
+    background:#e8e8e8;
+    border: 1px solid #dadada;
+    font-family:sans-serif;
+    padding: 5px 10px 20px 20px;
+}  </style>
+<script>
+function isArray(what) {
+    return Object.prototype.toString.call(what) === '[object Array]';
+}
+    var resulttext=""
+    var translationToObj={}
+    var posTagMap={}
+    var strToMap={}
+    var currentsearch="translationToObj";
+    function printNewPage(indicator){
+        result=""//<thead><th>.</th><th>.</th><th>.</th><th>.</th></thead><tbody>";
+        map={}
+        keylist=[]
+        map=translationToObj;
+        for(obj in translationToObj){
+                    result+="<tr>"
+                    result+="<td"+(map[obj]["transliteration"]!=undefined && map[obj]["transliteration"]["code"]!=undefined?" title=\""+map[obj]["transliteration"]["code"]+"\">":">")+map[obj]["content"]+"</td>"
+                    logogram=(map[obj]["transliteration"]!=undefined  && map[obj]["transliteration"]["logogram"]!=undefined && map[obj]["transliteration"]["logogram"]=="true");
+                    if("transliteration" in map[obj] && isArray(map[obj]["transliteration"])){
+                        result+="<td>"
+                        for(translit in map[obj]["transliteration"]){
+                                result+=map[obj]["transliteration"][translit]["content"]+(logogram?"<sup title=\"Logogram\">L</sup>":"")+"; "
+                        }
+                        result = result.substring(0, result.length - 2);
+                        result+="</td>"
+                    }else if("transliteration" in map[obj]){
+                        result+="<td>"+(map[obj]["transliteration"]!=undefined?map[obj]["transliteration"]["content"]:"")
+                        result+=(logogram?"<sup title=\"Logogram\">L</sup>":"")+"</td>"
+                    }
+                    result+="<td>"+(map[obj]["concept"]!=undefined?"<a href='"+map[obj]["concept"]+"' target='_blank' title='"+map[obj]["concept"]+"'>":"")
+                    if(isArray(map[obj]["translation"])){
+                        for(translit in map[obj]["translation"]){
+                                if("locale" in map[obj]["translation"][translit]){
+                                        result+=map[obj]["translation"][translit]["locale"]+":"+map[obj]["translation"][translit]["content"]+"; "
+                                }
+                                else{
+                                        result+=map[obj]["translation"][translit]["content"]+"; "
+                                }
+                        }
+                        result = result.substring(0, result.length - 2);
+                    }else{
+                                if("locale" in map[obj]["translation"]){
+                                        //result+=map[obj]["translation"]["locale"]+":"+map[obj]["translation"]["content"]
+                                         result+=map[obj]["translation"]["content"]
+                                }
+                                else{
+                                        result+=map[obj]["translation"]["content"]
+                                }
+                    }
+                    result+=(map[obj]["concept"]!=undefined?"</a>":"")+"</td><td>"
+                    result+=(map[obj]["postag"]!=undefined?"<a href='"+map[obj]["postag"]["uri"]+"' target='_blank' title='"+map[obj]["postag"]["uri"]+"'>":"")
+                    result+=(map[obj]["postag"]!=undefined?map[obj]["postag"]["content"]:"")
+                    result+=(map[obj]["postag"]!=undefined?"</a>":"")
+                    result+="</td></tr>"
+        }
+        
+        $("#resultbody").html(result).trigger('update', [true]);
+        postags="<table border=1 width=100%><tr>"
+        for(tag in posTagMap){
+            postags+="<th>"+tag+"</th>"
+        }
+        postags+="</tr><tr>"
+        for(tag in posTagMap){
+            postags+="<td>"+posTagMap[tag]+"</td>"
+        }
+        postags+="</tr></table>"
+        $('#postagview').html(postags)
+    }
+    
+            function buildDict(value){
+        translationToObj={}
+        posTagMap={}
+        strToMap={}
+        $('#inputenglish').val("")
+        $('#resultbody').html("").trigger('update', [true]);
+        $('#refjson').attr("href","dict/"+value+".json")
+        $('#refxml').attr("href","dict/"+value+".xml")
+        $('#reflemon').attr("href","dict/"+value+".ttl")
+        if("author" in window[value]["dictentries"]["about"]){$('#author').html("<a href=\""+window[value]["dictentries"]["about"]["author"]["uri"]+"\">"+window[value]["dictentries"]["about"]["author"]["content"]+"</a>")}
+        if("license" in window[value]["dictentries"]["about"]){$('#license').html("<a href=\""+window[value]["dictentries"]["about"]["license"]["val"]+"\">"+window[value]["dictentries"]["about"]["license"]["content"]+"</a>")}
+        if("comment" in window[value]["dictentries"]["about"]){$('#comment').html(window[value]["dictentries"]["about"]["comment"]["content"])}
+        if("references" in window[value]["dictentries"]["about"]){
+                result="";
+                if(isArray(window[value]["dictentries"]["about"]["references"]["reference"])){
+                    for(ref in window[value]["dictentries"]["about"]["references"]["reference"]){
+                            result+="<a href=\""+window[value]["dictentries"]["about"]["references"]["reference"][ref]["a"]["href"]+"\">"+window[value]["dictentries"]["about"]["references"]["reference"][ref]["a"]["content"]+"</a><br/>"
+                }
+                result+=""
+                }else{
+                    for(ref in window[value]["dictentries"]["about"]["references"]["reference"]){
+                        if(ref=="a"){
+                            result+="<a href=\""+window[value]["dictentries"]["about"]["references"]["reference"][ref]["href"]+"\">"+window[value]["dictentries"]["about"]["references"]["reference"][ref]["content"]+"</a>&nbsp;"
+                        }
+                }
+                result+=""
+                }
+                $("#references").html(result)
+        }
+       // ("references" in window[this.value]["dictentries"]["about"]?$('#references').html("<a href=\""+window[this.value]["dictentries"]["about"]["comment"]["uri"]+"\">"+window[this.value]["dictentries"]["about"]["comment"]["content"]+"</a>"):"")
+        jQuery.each(window[value]["dictentries"]["dictentry"], function() {
+        if(this["translation"]!=undefined){
+            if(isArray(this["translation"])){
+                resstr=""
+                for(item in this["translation"]){
+                        resstr+=this["translation"][item]["content"]+";"
+                }
+                translationToObj[resstr]=this
+                strToMap[resstr]=this
+            }else{
+                translationToObj[this["translation"]["content"]]=this
+                            strToMap[this["translation"]["content"]]=this
+            }
+            }
+        if(this["transliteration"]!=undefined){
+            //transliterationToObj[this["transliteration"]["content"]]=this
+                        strToMap[this["transliteration"]["content"]]=this
+            }
+        if(this["content"]!=undefined){
+            //wordToObj[this["content"]]=this
+            strToMap[this["content"]]=this
+            }
+            if(this["postag"]!=undefined){
+                if(this["postag"]["content"] in posTagMap){
+                    posTagMap[this["postag"]["content"]]=posTagMap[this["postag"]["content"]]+1 
+                }else{
+                    posTagMap[this["postag"]["content"]]=1                
+                }
+            }
+            setupSearch();
+        }); 
+        printNewPage(1)
+        
+        }
+    
+        function setupSearch(){
+        currentsearch= $("input[name='search']:checked").val();
+          $('#amount').text(Object.keys(translationToObj).length+" words")
+        $("#inputenglish").autocomplete({source: []});
+        $( "#inputenglish" ).autocomplete({
+      source: Object.keys(window[currentsearch]),
+      select: function (event, ui) {
+    var label = ui.item.label;
+    var value = ui.item.value;
+    var result="<tr><td>"+window[currentsearch][value]["content"]+"</td><td>"+window[currentsearch][value]["transliteration"]["content"]+"</td><td><a href='"+window[currentsearch][value]["concept"]+"' target='_blank' title='"+window[currentsearch][value]["concept"]+"'>"+value+"</a></td><td><a href='"+window[currentsearch][value]["postag"]["uri"]+"' target='_blank' title='"+window[currentsearch][value]["postag"]["uri"]+"'>"+window[currentsearch][value]["postag"]["content"]+"</a></td></tr>";
+    html=jQuery.parseHTML(result);
+    $("#resultbody").html(html);
+}
+});
+}
+        $( ".rd" ).change(function() {
+            setupSearch();
+     });
+     
+    </script>
+  </head>
+  <body>
+  <h1>Semantic Dictionary for Ancient Languages</h1>
+  <table width="100%"><tr><th>POSTags</th><th>Dictionary Search</th><th>Language Selection</th></tr>
+  <tr><td align="left" id="postagview"></td><td align="center"><form><br/>Search: <input type="text" id="inputenglish" name="search"/><br/><input type="radio" name="search" class="rd" id="translation" value="translationToObj" checked="checked">English <input type="radio"  class="rd"  id="transliteration" name="search" value="translationToObj">Transliteration<input type="radio"  class="rd"  id="script" name="search" value="wordToObj">Script<input type="radio" id="checkall"  class="rd"  value="strToMap" name="search"/>All</form></td><td align="right">
+  Select Language:<select id="dictselect" style="color: black">
+  <option value="akkadian">Akkadian</option>
+  <option value="egyptian">Egyptian</option>
+  <option value="hittite">Hittite</option>
+  <option value="sumerian" selected="selected">Sumerian</option>
+  </select><br/><table border="2" style="background:white;color:black"><tr><td>Download as:</td><td><a href="dict/sumerian.js" id="refjson">&nbsp;JSON&nbsp;</a></td><td><a href="dict/sumerian.xml" id="refxml">&nbsp;XML&nbsp;</a></td><td><a href="dict/sumerian.rdf" id="reflemon">&nbsp;Lemon-RDF&nbsp;</a></td></tr></table><dialog id="window">  
+    <h3>About...</h3>  
+    <table style="color:black" border="1"><tr><td>Author:</td><td><span id="author"></span></td></tr><tr><td>License:</td><td><span id="license"></span></td></tr><tr><td>Description:</td><td><span id="comment"></span></td></tr><tr><td>References:</td><td><span id="references"></span></td></tr></table>  
+    <button id="exit">Close Dialog</button>  
+</dialog><span id="amount"></span><button id="show" style="color:black">About...</button></td></tr>
+  </table>
+  <div style="overflow: auto;height: 78%; width: 100%;">
+  <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"  id="result" class="tablesorter"><thead><tr>
+  <th bgcolor="white">Script</th><th bgcolor="white">Transliteration</th><th bgcolor="white">Translation</th><th bgcolor="white">POSTag</th></tr></thead><tbody id="resultbody"></tbody>
+  </table>
+</div>
+    <script>
+    $( "#dictselect" ).change(function(){
+        buildDict(this.value);
+    });
+    $(function(){
+    var dialog = document.getElementById('window');  
+    $('#show').click(function() {  
+        dialog.showModal();  
+    });  
+    $('#exit').click(function() {  
+        dialog.close();  
+    });  
+    buildDict("sumerian");
+    setupSearch();
+  $("#result").tablesorter({
+  widgets : ['uitheme', 'filter', 'zebra'],
+  theme:"blue",
+  ignoreCase : false,
+  sortList: [[2,0]] ,
+  headers  : {
+      0 : { sorter : 'text' },
+      1 : { sorter : 'text' },
+            2 : { sorter : 'text' },
+                  3 : { sorter : 'text' }
+    }
+  });
+  $( "#dialog" ).dialog({
+      autoOpen: true,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      }
+    });
+  });
+    
+    </script>
+  </body>
+</html>

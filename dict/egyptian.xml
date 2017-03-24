@@ -1,0 +1,947 @@
+<?xml version="1.1"?>
+<dictentries>
+    <about>
+        <author uri="https://www.wikidata.org/entity/Q482980">Timo Homburg</author>
+        <license uri="https://www.wikidata.org/entity/Q79719" val="https://www.wikidata.org/entity/Q27016754">GPLv3</license>
+        <comment uri="http://www.w3.org/2000/01/rdf-schema#comment">Egyptian Unicode Dictionary. Horizontally aligned character words are represented correctly. Vertically aligned and cube-assembled characters can currently not be represented in Unicode. They will be represented with there corresponding Codage sings between the unicode characters until <a href="http://www.unicode.org/L2/L2016/16090-comment-ctl-char-egyptian.pdf">this proposal</a> has been adopted in Unicode.</comment>
+        <references uri="https://www.wikidata.org/entity/Q134995"><reference uri="https://www.wikidata.org/entity/Q121769"><a href="http://hieroglyphs.net/0301/cgi/pager.pl?p=16">Hieroglyphs.net</a></reference></references>
+    </about>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2988">
+<transliteration transcription="pA" code="Q3-G40-G1-H5">pA</transliteration>
+<translation locale="en">fly</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓊪𓅮𓄿𓆃</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904">
+<transliteration transcription="Ab" code="U23-D58-D54">Ab</transliteration>
+<translation locale="en">cease</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓍋𓃀𓂻</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1961">
+<transliteration transcription="sqbH" code="S29-N29-D58-V28-W15">sqbH</transliteration>
+<translation locale="en">relax</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓈎𓃀𓎛𓏁</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3592">
+<transliteration transcription="sxA" code="S29-M12-G1-A2">sxA</transliteration>
+<translation locale="en">remember</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓆼𓄿𓀁</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1931">
+<transliteration transcription="wHm" code="F25-G17">wHm</transliteration>
+<translation locale="en">repeat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓄙𓅓</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2199">
+<transliteration transcription="smi" code="S29-W19-M17-A2">smi</transliteration>
+<translation locale="en">report</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓏇𓇋𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904">
+<transliteration transcription="xrp" code="S42">xrp</transliteration>
+<translation locale="en">control</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓌂</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_824">
+<transliteration transcription="m" code="T1">m</transliteration>
+<translation locale="en">take</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓌇</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_908">
+<transliteration transcription="xsf" code="U35-A24">xsf</transliteration>
+<translation locale="en">punish</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓍚𓀜</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3808">
+<transliteration transcription="xsf" code="U35">xsf</transliteration>
+<translation locale="en">repel</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓍚</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_435">
+<transliteration transcription="xbi" code="Aa1-D58-A32">xbi</transliteration>
+<translation locale="en">dance</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓐍𓃀𓀤</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2032">
+<transliteration transcription="msD(i)" code="F31-S29-I10">msD(i)</transliteration>
+<translation locale="en">hate</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓄟𓋴𓆓</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1109">
+<transliteration transcription="mH" code="V22-V28-N(35)">mH</transliteration>
+<translation locale="en">drown</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎔𓎛𓈗</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3062">
+<transliteration transcription="dwA" code="N14-G1-A30">dwA</transliteration>
+<translation locale="en">worship</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓇼𓄿𓀢</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2954">
+<transliteration transcription="dAi" code="O4-G1-D54">dAi</transliteration>
+<translation locale="en">fall</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓉔𓄿𓂻</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_52">
+<transliteration transcription="Xnm" code="W9-G17">Xnm</transliteration>
+<translation locale="en">join</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎸𓅓</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3607">
+<transliteration transcription="sr" code="S29-D21-E27">sr</transliteration>
+<translation locale="en">foretell</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓂋𓃱</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_533">
+<transliteration transcription="sbA" code="S29-D58-N14-G1-A24">sbA</transliteration>
+<translation locale="en">teach</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓃀𓇼𓄿𓀜</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="sm" code="S29-G17-M21">sm</transliteration>
+<translation locale="en">tend</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓅓𓇐</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_614">
+<transliteration transcription="spH" code="S29-Q3-V28-V1">spH</transliteration>
+<translation locale="en">lasso</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓊪𓎛𓍢</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2282">
+<transliteration transcription="gm(i)" code="G28-G17">gm(i)</transliteration>
+<translation locale="en">find</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓅠𓅓</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1390">
+<transliteration transcription="sbi" code="S29-D58-M17-T14-A14">sbi</transliteration>
+<translation locale="en">rebel</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓃀𓇋𓌙𓀐</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2629">
+<transliteration transcription="amaA" code="D36-G17-D36-G1-T14">amaA</transliteration>
+<translation locale="en">throw</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓂝𓅓𓂝𓄿𓌙</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1502">
+<transliteration transcription="SAs" code="M8-G1-S29-D54">SAs</transliteration>
+<translation locale="en">travel</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓆷𓄿𓋴𓂻</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857">
+<transliteration transcription="d(i)" code="X8">d(i)</transliteration>
+<translation locale="en">give</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓏙</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3336">
+<transliteration transcription="ii" code="M18-M17-D54">ii</transliteration>
+<translation locale="en">come</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓇍𓇋𓂻</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1858">
+<transliteration transcription="skA" code="S29-D28-G1-U13-A24">skA</transliteration>
+<translation locale="en">plow</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓂓𓄿𓍁𓀜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_582">
+<transliteration transcription="snDm" code="S29-M29-G17-A51">snDm</transliteration>
+<translation locale="en">sit</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓇛𓅓𓀼</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1526">
+<transliteration transcription="Hsi" code="V28-W14-S29-A2">Hsi</transliteration>
+<translation locale="en">sing</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎛𓎿𓋴𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1021">
+<transliteration transcription="sdr" code="A55-D40">sdr</transliteration>
+<translation locale="en">rest</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓁀𓂡</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="im3" code="M1-G17-Y1A">im3</transliteration>
+<translation locale="en">be gracious</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓆭𓅓𓏜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590">
+<transliteration transcription="szm" code="E12-G1">szm</transliteration>
+<translation locale="en">go</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓃟𓄿</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_773">
+<transliteration transcription="aHA" code="D34-A24">aHA</transliteration>
+<translation locale="en">fight</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓂚𓀜</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="mn" code="Y5-G37">mn</transliteration>
+<translation locale="en">be sick</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓏠𓅪</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_89">
+<transliteration transcription="sdA" code="S29-D46-G1-G33">sdA</transliteration>
+<translation locale="en">tremble</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓂧𓄿𓅥</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_512">
+<transliteration transcription="iAS" code="M17-G1-N37-A2">iAS</transliteration>
+<translation locale="en">call</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓇋𓄿𓈙𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2695">
+<transliteration transcription="swab" code="S29-D60">swab</transliteration>
+<translation locale="en">decorate</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋴𓃂</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3076">
+<transliteration transcription="Sm" code="N40-G17-D54">Sm</transliteration>
+<translation locale="en">depart</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓈝𓅓𓂻</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="ir(i)" code="D4">ir(i)</transliteration>
+<translation locale="en">do</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓁹</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2245">
+<transliteration transcription="wDA" code="G43-U28-D54">wDA</transliteration>
+<translation locale="en">proceed</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓅱𓍑𓂻</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="ms(i)" code="F31-S29-B3">ms(i)</transliteration>
+<translation locale="en">give birth</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓄟𓋴𓁒</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929">
+<transliteration transcription="ms" code="G17-O35">ms</transliteration>
+<translation locale="en">bring</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓅓𓊄</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2838">
+<transliteration transcription="iT" code="V15-A24">iT</transliteration>
+<translation locale="en">seize</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎁𓀜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3450">
+<transliteration transcription="hAb" code="O4-G1-D58-D54">hAb</transliteration>
+<translation locale="en">send</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓉔𓄿𓃀𓂻</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409">
+<transliteration transcription="mAX" code="U1-G1-F32-Q7">mAX</transliteration>
+<translation locale="en">burn</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓌳𓄿𓄡𓊮</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q34706">
+<transliteration transcription="Aby" code="U23-D58-M17-M17-E24">Aby</transliteration>
+<translation locale="en">leopard</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍋𓃀𓇋𓇋𓃮</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1125062">
+<transliteration transcription="sbi" code="S29-D58-M17-T14-A14">sbi</transliteration>
+<translation locale="en">rebel</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓋴𓃀𓇋𓌙𓀐</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q221455">
+<transliteration transcription="iArw" code="M17-G1-D21-G43-M2-M2-M2">iArw</transliteration>
+<translation locale="en">reeds</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇋𓄿𓂋𓅱𓆰𓆰𓆰</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3086">
+<transliteration transcription="siA" code="S32-G1-A2">siA</transliteration>
+<translation locale="en">recognize</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓋷𓄿𓀁</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q82001">
+<transliteration transcription="Abw" code="U23-D58-G43-T19">Abw</transliteration>
+<translation locale="en">ivory</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍋𓃀𓅱𓌟</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q188913">
+<transliteration transcription="mnw" code="Y5-M1-M1-M1">mnw</transliteration>
+<translation locale="en">plantation</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏠𓆭𓆭𓆭</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q109607">
+<transliteration transcription="wAsi" code="V4-G1-S29-S40-G37">wAsi</transliteration>
+<translation locale="en">ruin</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍯𓄿𓋴𓌀𓅪</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q10870555">
+<transliteration transcription="smi" code="U23-D58-G43-T19">smi</transliteration>
+<translation locale="en">report</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍋𓃀𓅱𓌟</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q183097">
+<transliteration transcription="Xmnw" code="W9-G43-C4">Xmnw</transliteration>
+<translation locale="en">Khnum</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓎸𓅱𓁠</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q32489">
+<transliteration transcription="ds" code="D46-S29-T30">ds</transliteration>
+<translation locale="en">knife</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓂧𓋴𓌪</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="ds" code="M1-G43-N8">ds</transliteration>
+<translation locale="en">brilliance</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆭𓅱𓇶</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q170544">
+<transliteration transcription="iAm" code="M1-G17-O1">iAm</transliteration>
+<translation locale="en">tent</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆭𓅓𓉐</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q862089">
+<transliteration transcription="mmy" code="E27">mmy</transliteration>
+<translation locale="en">giraffe</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃱</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q190858">
+<transliteration transcription="m3 hd" code="E28">m3 hd</transliteration>
+<translation locale="en">oryx</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃲</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q2934">
+<transliteration transcription="nht" code="E31">nht</transliteration>
+<translation locale="en">goat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃶</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q47534">
+<transliteration transcription="inpw" code="E16A">inpw</transliteration>
+<translation locale="en">Anubis</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓃤</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q11247470">
+<transliteration transcription="imy r" code="F20">imy r</transliteration>
+<translation locale="en">commander</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄓</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q15296811">
+<transliteration transcription="ib3" code="Y6">ib3</transliteration>
+<translation locale="en">draughtsman</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏡</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q161358">
+<transliteration transcription="dnh" code="H5">dnh</transliteration>
+<translation locale="en">wing</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆃</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q36133">
+<transliteration transcription="gb" code="H8-D58">gb</transliteration>
+<translation locale="en">soil</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆇𓃀</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q426948">
+<transliteration transcription="shm" code="Y8">shm</transliteration>
+<translation locale="en">sistrum</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏡</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q753">
+<transliteration transcription="imy r" code="K6">imy r</transliteration>
+<translation locale="en">copper</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆠</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q11748378">
+<transliteration transcription="k3" code="F1">k3</transliteration>
+<translation locale="en">cow</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃾</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q19967364">
+<transliteration transcription="pr hd" code="O2">pr hd</transliteration>
+<translation locale="en">treasury</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓉒</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q708492">
+<transliteration transcription="imy is" code="M40-G17">imy is</transliteration>
+<translation locale="en">councillor</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇩𓅓</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1085664">
+<transliteration transcription="h" code="O4-A28">h</transliteration>
+<translation locale="en">exaltation</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓉔𓀠</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="is" code="M40-S29-Z4-M2-O1">is</transliteration>
+<translation locale="en">chamber</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇩𓋴𓏭𓆰𓉐</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q3010">
+<transliteration transcription="t3" code="A17-D53">t3</transliteration>
+<translation locale="en">boy</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓀔𓂺</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q179700">
+<transliteration transcription="twt" code="A53">twt</transliteration>
+<translation locale="en">statue</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓀾</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q3736439">
+<transliteration transcription="3pd" code="H1">3pd</transliteration>
+<translation locale="en">duck</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅿</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q207961">
+<transliteration transcription="irw" code="A53-A53-A53">irw</transliteration>
+<translation locale="en">shape</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓀾𓀾𓀾</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q660651">
+<transliteration transcription="sh3" code="A2-D21">sh3</transliteration>
+<translation locale="en">memorandum</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓀁𓂋</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q193833">
+<transliteration transcription="hb" code="O4-D58-G26">hb</transliteration>
+<translation locale="en">ibis</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓉔𓃀𓅝</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q546377">
+<transliteration transcription="nmit" code="A55-X1">nmit</transliteration>
+<translation locale="en">bier</translation>
+<translation locale="de">Bahre</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓁀𓏏</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q170138">
+<transliteration transcription="Sw" code="N37-H6-G43">Sw</transliteration>
+<translation locale="en">Shu</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓈙𓆄𓅱</dictentry>  
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q1195229">
+<transliteration transcription="spdw" code="M44-G43-G13">spdw</transliteration>
+<translation locale="en">Sopdu</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓇮𓅱𓅏</dictentry>  
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q3409">
+<transliteration transcription="spdt" code="M44-X1-B1">spdt</transliteration>
+<translation locale="en">Sirius</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓇮𓏏𓁐</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q930167">
+<transliteration transcription="spdt" code="M44-X1">spdt</transliteration>
+<translation locale="en">Sothis</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓇮𓏏</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q11446">
+<transliteration transcription="Haw" code="G43-M17-G1-P3">Haw</transliteration>
+<translation locale="en">ship</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅱𓇋𓄿𓊞</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1313">
+<transliteration transcription="Smw" code="N37-N(35)-N5">Smw</transliteration>
+<translation locale="en">summer</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓈙𓈗𓇳</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q523">
+<transliteration transcription="sbA" code="S29-D58-N14">sbA</transliteration>
+<translation locale="en">star</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓋴𓃀𓇼</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q7378">
+<transliteration transcription="Abw" code="U23-D58-G43-E26">Abw</transliteration>
+<translation locale="en">elephant</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍋𓃀𓅱𓃰</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q264323">
+<transliteration transcription="imy-xnt" code="W17-G17">imy-xnt</transliteration>
+<translation locale="en">chamberlain</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏃𓅓</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1097498">
+<transliteration transcription="HqA" code="S38-N29-G1">HqA</transliteration>
+<translation locale="en">ruler</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓋾𓈎𓄿</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q125525">
+<transliteration transcription="sAb" code="E17">sAb</transliteration>
+<translation locale="en">jackal</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃥</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q787">
+<transliteration transcription="sz3" code="E12">sz3</transliteration>
+<translation locale="en">pig</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃟</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q152">
+<transliteration transcription="rm" code="D21-G17-K5">rm</transliteration>
+<translation locale="en">fish</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓂋𓅓𓆟</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q193607">
+<transliteration transcription="wxA" code="G43-M12-G1-G37-A1">wxA</transliteration>
+<translation locale="en">fool</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅱𓆼𓄿𓅪𓀀</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q193432">
+<transliteration transcription="rm" code="T18-G43">rm</transliteration>
+<translation locale="en">follower</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓌞𓅱</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q81938">
+<transliteration transcription="Ahw" code="G1-O4-G43-G37">Ahw</transliteration>
+<translation locale="en">pain</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄿𓉔𓅱𓅪</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q178885">
+<transliteration transcription="nTr" code="R8-A40">nTr</transliteration>
+<translation locale="en">god</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓊹𓀭</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q7391585">
+<transliteration transcription="3bt" code="M19">3bt</transliteration>
+<translation locale="en">offering</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇎</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q178885">
+<transliteration transcription="nTr" code="R8-Z1">nTr</transliteration>
+<translation locale="en">god</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓊹𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q283">
+<transliteration transcription="mw" code="N(35)">mw</transliteration>
+<translation locale="en">water</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓈗</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q44619">
+<transliteration transcription="snd" code="G54-A2">snd</transliteration>
+<translation locale="en">fear</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅾𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q483453">
+<transliteration transcription="Xnmt" code="W9-G17-X1-N(35)">Xnmt</transliteration>
+<translation locale="en">well</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓎸𓅓𓏏𓈗</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q240854">
+<transliteration transcription="xA" code="M12-G1-O27">xA</transliteration>
+<translation locale="en">hall</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆼𓄿𓉹</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1208425">
+<transliteration transcription="iA(w)" code="M17-G1-A30">iA(w)</transliteration>
+<translation locale="en">praise</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇋𓄿𓀢</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="xprr" code="L1-Z1">xprr</transliteration>
+<translation locale="en">beetle</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆣𓏤</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q133343">
+<transliteration transcription="Hwt-Hr" code="O10">Hwt-Hr</transliteration>
+<translation locale="en">Hathor</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓉡</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q203751">
+<transliteration transcription="Sma" code="M26">Sma</transliteration>
+<translation locale="en">Upper Egypt</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇗</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q287705">
+<transliteration transcription="nhb" code="M22-D58-O49">nhb</transliteration>
+<translation locale="en">El Kab</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓇑𓃀𓊖</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q145915">
+<transliteration transcription="nhbt" code="M22-D58-X1">nhbt</transliteration>
+<translation locale="en">Nekhbet</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓇑𓃀𓏏</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q43742">
+<transliteration transcription="sht im3w" code="M20-G4-Aa15">sht im3w</transliteration>
+<translation locale="en">oasis</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓇏𓅂𓐝</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q182780">
+<transliteration transcription="bAgsw" code="D58-G29-G1-W11-M23-G43-N34">bAgsw</transliteration>
+<translation locale="en">dagger</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓃀𓅡𓄿𓎼𓇓𓅱𓈔</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q190858">
+<transliteration transcription="gHs" code="W11-V28-S29-E29">gHs</transliteration>
+<translation locale="en">gazelle</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓎼𓎛𓋴𓃴</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q4817">
+<transliteration transcription="iwn" code="O28-Z1">iwn</transliteration>
+<translation locale="en">pillar</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓉺𓏤</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q46360">
+<transliteration transcription="styw" code="I2">styw</transliteration>
+<translation locale="en">tortoise</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆉</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q168525">
+<transliteration transcription="hfn" code="I8">hfn</transliteration>
+<translation locale="en">tadpole</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆐</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1153959">
+<transliteration transcription="wAwr" code="R18">tA-wr</transliteration>
+<translation locale="en">Thinis</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓋅</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q146921">
+<transliteration transcription="dhwty" code="X1-A40">dhwty</transliteration>
+<translation locale="en">Thoth</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓏏𓀭</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q168444">
+<transliteration transcription="gb" code="G38-D58">gb</transliteration>
+<translation locale="en">Geb</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓅬𓃀</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q239526">
+<transliteration transcription="msw" code="F31-G43-A17-Z3">msw</transliteration>
+<translation locale="en">offspring</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄟𓅱𓀔𓏪</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1344074">
+<transliteration transcription="qbHsnwf" code="W15-T22-T22-T22-I9">qbH-snwf</transliteration>
+<translation locale="en">Qebehsenuf</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓏁𓌢𓌢𓌢𓆑</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q310844">
+<transliteration transcription="qis" code="N29-M17-S29-O49">qis</transliteration>
+<translation locale="en">Qis</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓈎𓇋𓋴𓊖</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1318187">
+<transliteration transcription="sS" code="Y3-A1">sS</transliteration>
+<translation locale="en">scribe</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏞𓀀</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1074">
+<transliteration transcription="inm" code="T34-G17-F27">inm</transliteration>
+<translation locale="en">skin</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓌰𓅓𓄛</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q374035">
+<transliteration transcription="mskA" code="F31-D28-F27">mskA</transliteration>
+<translation locale="en">rug</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄟𓂓𓄛</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q149621">
+<transliteration transcription="w" code="Z1-G43">w</transliteration>
+<translation locale="en">district</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏤𓅱</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q132241">
+<transliteration transcription="Hb" code="V28-D58-W3">Hb</transliteration>
+<translation locale="en">festival</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓎛𓃀𓎱</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q132241">
+<transliteration transcription="i3w" code="Z2-A4">i3w</transliteration>
+<translation locale="en">praise</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏥𓀃</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q239481">
+<transliteration transcription="Dam" code="S41-G17-S12">Dam</transliteration>
+<translation locale="en">electrum</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓌁𓅓𓋞</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q193788">
+<transliteration transcription="Axw" code="G1-Aa1-G43-N8">Axw</transliteration>
+<translation locale="en">sunlight</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄿𓐍𓅱𓇶</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q21162297">
+<transliteration transcription="TAw" code="G47-G43-P5">TAw</transliteration>
+<translation locale="en">breath</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅷𓅱𓊡</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q131704">
+<transliteration transcription="Tbt" code="V13-D58-X1-S33">Tbt</transliteration>
+<translation locale="en">sandal</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍿𓃀𓏏𓋸</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q12773225">
+<transliteration transcription="Hm" code="U36-Z1-A1">Hm</transliteration>
+<translation locale="en">slave</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓍛𓏤𓀀</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="HH" code="C11">HH</transliteration>
+<translation locale="en">many</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓁨</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="imn" code="A5A">imn</transliteration>
+<translation locale="en">hidden</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓀅</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="nDm" code="M29-G17">nDm</transliteration>
+<translation locale="en">sweet</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓇛𓅓</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="wr" code="A19-G7">wr</transliteration>
+<translation locale="en">great</translation>
+<translation locale="en">mighty</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓀗𓅆</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="imA" code="M17-U1-M1-G17">imA</transliteration>
+<translation locale="en">charming</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓇋𓌳𓆭𓅓</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="nn" code="M22-M22">nn</transliteration>
+<translation locale="en">these</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓇑𓇑</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="wsr" code="F12-S29-D21">wsr</transliteration>
+<translation locale="en">powerful</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓄊𓋴𓂋</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q23445">
+<transliteration transcription="km" code="I6-G17">km</transliteration>
+<translation locale="en">black</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓆎𓅓</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="wab" code="D60-N(35)">wab</transliteration>
+<translation locale="en">pure</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓃂𓈗</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="ms-n" code="F31-N35">ms-n</transliteration>
+<translation locale="en">born to</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓄟𓈖</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="dr" code="M36">dr</transliteration>
+<translation locale="en">since</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
+𓇥</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1165897">
+<transliteration transcription="Tw" code="V13-G43">Tw</transliteration>
+<translation locale="en">you</translation>
+<postag uri="http://purl.org/olia/olia.owl#PersonalPronoun">PPRO</postag>
+𓍿𓅱</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q16938807">
+<transliteration transcription="HA" code="M16-G1-D1">HA</transliteration>
+<translation locale="en">behind</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𓇉𓄿𓁶</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="tpy" code="D1-G7">tpy</transliteration>
+<translation locale="en">foremost</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓁶𓅆</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q10791">
+<transliteration transcription="HAy" code="M16-G1-M17-M17-S28">HAy</transliteration>
+<translation locale="en">naked</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓇉𓄿𓇋𓇋𓋳</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="Xmn" code="W9-G17">Xmn</transliteration>
+<translation locale="en">united with</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓎸𓅓</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2538">
+<transliteration transcription="HAm" code="M16-G1-G17-G51-A24">HAm</transliteration>
+<translation locale="en">fish</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓇉𓄿𓅓𓅻𓀜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2538">
+<transliteration transcription="Hii" code="V28-A24">Hii</transliteration>
+<translation locale="en">strike</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎛𓀜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1526">
+<transliteration transcription="Hsi" code="V28-W14-S29-A2">Hsi</transliteration>
+<translation locale="en">sing</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎛𓎿𓋴𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618">
+<transliteration transcription="Hw(i)" code="V28-A25-A24">Hw(i)</transliteration>
+<translation locale="en">beat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎛𓀝𓀜</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3529">
+<transliteration transcription="wnm" code="Z11-G17-A2">wnm</transliteration>
+<translation locale="en">eat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓏶𓅓𓀁</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2674">
+<transliteration transcription="bT" code="D58-V15">bT</transliteration>
+<translation locale="en">abandon</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓃀𓎁</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="my" code="W19-M17-M17">my</transliteration>
+<translation locale="en">accordingly</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
+𓏇𓇋𓇋</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="r" code="D21">r</transliteration>
+<translation locale="en">against</translation>
+<translation locale="en">to</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𓂋</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="m-m" code="G18">m-m</transliteration>
+<translation locale="en">among</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𓅔</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="m" code="G17">m</transliteration>
+<translation locale="en">in</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𓅓</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="mxnt" code="G17-W17-X1">m-xnt</transliteration>
+<translation locale="en">within</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𓅓𓏃𓏏</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q140">
+<transliteration transcription="mAi" code="U1-G1-M17-E22">mAi</transliteration>
+<translation locale="en">lion</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓌳𓄿𓇋𓃬</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q146">
+<transliteration transcription="miw" code="W19-M17-G43-E13">miw</transliteration>
+<translation locale="en">cat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏇𓇋𓅱𓃠</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q138045">
+<transliteration transcription="nHH" code="G21-V28-V28-N5">nHH</transliteration>
+<translation locale="en">eternity</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅘𓎛𓎛𓇳</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q18029574">
+<transliteration transcription="miw" code="W19-X1-M17-M17-A50">miw</transliteration>
+<translation locale="en">peer</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓏇𓏏𓇋𓇋𓀻</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q7560">
+<transliteration transcription="mwt" code="G14-X1-B1">mwt</transliteration>
+<translation locale="en">mother</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓅐𓏏𓁐</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q7242">
+<transliteration transcription="nfrw" code="F35-F35-F35">nfrw</transliteration>
+<translation locale="en">beauty</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓄤𓄤𓄤</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="mniw" code="A47-G43">mniw</transliteration>
+<translation locale="en">herdsman</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓀸𓅱</dictentry>
+<dictentry logogram="" determinative="true" concept="https://www.wikidata.org/entity/Q170471">
+<transliteration transcription="mAat" code="C10">mAat</transliteration>
+<translation locale="en">Maat</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓁦</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2285">
+<transliteration transcription="Hbs" code="V28-D58-S29-S28">Hbs</transliteration>
+<translation locale="en">clothe</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓎛𓃀𓋴𓋳</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3882">
+<transliteration transcription="DA(i)" code="U28-G1-P1">DA(i)</transliteration>
+<translation locale="en">cross</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓍑𓄿𓊛</dictentry>
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2064">
+<transliteration transcription="Dws" code="N26-G43-S29">Dws</transliteration>
+<translation locale="en">denounce</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓈋𓅱𓋴</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q620207">
+<transliteration transcription="Dba" code="D50-Z1">Dba</transliteration>
+<translation locale="en">finger</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓂭𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q740468">
+<transliteration transcription="Ddw" code="R11-R11-G43-O49">Ddw</transliteration>
+<translation locale="en">Busiris</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓊽𓊽𓅱𓊖</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q740468">
+<transliteration transcription="hrwr" code="G5-A21">hr-wr</transliteration>
+<translation locale="en">Haroeris</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓅃𓀙</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q84122">
+<transliteration transcription="hr" code="G5-A40">hr</transliteration>
+<translation locale="en">Horus</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓅃𓀭</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1128502">
+<transliteration transcription="imsti" code="M1-S29-U33">imsti</transliteration>
+<translation locale="en">Imseti</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓆭𓋴𓍘</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q131795">
+<transliteration transcription="sth" code="C7">sth</transliteration>
+<translation locale="en">Seth</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓁣</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q79876">
+<transliteration transcription="3st" code="G1-Q1-X1-B1">3st</transliteration>
+<translation locale="en">Isis</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓄿𓊨𓏏𓁐</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q265868">
+<transliteration transcription="qs" code="N29-S29-T19">qs</transliteration>
+<translation locale="en">bone</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓈎𓋴𓌟</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q43016">
+<transliteration transcription="xA" code="M12-Z1">xA</transliteration>
+<translation locale="en">1000</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓆼𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q720751">
+<transliteration transcription="hfn" code="I8-I8-I8-Z2">hfn</transliteration>
+<translation locale="en">100000</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓆐𓆐𓆐𓏥</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q23806">
+<transliteration transcription="" code="V20"></transliteration>
+<translation locale="en">10</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓎆𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q199">
+<transliteration transcription="w'" code="Z1">w'</transliteration>
+<translation locale="en">1</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q202">
+<transliteration transcription="fdw/ifdw" code="Z1">fdw/ifdw</transliteration>
+<translation locale="en">4</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓏤𓏤𓏤𓏤</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q37413">
+<transliteration transcription="" code="V1"></transliteration>
+<translation locale="en">100</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓍢</dictentry>
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q23488">
+<transliteration transcription="srs" code="Z2:Z2">srs</transliteration>
+<translation locale="en">6</translation>
+<postag uri="http://purl.org/olia/olia.owl#Cardinal">CARD</postag>
+𓏥:𓏥</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="Aw" code="F40-G43">Aw</transliteration>
+<translation locale="en">long</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓄫𓅱</dictentry> 
+<dictentry logogram="" determinative="true">
+<transliteration transcription="nb" code="V30">nb</transliteration>
+<translation locale="en">every</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓎟</dictentry>
+<dictentry logogram="" determinative="true">
+<transliteration transcription="qb" code="N29-D58-W15">qb</transliteration>
+<translation locale="en">long</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𓈎𓃀𓏁</dictentry> 
+</dictentries>
