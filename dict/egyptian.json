@@ -190,6 +190,42 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "translation": {
+                "locale": "en",
+                "content": "be old"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17-G1-G43-A21",
+                "transcription": "iAwi",
+                "content": "iAwi"
+            },
+            "content": "𓇋𓄿𓅱𓀙"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be pregnant"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D58-D28-B2",
+                "transcription": "bkA",
+                "content": "bkA"
+            },
+            "content": "𓃀𓂓𓁑"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_824",
             "translation": {
                 "locale": "en",
@@ -719,6 +755,25 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1399",
+            "translation": {
+                "locale": "en",
+                "content": "bury"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N29:D21-S29-Q6",
+                "transcription": "qrs",
+                "content": "qrs"
+            },
+            "content": "𓈎:𓂋𓋴𓊭"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_512",
             "translation": {
                 "locale": "en",
@@ -794,6 +849,152 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171",
+            "translation": {
+                "locale": "en",
+                "content": "bind"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-Q3:V1",
+                "transcription": "sp(i)",
+                "content": "sp(i)"
+            },
+            "content": "𓋴𓊪:𓍢"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be abundant"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "I1:Z2",
+                "transcription": "aSA",
+                "content": "aSA"
+            },
+            "content": "𓆈:𓏥"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be angry"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G1-D46:I3",
+                "transcription": "Ad",
+                "content": "Ad"
+            },
+            "content": "𓄿𓂧:𓆊"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be bald"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G43-N37:D3",
+                "transcription": "wS",
+                "content": "wS"
+            },
+            "content": "𓅱𓈙:𓁸"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3068",
+            "translation": {
+                "locale": "en",
+                "content": "bite"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Q3:O34-V28-F18-A2",
+                "transcription": "psH",
+                "content": "psH"
+            },
+            "content": "𓊪:𓊃𓎛𓄑𓀁"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be beautiful"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F35-I9:D21",
+                "transcription": "nfr",
+                "content": "nfr"
+            },
+            "content": "𓄤𓆑:𓂋"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be bright"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T3-I10:N5",
+                "transcription": "HD",
+                "content": "HD"
+            },
+            "content": "𓌉𓆓:𓇳"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be deaf"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17-D46:F21",
+                "transcription": "idi",
+                "content": "idi"
+            },
+            "content": "𓇋𓂧:𓄔"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2245",
             "translation": {
                 "locale": "en",
@@ -806,6 +1007,137 @@
                 "content": "wDA"
             },
             "content": "𓅱𓍑𓂻"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1262",
+            "translation": {
+                "locale": "en",
+                "content": "beg"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:F18-D58-V28-A2",
+                "transcription": "dbH",
+                "content": "dbH"
+            },
+            "content": "𓂧:𓄑𓃀𓎛𓀁"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527",
+            "translation": {
+                "locale": "en",
+                "content": "rejoice"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21:N37-D19-A2",
+                "transcription": "rSw",
+                "content": "rSw"
+            },
+            "content": "𓂋:𓈙𓂉𓀁"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756",
+            "translation": {
+                "locale": "en",
+                "content": "receive"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O42:Q3",
+                "transcription": "Ssp",
+                "content": "Ssp"
+            },
+            "content": "𓊏:𓊪"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be real"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "U2:Aa11-D36:Y1",
+                "transcription": "mAa",
+                "content": "mAa"
+            },
+            "content": "𓌴:𓐙𓂝:𓏛"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2245",
+            "translation": {
+                "locale": "en",
+                "content": "be hungry"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V28-N29:D21-A2",
+                "transcription": "Hqr",
+                "content": "Hqr"
+            },
+            "content": "𓎛𓈎:𓂋𓀁"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3923",
+            "translation": {
+                "locale": "en",
+                "content": "breathe"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-S29-N35:D19",
+                "transcription": "Hqr",
+                "content": "Hqr"
+            },
+            "content": "𓋴𓋴𓈖:𓂉"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be heavy"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:N35-S29-U32-O39",
+                "transcription": "dns",
+                "content": "dns"
+            },
+            "content": "𓂧:𓈖𓋴𓍖𓊌"
         },
         {
             "logogram": "",
@@ -831,6 +1163,24 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "translation": {
+                "locale": "en",
+                "content": "be real"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "U2:Aa11-D36:Y1",
+                "transcription": "mAa",
+                "content": "mAa"
+            },
+            "content": "𓌴𓐙𓂝:𓏛"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929",
             "translation": {
                 "locale": "en",
@@ -843,6 +1193,43 @@
                 "content": "ms"
             },
             "content": "𓅓𓊄"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2590",
+            "translation": {
+                "locale": "en",
+                "content": "bequeath"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-G43-V24-A2",
+                "transcription": "swD",
+                "content": "swD"
+            },
+            "content": "𓋴𓅱𓎗𓀁"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "become"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "L1:D21",
+                "transcription": "xpr",
+                "content": "xpr"
+            },
+            "content": "𓆣:𓂋"
         },
         {
             "logogram": "",
@@ -1078,6 +1465,101 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q836904",
+            "translation": {
+                "locale": "en",
+                "content": "brewer"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "A37-X1:Z4",
+                "transcription": "afty",
+                "content": "afty"
+            },
+            "content": "𓀪𓏏:𓏭"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q40089",
+            "translation": {
+                "locale": "en",
+                "content": "brick"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G22-D58-X1:O39",
+                "transcription": "Dbt",
+                "content": "Dbt"
+            },
+            "content": "𓅙𓃀𓏏:𓊌"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1340643",
+            "translation": {
+                "locale": "en",
+                "content": "builders"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17-Aa28-D46-G43-A1",
+                "transcription": "iqdw",
+                "content": "iqdw"
+            },
+            "content": "𓇋𓐪𓂧𓅱𓀀"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q189838",
+            "translation": {
+                "locale": "en",
+                "content": "bud"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G21-V28-D58-X1:M10",
+                "transcription": "nHbt",
+                "content": "nHbt"
+            },
+            "content": "𓅘𓎛𓃀𓏏:𓆹"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q10861465",
+            "translation": {
+                "locale": "en",
+                "content": "brother"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T22-N35:A1",
+                "transcription": "Dbt",
+                "content": "Dbt"
+            },
+            "content": "𓌢𓈖:𓀀"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q32489",
             "translation": {
                 "locale": "en",
@@ -1146,6 +1628,101 @@
                 "content": "mmy"
             },
             "content": "𓃱"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q44",
+            "translation": {
+                "locale": "en",
+                "content": "beer"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V28-N29:X1-W22",
+                "transcription": "mmy",
+                "content": "mmy"
+            },
+            "content": "𓎛𓈎:𓏏𓏊"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q9103",
+            "translation": {
+                "locale": "en",
+                "content": "breast"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Y5:N35-D46:D27",
+                "transcription": "mnd",
+                "content": "mnd"
+            },
+            "content": "𓏠:𓈖𓂧:𓂑"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q329737",
+            "translation": {
+                "locale": "en",
+                "content": "butcher"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T30:X1-G4",
+                "transcription": "sfTw",
+                "content": "sfTw"
+            },
+            "content": "𓌪:𓏏𓅂"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q42295",
+            "translation": {
+                "locale": "en",
+                "content": "bush"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D58-G29-G1-X1:M2",
+                "transcription": "bAt",
+                "content": "bAt"
+            },
+            "content": "𓃀𓅡𓄿𓏏:𓆰"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q5113",
+            "translation": {
+                "locale": "en",
+                "content": "bird"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G1-Q3:D46-G38",
+                "transcription": "Apd",
+                "content": "Apd"
+            },
+            "content": "𓄿𓊪:𓂧𓅬"
         },
         {
             "logogram": "",
@@ -1595,6 +2172,25 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
+            "concept": "https://www.wikidata.org/wiki/Q129106",
+            "translation": {
+                "locale": "en",
+                "content": "Bastet"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "W1-X1-B1",
+                "transcription": "3bst",
+                "content": "3bst"
+            },
+            "content": "𓎯𓏏𓁐"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
             "concept": "https://www.wikidata.org/entity/Q1195229",
             "translation": {
                 "locale": "en",
@@ -1949,6 +2545,25 @@
                 "content": "mw"
             },
             "content": "𓈗"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q11577",
+            "translation": {
+                "locale": "en",
+                "content": "barley"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "U10:Z2",
+                "transcription": "it",
+                "content": "it"
+            },
+            "content": "𓌾:𓏥"
         },
         {
             "logogram": "",
@@ -2458,6 +3073,25 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q133279",
+            "translation": {
+                "locale": "en",
+                "content": "back"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17-G1-X1:F37",
+                "transcription": "w",
+                "content": "w"
+            },
+            "content": "𓇋𓄿𓏏:𓄦"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q132241",
             "translation": {
                 "locale": "en",
@@ -2611,6 +3245,24 @@
             },
             "translation": {
                 "locale": "en",
+                "content": "bad"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D58-M17-N35:G37",
+                "transcription": "bin",
+                "content": "bin"
+            },
+            "content": "𓃀𓇋𓈖:𓅪"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
                 "content": "hidden"
             },
             "determinative": true,
@@ -2680,6 +3332,24 @@
                 "content": "imA"
             },
             "content": "𓇋𓌳𓆭𓅓"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Particle",
+                "content": "PART"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Behold!"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G17-D38:V31",
+                "transcription": "mk",
+                "content": "mk"
+            },
+            "content": "𓅓𓂟:𓎡"
         },
         {
             "logogram": "",
@@ -2827,6 +3497,42 @@
                 "content": "HA"
             },
             "content": "𓇉𓄿𓁶"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "under"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T28:D21",
+                "transcription": "Xr",
+                "content": "Xr"
+            },
+            "content": "𓌨:𓂋"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "by"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17:N35",
+                "transcription": "in",
+                "content": "in"
+            },
+            "content": "𓇋:𓈖"
         },
         {
             "logogram": "",
