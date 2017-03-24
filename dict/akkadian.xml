@@ -117,35 +117,35 @@
 <translation locale="en">man</translation>
 <translation locale="de">Mann</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒀀 𒁀 𒁍</dictentry>
+𒀀𒁀𒁍</dictentry>
 <dictentry logogram="" determinative="false" logograph="false"  concept="https://www.wikidata.org/entity/Q7748">
 <transliteration transcription="miszari">mi-sza-r</transliteration>
 <infinitive transcription="miszarium">mi-sza-ru-um</infinitive>
 <translation locale="en">law</translation>
 <translation locale="de">Gesetz</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒈪 𒊭 𒊑</dictentry>
+𒈪𒊭𒊑</dictentry>
 <dictentry logogram="" determinative="true" logograph="false" phonogram="false" meaning="" concept="https://www.wikidata.org/entity/Q28877" >
 <transliteration transcription="damq">dam-q</transliteration>
 <infinitive transcription="damqam">dam-qa2-am</infinitive>
 <translation locale="en">good</translation>
 <translation locale="de">Gut</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒁮 𒂵</dictentry>
+𒁮𒂵</dictentry>
 <dictentry logogram="" determinative="true" logograph="false" phonogram="false" meaning="" concept="https://www.wikidata.org/entity/Q12097" >
 <transliteration transcription="szarr">szar-r</transliteration>
 <infinitive transcription="szarrum">szar-ru-um</infinitive>
 <translation locale="en">king</translation>
 <translation locale="de">König</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒈪 𒊭 𒊑</dictentry>
+𒈪𒊭𒊑</dictentry>
 <dictentry logogram="" determinative="true" logograph="false" phonogram="false" meaning="" concept="https://www.wikidata.org/entity/Q6581072" >
 <transliteration transcription="awit">a-wi-t</transliteration>
 <infinitive transcription="awitum">a-wi-tum</infinitive>
 <translation locale="en">woman</translation>
 <translation locale="de">Frau</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒀀 𒁀 𒁍</dictentry>
+𒀀𒁀𒁍</dictentry>
 <dictentry logogram="" determinative="true" logograph="false" concept="https://www.wikidata.org/wiki/Q190">
 <transliteration transcription="ilu">ilu</transliteration>
 <infinitive transcription="ilum">ilu-um</infinitive>

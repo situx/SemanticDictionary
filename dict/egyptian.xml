@@ -11,6 +11,11 @@
 <translation locale="en">fly</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𓊪𓅮𓄿𓆃</dictentry> 
+<dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756">
+<transliteration transcription="Ssp" code="O42:Q3">Ssp</transliteration>
+<translation locale="en">receive</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𓊏:𓊪</dictentry> 
 <dictentry logogram="" determinative="true"  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904">
 <transliteration transcription="Ab" code="U23-D58-D54">Ab</transliteration>
 <translation locale="en">cease</translation>
@@ -306,6 +311,11 @@
 <translation locale="en">goat</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𓃶</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q7391">
+<transliteration transcription="bit" code="L2-X1:Z1">bit</transliteration>
+<translation locale="en">bee</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𓆤𓏏:𓏤</dictentry>
 <dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q47534">
 <transliteration transcription="inpw" code="E16A">inpw</transliteration>
 <translation locale="en">Anubis</translation>
@@ -351,7 +361,7 @@
 <translation locale="en">treasury</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𓉒</dictentry> 
-<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q708492">
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q708492">
 <transliteration transcription="imy is" code="M40-G17">imy is</transliteration>
 <translation locale="en">councillor</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -407,12 +417,12 @@
 <translation locale="en">Shu</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𓈙𓆄𓅱</dictentry>  
-<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q1195229">
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1195229">
 <transliteration transcription="spdw" code="M44-G43-G13">spdw</transliteration>
 <translation locale="en">Sopdu</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𓇮𓅱𓅏</dictentry>  
-<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q3409">
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q3409">
 <transliteration transcription="spdt" code="M44-X1-B1">spdt</transliteration>
 <translation locale="en">Sirius</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
@@ -537,12 +547,12 @@
 <translation locale="en">Upper Egypt</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𓇗</dictentry> 
-<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q287705">
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q287705">
 <transliteration transcription="nhb" code="M22-D58-O49">nhb</transliteration>
 <translation locale="en">El Kab</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𓇑𓃀𓊖</dictentry> 
-<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/wiki/Q145915">
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q145915">
 <transliteration transcription="nhbt" code="M22-D58-X1">nhbt</transliteration>
 <translation locale="en">Nekhbet</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
@@ -607,6 +617,12 @@
 <translation locale="en">Qis</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𓈎𓇋𓋴𓊖</dictentry> 
+<dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q417407">
+<transliteration transcription="3kr" code="G1-V31:D21" cunei="𓄿𓎡:𓂋">3kr</transliteration>
+<transliteration transcription="3kr" code="G1-V31:D21-E20" cunei="𓄿𓎡:𓂋-𓃩">3kr</transliteration>
+<translation locale="en">Aker</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𓄿𓎡:𓂋</dictentry> 
 <dictentry logogram="" determinative="true"  concept="https://www.wikidata.org/entity/Q1318187">
 <transliteration transcription="sS" code="Y3-A1">sS</transliteration>
 <translation locale="en">scribe</translation>

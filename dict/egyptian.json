@@ -57,6 +57,25 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756",
+            "translation": {
+                "locale": "en",
+                "content": "receive"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O42:Q3",
+                "transcription": "Ssp",
+                "content": "Ssp"
+            },
+            "content": "𓊏:𓊪"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904",
             "translation": {
                 "locale": "en",
@@ -1169,6 +1188,25 @@
         {
             "logogram": "",
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7391",
+            "translation": {
+                "locale": "en",
+                "content": "bee"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "L2-X1:Z1",
+                "transcription": "bit",
+                "content": "bit"
+            },
+            "content": "𓆤𓏏:𓏤"
+        },
+        {
+            "logogram": "",
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
@@ -1343,7 +1381,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q708492",
+            "concept": "https://www.wikidata.org/entity/Q708492",
             "translation": {
                 "locale": "en",
                 "content": "councillor"
@@ -1557,7 +1595,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1195229",
+            "concept": "https://www.wikidata.org/entity/Q1195229",
             "translation": {
                 "locale": "en",
                 "content": "Sopdu"
@@ -1576,7 +1614,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q3409",
+            "concept": "https://www.wikidata.org/entity/Q3409",
             "translation": {
                 "locale": "en",
                 "content": "Sirius"
@@ -2050,7 +2088,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q287705",
+            "concept": "https://www.wikidata.org/entity/Q287705",
             "translation": {
                 "locale": "en",
                 "content": "El Kab"
@@ -2069,7 +2107,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q145915",
+            "concept": "https://www.wikidata.org/entity/Q145915",
             "translation": {
                 "locale": "en",
                 "content": "Nekhbet"
@@ -2309,6 +2347,34 @@
                 "content": "qis"
             },
             "content": "𓈎𓇋𓋴𓊖"
+        },
+        {
+            "logogram": "",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q417407",
+            "translation": {
+                "locale": "en",
+                "content": "Aker"
+            },
+            "determinative": true,
+            "transliteration": [
+                {
+                    "code": "G1-V31:D21",
+                    "transcription": "3kr",
+                    "cunei": "𓄿𓎡:𓂋",
+                    "content": "3kr"
+                },
+                {
+                    "code": "G1-V31:D21-E20",
+                    "transcription": "3kr",
+                    "cunei": "𓄿𓎡:𓂋-𓃩",
+                    "content": "3kr"
+                }
+            ],
+            "content": "𓄿𓎡:𓂋"
         },
         {
             "logogram": "",
