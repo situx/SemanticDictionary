@@ -15,23 +15,23 @@ textarea.chinese {width: 410px; height: 200px; border: 5px solid #aaa; padding: 
   font-family: 'akkadian';
   font-style: italic;
   font-weight: normal; /* or 400 */
-  src: url('fonts/Akkadian.ttf');
+  src: url('../fonts/Akkadian.ttf');
 }
 @font-face {
   font-family: 'hittite';
   font-style: italic;
   font-weight: normal; /* or 400 */
-  src: url('fonts/Akkadian.ttf');
+  src: url('../fonts/Akkadian.ttf');
 }
 @font-face {
   font-family: 'sumerian';
   font-style: italic;
   font-weight: normal; /* or 400 */
-  src: url('fonts/Akkadian.ttf');
+  src: url('../fonts/Akkadian.ttf');
 }
 @font-face {
   font-family: 'egyptian';
   font-style: italic;
   font-weight: normal; /* or 400 */
-  src: url('fonts/Gardiner.ttf');
+  src: url('../fonts/Gardiner.ttf');
 }
