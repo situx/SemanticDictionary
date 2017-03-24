@@ -419,7 +419,7 @@ var akkadian={"dictentries": {
                 "transcription": "awil",
                 "content": "a-wi-l"
             },
-            "content": "𒀀 𒁀 𒁍"
+            "content": "𒀀𒁀𒁍"
         },
         {
             "logogram": "",
@@ -448,7 +448,7 @@ var akkadian={"dictentries": {
                 "transcription": "miszari",
                 "content": "mi-sza-r"
             },
-            "content": "𒈪 𒊭 𒊑"
+            "content": "𒈪𒊭𒊑"
         },
         {
             "logogram": "",
@@ -478,7 +478,7 @@ var akkadian={"dictentries": {
                 "transcription": "damq",
                 "content": "dam-q"
             },
-            "content": "𒁮 𒂵",
+            "content": "𒁮𒂵",
             "phonogram": false
         },
         {
@@ -509,7 +509,7 @@ var akkadian={"dictentries": {
                 "transcription": "szarr",
                 "content": "szar-r"
             },
-            "content": "𒈪 𒊭 𒊑",
+            "content": "𒈪𒊭𒊑",
             "phonogram": false
         },
         {
@@ -540,7 +540,7 @@ var akkadian={"dictentries": {
                 "transcription": "awit",
                 "content": "a-wi-t"
             },
-            "content": "𒀀 𒁀 𒁍",
+            "content": "𒀀𒁀𒁍",
             "phonogram": false
         },
         {
