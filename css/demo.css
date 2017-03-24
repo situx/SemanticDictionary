@@ -12,8 +12,26 @@ textarea.chinese {width: 410px; height: 200px; border: 5px solid #aaa; padding: 
 .footer .attribution a {color: white;}
 .footer .attribution img {width: 20px; margin: 0 10px; float: left; border: 2px solid white; box-shadow: 2px 2px 1px rgba(0,0,0,0.7); -moz-box-shadow: 2px 2px 1px rgba(0,0,0,0.7);}
 @font-face {
-  font-family: 'Akkadian';
+  font-family: 'akkadian';
   font-style: italic;
   font-weight: normal; /* or 400 */
   src: url('fonts/Akkadian.ttf');
+}
+@font-face {
+  font-family: 'hittite';
+  font-style: italic;
+  font-weight: normal; /* or 400 */
+  src: url('fonts/Akkadian.ttf');
+}
+@font-face {
+  font-family: 'sumerian';
+  font-style: italic;
+  font-weight: normal; /* or 400 */
+  src: url('fonts/Akkadian.ttf');
+}
+@font-face {
+  font-family: 'egyptian';
+  font-style: italic;
+  font-weight: normal; /* or 400 */
+  src: url('fonts/Gardiner.ttf');
 }

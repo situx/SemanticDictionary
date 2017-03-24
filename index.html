@@ -32,14 +32,14 @@ function isArray(what) {
     var posTagMap={}
     var strToMap={}
     var currentsearch="translationToObj";
-    function printNewPage(indicator){
+    function printNewPage(value){
         result=""//<thead><th>.</th><th>.</th><th>.</th><th>.</th></thead><tbody>";
         map={}
         keylist=[]
         map=translationToObj;
         for(obj in translationToObj){
                     result+="<tr>"
-                    result+="<td"+(map[obj]["transliteration"]!=undefined && map[obj]["transliteration"]["code"]!=undefined?" title=\""+map[obj]["transliteration"]["code"]+"\">":">")+map[obj]["content"]+"</td>"
+                    result+="<td style=\"font-family: '"+value+"', Arial, sans-serif;\""+(map[obj]["transliteration"]!=undefined && map[obj]["transliteration"]["code"]!=undefined?" title=\""+map[obj]["transliteration"]["code"]+"\">":">")+map[obj]["content"]+"</td>"
                     logogram=(map[obj]["transliteration"]!=undefined  && map[obj]["transliteration"]["logogram"]!=undefined && map[obj]["transliteration"]["logogram"]=="true");
                     if("transliteration" in map[obj] && isArray(map[obj]["transliteration"])){
                         result+="<td>"
@@ -153,7 +153,7 @@ function isArray(what) {
             }
             setupSearch();
         }); 
-        printNewPage(1)
+        printNewPage(value)
         
         }
     
