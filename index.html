@@ -16,6 +16,10 @@
     <script src="js/egyptian.js"></script>
     <script src="js/hittite.js"></script>
   <script src="js/sumerian.js"></script>
+      <script src="js/akkadian_map.js"></script>
+    <script src="js/egyptian_map.js"></script>
+    <script src="js/hittite_map.js"></script>
+  <script src="js/sumerian_map.js"></script>
   <style>dialog {  
     width: 500px;  
     background:#e8e8e8;
@@ -28,6 +32,7 @@ function isArray(what) {
     return Object.prototype.toString.call(what) === '[object Array]';
 }
     var resulttext=""
+    var togglecharlist=true;
     var translationToObj={}
     var posTagMap={}
     var strToMap={}
@@ -55,20 +60,20 @@ function isArray(what) {
                     result+="<td>"+(map[obj]["concept"]!=undefined?"<a href='"+map[obj]["concept"]+"' target='_blank' title='"+map[obj]["concept"]+"'>":"")
                     if(isArray(map[obj]["translation"])){
                         for(translit in map[obj]["translation"]){
-                                if("locale" in map[obj]["translation"][translit]){
+                                if("translation" in map[obj] && "locale" in map[obj]["translation"][translit]){
                                         result+=map[obj]["translation"][translit]["locale"]+":"+map[obj]["translation"][translit]["content"]+"; "
                                 }
-                                else{
+                                else if("translation" in map[obj]){
                                         result+=map[obj]["translation"][translit]["content"]+"; "
                                 }
                         }
                         result = result.substring(0, result.length - 2);
                     }else{
-                                if("locale" in map[obj]["translation"]){
+                                if("translation" in map[obj] && "locale" in map[obj]["translation"]){
                                         //result+=map[obj]["translation"]["locale"]+":"+map[obj]["translation"]["content"]
                                          result+=map[obj]["translation"]["content"]
                                 }
-                                else{
+                                else if("translation" in map[obj]){
                                         result+=map[obj]["translation"]["content"]
                                 }
                     }
@@ -91,7 +96,33 @@ function isArray(what) {
         postags+="</tr></table>"
         $('#postagview').html(postags)
     }
-    
+        function buildMap(value){
+                translationToObj={}
+                posTagMap={}
+                strToMap={}
+                 $('#inputenglish').val("")
+        $('#resultbody').html("").trigger('update', [true]);
+        $('#refjson').attr("href","map/"+value+".json")
+        $('#refxml').attr("href","map/"+value+".xml")
+        $('#reflemon').attr("href","map/"+value+".ttl")
+         jQuery.each(window[value]["mapentries"]["mapentry"], function() {
+        if(this["transliteration"]!=undefined){
+            if(isArray(this["transliteration"])){
+                resstr=""
+                for(item in this["transliteration"]){
+                        resstr+=this["transliteration"][item]["content"]+";"
+                }
+                translationToObj[resstr]=this
+                strToMap[resstr]=this
+            }else{
+                translationToObj[this["transliteration"]["content"]]=this
+                            strToMap[this["transliteration"]["content"]]=this
+            }
+            }
+        });            
+        setupSearch();
+            printNewPage(value)
+            }
             function buildDict(value){
         translationToObj={}
         posTagMap={}
@@ -151,8 +182,9 @@ function isArray(what) {
                     posTagMap[this["postag"]["content"]]=1                
                 }
             }
-            setupSearch();
+
         }); 
+                    setupSearch();
         printNewPage(value)
         
         }
@@ -191,7 +223,7 @@ function isArray(what) {
     <h3>About...</h3>  
     <table style="color:black" border="1"><tr><td>Author:</td><td><span id="author"></span></td></tr><tr><td>License:</td><td><span id="license"></span></td></tr><tr><td>Description:</td><td><span id="comment"></span></td></tr><tr><td>References:</td><td><span id="references"></span></td></tr></table>  
     <button id="exit">Close Dialog</button>  
-</dialog><span id="amount"></span><button id="show" style="color:black">About...</button></td></tr>
+</dialog><span id="amount"></span><button id="charlist" style="color:black">Charlist</button><button id="show" style="color:black">About...</button></td></tr>
   </table>
   <div style="overflow: auto;height: 78%; width: 100%;">
   <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"  id="result" class="tablesorter"><thead><tr>
@@ -206,6 +238,17 @@ function isArray(what) {
     var dialog = document.getElementById('window');  
     $('#show').click(function() {  
         dialog.showModal();  
+    }); 
+    $('#charlist').click(function() {  
+    if(togglecharlist){
+        buildMap($( "#dictselect" ).val()+"_map")
+        $('#charlist').text("DictList");
+        togglecharlist=false;
+        }else{
+            buildDict($( "#dictselect" ).val())
+            $('#charlist').text("CharList");
+            togglecharlist=true;
+        }
     });  
     $('#exit').click(function() {  
         dialog.close();  
