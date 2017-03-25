@@ -241,13 +241,14 @@ function isArray(what) {
     }); 
     $('#charlist').click(function() {  
     if(togglecharlist){
-        buildMap($( "#dictselect" ).val()+"_map")
         $('#charlist').text("DictList");
         togglecharlist=false;
+        buildMap($( "#dictselect" ).val()+"_map")
         }else{
-            buildDict($( "#dictselect" ).val())
             $('#charlist').text("CharList");
             togglecharlist=true;
+            buildDict($( "#dictselect" ).val())
+
         }
     });  
     $('#exit').click(function() {  
