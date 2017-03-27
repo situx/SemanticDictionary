@@ -58,6 +58,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "adda2"
+        },
+        "content": "𒇼"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "agarin4"
         },
         "content": "𒂼𒋆"
@@ -103,6 +110,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "al"
         },
         "content": "𒀠"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "alim"
+        },
+        "content": "𒄋"
     },
     {
         "transliteration": {
@@ -262,6 +276,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "transliteration": {
             "valid": true,
             "content": "bal"
+        },
+        "content": "𒁄"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "bala"
         },
         "content": "𒁄"
     },
@@ -576,6 +597,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "du8"
+        },
+        "content": "𒃮"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "dub"
         },
         "content": "𒁾"
@@ -758,6 +786,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "en3"
+        },
+        "content": "𒇷"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "endib"
         },
         "content": "𒂗𒈨𒈬"
@@ -842,6 +877,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "ga2"
+        },
+        "content": "𒂷"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "gab2"
         },
         "content": "𒆏"
@@ -859,6 +901,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "gal"
         },
         "content": "𒃲"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "gal2"
+        },
+        "content": "𒅅"
     },
     {
         "transliteration": {
@@ -1010,6 +1059,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "gir2"
+        },
+        "content": "𒄈"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "giri17"
         },
         "content": "𒅗"
@@ -1024,6 +1080,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "gisz2"
+        },
+        "content": "𒐕"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "gu"
         },
         "content": "𒄖"
@@ -1034,6 +1097,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "gu2"
         },
         "content": "𒄘"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "gu4"
+        },
+        "content": "𒄞"
     },
     {
         "transliteration": {
@@ -1265,6 +1335,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "i"
         },
         "content": "𒄿"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "i2"
+        },
+        "content": "𒐊"
     },
     {
         "transliteration": {
@@ -1563,6 +1640,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "kad5"
+        },
+        "content": "𒆓"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "kadra"
         },
         "content": "𒃻𒊮𒀀"
@@ -1601,6 +1685,20 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "kar"
         },
         "content": "𒋼𒀀"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "kar2"
+        },
+        "content": "𒃸"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "kar3"
+        },
+        "content": "𒃸"
     },
     {
         "transliteration": {
@@ -2186,6 +2284,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "nig2"
+        },
+        "content": "𒃻"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "nij2"
         },
         "content": "𒃻"
@@ -2245,6 +2350,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "nu"
         },
         "content": "𒉡"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "nu11"
+        },
+        "content": "𒉢"
     },
     {
         "transliteration": {
@@ -2494,6 +2606,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "sam2"
+        },
+        "content": "𒉚"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "sar"
         },
         "content": "𒊬"
@@ -2560,6 +2679,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "sikil"
         },
         "content": "𒂖"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "sila11"
+        },
+        "content": "𒋃"
     },
     {
         "transliteration": {
@@ -2760,6 +2886,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "sze3"
+        },
+        "content": "𒂠"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "szeg11"
         },
         "content": "𒅝"
@@ -2798,6 +2931,20 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "szesz2"
         },
         "content": "𒋁"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "szid"
+        },
+        "content": "𒋃"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "szilig"
+        },
+        "content": "𒍂"
     },
     {
         "transliteration": {
@@ -2861,6 +3008,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "tag"
         },
         "content": "𒋳"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "tag4"
+        },
+        "content": "𒋺"
     },
     {
         "transliteration": {
@@ -3131,6 +3285,13 @@ var sumerian_map={"mapentries": {"mapentry": [
     {
         "transliteration": {
             "valid": true,
+            "content": "ugu4"
+        },
+        "content": "𒆪"
+    },
+    {
+        "transliteration": {
+            "valid": true,
             "content": "uh"
         },
         "content": "𒄴"
@@ -3316,6 +3477,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "usz11"
         },
         "content": "𒅜"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "usz7"
+        },
+        "content": "𒅲"
     },
     {
         "transliteration": {
