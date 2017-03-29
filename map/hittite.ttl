@@ -1,0 +1,3763 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒌆_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒌆_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "sa"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆𒂟_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅆𒂟"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆𒂟_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SIG₅" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅆𒂟" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "i"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄿_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒀲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊩𒀲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒀲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EME₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊩𒀲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅇"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "U₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅇" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NUMUN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆰_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌦_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌦"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌦_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌦" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆸_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆸"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆸_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KIL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆸" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SIKI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ru"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊒_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "uš" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍑" .
+
+<http://purl.org/dc/terms/created>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḫal" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉌_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ni"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉌_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GAG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆕_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌋"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "u" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌋" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈪𒉭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GIG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈪𒉭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀯_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀯"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀯_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MUL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀯" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅗"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅗_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ka" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅗" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋙𒀭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋙𒀭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋙𒀭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EN₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋙𒀭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉿"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "wa" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉿" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "is" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄑" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋰"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TAB" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋰" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄴_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AḪ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄴_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌓_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ut"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌓_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂅_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂅"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂅_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TUN₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂅" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆥_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆥_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃮_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DU₈"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃮_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃶_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃶"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃶_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḪE₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃶" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀿"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀿_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AŠGAB" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀿" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LU₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈖_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄙_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄙_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋼_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋼"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋼_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "te" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋼" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍥_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZI₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍥_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊮_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠA₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊮_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "li"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "at"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀜_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅈"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ar" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅈" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "E₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋙_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠU₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋙_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BAR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁇_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋡"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋡_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SILA₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋡" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "mi" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊓_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊓_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄥_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄥_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁮_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DAM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁮_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḫi" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁶_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁶"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁶_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠITIM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁶" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌌_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌌"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌌_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ul" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌌" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂙_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BURU₁₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂙_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂡"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂡_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SIR₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂡" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌷"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌷_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "URU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌷" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄊_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GIRI₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄊_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁓_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁓_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MUŠ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "URUGAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃌_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃌"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃌_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GALGA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃌" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TUP"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁾_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇴_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇴"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇴_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LAM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇴" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌜"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UDUG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌜" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀸_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DILI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀸_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LUGAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GARIM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄢_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄢"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄢_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GUL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄢" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ak"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "zu"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅅_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ek"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅅_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂖"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂖" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BAR₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁈_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣𒇬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TUR₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣𒇬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈧_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MAŠ₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈧_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈯_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈯"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈯_word> ;
+        <http://lemon-model.net/lemon#representation>
+                ")?ZADIM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈯" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍏_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "URUDU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍏_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀊_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀊"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀊_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ap" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀊" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DUMU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌉_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NINDA₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉒_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ú₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌑" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "an"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋃_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SANGA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋃_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋋_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋋"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋋_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BAPPIR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋋" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "er"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅕_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂞_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ERIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂞_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂦_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂦"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂦_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BAD₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂦" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉽_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KUR₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉽_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍣_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍣"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍣_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "zi" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍣" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DUL₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌝"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "um" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌝" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅂_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅂"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅂_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "IDIM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅂" .
+
+<http://lemon-model.net/lemon#LemonReference>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋗"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋗_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋗" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃼_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃼"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃼_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GAR₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃼" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ma" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ri" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊑" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TAG₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋺_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀀𒇉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ID₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀀𒇉_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉋_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉋"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉋_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GIBIL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉋" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇽_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LÚ₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇽_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "si"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍤𒆸_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZUKUM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍤𒆸_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅎_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅎"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅎_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "im" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅎" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂗"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂗_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "n" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂗" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "la"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆷_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "pi"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁉_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄈"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UKUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄈" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "me"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋧_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋧"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋧_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋧" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁼_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁼"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁼_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SUḪUŠ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁼" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌒"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌒_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "up" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌒" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂟_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZALAG₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂟_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "U₈"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇇_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒈨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊩𒈨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒈨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LUKUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊩𒈨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄘_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄘"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄘_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GU₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄘" .
+
+<http://lemon-model.net/lemon#sense>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#LexicalSense> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZAG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍠_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "sal"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḪAŠ₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NUN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KUG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AŠ₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀾_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌉𒍑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌉𒍑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌉𒍑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "IBILA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌉𒍑" .
+
+<https://github.com/situx/ontology/cuneiform#Tablet>
+        a       owl:Class .
+
+<http://purl.org/dc/terms/title>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LUM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋜"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SI₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋜" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "a" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄠_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋𒂵_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌋𒂵"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋𒂵_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UTU₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌋𒂵" .
+
+<http://lemon-model.net/lemon#isFormOf>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TE₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉈_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃢_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃢"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃢_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SILA₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃢" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀫"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀫_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AMAR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀫" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅋_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "il"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅋_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌓𒅗𒁇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌓𒅗𒁇"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌓𒅗𒁇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZABAR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌓𒅗𒁇" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆍𒃲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆍𒃲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆍𒃲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ABUL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆍𒃲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁖"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "tak" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁖" .
+
+<http://lemon-model.net/lemon#LexicalForm>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍝"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "za" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍝" .
+
+<https://github.com/situx/ontology/cuneiform#dialect>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KAM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄰_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁹_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DIŠ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁹_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌗"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌗_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ITI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌗" .
+
+<http://lemon-model.net/lemon#entry>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀳_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "APIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀳_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍪𒀊_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ABZU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍪𒀊_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇌_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DILINA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇌_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍩_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍩"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍩_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZIZ₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍩" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇻_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇻"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇻_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "lu" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇻" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "al" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ya"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌣_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌣"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌣_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SIMUG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌣" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋝"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SIG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋝" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈦"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "par" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈦" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊏_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ra"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊏_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UG₇"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄩"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḫa" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄩" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "di" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌈"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "IB₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌈" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆬𒀭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆬𒀭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆬𒀭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AZAG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆬𒀭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "se"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊺_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SISKUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅔_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅔"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅔_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "in" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅔" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UR₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌫_form> .
+
+<https://github.com/situx/ontology/cuneiform/hit>
+        a           <http://lemon-model.net/lemon#Lexicon> ;
+        rdfs:label  "Hittite Semantic Dictionary"@hit ;
+        <http://lemon-model.net/lemon#entry>
+                <https://github.com/situx/ontology/cuneiform/word#𒍥_word> , <https://github.com/situx/ontology/cuneiform/word#𒄩_word> , <https://github.com/situx/ontology/cuneiform/word#𒆷_word> , <https://github.com/situx/ontology/cuneiform/word#𒆬𒀭_word> , <https://github.com/situx/ontology/cuneiform/word#𒇽_word> , <https://github.com/situx/ontology/cuneiform/word#𒂙_word> , <https://github.com/situx/ontology/cuneiform/word#𒁮_word> , <https://github.com/situx/ontology/cuneiform/word#𒅗_word> , <https://github.com/situx/ontology/cuneiform/word#𒈪_word> , <https://github.com/situx/ontology/cuneiform/word#𒃢_word> , <https://github.com/situx/ontology/cuneiform/word#𒁍_word> , <https://github.com/situx/ontology/cuneiform/word#𒀜_word> , <https://github.com/situx/ontology/cuneiform/word#𒉌_word> , <https://github.com/situx/ontology/cuneiform/word#𒀖_word> , <https://github.com/situx/ontology/cuneiform/word#𒌒_word> , <https://github.com/situx/ontology/cuneiform/word#𒌜_word> , <https://github.com/situx/ontology/cuneiform/word#𒄿_word> , <https://github.com/situx/ontology/cuneiform/word#𒆠_word> , <https://github.com/situx/ontology/cuneiform/word#𒁼_word> , <https://github.com/situx/ontology/cuneiform/word#𒋢_word> , <https://github.com/situx/ontology/cuneiform/word#𒍜_word> , <https://github.com/situx/ontology/cuneiform/word#𒊩𒈨_word> , <https://github.com/situx/ontology/cuneiform/word#𒉺_word> , <https://github.com/situx/ontology/cuneiform/word#𒋠_word> , <https://github.com/situx/ontology/cuneiform/word#𒉋_word> , <https://github.com/situx/ontology/cuneiform/word#𒅈_word> , <https://github.com/situx/ontology/cuneiform/word#𒈬_word> , <https://github.com/situx/ontology/cuneiform/word#𒊍_word> , <https://github.com/situx/ontology/cuneiform/word#𒄰_word> , <https://github.com/situx/ontology/cuneiform/word#𒍏_word> , <https://github.com/situx/ontology/cuneiform/word#𒆪_word> , <https://github.com/situx/ontology/cuneiform/word#𒋺_word> , <https://github.com/situx/ontology/cuneiform/word#𒅇_word> , <https://github.com/situx/ontology/cuneiform/word#𒌷_word> , <https://github.com/situx/ontology/cuneiform/word#𒁕_word> , <https://github.com/situx/ontology/cuneiform/word#𒀸𒀸_word> , <https://github.com/situx/ontology/cuneiform/word#𒅕_word> , <https://github.com/situx/ontology/cuneiform/word#𒁲_word> , <https://github.com/situx/ontology/cuneiform/word#𒉡_word> , <https://github.com/situx/ontology/cuneiform/word#𒊬_word> , <https://github.com/situx/ontology/cuneiform/word#𒉽𒊺𒉽_word> , <https://github.com/situx/ontology/cuneiform/word#𒈮_word> , <https://github.com/situx/ontology/cuneiform/word#𒁇_word> , <https://github.com/situx/ontology/cuneiform/word#𒊩𒀲_word> , <https://github.com/situx/ontology/cuneiform/word#𒁄_word> , <https://github.com/situx/ontology/cuneiform/word#𒍩_word> , <https://github.com/situx/ontology/cuneiform/word#𒆍𒃲_word> , <https://github.com/situx/ontology/cuneiform/word#𒇑_word> , <https://github.com/situx/ontology/cuneiform/word#𒉽_word> , <https://github.com/situx/ontology/cuneiform/word#𒋜_word> , <https://github.com/situx/ontology/cuneiform/word#𒂦_word> , <https://github.com/situx/ontology/cuneiform/word#𒇌_word> , <https://github.com/situx/ontology/cuneiform/word#𒍝_word> , <https://github.com/situx/ontology/cuneiform/word#𒇲_word> , <https://github.com/situx/ontology/cuneiform/word#𒄖_word> , <https://github.com/situx/ontology/cuneiform/word#𒌋𒈬_word> , <https://github.com/situx/ontology/cuneiform/word#𒆬_word> , <https://github.com/situx/ontology/cuneiform/word#𒀊_word> , <https://github.com/situx/ontology/cuneiform/word#𒂞_word> , <https://github.com/situx/ontology/cuneiform/word#𒇻_word> , <https://github.com/situx/ontology/cuneiform/word#𒄀_word> , <https://github.com/situx/ontology/cuneiform/word#𒂊_word> , <https://github.com/situx/ontology/cuneiform/word#𒊭_word> , <https://github.com/situx/ontology/cuneiform/word#𒀁_word> , <https://github.com/situx/ontology/cuneiform/word#𒀾_word> , <https://github.com/situx/ontology/cuneiform/word#𒂵_word> , <https://github.com/situx/ontology/cuneiform/word#𒀳_word> , <https://github.com/situx/ontology/cuneiform/word#𒇥_word> , <https://github.com/situx/ontology/cuneiform/word#𒀭_word> , <https://github.com/situx/ontology/cuneiform/word#𒉎_word> , <https://github.com/situx/ontology/cuneiform/word#𒁖_word> , <https://github.com/situx/ontology/cuneiform/word#𒈝_word> , <https://github.com/situx/ontology/cuneiform/word#𒄷_word> , <https://github.com/situx/ontology/cuneiform/word#𒅆_word> , <https://github.com/situx/ontology/cuneiform/word#𒄯_word> , <https://github.com/situx/ontology/cuneiform/word#𒅋_word> , <https://github.com/situx/ontology/cuneiform/word#𒌉𒍑_word> , <https://github.com/situx/ontology/cuneiform/word#𒄊_word> , <https://github.com/situx/ontology/cuneiform/word#𒅁_word> , <https://github.com/situx/ontology/cuneiform/word#𒍑_word> , <https://github.com/situx/ontology/cuneiform/word#𒊺_word> , <https://github.com/situx/ontology/cuneiform/word#𒄢_word> , <https://github.com/situx/ontology/cuneiform/word#𒉣_word> , <https://github.com/situx/ontology/cuneiform/word#𒊨_word> , <https://github.com/situx/ontology/cuneiform/word#𒋝_word> , <https://github.com/situx/ontology/cuneiform/word#𒃻_word> , <https://github.com/situx/ontology/cuneiform/word#𒅔_word> , <https://github.com/situx/ontology/cuneiform/word#𒀸_word> , <https://github.com/situx/ontology/cuneiform/word#𒌗_word> , <https://github.com/situx/ontology/cuneiform/word#𒇴_word> , <https://github.com/situx/ontology/cuneiform/word#𒌀_word> , <https://github.com/situx/ontology/cuneiform/word#𒄴_word> , <https://github.com/situx/ontology/cuneiform/word#𒊏_word> , <https://github.com/situx/ontology/cuneiform/word#𒉆_word> , <https://github.com/situx/ontology/cuneiform/word#𒋰_word> , <https://github.com/situx/ontology/cuneiform/word#𒄙_word> , <https://github.com/situx/ontology/cuneiform/word#𒍪_word> , <https://github.com/situx/ontology/cuneiform/word#𒋙_word> , <https://github.com/situx/ontology/cuneiform/word#𒅴_word> , <https://github.com/situx/ontology/cuneiform/word#𒍠_word> , <https://github.com/situx/ontology/cuneiform/word#𒉄_word> , <https://github.com/situx/ontology/cuneiform/word#𒄞_word> , <https://github.com/situx/ontology/cuneiform/word#𒀝_word> , <https://github.com/situx/ontology/cuneiform/word#𒄈_word> , <https://github.com/situx/ontology/cuneiform/word#𒌈_word> , <https://github.com/situx/ontology/cuneiform/word#𒊩_word> , <https://github.com/situx/ontology/cuneiform/word#𒄄_word> , <https://github.com/situx/ontology/cuneiform/word#𒋻_word> , <https://github.com/situx/ontology/cuneiform/word#𒇷_word> , <https://github.com/situx/ontology/cuneiform/word#𒉿_word> , <https://github.com/situx/ontology/cuneiform/word#𒉪_word> , <https://github.com/situx/ontology/cuneiform/word#𒀀_word> , <https://github.com/situx/ontology/cuneiform/word#𒋗_word> , <https://github.com/situx/ontology/cuneiform/word#𒌝_word> , <https://github.com/situx/ontology/cuneiform/word#𒋙𒀭_word> , <https://github.com/situx/ontology/cuneiform/word#𒂗_word> , <https://github.com/situx/ontology/cuneiform/word#𒂡_word> , <https://github.com/situx/ontology/cuneiform/word#𒄬_word> , <https://github.com/situx/ontology/cuneiform/word#𒁜_word> , <https://github.com/situx/ontology/cuneiform/word#𒀫_word> , <https://github.com/situx/ontology/cuneiform/word#𒆥_word> , <https://github.com/situx/ontology/cuneiform/word#𒈦_word> , <https://github.com/situx/ontology/cuneiform/word#𒄘_word> , <https://github.com/situx/ontology/cuneiform/word#𒂅_word> , <https://github.com/situx/ontology/cuneiform/word#𒁺_word> , <https://github.com/situx/ontology/cuneiform/word#𒄑_word> , <https://github.com/situx/ontology/cuneiform/word#𒈲_word> , <https://github.com/situx/ontology/cuneiform/word#𒉣𒇬_word> , <https://github.com/situx/ontology/cuneiform/word#𒌦_word> , <https://github.com/situx/ontology/cuneiform/word#𒋼_word> , <https://github.com/situx/ontology/cuneiform/word#𒀞_word> , <https://github.com/situx/ontology/cuneiform/word#𒋚_word> , <https://github.com/situx/ontology/cuneiform/word#𒁈_word> , <https://github.com/situx/ontology/cuneiform/word#𒋀_word> , <https://github.com/situx/ontology/cuneiform/word#𒉈_word> , <https://github.com/situx/ontology/cuneiform/word#𒈠_word> , <https://github.com/situx/ontology/cuneiform/word#𒀖𒆪_word> , <https://github.com/situx/ontology/cuneiform/word#𒌋_word> , <https://github.com/situx/ontology/cuneiform/word#𒁾_word> , <https://github.com/situx/ontology/cuneiform/word#𒁶_word> , <https://github.com/situx/ontology/cuneiform/word#𒈫_word> , <https://github.com/situx/ontology/cuneiform/word#𒀿_word> , <https://github.com/situx/ontology/cuneiform/word#𒀠_word> , <https://github.com/situx/ontology/cuneiform/word#𒈗_word> , <https://github.com/situx/ontology/cuneiform/word#𒈾_word> , <https://github.com/situx/ontology/cuneiform/word#𒋡_word> , <https://github.com/situx/ontology/cuneiform/word#𒂖_word> , <https://github.com/situx/ontology/cuneiform/word#𒀍_word> , <https://github.com/situx/ontology/cuneiform/word#𒌫_word> , <https://github.com/situx/ontology/cuneiform/word#𒃌_word> , <https://github.com/situx/ontology/cuneiform/word#𒁯_word> , <https://github.com/situx/ontology/cuneiform/word#𒌍_word> , <https://github.com/situx/ontology/cuneiform/word#𒋧_word> , <https://github.com/situx/ontology/cuneiform/word#𒈧_word> , <https://github.com/situx/ontology/cuneiform/word#𒋫_word> , <https://github.com/situx/ontology/cuneiform/word#𒉒_word> , <https://github.com/situx/ontology/cuneiform/word#𒅀_word> , <https://github.com/situx/ontology/cuneiform/word#𒈯_word> , <https://github.com/situx/ontology/cuneiform/word#𒃲_word> , <https://github.com/situx/ontology/cuneiform/word#𒄧_word> , <https://github.com/situx/ontology/cuneiform/word#𒂍_word> , <https://github.com/situx/ontology/cuneiform/word#𒌓𒅗𒁇_word> , <https://github.com/situx/ontology/cuneiform/word#𒂍𒆳𒁁_word> , <https://github.com/situx/ontology/cuneiform/word#𒋳_word> , <https://github.com/situx/ontology/cuneiform/word#𒃡_word> , <https://github.com/situx/ontology/cuneiform/word#𒆳_word> , <https://github.com/situx/ontology/cuneiform/word#𒊩𒌆_word> , <https://github.com/situx/ontology/cuneiform/word#𒆸_word> , <https://github.com/situx/ontology/cuneiform/word#𒌣_word> , <https://github.com/situx/ontology/cuneiform/word#𒈪𒉭_word> , <https://github.com/situx/ontology/cuneiform/word#𒈨_word> , <https://github.com/situx/ontology/cuneiform/word#𒌨_word> , <https://github.com/situx/ontology/cuneiform/word#𒂇_word> , <https://github.com/situx/ontology/cuneiform/word#𒈤_word> , <https://github.com/situx/ontology/cuneiform/word#𒈨𒌍_word> , <https://github.com/situx/ontology/cuneiform/word#𒋃_word> , <https://github.com/situx/ontology/cuneiform/word#𒇇_word> , <https://github.com/situx/ontology/cuneiform/word#𒄴𒈨_word> , <https://github.com/situx/ontology/cuneiform/word#𒁀_word> , <https://github.com/situx/ontology/cuneiform/word#𒌑_word> , <https://github.com/situx/ontology/cuneiform/word#𒀉_word> , <https://github.com/situx/ontology/cuneiform/word#𒁓_word> , <https://github.com/situx/ontology/cuneiform/word#𒆕_word> , <https://github.com/situx/ontology/cuneiform/word#𒀩_word> , <https://github.com/situx/ontology/cuneiform/word#𒊮_word> , <https://github.com/situx/ontology/cuneiform/word#𒅆𒌨_word> , <https://github.com/situx/ontology/cuneiform/word#𒀬_word> , <https://github.com/situx/ontology/cuneiform/word#𒅎_word> , <https://github.com/situx/ontology/cuneiform/word#𒄭_word> , <https://github.com/situx/ontology/cuneiform/word#𒌋𒂵_word> , <https://github.com/situx/ontology/cuneiform/word#𒃰_word> , <https://github.com/situx/ontology/cuneiform/word#𒊓_word> , <https://github.com/situx/ontology/cuneiform/word#𒃶_word> , <https://github.com/situx/ontology/cuneiform/word#𒋾_word> , <https://github.com/situx/ontology/cuneiform/word#𒀯_word> , <https://github.com/situx/ontology/cuneiform/word#𒋋_word> , <https://github.com/situx/ontology/cuneiform/word#𒊕_word> , <https://github.com/situx/ontology/cuneiform/word#𒃮_word> , <https://github.com/situx/ontology/cuneiform/word#𒁁_word> , <https://github.com/situx/ontology/cuneiform/word#𒀪_word> , <https://github.com/situx/ontology/cuneiform/word#𒌌_word> , <https://github.com/situx/ontology/cuneiform/word#𒅂_word> , <https://github.com/situx/ontology/cuneiform/word#𒋛_word> , <https://github.com/situx/ontology/cuneiform/word#𒍣_word> , <https://github.com/situx/ontology/cuneiform/word#𒉣𒈨_word> , <https://github.com/situx/ontology/cuneiform/word#𒁉_word> , <https://github.com/situx/ontology/cuneiform/word#𒂟_word> , <https://github.com/situx/ontology/cuneiform/word#𒊑_word> , <https://github.com/situx/ontology/cuneiform/word#𒈖_word> , <https://github.com/situx/ontology/cuneiform/word#𒋭_word> , <https://github.com/situx/ontology/cuneiform/word#𒀴_word> , <https://github.com/situx/ontology/cuneiform/word#𒀀𒇉_word> , <https://github.com/situx/ontology/cuneiform/word#𒍪𒀊_word> , <https://github.com/situx/ontology/cuneiform/word#𒃼_word> , <https://github.com/situx/ontology/cuneiform/word#𒁹_word> , <https://github.com/situx/ontology/cuneiform/word#𒊒_word> , <https://github.com/situx/ontology/cuneiform/word#𒆰_word> , <https://github.com/situx/ontology/cuneiform/word#𒍨_word> , <https://github.com/situx/ontology/cuneiform/word#𒌉_word> , <https://github.com/situx/ontology/cuneiform/word#𒄥_word> , <https://github.com/situx/ontology/cuneiform/word#𒅅_word> , <https://github.com/situx/ontology/cuneiform/word#𒅆𒂟_word> , <https://github.com/situx/ontology/cuneiform/word#𒌓_word> , <https://github.com/situx/ontology/cuneiform/word#𒁷_word> , <https://github.com/situx/ontology/cuneiform/word#𒀲_word> , <https://github.com/situx/ontology/cuneiform/word#𒄠_word> , <https://github.com/situx/ontology/cuneiform/word#𒍤𒆸_word> , <https://github.com/situx/ontology/cuneiform/word#𒇳𒁺_word> ;
+        <http://lemon-model.net/lemon#language>
+                "hit" ;
+        <http://purl.org/dc/terms/created>
+                "Wed Mar 29 15:16:29 CEST 2017"^^xsd:dateTime ;
+        <http://purl.org/dc/terms/title>
+                "Hittite Semantic Dictionary"^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#description>
+                ""^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+                <https://www.wikidata.org/wiki/Q10513445> ;
+        <http://www.linkedmodel.org/schema/vaem#owner>
+                "Timo Homburg"^^xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀖𒆪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀖𒆪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀖𒆪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UTUL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀖𒆪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈮_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MUK"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈮_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LAL₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "it"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀉_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋𒈬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UDUN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋𒈬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉽𒊺𒉽_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉽𒊺𒉽"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉽𒊺𒉽_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MUNU₅" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉽𒊺𒉽" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "du"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁺_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉡"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "nu" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉡" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀴_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NITA₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀴_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ku" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄖_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄞_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄞"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄞_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GU₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄞" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "na"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈾_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉆_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉆"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉆_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NAM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉆" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ep"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅁_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂊_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "e"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂊_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ur" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄴𒈨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄴𒈨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄴𒈨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GUDU₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄴𒈨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃻_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NINDA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃻_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈨𒌍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈨𒌍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈨𒌍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MEŠ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈨𒌍" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁄_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁄_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋚_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠAḪ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋚_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋢_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋢"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋢_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "su" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋢" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂵_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ga"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂵_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈫"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈫_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈫" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅴_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅴"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅴_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EME" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅴" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁯_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GUN₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁯_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇥_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇥"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇥_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TUL₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇥" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁷"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁷_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁷" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉎_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NI₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉎_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "es" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌍" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀸𒀸_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DIDLI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀸𒀸_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀩_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ALAN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀩_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁜"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UBUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁜" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀖"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AB₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀖" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆𒌨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅆𒌨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆𒌨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḪUL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅆𒌨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "sar" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂇"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AGA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂇" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GAD"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃰_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁁"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁁_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "pit" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁁" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "az" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊍" .
+
+<http://lemon-model.net/lemon#isSenseOf>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋾"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋾_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ti" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋾" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂍𒆳𒁁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂍𒆳𒁁"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂍𒆳𒁁_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ARALI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂍𒆳𒁁" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀞_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ME₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀞_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NIR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆳_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KUR("@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆳_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃼_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GAR₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃼_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋛_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠE"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋛_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄄_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄄"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄄_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GI₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄄" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁍" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈤_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MAḪ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈤_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈬" .
+
+<http://purl.org/olia/ubyCat.owl#has_partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "sak"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊕_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄧_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GURUN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄧_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄯_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄯"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄯_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḫar" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄯" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UR₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃡_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "uḫ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ki" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠEŠ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ANŠZE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "pa"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉺_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇳𒁺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇳𒁺"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇳𒁺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UKU₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇳𒁺" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "da"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁕_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ta"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋫_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋳_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋳"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋳_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋳" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UZU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍜_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒌆_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊩𒌆"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒌆_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊩𒌆" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫu"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "sa" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄿"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄿_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "i" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄿" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣𒈨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ABGAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣𒈨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆰"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NUMUN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆰" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊒"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊒_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ru" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊒" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋻_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "tar"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋻_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉄_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NAGAR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉄_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉌_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉌"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉌_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ni" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉌" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆕"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆕_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GAG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆕" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆𒂟_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SIG₅"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆𒂟_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒀲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EME₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒀲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈪𒉭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈪𒉭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈪𒉭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GIG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈪𒉭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "U₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅇_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌦_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌦_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆸_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "KIL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆸_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SIKI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋠_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "uš"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫal"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄬_form> .
+
+<https://github.com/situx/ontology/cuneiform#contains>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#Word> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄴_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄴"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄴_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AḪ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄴" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "u"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌓_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌓"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌓_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ut" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌓" .
+
+<http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀯_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MUL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀯_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆥_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆥"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆥_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆥" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃮_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃮"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃮_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DU₈" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃮" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋙𒀭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EN₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋙𒀭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ka"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈖"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LU₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈖" .
+
+<http://lemon-model.net/lemon#LexicalSense>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "wa"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "is"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄙_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄙"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄙_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄙" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TAB"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋰_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "za"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍥_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍥"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍥_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZI₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍥" .
+
+<http://lemon-model.net/lemon#language>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀜"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "at" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀜" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ITI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂅_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TUN₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂅_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "E₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂍" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃶_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḪE₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃶_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AŠGAB"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀿_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋙_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋙"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋙_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠU₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋙" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁇"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BAR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁇" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊓_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊓"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊓_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊓" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄥_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄥"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄥_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄥" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀁"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀁_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EDURU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀁" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋼_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "te"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋼_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ar"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅈_form> .
+
+<https://github.com/situx/ontology/cuneiform#tabletnumber>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂙_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂙"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂙_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BURU₁₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂙" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SILA₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋡_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄊_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄊"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄊_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GIRI₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄊" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁓_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁓"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁓_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BUR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁓" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "mi"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MUŠ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀍"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀍_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "URUGAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀍" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫi"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁶_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠITIM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁶_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌌_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ul"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌌_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁾"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁾_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TUP" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁾" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀸_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀸"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀸_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DILI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀸" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SIR₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂡_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈗"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈗_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LUGAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈗" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "URU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌷_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇑"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GARIM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇑" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃌_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GALGA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃌_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀝"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ak" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀝" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇴_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LAM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇴_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "zu" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅅_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅅"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅅_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ek" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅅" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UDUG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌜_form> .
+
+<https://github.com/situx/ontology/cuneiform#isIncludedIn>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁈"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BAR₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁈" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈧_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈧"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈧_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MAŠ₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈧" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍏_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍏"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍏_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "URUDU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍏" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄢_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GUL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄢_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌉"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DUMU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌉" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉒"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉒_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NINDA₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉒" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀭"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "an" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀭" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈨𒌍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MEŠ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈨𒌍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋃_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋃"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋃_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SANGA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋃" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂖_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅕"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅕_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "er" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅕" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂞_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂞"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂞_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ERIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂞" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉽_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉽"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉽_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KUR₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉽" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈯_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  ")?ZADIM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈯_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀊_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ap"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀊_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DUL₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ú₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋋_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BAPPIR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋋_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂦_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BAD₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂦_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋺"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TAG₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋺" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍣_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "zi"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍣_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀀𒇉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀀𒇉"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀀𒇉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ID₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀀𒇉" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "sar"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇽_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇽"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇽_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LÚ₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇽" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍤𒆸_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍤𒆸"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍤𒆸_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZUKUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍤𒆸" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "um"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅂_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "IDIM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅂_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆷"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆷_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "la" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆷" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ma"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈠_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "me" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈨" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ri"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉋_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GIBIL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉋_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅎_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "im"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅎_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "n"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂟_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂟"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂟_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZALAG₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂟" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UKUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄈_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇇"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "U₈" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇇" .
+
+<http://www.linkedmodel.org/schema/vaem#description>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋧_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SUM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋧_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ZAG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊩"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "sal" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊩" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁼_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SUḪUŠ"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁼_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇲_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇲"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇲_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇲" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "up"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌒_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉣"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NUN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉣" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KUG" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀾"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀾_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AŠ₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀾" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈝"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈝" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊩𒈨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LUKUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊩𒈨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄘_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GU₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄘_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄠"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄠" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉈"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TE₄" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉈" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḪAŠ₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅋_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅋"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅋_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "il" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅋" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌉𒍑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "IBILA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌉𒍑_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SI₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋜_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "a"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀀_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋𒂵_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UTU₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋𒂵_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄰"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KAM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄰" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁹_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁹"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁹_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DIŠ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁹" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃢_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SILA₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃢_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AMAR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀫_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀳_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀳"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀳_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "APIN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀳" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍪𒀊_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍪𒀊"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍪𒀊_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ABZU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍪𒀊" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌓𒅗𒁇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZABAR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌓𒅗𒁇_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆍𒃲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ABUL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆍𒃲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "tak"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁖_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇌_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇌"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇌_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DILINA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇌" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊮_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊮"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊮_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠA₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊮" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇷"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "li" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇷" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ya" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GAL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒃲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊏_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊏"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊏_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ra" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊏" .
+
+<http://lemon-model.net/lemon#Lexicon>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UG₇" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁮_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁮"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁮_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DAM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁮" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍩_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ZIZ₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒍩_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊺"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "se" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊺" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇻_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "lu"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇻_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "al"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀠_form> .
+
+<http://lemon-model.net/lemon#Word>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌣_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SIMUG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌣_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌫"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌫_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UR₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌫" .
+
+<http://www.linkedmodel.org/schema/vaem#owner>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SIG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "par"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EDURU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀁_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈮_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈮"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈮_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MUK" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈮" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀉"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "it" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀉" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋𒈬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌋𒈬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋𒈬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UDUN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌋𒈬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫa"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "di"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "IB₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌈_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁺"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "du" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁺" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆬𒀭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AZAG"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆬𒀭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SISKUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀴_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀴"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀴_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NITA₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀴" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅔_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "in"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅔_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀖𒆪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UTUL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀖𒆪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄖"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄖" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LAL₃"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋭_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈾"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈾_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "na" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈾" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉽𒊺𒉽_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MUNU₅"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉽𒊺𒉽_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅁"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅁_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ep" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅁" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂊_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂊"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂊_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "e" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂊" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "nu"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ku"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃻_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃻"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃻_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NINDA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃻" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁄_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁄"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁄_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁄" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋚_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋚"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋚_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠAḪ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋚" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣𒇬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉣𒇬"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣𒇬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TUR₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉣𒇬" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂵_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒂵"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒂵_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ga" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒂵" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄞_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GU₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄞_form> .
+
+<https://github.com/situx/ontology/cuneiform#language>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<http://lemon-model.net/lemon#writtenRep>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁯_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁯"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁯_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GUN₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁯" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉆_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NAM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉆_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉎_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉎"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉎_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NI₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉎" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀸𒀸_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀸𒀸"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀸𒀸_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DIDLI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀸𒀸" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀩_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀩"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀩_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ALAN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀩" .
+
+<https://github.com/situx/ontology/cuneiform#epoch>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <http://lemon-model.net/lemon#Word> , <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <https://github.com/situx/ontology/cuneiform#Tablet> , xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄴𒈨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GUDU₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄴𒈨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ur"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋢_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "su"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋢_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈫_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅴_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EME"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅴_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇥_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TUL₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇥_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TIN"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁷_form> .
+
+<http://lemon-model.net/lemon#representation>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "es"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃰"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GAD" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃰" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UBUR"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁜_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AB₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀖_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆𒌨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḪUL"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆𒌨_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀞_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀞"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀞_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ME₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀞" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AGA"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂇_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NIR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅆_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅆"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅆_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "si" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅆" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆳_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆳"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆳_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "KUR(" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆳" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "pit"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁁_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋛_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋛"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋛_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋛" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈤_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈤"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈤_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MAḪ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈤" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁉"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "pi" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁉" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "az"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊕"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊕_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "sak" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊕" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄧_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄧"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄧_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "GURUN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄧" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ti"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋾_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒂍𒆳𒁁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ARALI"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒂍𒆳𒁁_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒃡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒃡"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒃡_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UR₃" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒃡" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀪"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀪_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "uḫ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀪" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋀"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ŠEŠ" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉺"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "pa" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉺" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄄_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "GI₄"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄄_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁍_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁕"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁕_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "da" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁕" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MU"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈬_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋫"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋫_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ta" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋫" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒍜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒍜"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒍜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "UZU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒍜" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄯_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫar"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄯_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄷"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḫu" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄷" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ki"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀲_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ANŠZE"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀲_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉣𒈨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉣𒈨"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉣𒈨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ABGAL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉣𒈨" .
+
+<http://lemon-model.net/lemon#form>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇳𒁺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "UKU₂"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇳𒁺_form> .
+
+<http://lemon-model.net/lemon#reference>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋳_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ŠUM"@hit ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋳_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋻_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋻"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋻_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "tar" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋻" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉄_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉄"@hit ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉄_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NAGAR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉄" .

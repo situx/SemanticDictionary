@@ -1,0 +1,6317 @@
+{"mapentries": {"mapentry": [
+    {
+        "MesZL": 839,
+        "HethZL": "364; 365",
+        "LHA": 579,
+        "got": "a3",
+        "aBZL": 470,
+        "transliteration": {
+            "valid": true,
+            "content": "a"
+        },
+        "content": "𒀀"
+    },
+    {
+        "MesZL": 560,
+        "HethZL": 215,
+        "LHA": 334,
+        "got": "a2b8c7",
+        "aBZL": 230,
+        "transliteration": {
+            "valid": true,
+            "content": "a2"
+        },
+        "content": "𒀉"
+    },
+    {
+        "MesZL": 118,
+        "HethZL": 37,
+        "LHA": 73,
+        "got": "a1b2c2",
+        "aBZL": 23,
+        "transliteration": {
+            "valid": true,
+            "content": "a3"
+        },
+        "content": "𒋾"
+    },
+    {
+        "MesZL": 223,
+        "HethZL": 97,
+        "LHA": 128,
+        "got": "a1b2c1d1",
+        "aBZL": 125,
+        "transliteration": {
+            "valid": true,
+            "content": "ab"
+        },
+        "content": "𒀊"
+    },
+    {
+        "MesZL": 672,
+        "HethZL": 277,
+        "LHA": 420,
+        "got": "c2d1",
+        "aBZL": 352,
+        "transliteration": {
+            "valid": true,
+            "content": "ab2"
+        },
+        "content": "𒀖"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "abgal"
+        },
+        "content": "𒉣𒈨"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "abrig"
+        },
+        "content": "𒉣𒈨𒁺"
+    },
+    {
+        "MesZL": 258,
+        "HethZL": 105,
+        "LHA": 145,
+        "got": "a3b4c1d1",
+        "aBZL": 132,
+        "transliteration": {
+            "valid": true,
+            "content": "ad"
+        },
+        "content": "𒀜"
+    },
+    {
+        "MesZL": 814,
+        "HethZL": "",
+        "LHA": "537_65c; 537x",
+        "got": "a3b4c1d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "adda2"
+        },
+        "content": "𒇼"
+    },
+    {
+        "MesZL": 326,
+        "HethZL": 121,
+        "LHA": 183,
+        "got": "a1b8c6",
+        "aBZL": 136,
+        "transliteration": {
+            "valid": true,
+            "content": "ag2"
+        },
+        "content": "𒉘"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "agarin4"
+        },
+        "content": "𒂼𒋆"
+    },
+    {
+        "MesZL": 636,
+        "HethZL": 332,
+        "LHA": 398,
+        "got": "a5b1c2d2",
+        "aBZL": 280,
+        "transliteration": {
+            "valid": true,
+            "content": "ah"
+        },
+        "content": "𒄴"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a5b5c6d5",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ajar5"
+        },
+        "content": "𒅐"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ajrig"
+        },
+        "content": "𒅆𒁾"
+    },
+    {
+        "MesZL": 127,
+        "HethZL": 81,
+        "LHA": 97,
+        "got": "a1b10",
+        "aBZL": 52,
+        "transliteration": {
+            "valid": true,
+            "content": "ak"
+        },
+        "content": "𒀝"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "akkil"
+        },
+        "content": "𒃰𒋺𒋛"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "al"
+        },
+        "content": "𒀠"
+    },
+    {
+        "MesZL": 703,
+        "HethZL": 303,
+        "LHA": 421,
+        "got": "a6b7c3d3",
+        "aBZL": 295,
+        "transliteration": {
+            "valid": true,
+            "content": "alim"
+        },
+        "content": "𒄋"
+    },
+    {
+        "MesZL": 893,
+        "HethZL": 308,
+        "LHA": 560,
+        "got": "a3b1c2d1",
+        "aBZL": 449,
+        "transliteration": {
+            "valid": true,
+            "content": "alla"
+        },
+        "content": "𒉄"
+    },
+    {
+        "MesZL": 309,
+        "HethZL": 168,
+        "LHA": 170,
+        "got": "a1b2c4d1",
+        "aBZL": 119,
+        "transliteration": {
+            "valid": true,
+            "content": "am"
+        },
+        "content": "𒄠"
+    },
+    {
+        "MesZL": 392,
+        "HethZL": 57,
+        "LHA": 237,
+        "got": "a4b3c1d1",
+        "aBZL": 94,
+        "transliteration": {
+            "valid": true,
+            "content": "ama"
+        },
+        "content": "𒂼"
+    },
+    {
+        "MesZL": 695,
+        "HethZL": 155,
+        "LHA": 437,
+        "got": "b2c4",
+        "aBZL": 367,
+        "transliteration": {
+            "valid": true,
+            "content": "amar"
+        },
+        "content": "𒀫"
+    },
+    {
+        "MesZL": 460,
+        "HethZL": "",
+        "LHA": 293,
+        "got": "a8b9c5d4",
+        "aBZL": 174,
+        "transliteration": {
+            "valid": true,
+            "content": "amasz"
+        },
+        "content": "𒁦"
+    },
+    {
+        "MesZL": 795,
+        "HethZL": 182,
+        "LHA": 522,
+        "got": "a5b2",
+        "aBZL": 414,
+        "transliteration": {
+            "valid": true,
+            "content": "ambar"
+        },
+        "content": "𒆹"
+    },
+    {
+        "MesZL": 10,
+        "HethZL": 8,
+        "LHA": 13,
+        "got": "a1b1c1d1",
+        "aBZL": 9,
+        "transliteration": {
+            "valid": true,
+            "content": "an"
+        },
+        "content": "𒀭"
+    },
+    {
+        "MesZL": 353,
+        "HethZL": 302,
+        "LHA": 208,
+        "got": "a2b7c6d4",
+        "aBZL": 292,
+        "transliteration": {
+            "valid": true,
+            "content": "ansze"
+        },
+        "content": "𒀲"
+    },
+    {
+        "MesZL": 223,
+        "HethZL": 97,
+        "LHA": 128,
+        "got": "a1b2c1d1",
+        "aBZL": 125,
+        "transliteration": {
+            "valid": true,
+            "content": "ap"
+        },
+        "content": "𒀊"
+    },
+    {
+        "MesZL": 726,
+        "HethZL": 289,
+        "LHA": 451,
+        "got": "a4b2c2",
+        "aBZL": 234,
+        "transliteration": {
+            "valid": true,
+            "content": "ar"
+        },
+        "content": "𒅈"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "LHA": 401,
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "ar3"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": 18,
+        "HethZL": 16,
+        "LHA": 50,
+        "got": "a3b1c2d1",
+        "aBZL": 16,
+        "transliteration": {
+            "valid": true,
+            "content": "arad"
+        },
+        "content": "𒀴"
+    },
+    {
+        "MesZL": 79,
+        "HethZL": "",
+        "LHA": 44,
+        "got": "a4b4c1",
+        "aBZL": 184,
+        "transliteration": {
+            "valid": true,
+            "content": "asal"
+        },
+        "content": "𒍂"
+    },
+    {
+        "MesZL": 79,
+        "HethZL": "",
+        "LHA": 44,
+        "got": "a4b4c1",
+        "aBZL": 184,
+        "transliteration": {
+            "valid": true,
+            "content": "asar"
+        },
+        "content": "𒍂"
+    },
+    {
+        "MesZL": 1,
+        "HethZL": 1,
+        "LHA": 1,
+        "got": "b1",
+        "aBZL": 1,
+        "transliteration": {
+            "valid": true,
+            "content": "asz"
+        },
+        "content": "𒀸"
+    },
+    {
+        "MesZL": 548,
+        "HethZL": 241,
+        "LHA": 339,
+        "got": "a1b4",
+        "aBZL": 211,
+        "transliteration": {
+            "valid": true,
+            "content": "asz2"
+        },
+        "content": "𒀾"
+    },
+    {
+        "MesZL": 173,
+        "HethZL": 80,
+        "LHA": "104_6",
+        "got": "a5b1c1",
+        "aBZL": 443,
+        "transliteration": {
+            "valid": true,
+            "content": "aszgab"
+        },
+        "content": "𒀿"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "aszkud"
+        },
+        "content": "𒀉𒈽"
+    },
+    {
+        "MesZL": 297,
+        "HethZL": 92,
+        "LHA": 131,
+        "got": "a14b9c2d2",
+        "aBZL": 180,
+        "transliteration": {
+            "valid": true,
+            "content": "az"
+        },
+        "content": "𒊍"
+    },
+    {
+        "MesZL": 14,
+        "HethZL": 205,
+        "LHA": 5,
+        "got": "a1b1c1d1",
+        "aBZL": 303,
+        "transliteration": {
+            "valid": true,
+            "content": "ba"
+        },
+        "content": "𒁀"
+    },
+    {
+        "MesZL": 387,
+        "HethZL": 56,
+        "LHA": 233,
+        "got": "a3b2",
+        "aBZL": 93,
+        "transliteration": {
+            "valid": true,
+            "content": "ba4"
+        },
+        "content": "𒂷"
+    },
+    {
+        "MesZL": 746,
+        "HethZL": 295,
+        "LHA": 469,
+        "got": "a3c1d1",
+        "aBZL": 362,
+        "transliteration": {
+            "valid": true,
+            "content": "bad2"
+        },
+        "content": "𒉻"
+    },
+    {
+        "MesZL": 275,
+        "HethZL": 114,
+        "LHA": "152_8",
+        "got": "a10b9",
+        "aBZL": 153,
+        "transliteration": {
+            "valid": true,
+            "content": "bad3"
+        },
+        "content": "𒂦"
+    },
+    {
+        "MesZL": 5,
+        "HethZL": 4,
+        "LHA": 9,
+        "got": "a1b3c3",
+        "aBZL": 3,
+        "transliteration": {
+            "valid": true,
+            "content": "bal"
+        },
+        "content": "𒁄"
+    },
+    {
+        "MesZL": 5,
+        "HethZL": 4,
+        "LHA": 9,
+        "got": "a1b3c3",
+        "aBZL": 3,
+        "transliteration": {
+            "valid": true,
+            "content": "bala"
+        },
+        "content": "𒁄"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "balla"
+        },
+        "content": "𒃻𒊕𒅍𒂡𒍑"
+    },
+    {
+        "MesZL": 255,
+        "HethZL": 237,
+        "LHA": 144,
+        "got": "a1b2c2d2",
+        "aBZL": 393,
+        "transliteration": {
+            "valid": true,
+            "content": "banda3"
+        },
+        "content": "𒌉"
+    },
+    {
+        "MesZL": 121,
+        "HethZL": 20,
+        "LHA": 74,
+        "got": "a1b1",
+        "aBZL": 57,
+        "transliteration": {
+            "valid": true,
+            "content": "bar"
+        },
+        "content": "𒁇"
+    },
+    {
+        "MesZL": 313,
+        "HethZL": 169,
+        "LHA": 172,
+        "got": "a1b4c4",
+        "aBZL": 116,
+        "transliteration": {
+            "valid": true,
+            "content": "bar7"
+        },
+        "content": "𒉈"
+    },
+    {
+        "MesZL": 554,
+        "HethZL": 235,
+        "LHA": 344,
+        "got": "a10b10c1d1",
+        "aBZL": 217,
+        "transliteration": {
+            "valid": true,
+            "content": "bara2"
+        },
+        "content": "𒁈"
+    },
+    {
+        "MesZL": 554,
+        "HethZL": 235,
+        "LHA": 344,
+        "got": "a10b10c1d1",
+        "aBZL": 217,
+        "transliteration": {
+            "valid": true,
+            "content": "barag"
+        },
+        "content": "𒁈"
+    },
+    {
+        "MesZL": 358,
+        "HethZL": 153,
+        "LHA": 214,
+        "got": "a4b2c1d1",
+        "aBZL": 79,
+        "transliteration": {
+            "valid": true,
+            "content": "be2"
+        },
+        "content": "𒁉"
+    },
+    {
+        "MesZL": 358,
+        "HethZL": 153,
+        "LHA": 214,
+        "got": "a4b2c1d1",
+        "aBZL": 79,
+        "transliteration": {
+            "valid": true,
+            "content": "bi"
+        },
+        "content": "𒁉"
+    },
+    {
+        "MesZL": 313,
+        "HethZL": 169,
+        "LHA": 172,
+        "got": "a1b4c4",
+        "aBZL": 116,
+        "transliteration": {
+            "valid": true,
+            "content": "bi2"
+        },
+        "content": "𒉈"
+    },
+    {
+        "MesZL": 113,
+        "HethZL": 13,
+        "LHA": 69,
+        "got": "b1c1d1",
+        "aBZL": 25,
+        "transliteration": {
+            "valid": true,
+            "content": "bid2"
+        },
+        "content": "𒁁"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "LHA": 371,
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "bu"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": 8,
+        "HethZL": "",
+        "LHA": 11,
+        "got": "a2b2c3d1",
+        "aBZL": 13,
+        "transliteration": {
+            "valid": true,
+            "content": "bur2"
+        },
+        "content": "𒁔"
+    },
+    {
+        "MesZL": 8,
+        "HethZL": "",
+        "LHA": 11,
+        "got": "a2b2c3d1",
+        "aBZL": 13,
+        "transliteration": {
+            "valid": true,
+            "content": "buru2"
+        },
+        "content": "𒁔"
+    },
+    {
+        "MesZL": "",
+        "HethZL": 261,
+        "LHA": "",
+        "got": "c1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "buru3"
+        },
+        "content": "𒌋"
+    },
+    {
+        "MesZL": 10,
+        "HethZL": 8,
+        "LHA": 13,
+        "got": "a1b1c1d1",
+        "aBZL": 9,
+        "transliteration": {
+            "valid": true,
+            "content": "d"
+        },
+        "content": "𒀭"
+    },
+    {
+        "MesZL": 561,
+        "HethZL": 214,
+        "LHA": 335,
+        "got": "a2b8c1",
+        "aBZL": 229,
+        "transliteration": {
+            "valid": true,
+            "content": "da"
+        },
+        "content": "𒁕"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "LHA": 536,
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "dab5"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dadag"
+        },
+        "content": "𒌓𒌓"
+    },
+    {
+        "MesZL": 438,
+        "HethZL": 243,
+        "LHA": 280,
+        "got": "a4b5c1d1",
+        "aBZL": 168,
+        "transliteration": {
+            "valid": true,
+            "content": "dag"
+        },
+        "content": "𒁖"
+    },
+    {
+        "MesZL": 142,
+        "HethZL": 32,
+        "LHA": 86,
+        "got": "a3b1c1",
+        "aBZL": 39,
+        "transliteration": {
+            "valid": true,
+            "content": "dal"
+        },
+        "content": "𒊑"
+    },
+    {
+        "MesZL": 889,
+        "HethZL": 298,
+        "LHA": 557,
+        "got": "a3b4c2d1",
+        "aBZL": 454,
+        "transliteration": {
+            "valid": true,
+            "content": "dam"
+        },
+        "content": "𒁮"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "danna"
+        },
+        "content": "𒆜𒁍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a2b6c4d4",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "de2"
+        },
+        "content": "𒌤"
+    },
+    {
+        "MesZL": 313,
+        "HethZL": 169,
+        "LHA": 172,
+        "got": "a1b4c4",
+        "aBZL": 116,
+        "transliteration": {
+            "valid": true,
+            "content": "de3"
+        },
+        "content": "𒉈"
+    },
+    {
+        "MesZL": 736,
+        "HethZL": 312,
+        "LHA": 457,
+        "got": "b2c2d2",
+        "aBZL": 431,
+        "transliteration": {
+            "valid": true,
+            "content": "di"
+        },
+        "content": "𒁲"
+    },
+    {
+        "MesZL": 255,
+        "HethZL": 237,
+        "LHA": 144,
+        "got": "a1b2c2d2",
+        "aBZL": 393,
+        "transliteration": {
+            "valid": true,
+            "content": "di4"
+        },
+        "content": "𒌉"
+    },
+    {
+        "MesZL": 813,
+        "HethZL": "210?",
+        "LHA": 537,
+        "got": "a3b4",
+        "aBZL": 419,
+        "transliteration": {
+            "valid": true,
+            "content": "dib"
+        },
+        "content": "𒁳"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "didli"
+        },
+        "content": "𒀸𒀸"
+    },
+    {
+        "MesZL": 10,
+        "HethZL": 8,
+        "LHA": 13,
+        "got": "a1b1c1d1",
+        "aBZL": 9,
+        "transliteration": {
+            "valid": true,
+            "content": "dijir"
+        },
+        "content": "𒀭"
+    },
+    {
+        "MesZL": 1,
+        "HethZL": 1,
+        "LHA": 1,
+        "got": "b1",
+        "aBZL": 1,
+        "transliteration": {
+            "valid": true,
+            "content": "dili"
+        },
+        "content": "𒀸"
+    },
+    {
+        "MesZL": 485,
+        "HethZL": 231,
+        "LHA": 314,
+        "got": "a3b5",
+        "aBZL": "212; 207a",
+        "transliteration": {
+            "valid": true,
+            "content": "dilib"
+        },
+        "content": "𒋃"
+    },
+    {
+        "MesZL": 591,
+        "HethZL": 286,
+        "LHA": 377,
+        "got": "a1c1",
+        "aBZL": 232,
+        "transliteration": {
+            "valid": true,
+            "content": "dilim2"
+        },
+        "content": "𒇺"
+    },
+    {
+        "MesZL": 167,
+        "HethZL": 14,
+        "LHA": 94,
+        "got": "a2b1c2d2",
+        "aBZL": 14,
+        "transliteration": {
+            "valid": true,
+            "content": "dim"
+        },
+        "content": "𒁴"
+    },
+    {
+        "MesZL": 686,
+        "HethZL": 165,
+        "LHA": 440,
+        "got": "a2b2c1d2",
+        "aBZL": 67,
+        "transliteration": {
+            "valid": true,
+            "content": "dim2"
+        },
+        "content": "𒁶"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dimgul"
+        },
+        "content": "𒈣𒈮"
+    },
+    {
+        "MesZL": 119,
+        "HethZL": 330,
+        "LHA": 465,
+        "got": "c3d1",
+        "aBZL": 361,
+        "transliteration": {
+            "valid": true,
+            "content": "din"
+        },
+        "content": "𒁷"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dirig"
+        },
+        "content": "𒋛𒀀"
+    },
+    {
+        "MesZL": 748,
+        "HethZL": 356,
+        "LHA": 480,
+        "aBZL": 390,
+        "transliteration": {
+            "valid": true,
+            "content": "disz"
+        },
+        "content": "𒁹"
+    },
+    {
+        "MesZL": 350,
+        "HethZL": 128,
+        "LHA": 206,
+        "got": "a1b2c2",
+        "aBZL": "64, 197",
+        "transliteration": {
+            "valid": true,
+            "content": "du"
+        },
+        "content": "𒁺"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "du10"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "LHA": 15,
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "du11"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 522,
+        "HethZL": "",
+        "LHA": "330_7a",
+        "got": "a5b4c6d1",
+        "aBZL": 257,
+        "transliteration": {
+            "valid": true,
+            "content": "du14"
+        },
+        "content": "𒈌"
+    },
+    {
+        "MesZL": 379,
+        "HethZL": 75,
+        "LHA": 230,
+        "got": "a1c1d1",
+        "aBZL": 260,
+        "transliteration": {
+            "valid": true,
+            "content": "du3"
+        },
+        "content": "𒆕"
+    },
+    {
+        "MesZL": 698,
+        "HethZL": 275,
+        "LHA": 441,
+        "got": "a1b2c2d1",
+        "aBZL": 344,
+        "transliteration": {
+            "valid": true,
+            "content": "du7"
+        },
+        "content": "𒌌"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b2c8",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "du8"
+        },
+        "content": "𒃮"
+    },
+    {
+        "MesZL": 242,
+        "HethZL": 99,
+        "LHA": 138,
+        "got": "a9b4",
+        "aBZL": "112b",
+        "transliteration": {
+            "valid": true,
+            "content": "dub"
+        },
+        "content": "𒁾"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "dub3"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 643,
+        "HethZL": 334,
+        "LHA": 400,
+        "got": "c12d2",
+        "aBZL": 287,
+        "transliteration": {
+            "valid": true,
+            "content": "dubur"
+        },
+        "content": "𒄵"
+    },
+    {
+        "MesZL": 499,
+        "HethZL": 162,
+        "LHA": 309,
+        "got": "a8b2c1d1",
+        "aBZL": 80,
+        "transliteration": {
+            "valid": true,
+            "content": "dug"
+        },
+        "content": "𒂁"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "dug3"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 704,
+        "HethZL": 268,
+        "LHA": 445,
+        "got": "b9c1",
+        "aBZL": 349,
+        "transliteration": {
+            "valid": true,
+            "content": "dugud"
+        },
+        "content": "𒂂"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dul"
+        },
+        "content": "𒌋𒌆"
+    },
+    {
+        "MesZL": 354,
+        "HethZL": 125,
+        "LHA": 207,
+        "got": "a4b4c3d1",
+        "aBZL": 75,
+        "transliteration": {
+            "valid": true,
+            "content": "dum"
+        },
+        "content": "𒌈"
+    },
+    {
+        "MesZL": 255,
+        "HethZL": 237,
+        "LHA": 144,
+        "got": "a1b2c2d2",
+        "aBZL": 393,
+        "transliteration": {
+            "valid": true,
+            "content": "dumu"
+        },
+        "content": "𒌉"
+    },
+    {
+        "MesZL": 744,
+        "HethZL": 46,
+        "LHA": 467,
+        "got": "a5b2c3d2",
+        "aBZL": "ŠUL:438",
+        "transliteration": {
+            "valid": true,
+            "content": "dun"
+        },
+        "content": "𒂄"
+    },
+    {
+        "MesZL": 836,
+        "HethZL": "223; 209.2",
+        "LHA": 595,
+        "got": "a3b3",
+        "aBZL": "TÙN:401a, GÍN:401b",
+        "transliteration": {
+            "valid": true,
+            "content": "dun3"
+        },
+        "content": "𒂅"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a2b3",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dur2"
+        },
+        "content": "𒂉"
+    },
+    {
+        "MesZL": 839,
+        "HethZL": "364; 365",
+        "LHA": 579,
+        "got": "a3",
+        "aBZL": 470,
+        "transliteration": {
+            "valid": true,
+            "content": "duru5"
+        },
+        "content": "𒀀"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a2b3",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "durun"
+        },
+        "content": "𒂉"
+    },
+    {
+        "MesZL": 498,
+        "HethZL": 187,
+        "LHA": 308,
+        "got": "a3b4",
+        "aBZL": 167,
+        "transliteration": {
+            "valid": true,
+            "content": "e"
+        },
+        "content": "𒂊"
+    },
+    {
+        "MesZL": 495,
+        "HethZL": 199,
+        "LHA": 324,
+        "got": "a5b4",
+        "aBZL": 107,
+        "transliteration": {
+            "valid": true,
+            "content": "e2"
+        },
+        "content": "𒂍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ed3"
+        },
+        "content": "𒇯𒁺"
+    },
+    {
+        "MesZL": 300,
+        "HethZL": "(168)",
+        "LHA": 168,
+        "got": "a7b7c3d2",
+        "aBZL": 115,
+        "transliteration": {
+            "valid": true,
+            "content": "eden"
+        },
+        "content": "𒂔"
+    },
+    {
+        "MesZL": 300,
+        "HethZL": "(168)",
+        "LHA": 168,
+        "got": "a7b7c3d2",
+        "aBZL": 115,
+        "transliteration": {
+            "valid": true,
+            "content": "edin"
+        },
+        "content": "𒂔"
+    },
+    {
+        "MesZL": 498,
+        "HethZL": 187,
+        "LHA": 308,
+        "got": "a3b4",
+        "aBZL": 167,
+        "transliteration": {
+            "valid": true,
+            "content": "eg2"
+        },
+        "content": "𒂊"
+    },
+    {
+        "MesZL": 810,
+        "HethZL": 212,
+        "LHA": 536,
+        "got": "a2b7",
+        "aBZL": 420,
+        "transliteration": {
+            "valid": true,
+            "content": "egir2"
+        },
+        "content": "𒂠"
+    },
+    {
+        "MesZL": 636,
+        "HethZL": 332,
+        "LHA": 398,
+        "got": "a5b1c2d2",
+        "aBZL": 280,
+        "transliteration": {
+            "valid": true,
+            "content": "eh"
+        },
+        "content": "𒄴"
+    },
+    {
+        "MesZL": 899,
+        "HethZL": 307,
+        "LHA": 564,
+        "got": "a3b3c1d1",
+        "aBZL": 455,
+        "transliteration": {
+            "valid": true,
+            "content": "el"
+        },
+        "content": "𒂖"
+    },
+    {
+        "MesZL": 61,
+        "HethZL": 147,
+        "LHA": 32,
+        "got": "a4b3c5d1",
+        "aBZL": 326,
+        "transliteration": {
+            "valid": true,
+            "content": "eme"
+        },
+        "content": "𒅴"
+    },
+    {
+        "MesZL": 314,
+        "HethZL": "",
+        "LHA": 174,
+        "got": "a1b4c6d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "emesz2"
+        },
+        "content": "𒉊"
+    },
+    {
+        "MesZL": 261,
+        "HethZL": 354,
+        "LHA": 148,
+        "got": "a2c10d1",
+        "aBZL": 386,
+        "transliteration": {
+            "valid": true,
+            "content": "en"
+        },
+        "content": "𒅔"
+    },
+    {
+        "MesZL": 85,
+        "HethZL": 343,
+        "LHA": 59,
+        "got": "a2b4c11d1",
+        "aBZL": 381,
+        "transliteration": {
+            "valid": true,
+            "content": "en3"
+        },
+        "content": "𒇷"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "endib"
+        },
+        "content": "𒂗𒈨𒈬"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "endub"
+        },
+        "content": "𒂗𒈨𒈬"
+    },
+    {
+        "MesZL": 756,
+        "HethZL": 216,
+        "LHA": 484,
+        "got": "a2b3c1d1",
+        "aBZL": 404,
+        "transliteration": {
+            "valid": true,
+            "content": "engur"
+        },
+        "content": "𒇉"
+    },
+    {
+        "MesZL": 437,
+        "HethZL": 77,
+        "LHA": 232,
+        "got": "a3c1d1",
+        "aBZL": 263,
+        "transliteration": {
+            "valid": true,
+            "content": "er"
+        },
+        "content": "𒅕"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "er2"
+        },
+        "content": "𒀀𒅆"
+    },
+    {
+        "MesZL": 143,
+        "HethZL": 36,
+        "LHA": 87,
+        "got": "a5b1",
+        "aBZL": 47,
+        "transliteration": {
+            "valid": true,
+            "content": "eridu"
+        },
+        "content": "𒉣"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "erim2"
+        },
+        "content": "𒉈𒊒"
+    },
+    {
+        "MesZL": 496,
+        "HethZL": 196,
+        "LHA": 322,
+        "got": "a2b2c1d1",
+        "aBZL": 176,
+        "transliteration": {
+            "valid": true,
+            "content": "esi"
+        },
+        "content": "𒆗"
+    },
+    {
+        "MesZL": 711,
+        "HethZL": 331,
+        "LHA": 472,
+        "got": "c3",
+        "aBZL": 366,
+        "transliteration": {
+            "valid": true,
+            "content": "esz"
+        },
+        "content": "𒌍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a7b5c5",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "eszgiri2"
+        },
+        "content": "𒂙"
+    },
+    {
+        "MesZL": 271,
+        "HethZL": 106,
+        "LHA": 152,
+        "got": "a4b6",
+        "aBZL": "152a,b,c",
+        "transliteration": {
+            "valid": true,
+            "content": "ezen"
+        },
+        "content": "𒂡"
+    },
+    {
+        "MesZL": 89,
+        "HethZL": 95,
+        "LHA": 55,
+        "got": "a5b7",
+        "aBZL": 177,
+        "transliteration": {
+            "valid": true,
+            "content": "ga"
+        },
+        "content": "𒆷"
+    },
+    {
+        "MesZL": 387,
+        "HethZL": 56,
+        "LHA": 233,
+        "got": "a3b2",
+        "aBZL": 93,
+        "transliteration": {
+            "valid": true,
+            "content": "ga2"
+        },
+        "content": "𒂷"
+    },
+    {
+        "MesZL": 148,
+        "HethZL": 49,
+        "LHA": 88,
+        "got": "a2b8c1",
+        "aBZL": 226,
+        "transliteration": {
+            "valid": true,
+            "content": "gab2"
+        },
+        "content": "𒆏"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b2c8",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "gaba"
+        },
+        "content": "𒃮"
+    },
+    {
+        "MesZL": 553,
+        "HethZL": 242,
+        "LHA": 343,
+        "got": "a1b5",
+        "aBZL": 213,
+        "transliteration": {
+            "valid": true,
+            "content": "gal"
+        },
+        "content": "𒃲"
+    },
+    {
+        "MesZL": 136,
+        "HethZL": 67,
+        "LHA": 80,
+        "got": "a3b6c2",
+        "aBZL": 61,
+        "transliteration": {
+            "valid": true,
+            "content": "gal2"
+        },
+        "content": "𒅅"
+    },
+    {
+        "MesZL": 883,
+        "HethZL": 297,
+        "LHA": 554,
+        "got": "a1b1c1d1",
+        "aBZL": 450,
+        "transliteration": {
+            "valid": true,
+            "content": "gal4"
+        },
+        "content": "𒊩"
+    },
+    {
+        "MesZL": 338,
+        "HethZL": "",
+        "LHA": "190kv",
+        "got": "a1b2c2d1",
+        "aBZL": "210 and 133",
+        "transliteration": {
+            "valid": true,
+            "content": "galam"
+        },
+        "content": "𒃴"
+    },
+    {
+        "MesZL": 576,
+        "HethZL": 247,
+        "LHA": 362,
+        "got": "c2",
+        "aBZL": 359,
+        "transliteration": {
+            "valid": true,
+            "content": "gam"
+        },
+        "content": "𒃵"
+    },
+    {
+        "MesZL": 253,
+        "HethZL": 113,
+        "LHA": 143,
+        "got": "a8b2c2d2",
+        "aBZL": 120,
+        "transliteration": {
+            "valid": true,
+            "content": "gan"
+        },
+        "content": "𒃶"
+    },
+    {
+        "MesZL": 174,
+        "HethZL": 61,
+        "LHA": 105,
+        "got": "a6b2",
+        "aBZL": 106,
+        "transliteration": {
+            "valid": true,
+            "content": "gan2"
+        },
+        "content": "𒃷"
+    },
+    {
+        "MesZL": 174,
+        "HethZL": 61,
+        "LHA": 105,
+        "got": "a6b2",
+        "aBZL": 106,
+        "transliteration": {
+            "valid": true,
+            "content": "gana2"
+        },
+        "content": "𒃷"
+    },
+    {
+        "MesZL": 859,
+        "HethZL": 369,
+        "LHA": 597,
+        "got": "a3d1",
+        "aBZL": 473,
+        "transliteration": {
+            "valid": true,
+            "content": "gar"
+        },
+        "content": "𒃻"
+    },
+    {
+        "MesZL": 543,
+        "HethZL": 240,
+        "LHA": 333,
+        "got": "b4c2d1",
+        "aBZL": 209,
+        "transliteration": {
+            "valid": true,
+            "content": "gar3"
+        },
+        "content": "𒃼"
+    },
+    {
+        "MesZL": 492,
+        "HethZL": "",
+        "LHA": "319n",
+        "got": "a9b6c1d1",
+        "aBZL": 202,
+        "transliteration": {
+            "valid": true,
+            "content": "gara2"
+        },
+        "content": "𒂶"
+    },
+    {
+        "MesZL": 340,
+        "HethZL": 122,
+        "LHA": 192,
+        "got": "a2b4c14",
+        "aBZL": 139,
+        "transliteration": {
+            "valid": true,
+            "content": "gaz"
+        },
+        "content": "𒄤"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "gazi"
+        },
+        "content": "𒓊"
+    },
+    {
+        "MesZL": 350,
+        "HethZL": 128,
+        "LHA": 206,
+        "got": "a1b2c2",
+        "aBZL": "64, 197",
+        "transliteration": {
+            "valid": true,
+            "content": "gen"
+        },
+        "content": "𒁺"
+    },
+    {
+        "MesZL": 141,
+        "HethZL": 30,
+        "LHA": 85,
+        "got": "a1b1c5d2",
+        "aBZL": 40,
+        "transliteration": {
+            "valid": true,
+            "content": "gen6"
+        },
+        "content": "𒄀"
+    },
+    {
+        "MesZL": 469,
+        "HethZL": 178,
+        "LHA": 296,
+        "got": "a1b2",
+        "aBZL": 160,
+        "transliteration": {
+            "valid": true,
+            "content": "gesz"
+        },
+        "content": "𒄑"
+    },
+    {
+        "MesZL": 141,
+        "HethZL": 30,
+        "LHA": 85,
+        "got": "a1b1c5d2",
+        "aBZL": 40,
+        "transliteration": {
+            "valid": true,
+            "content": "gi"
+        },
+        "content": "𒄀"
+    },
+    {
+        "MesZL": 484,
+        "HethZL": 194,
+        "LHA": 313,
+        "got": "a6b4",
+        "aBZL": 163,
+        "transliteration": {
+            "valid": true,
+            "content": "gi2"
+        },
+        "content": "𒆤"
+    },
+    {
+        "MesZL": 507,
+        "HethZL": 234,
+        "LHA": 326,
+        "got": "a1b5c4d2",
+        "aBZL": 214,
+        "transliteration": {
+            "valid": true,
+            "content": "gi4"
+        },
+        "content": "𒄄"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "LHA": 371,
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "gid2"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "gig"
+        },
+        "content": "𒈪𒉭"
+    },
+    {
+        "MesZL": 681,
+        "HethZL": 267,
+        "LHA": 427,
+        "got": "b8c1",
+        "aBZL": 348,
+        "transliteration": {
+            "valid": true,
+            "content": "gig2"
+        },
+        "content": "𒈪"
+    },
+    {
+        "MesZL": 578,
+        "HethZL": 329,
+        "LHA": 366,
+        "got": "c3",
+        "aBZL": 369,
+        "transliteration": {
+            "valid": true,
+            "content": "gin3"
+        },
+        "content": "𒆳"
+    },
+    {
+        "MesZL": 558,
+        "HethZL": "244A",
+        "LHA": 346,
+        "got": "a4b4c2",
+        "aBZL": 222,
+        "transliteration": {
+            "valid": true,
+            "content": "gir"
+        },
+        "content": "𒄫"
+    },
+    {
+        "MesZL": 6,
+        "HethZL": 6,
+        "LHA": 10,
+        "got": "a1b1c2d2",
+        "aBZL": 8,
+        "transliteration": {
+            "valid": true,
+            "content": "gir2"
+        },
+        "content": "𒄈"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "LHA": 15,
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "giri17"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 469,
+        "HethZL": 178,
+        "LHA": 296,
+        "got": "a1b2",
+        "aBZL": 160,
+        "transliteration": {
+            "valid": true,
+            "content": "gisz"
+        },
+        "content": "𒄑"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "gisz2"
+        },
+        "content": "𒐕"
+    },
+    {
+        "MesZL": 891,
+        "HethZL": 304,
+        "LHA": 559,
+        "got": "a2b1c3d1",
+        "aBZL": 458,
+        "transliteration": {
+            "valid": true,
+            "content": "gu"
+        },
+        "content": "𒄖"
+    },
+    {
+        "MesZL": 176,
+        "HethZL": 201,
+        "LHA": 106,
+        "got": "a3b2c2d2",
+        "aBZL": 89,
+        "transliteration": {
+            "valid": true,
+            "content": "gu2"
+        },
+        "content": "𒄘"
+    },
+    {
+        "MesZL": 472,
+        "HethZL": 157,
+        "LHA": 297,
+        "got": "a1b2c1d1",
+        "aBZL": 118,
+        "transliteration": {
+            "valid": true,
+            "content": "gu4"
+        },
+        "content": "𒄞"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "LHA": 536,
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "gu5"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": 65,
+        "HethZL": 149,
+        "LHA": 36,
+        "got": "a6b2c5d2",
+        "aBZL": 329,
+        "transliteration": {
+            "valid": true,
+            "content": "gu7"
+        },
+        "content": "𒅥"
+    },
+    {
+        "MesZL": 350,
+        "HethZL": 128,
+        "LHA": 206,
+        "got": "a1b2c2",
+        "aBZL": "64, 197",
+        "transliteration": {
+            "valid": true,
+            "content": "gub"
+        },
+        "content": "𒁺"
+    },
+    {
+        "MesZL": 85,
+        "HethZL": 343,
+        "LHA": 59,
+        "got": "a2b4c11d1",
+        "aBZL": 381,
+        "transliteration": {
+            "valid": true,
+            "content": "gub2"
+        },
+        "content": "𒇷"
+    },
+    {
+        "MesZL": 472,
+        "HethZL": 157,
+        "LHA": 297,
+        "got": "a1b2c1d1",
+        "aBZL": 118,
+        "transliteration": {
+            "valid": true,
+            "content": "gud"
+        },
+        "content": "𒄞"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "gud3"
+        },
+        "content": "𒌑𒆠𒋧𒂵"
+    },
+    {
+        "MesZL": 555,
+        "HethZL": "220; 221",
+        "LHA": 345,
+        "got": "a2b10",
+        "aBZL": 216,
+        "transliteration": {
+            "valid": true,
+            "content": "gug2"
+        },
+        "content": "𒈖"
+    },
+    {
+        "MesZL": 682,
+        "HethZL": 271,
+        "LHA": 429,
+        "got": "a2b4c2",
+        "aBZL": 343,
+        "transliteration": {
+            "valid": true,
+            "content": "gul"
+        },
+        "content": "𒄢"
+    },
+    {
+        "MesZL": 176,
+        "HethZL": 201,
+        "LHA": 106,
+        "got": "a3b2c2d2",
+        "aBZL": 89,
+        "transliteration": {
+            "valid": true,
+            "content": "gun2"
+        },
+        "content": "𒄘"
+    },
+    {
+        "MesZL": 183,
+        "HethZL": 83,
+        "LHA": 113,
+        "got": "a2b6c1",
+        "aBZL": 37,
+        "transliteration": {
+            "valid": true,
+            "content": "gun3"
+        },
+        "content": "𒁯"
+    },
+    {
+        "MesZL": 180,
+        "HethZL": 185,
+        "LHA": 111,
+        "got": "a2b2",
+        "aBZL": 92,
+        "transliteration": {
+            "valid": true,
+            "content": "gur"
+        },
+        "content": "𒄥"
+    },
+    {
+        "MesZL": 576,
+        "HethZL": 247,
+        "LHA": 362,
+        "got": "c2",
+        "aBZL": 359,
+        "transliteration": {
+            "valid": true,
+            "content": "gur2"
+        },
+        "content": "𒃵"
+    },
+    {
+        "MesZL": 755,
+        "HethZL": 179,
+        "LHA": 483,
+        "got": "a2b2",
+        "aBZL": 402,
+        "transliteration": {
+            "valid": true,
+            "content": "gur4"
+        },
+        "content": "𒆸"
+    },
+    {
+        "MesZL": 503,
+        "HethZL": 193,
+        "LHA": 310,
+        "got": "a2b2c4",
+        "aBZL": 145,
+        "transliteration": {
+            "valid": true,
+            "content": "gurun"
+        },
+        "content": "𒄧"
+    },
+    {
+        "MesZL": 856,
+        "HethZL": 367,
+        "LHA": 589,
+        "got": "a4c2",
+        "aBZL": 475,
+        "transliteration": {
+            "valid": true,
+            "content": "ha"
+        },
+        "content": "𒄩"
+    },
+    {
+        "MesZL": 3,
+        "HethZL": 2,
+        "LHA": 2,
+        "got": "b1c1d1",
+        "aBZL": 7,
+        "transliteration": {
+            "valid": true,
+            "content": "hal"
+        },
+        "content": "𒄬"
+    },
+    {
+        "MesZL": 884,
+        "HethZL": 300,
+        "LHA": 555,
+        "got": "a1b1c3d3",
+        "aBZL": 456,
+        "transliteration": {
+            "valid": true,
+            "content": "hal2"
+        },
+        "content": "𒍮"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "halba2"
+        },
+        "content": "𒍝𒈹𒁲"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "LHA": 401,
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "har"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": 528,
+        "HethZL": "",
+        "LHA": "330_7b",
+        "got": "a6b2c3d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "hara3"
+        },
+        "content": "𒈊"
+    },
+    {
+        "MesZL": 9,
+        "HethZL": 7,
+        "LHA": 12,
+        "got": "a1c2",
+        "aBZL": 231,
+        "transliteration": {
+            "valid": true,
+            "content": "hasz"
+        },
+        "content": "𒋻"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "he"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 253,
+        "HethZL": 113,
+        "LHA": 143,
+        "got": "a8b2c2d2",
+        "aBZL": 120,
+        "transliteration": {
+            "valid": true,
+            "content": "he2"
+        },
+        "content": "𒃶"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "hi"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 132,
+        "HethZL": 24,
+        "LHA": 78,
+        "got": "a2b1c1",
+        "aBZL": 34,
+        "transliteration": {
+            "valid": true,
+            "content": "hu"
+        },
+        "content": "𒄷"
+    },
+    {
+        "MesZL": 149,
+        "HethZL": 49,
+        "LHA": 88,
+        "got": "a3b1c2d1",
+        "aBZL": 445,
+        "transliteration": {
+            "valid": true,
+            "content": "hub2"
+        },
+        "content": "𒄸"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "hubur"
+        },
+        "content": "𒄠𒄠"
+    },
+    {
+        "MesZL": 828,
+        "HethZL": 51,
+        "LHA": 575,
+        "got": "a3b2",
+        "aBZL": 400,
+        "transliteration": {
+            "valid": true,
+            "content": "hul"
+        },
+        "content": "𒌨"
+    },
+    {
+        "MesZL": 877,
+        "HethZL": 254,
+        "LHA": 550,
+        "got": "a2b5c1",
+        "aBZL": 425,
+        "transliteration": {
+            "valid": true,
+            "content": "hul2"
+        },
+        "content": "𒄾"
+    },
+    {
+        "MesZL": 900,
+        "HethZL": 310,
+        "LHA": 565,
+        "got": "c8d4",
+        "aBZL": 248,
+        "transliteration": {
+            "valid": true,
+            "content": "hum"
+        },
+        "content": "𒈝"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "LHA": 401,
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "hur"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "husz"
+        },
+        "content": "𒄭𒄊"
+    },
+    {
+        "MesZL": 252,
+        "HethZL": 217,
+        "LHA": 142,
+        "got": "b5",
+        "aBZL": 192,
+        "transliteration": {
+            "valid": true,
+            "content": "i"
+        },
+        "content": "𒄿"
+    },
+    {
+        "MesZL": 861,
+        "HethZL": 371,
+        "LHA": "598a",
+        "got": "a5",
+        "aBZL": 476,
+        "transliteration": {
+            "valid": true,
+            "content": "i2"
+        },
+        "content": "𒐊"
+    },
+    {
+        "MesZL": 380,
+        "HethZL": 72,
+        "LHA": 231,
+        "got": "a2c1d1",
+        "aBZL": 261,
+        "transliteration": {
+            "valid": true,
+            "content": "i3"
+        },
+        "content": "𒉌"
+    },
+    {
+        "MesZL": 260,
+        "HethZL": 218,
+        "LHA": "142a",
+        "got": "a3b5",
+        "aBZL": 193,
+        "transliteration": {
+            "valid": true,
+            "content": "ia"
+        },
+        "content": "𒅀"
+    },
+    {
+        "MesZL": 511,
+        "HethZL": 233,
+        "LHA": 328,
+        "got": "a4b5",
+        "aBZL": 192,
+        "transliteration": {
+            "valid": true,
+            "content": "ia3"
+        },
+        "content": "𒊏"
+    },
+    {
+        "MesZL": 807,
+        "HethZL": 44,
+        "LHA": 535,
+        "got": "a6b2",
+        "aBZL": 394,
+        "transliteration": {
+            "valid": true,
+            "content": "ib"
+        },
+        "content": "𒅁"
+    },
+    {
+        "MesZL": 354,
+        "HethZL": 125,
+        "LHA": 207,
+        "got": "a4b4c3d1",
+        "aBZL": 75,
+        "transliteration": {
+            "valid": true,
+            "content": "ib2"
+        },
+        "content": "𒌈"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "id2"
+        },
+        "content": "𒀀𒇉"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "idigna"
+        },
+        "content": "𒄘𒃼"
+    },
+    {
+        "MesZL": 136,
+        "HethZL": 67,
+        "LHA": 80,
+        "got": "a3b6c2",
+        "aBZL": 61,
+        "transliteration": {
+            "valid": true,
+            "content": "ig"
+        },
+        "content": "𒅅"
+    },
+    {
+        "MesZL": 724,
+        "HethZL": 288,
+        "LHA": 449,
+        "got": "a1b1c1",
+        "aBZL": 233,
+        "transliteration": {
+            "valid": true,
+            "content": "igi"
+        },
+        "content": "𒅆"
+    },
+    {
+        "MesZL": 348,
+        "HethZL": 117,
+        "LHA": 205,
+        "got": "a5b2c8d1",
+        "aBZL": 78,
+        "transliteration": {
+            "valid": true,
+            "content": "il"
+        },
+        "content": "𒅋"
+    },
+    {
+        "MesZL": 493,
+        "HethZL": 161,
+        "LHA": 320,
+        "got": "a9b7c1d1",
+        "aBZL": 204,
+        "transliteration": {
+            "valid": true,
+            "content": "il2"
+        },
+        "content": "𒅍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ildum"
+        },
+        "content": "𒅆𒂠𒁺𒂟"
+    },
+    {
+        "MesZL": 868,
+        "HethZL": 375,
+        "LHA": "598e",
+        "got": "a9",
+        "aBZL": 480,
+        "transliteration": {
+            "valid": true,
+            "content": "ilimmu"
+        },
+        "content": "𒑆"
+    },
+    {
+        "MesZL": 140,
+        "HethZL": 33,
+        "LHA": 84,
+        "got": "a2b1c10",
+        "aBZL": 41,
+        "transliteration": {
+            "valid": true,
+            "content": "im"
+        },
+        "content": "𒍣"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "imhur2"
+        },
+        "content": "𒅆𒁉"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "imhur3"
+        },
+        "content": "𒅆𒁉"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "imhur4"
+        },
+        "content": "𒅆𒁉"
+    },
+    {
+        "MesZL": 863,
+        "HethZL": 373,
+        "LHA": "598n1",
+        "got": "a7",
+        "aBZL": 478,
+        "transliteration": {
+            "valid": true,
+            "content": "imin"
+        },
+        "content": "𒅓"
+    },
+    {
+        "MesZL": 261,
+        "HethZL": 354,
+        "LHA": 148,
+        "got": "a2c10d1",
+        "aBZL": 386,
+        "transliteration": {
+            "valid": true,
+            "content": "in"
+        },
+        "content": "𒅔"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a8c6d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "inbir"
+        },
+        "content": "𒈓"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "LHA": 15,
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "inim"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 437,
+        "HethZL": 77,
+        "LHA": 232,
+        "got": "a3c1d1",
+        "aBZL": 263,
+        "transliteration": {
+            "valid": true,
+            "content": "ir"
+        },
+        "content": "𒅕"
+    },
+    {
+        "MesZL": 71,
+        "HethZL": 229,
+        "LHA": 38,
+        "got": "a3b3",
+        "aBZL": 181,
+        "transliteration": {
+            "valid": true,
+            "content": "iri"
+        },
+        "content": "𒌷"
+    },
+    {
+        "MesZL": 469,
+        "HethZL": 178,
+        "LHA": 296,
+        "got": "a1b2",
+        "aBZL": 160,
+        "transliteration": {
+            "valid": true,
+            "content": "is"
+        },
+        "content": "𒄑"
+    },
+    {
+        "MesZL": 357,
+        "HethZL": 151,
+        "LHA": 212,
+        "got": "a2b4c1",
+        "aBZL": 162,
+        "transliteration": {
+            "valid": true,
+            "content": "isz"
+        },
+        "content": "𒅖"
+    },
+    {
+        "MesZL": 608,
+        "HethZL": "",
+        "LHA": 390,
+        "got": "a3c3d3",
+        "aBZL": 436,
+        "transliteration": {
+            "valid": true,
+            "content": "iszkila"
+        },
+        "content": "𒊯"
+    },
+    {
+        "MesZL": 20,
+        "HethZL": 84,
+        "LHA": 52,
+        "got": "c5d2",
+        "aBZL": 334,
+        "transliteration": {
+            "valid": true,
+            "content": "itid"
+        },
+        "content": "𒌗"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "c6d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "itu"
+        },
+        "content": "𒌚"
+    },
+    {
+        "MesZL": 313,
+        "HethZL": 169,
+        "LHA": 172,
+        "got": "a1b4c4",
+        "aBZL": 116,
+        "transliteration": {
+            "valid": true,
+            "content": "izi"
+        },
+        "content": "𒉈"
+    },
+    {
+        "MesZL": 387,
+        "HethZL": 56,
+        "LHA": 233,
+        "got": "a3b2",
+        "aBZL": 93,
+        "transliteration": {
+            "valid": true,
+            "content": "ja2"
+        },
+        "content": "𒂷"
+    },
+    {
+        "MesZL": 136,
+        "HethZL": 67,
+        "LHA": 80,
+        "got": "a3b6c2",
+        "aBZL": 61,
+        "transliteration": {
+            "valid": true,
+            "content": "jal2"
+        },
+        "content": "𒅅"
+    },
+    {
+        "MesZL": 431,
+        "HethZL": 60,
+        "LHA": 278,
+        "got": "a6b2d1",
+        "aBZL": 105,
+        "transliteration": {
+            "valid": true,
+            "content": "jalga"
+        },
+        "content": "𒃌"
+    },
+    {
+        "MesZL": 859,
+        "HethZL": 369,
+        "LHA": 597,
+        "got": "a3d1",
+        "aBZL": 473,
+        "transliteration": {
+            "valid": true,
+            "content": "jar"
+        },
+        "content": "𒃻"
+    },
+    {
+        "MesZL": 350,
+        "HethZL": 128,
+        "LHA": 206,
+        "got": "a1b2c2",
+        "aBZL": "64, 197",
+        "transliteration": {
+            "valid": true,
+            "content": "jen"
+        },
+        "content": "𒁺"
+    },
+    {
+        "MesZL": 469,
+        "HethZL": 178,
+        "LHA": 296,
+        "got": "a1b2",
+        "aBZL": 160,
+        "transliteration": {
+            "valid": true,
+            "content": "jesz"
+        },
+        "content": "𒄑"
+    },
+    {
+        "MesZL": 212,
+        "HethZL": 131,
+        "LHA": 210,
+        "got": "a2b2c3d1",
+        "aBZL": 77,
+        "transliteration": {
+            "valid": true,
+            "content": "jesztin"
+        },
+        "content": "𒃾"
+    },
+    {
+        "MesZL": 681,
+        "HethZL": 267,
+        "LHA": 427,
+        "got": "b8c1",
+        "aBZL": 348,
+        "transliteration": {
+            "valid": true,
+            "content": "ji6"
+        },
+        "content": "𒈪"
+    },
+    {
+        "MesZL": 701,
+        "HethZL": 301,
+        "LHA": 444,
+        "got": "a1b6c3d3",
+        "aBZL": "291b",
+        "transliteration": {
+            "valid": true,
+            "content": "jiri3"
+        },
+        "content": "𒄊"
+    },
+    {
+        "MesZL": 469,
+        "HethZL": 178,
+        "LHA": 296,
+        "got": "a1b2",
+        "aBZL": 160,
+        "transliteration": {
+            "valid": true,
+            "content": "jisz"
+        },
+        "content": "𒄑"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "LHA": 15,
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "ka"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 64,
+        "HethZL": 148,
+        "LHA": 35,
+        "got": "a6b2c5d1",
+        "aBZL": 328,
+        "transliteration": {
+            "valid": true,
+            "content": "kab2"
+        },
+        "content": "𒅘"
+    },
+    {
+        "MesZL": 568,
+        "HethZL": 68,
+        "LHA": "354b",
+        "got": "a2b6c1d1",
+        "aBZL": "227a",
+        "transliteration": {
+            "valid": true,
+            "content": "kad4"
+        },
+        "content": "𒆒"
+    },
+    {
+        "MesZL": 569,
+        "HethZL": "",
+        "LHA": "354bv",
+        "got": "a3b5c8d1",
+        "aBZL": "227b",
+        "transliteration": {
+            "valid": true,
+            "content": "kad5"
+        },
+        "content": "𒆓"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kadra"
+        },
+        "content": "𒃻𒊮𒀀"
+    },
+    {
+        "MesZL": 496,
+        "HethZL": 196,
+        "LHA": 322,
+        "got": "a2b2c1d1",
+        "aBZL": 176,
+        "transliteration": {
+            "valid": true,
+            "content": "kal"
+        },
+        "content": "𒆗"
+    },
+    {
+        "MesZL": "",
+        "HethZL": 197,
+        "LHA": "",
+        "got": "a6b5c2d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kalam"
+        },
+        "content": "𒌦"
+    },
+    {
+        "MesZL": 253,
+        "HethZL": 113,
+        "LHA": 143,
+        "got": "a8b2c2d2",
+        "aBZL": 120,
+        "transliteration": {
+            "valid": true,
+            "content": "kan"
+        },
+        "content": "𒃶"
+    },
+    {
+        "MesZL": 222,
+        "HethZL": 167,
+        "LHA": 133,
+        "got": "a5b4c4",
+        "aBZL": 175,
+        "transliteration": {
+            "valid": true,
+            "content": "kan4"
+        },
+        "content": "𒆍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kar"
+        },
+        "content": "𒋼𒀀"
+    },
+    {
+        "MesZL": 175,
+        "HethZL": "",
+        "LHA": 105,
+        "got": "a5c2",
+        "aBZL": 246,
+        "transliteration": {
+            "valid": true,
+            "content": "kar2"
+        },
+        "content": "𒃸"
+    },
+    {
+        "MesZL": 175,
+        "HethZL": "",
+        "LHA": 105,
+        "got": "a5c2",
+        "aBZL": 246,
+        "transliteration": {
+            "valid": true,
+            "content": "kar3"
+        },
+        "content": "𒃸"
+    },
+    {
+        "MesZL": 352,
+        "HethZL": 129,
+        "LHA": 202,
+        "got": "a1b2c6",
+        "aBZL": 66,
+        "transliteration": {
+            "valid": true,
+            "content": "kas4"
+        },
+        "content": "𒁽"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a12b16",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kesz2"
+        },
+        "content": "𒆟"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a12b16",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kesze2"
+        },
+        "content": "𒆟"
+    },
+    {
+        "MesZL": 737,
+        "HethZL": 313,
+        "LHA": 461,
+        "got": "b4c2d2",
+        "aBZL": 432,
+        "transliteration": {
+            "valid": true,
+            "content": "ki"
+        },
+        "content": "𒆠"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "LHA": 371,
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "kim3"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kingal"
+        },
+        "content": "𒃲𒌺"
+    },
+    {
+        "MesZL": 541,
+        "HethZL": 353,
+        "LHA": "331e, 152iv",
+        "got": "a2b2c9",
+        "aBZL": 385,
+        "transliteration": {
+            "valid": true,
+            "content": "kiri6"
+        },
+        "content": "𒊬"
+    },
+    {
+        "MesZL": 678,
+        "HethZL": 273,
+        "LHA": 425,
+        "got": "a2b7c5d3",
+        "aBZL": "291a",
+        "transliteration": {
+            "valid": true,
+            "content": "kisz"
+        },
+        "content": "𒆧"
+    },
+    {
+        "MesZL": 486,
+        "HethZL": 112,
+        "LHA": 314,
+        "got": "a8b4",
+        "aBZL": "112a",
+        "transliteration": {
+            "valid": true,
+            "content": "kiszib"
+        },
+        "content": "𒈩"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "LHA": 536,
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "ku"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": 681,
+        "HethZL": 267,
+        "LHA": 427,
+        "got": "b8c1",
+        "aBZL": 348,
+        "transliteration": {
+            "valid": true,
+            "content": "ku10"
+        },
+        "content": "𒈪"
+    },
+    {
+        "MesZL": 745,
+        "HethZL": 69,
+        "LHA": 468,
+        "got": "c7d7",
+        "aBZL": 428,
+        "transliteration": {
+            "valid": true,
+            "content": "ku3"
+        },
+        "content": "𒆬"
+    },
+    {
+        "MesZL": 856,
+        "HethZL": 367,
+        "LHA": 589,
+        "got": "a4c2",
+        "aBZL": 475,
+        "transliteration": {
+            "valid": true,
+            "content": "ku6"
+        },
+        "content": "𒄩"
+    },
+    {
+        "MesZL": 9,
+        "HethZL": 7,
+        "LHA": 12,
+        "got": "a1c2",
+        "aBZL": 231,
+        "transliteration": {
+            "valid": true,
+            "content": "kud"
+        },
+        "content": "𒋻"
+    },
+    {
+        "MesZL": 745,
+        "HethZL": 69,
+        "LHA": 468,
+        "got": "c7d7",
+        "aBZL": 428,
+        "transliteration": {
+            "valid": true,
+            "content": "kug"
+        },
+        "content": "𒆬"
+    },
+    {
+        "MesZL": 131,
+        "HethZL": 35,
+        "LHA": 77,
+        "got": "a5b2c2d2",
+        "aBZL": 32,
+        "transliteration": {
+            "valid": true,
+            "content": "kun"
+        },
+        "content": "𒆲"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kun4"
+        },
+        "content": "𒄿𒇻"
+    },
+    {
+        "MesZL": 578,
+        "HethZL": 329,
+        "LHA": 366,
+        "got": "c3",
+        "aBZL": 369,
+        "transliteration": {
+            "valid": true,
+            "content": "kur"
+        },
+        "content": "𒆳"
+    },
+    {
+        "MesZL": 92,
+        "HethZL": "256(1)",
+        "LHA": 60,
+        "got": "c1d1",
+        "aBZL": 249,
+        "transliteration": {
+            "valid": true,
+            "content": "kur2"
+        },
+        "content": "𒉽"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kurku2"
+        },
+        "content": "𒅗𒀭𒉌𒋛"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "kurum7"
+        },
+        "content": "𒅆𒂟"
+    },
+    {
+        "MesZL": 119,
+        "HethZL": 330,
+        "LHA": 465,
+        "got": "c3d1",
+        "aBZL": 361,
+        "transliteration": {
+            "valid": true,
+            "content": "kurun2"
+        },
+        "content": "𒁷"
+    },
+    {
+        "MesZL": 16,
+        "HethZL": 213,
+        "LHA": 7,
+        "got": "a5b2c1d1",
+        "aBZL": 305,
+        "transliteration": {
+            "valid": true,
+            "content": "kusz"
+        },
+        "content": "𒋢"
+    },
+    {
+        "MesZL": 512,
+        "HethZL": "",
+        "LHA": 329,
+        "got": "a6b2c1d1",
+        "aBZL": 331,
+        "transliteration": {
+            "valid": true,
+            "content": "kusz2"
+        },
+        "content": "𒊨"
+    },
+    {
+        "MesZL": 89,
+        "HethZL": 95,
+        "LHA": 55,
+        "got": "a5b7",
+        "aBZL": 177,
+        "transliteration": {
+            "valid": true,
+            "content": "la"
+        },
+        "content": "𒆷"
+    },
+    {
+        "MesZL": 750,
+        "HethZL": 358,
+        "LHA": 481,
+        "got": "a1b1",
+        "aBZL": 391,
+        "transliteration": {
+            "valid": true,
+            "content": "la2"
+        },
+        "content": "𒇲"
+    },
+    {
+        "MesZL": 485,
+        "HethZL": 231,
+        "LHA": 314,
+        "got": "a3b5",
+        "aBZL": "212; 207a",
+        "transliteration": {
+            "valid": true,
+            "content": "lag"
+        },
+        "content": "𒋃"
+    },
+    {
+        "MesZL": 612,
+        "HethZL": 327,
+        "LHA": 393,
+        "got": "c2d2",
+        "aBZL": 247,
+        "transliteration": {
+            "valid": true,
+            "content": "lah2"
+        },
+        "content": "𒂟"
+    },
+    {
+        "MesZL": 750,
+        "HethZL": 358,
+        "LHA": 481,
+        "got": "a1b1",
+        "aBZL": 391,
+        "transliteration": {
+            "valid": true,
+            "content": "lal"
+        },
+        "content": "𒇲"
+    },
+    {
+        "MesZL": 170,
+        "HethZL": 170,
+        "LHA": 109,
+        "got": "a2b2c3d3",
+        "aBZL": 124,
+        "transliteration": {
+            "valid": true,
+            "content": "lal3"
+        },
+        "content": "𒋭"
+    },
+    {
+        "MesZL": 693,
+        "HethZL": 306,
+        "LHA": 435,
+        "got": "a5c2d2",
+        "aBZL": 244,
+        "transliteration": {
+            "valid": true,
+            "content": "lam"
+        },
+        "content": "𒇴"
+    },
+    {
+        "MesZL": 85,
+        "HethZL": 343,
+        "LHA": 59,
+        "got": "a2b4c11d1",
+        "aBZL": 381,
+        "transliteration": {
+            "valid": true,
+            "content": "li"
+        },
+        "content": "𒇷"
+    },
+    {
+        "MesZL": 437,
+        "HethZL": 77,
+        "LHA": 232,
+        "got": "a3c1d1",
+        "aBZL": 263,
+        "transliteration": {
+            "valid": true,
+            "content": "li2"
+        },
+        "content": "𒅕"
+    },
+    {
+        "MesZL": 544,
+        "HethZL": 127,
+        "LHA": 336,
+        "got": "b2c12d1",
+        "aBZL": 91,
+        "transliteration": {
+            "valid": true,
+            "content": "lil"
+        },
+        "content": "𒇸"
+    },
+    {
+        "MesZL": 484,
+        "HethZL": 194,
+        "LHA": 313,
+        "got": "a6b4",
+        "aBZL": 163,
+        "transliteration": {
+            "valid": true,
+            "content": "lil2"
+        },
+        "content": "𒆤"
+    },
+    {
+        "MesZL": 724,
+        "HethZL": 288,
+        "LHA": 449,
+        "got": "a1b1c1",
+        "aBZL": 233,
+        "transliteration": {
+            "valid": true,
+            "content": "lim"
+        },
+        "content": "𒅆"
+    },
+    {
+        "MesZL": 860,
+        "HethZL": 370,
+        "LHA": 597,
+        "got": "a4",
+        "aBZL": 472,
+        "transliteration": {
+            "valid": true,
+            "content": "limmu"
+        },
+        "content": "𒐼"
+    },
+    {
+        "MesZL": 677,
+        "HethZL": "",
+        "LHA": 424,
+        "got": "c5d4",
+        "aBZL": 353,
+        "transliteration": {
+            "valid": true,
+            "content": "lipisz"
+        },
+        "content": "𒀚"
+    },
+    {
+        "MesZL": 812,
+        "HethZL": 210,
+        "LHA": 537,
+        "got": "a3b3",
+        "aBZL": 416,
+        "transliteration": {
+            "valid": true,
+            "content": "lu"
+        },
+        "content": "𒇻"
+    },
+    {
+        "MesZL": 514,
+        "HethZL": 78,
+        "LHA": 330,
+        "got": "a4c3d1",
+        "aBZL": 253,
+        "transliteration": {
+            "valid": true,
+            "content": "lu2"
+        },
+        "content": "𒇽"
+    },
+    {
+        "MesZL": 570,
+        "HethZL": "19; 351",
+        "LHA": 355,
+        "got": "a2c6d5",
+        "aBZL": 296,
+        "transliteration": {
+            "valid": true,
+            "content": "lu5"
+        },
+        "content": "𒈜"
+    },
+    {
+        "MesZL": 570,
+        "HethZL": "19; 351",
+        "LHA": 355,
+        "got": "a2c6d5",
+        "aBZL": 296,
+        "transliteration": {
+            "valid": true,
+            "content": "lub"
+        },
+        "content": "𒈜"
+    },
+    {
+        "MesZL": 499,
+        "HethZL": 162,
+        "LHA": 309,
+        "got": "a8b2c1d1",
+        "aBZL": 80,
+        "transliteration": {
+            "valid": true,
+            "content": "lud"
+        },
+        "content": "𒂁"
+    },
+    {
+        "MesZL": 266,
+        "HethZL": 115,
+        "LHA": 151,
+        "got": "a5b4c4d1",
+        "aBZL": "221a",
+        "transliteration": {
+            "valid": true,
+            "content": "lugal"
+        },
+        "content": "𒈗"
+    },
+    {
+        "MesZL": 494,
+        "HethZL": 198,
+        "LHA": 321,
+        "got": "a4b4",
+        "aBZL": 196,
+        "transliteration": {
+            "valid": true,
+            "content": "luh"
+        },
+        "content": "𒈛"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "lukur"
+        },
+        "content": "𒊩𒈨"
+    },
+    {
+        "MesZL": 570,
+        "HethZL": "19; 351",
+        "LHA": 355,
+        "got": "a2c6d5",
+        "aBZL": 296,
+        "transliteration": {
+            "valid": true,
+            "content": "lul"
+        },
+        "content": "𒈜"
+    },
+    {
+        "MesZL": 702,
+        "HethZL": "",
+        "LHA": "421a",
+        "got": "a7b10c4d3",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "lulim"
+        },
+        "content": "𒄎"
+    },
+    {
+        "MesZL": 900,
+        "HethZL": 310,
+        "LHA": 565,
+        "got": "c8d4",
+        "aBZL": 248,
+        "transliteration": {
+            "valid": true,
+            "content": "lum"
+        },
+        "content": "𒈝"
+    },
+    {
+        "MesZL": 362,
+        "HethZL": 154,
+        "LHA": 215,
+        "got": "a7b2c2d1",
+        "aBZL": 83,
+        "transliteration": {
+            "valid": true,
+            "content": "lunga"
+        },
+        "content": "𒋆"
+    },
+    {
+        "MesZL": 552,
+        "HethZL": 208,
+        "LHA": 342,
+        "got": "a2b3",
+        "aBZL": 166,
+        "transliteration": {
+            "valid": true,
+            "content": "ma"
+        },
+        "content": "𒈠"
+    },
+    {
+        "MesZL": 201,
+        "HethZL": 87,
+        "LHA": 122,
+        "got": "a3b2",
+        "aBZL": 50,
+        "transliteration": {
+            "valid": true,
+            "content": "ma2"
+        },
+        "content": "𒈣"
+    },
+    {
+        "MesZL": 91,
+        "HethZL": 10,
+        "LHA": 57,
+        "got": "a2b4c1d2",
+        "aBZL": 6,
+        "transliteration": {
+            "valid": true,
+            "content": "mah"
+        },
+        "content": "𒈤"
+    },
+    {
+        "MesZL": 483,
+        "HethZL": 191,
+        "LHA": 307,
+        "got": "a2b3",
+        "aBZL": 144,
+        "transliteration": {
+            "valid": true,
+            "content": "mar"
+        },
+        "content": "𒈥"
+    },
+    {
+        "MesZL": 120,
+        "HethZL": 20,
+        "LHA": 74,
+        "got": "a1b1",
+        "aBZL": 29,
+        "transliteration": {
+            "valid": true,
+            "content": "masz"
+        },
+        "content": "𒈦"
+    },
+    {
+        "MesZL": 130,
+        "HethZL": 38,
+        "LHA": 76,
+        "got": "a1b1c2d2",
+        "aBZL": 31,
+        "transliteration": {
+            "valid": true,
+            "content": "masz2"
+        },
+        "content": "𒈧"
+    },
+    {
+        "MesZL": 753,
+        "HethZL": 357,
+        "LHA": 532,
+        "got": "a1b1",
+        "aBZL": 392,
+        "transliteration": {
+            "valid": true,
+            "content": "me"
+        },
+        "content": "𒈨"
+    },
+    {
+        "MesZL": 129,
+        "HethZL": 82,
+        "LHA": 98,
+        "aBZL": 53,
+        "transliteration": {
+            "valid": true,
+            "content": "me3"
+        },
+        "content": "𒀞"
+    },
+    {
+        "MesZL": 427,
+        "HethZL": "",
+        "LHA": 270,
+        "got": "a6b8c3",
+        "aBZL": 102,
+        "transliteration": {
+            "valid": true,
+            "content": "men"
+        },
+        "content": "𒃞"
+    },
+    {
+        "MesZL": 681,
+        "HethZL": 267,
+        "LHA": 427,
+        "got": "b8c1",
+        "aBZL": 348,
+        "transliteration": {
+            "valid": true,
+            "content": "mi"
+        },
+        "content": "𒈪"
+    },
+    {
+        "MesZL": 883,
+        "HethZL": 297,
+        "LHA": 554,
+        "got": "a1b1c1d1",
+        "aBZL": 450,
+        "transliteration": {
+            "valid": true,
+            "content": "mi2"
+        },
+        "content": "𒊩"
+    },
+    {
+        "MesZL": 825,
+        "HethZL": 361,
+        "LHA": 570,
+        "got": "a2",
+        "aBZL": 465,
+        "transliteration": {
+            "valid": true,
+            "content": "min"
+        },
+        "content": "𒈫"
+    },
+    {
+        "MesZL": 98,
+        "HethZL": 17,
+        "LHA": 61,
+        "got": "b1c6",
+        "aBZL": 20,
+        "transliteration": {
+            "valid": true,
+            "content": "mu"
+        },
+        "content": "𒈬"
+    },
+    {
+        "MesZL": 541,
+        "HethZL": 353,
+        "LHA": "331e, 152iv",
+        "got": "a2b2c9",
+        "aBZL": 385,
+        "transliteration": {
+            "valid": true,
+            "content": "mu2"
+        },
+        "content": "𒊬"
+    },
+    {
+        "MesZL": 686,
+        "HethZL": 165,
+        "LHA": 440,
+        "got": "a2b2c1d2",
+        "aBZL": 67,
+        "transliteration": {
+            "valid": true,
+            "content": "mud"
+        },
+        "content": "𒁶"
+    },
+    {
+        "MesZL": 589,
+        "HethZL": 249,
+        "LHA": 376,
+        "got": "a2c2d2",
+        "aBZL": 289,
+        "transliteration": {
+            "valid": true,
+            "content": "mul"
+        },
+        "content": "𒋼"
+    },
+    {
+        "MesZL": 168,
+        "HethZL": 18,
+        "LHA": "95, 095v",
+        "got": "a2b1c6d2",
+        "aBZL": 15,
+        "transliteration": {
+            "valid": true,
+            "content": "mun"
+        },
+        "content": "𒁵"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "munsub2"
+        },
+        "content": "𒋠𒇴𒋦"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "munu4"
+        },
+        "content": "𒉽𒉽"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "LHA": 401,
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "mur"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": 905,
+        "HethZL": 311,
+        "LHA": 567,
+        "got": "c6d4",
+        "aBZL": 243,
+        "transliteration": {
+            "valid": true,
+            "content": "murgu"
+        },
+        "content": "𒋞"
+    },
+    {
+        "MesZL": 901,
+        "HethZL": 311,
+        "LHA": 565,
+        "got": "c4d2",
+        "aBZL": 242,
+        "transliteration": {
+            "valid": true,
+            "content": "murgu2"
+        },
+        "content": "𒈱"
+    },
+    {
+        "MesZL": 585,
+        "HethZL": 342,
+        "LHA": 374,
+        "got": "a4b1c3d2",
+        "aBZL": 267,
+        "transliteration": {
+            "valid": true,
+            "content": "musz"
+        },
+        "content": "𒈲"
+    },
+    {
+        "MesZL": 132,
+        "HethZL": 24,
+        "LHA": 78,
+        "got": "a2b1c1",
+        "aBZL": 34,
+        "transliteration": {
+            "valid": true,
+            "content": "muszen"
+        },
+        "content": "𒄷"
+    },
+    {
+        "MesZL": 110,
+        "HethZL": 15,
+        "LHA": 70,
+        "got": "b4c3d2",
+        "aBZL": 24,
+        "transliteration": {
+            "valid": true,
+            "content": "na"
+        },
+        "content": "𒈾"
+    },
+    {
+        "MesZL": 689,
+        "HethZL": 314,
+        "LHA": 431,
+        "got": "a2b6c7d1",
+        "aBZL": 364,
+        "transliteration": {
+            "valid": true,
+            "content": "na2"
+        },
+        "content": "𒈿"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "na4"
+        },
+        "content": "𒉌𒌓"
+    },
+    {
+        "MesZL": 246,
+        "HethZL": 100,
+        "LHA": 129,
+        "got": "a2b2c2d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nab"
+        },
+        "content": "𒀮"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nagga"
+        },
+        "content": "𒀭𒈾"
+    },
+    {
+        "MesZL": 134,
+        "HethZL": 39,
+        "LHA": 79,
+        "got": "a3b1c9",
+        "aBZL": 42,
+        "transliteration": {
+            "valid": true,
+            "content": "nam"
+        },
+        "content": "𒉆"
+    },
+    {
+        "MesZL": 313,
+        "HethZL": 169,
+        "LHA": 172,
+        "got": "a1b4c4",
+        "aBZL": 116,
+        "transliteration": {
+            "valid": true,
+            "content": "ne"
+        },
+        "content": "𒉈"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a10b9c2d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ne3"
+        },
+        "content": "𒊊"
+    },
+    {
+        "MesZL": 380,
+        "HethZL": 72,
+        "LHA": 231,
+        "got": "a2c1d1",
+        "aBZL": 261,
+        "transliteration": {
+            "valid": true,
+            "content": "ni"
+        },
+        "content": "𒉌"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a4b1c2d3",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ni2"
+        },
+        "content": "𒉎"
+    },
+    {
+        "MesZL": 859,
+        "HethZL": 369,
+        "LHA": 597,
+        "got": "a3d1",
+        "aBZL": 473,
+        "transliteration": {
+            "valid": true,
+            "content": "nig2"
+        },
+        "content": "𒃻"
+    },
+    {
+        "MesZL": 859,
+        "HethZL": 369,
+        "LHA": 597,
+        "got": "a3d1",
+        "aBZL": 473,
+        "transliteration": {
+            "valid": true,
+            "content": "nij2"
+        },
+        "content": "𒃻"
+    },
+    {
+        "MesZL": 712,
+        "HethZL": 335,
+        "LHA": 473,
+        "got": "c4",
+        "aBZL": 374,
+        "transliteration": {
+            "valid": true,
+            "content": "nimin"
+        },
+        "content": "𒐏"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nin"
+        },
+        "content": "𒊩𒌆"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nin9"
+        },
+        "content": "𒊩𒆪"
+    },
+    {
+        "MesZL": 316,
+        "HethZL": 119,
+        "LHA": 176,
+        "got": "b4c2",
+        "aBZL": 135,
+        "transliteration": {
+            "valid": true,
+            "content": "ninda"
+        },
+        "content": "𒉒"
+    },
+    {
+        "MesZL": 714,
+        "HethZL": "",
+        "LHA": 475,
+        "got": "c5",
+        "aBZL": 376,
+        "transliteration": {
+            "valid": true,
+            "content": "ninnu"
+        },
+        "content": "𒐐"
+    },
+    {
+        "MesZL": 502,
+        "HethZL": 204,
+        "LHA": 325,
+        "got": "a10b2",
+        "aBZL": 148,
+        "transliteration": {
+            "valid": true,
+            "content": "nir"
+        },
+        "content": "𒉪"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nisz"
+        },
+        "content": "𒌋𒌋"
+    },
+    {
+        "MesZL": 112,
+        "HethZL": 11,
+        "LHA": 75,
+        "got": "a1b1d1",
+        "aBZL": 19,
+        "transliteration": {
+            "valid": true,
+            "content": "nu"
+        },
+        "content": "𒉡"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b8c4d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "nu11"
+        },
+        "content": "𒉢"
+    },
+    {
+        "MesZL": 690,
+        "HethZL": 74,
+        "LHA": 433,
+        "got": "a1c3d1",
+        "aBZL": 355,
+        "transliteration": {
+            "valid": true,
+            "content": "num"
+        },
+        "content": "𒉏"
+    },
+    {
+        "MesZL": 900,
+        "HethZL": 310,
+        "LHA": 565,
+        "got": "c8d4",
+        "aBZL": 248,
+        "transliteration": {
+            "valid": true,
+            "content": "num2"
+        },
+        "content": "𒈝"
+    },
+    {
+        "MesZL": 117,
+        "HethZL": 12,
+        "LHA": 72,
+        "got": "b2c3",
+        "aBZL": 26,
+        "transliteration": {
+            "valid": true,
+            "content": "numun"
+        },
+        "content": "𒆰"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "numun2"
+        },
+        "content": "𒍤𒆸"
+    },
+    {
+        "MesZL": 143,
+        "HethZL": 36,
+        "LHA": 87,
+        "got": "a5b1",
+        "aBZL": 47,
+        "transliteration": {
+            "valid": true,
+            "content": "nun"
+        },
+        "content": "𒉣"
+    },
+    {
+        "MesZL": 464,
+        "HethZL": 174,
+        "LHA": 295,
+        "got": "a1b2",
+        "aBZL": 143,
+        "transliteration": {
+            "valid": true,
+            "content": "pa"
+        },
+        "content": "𒉺"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "pa5"
+        },
+        "content": "𒉽𒂊"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "pad3"
+        },
+        "content": "𒅆𒊒"
+    },
+    {
+        "MesZL": 132,
+        "HethZL": 24,
+        "LHA": 78,
+        "got": "a2b1c1",
+        "aBZL": 34,
+        "transliteration": {
+            "valid": true,
+            "content": "pag"
+        },
+        "content": "𒄷"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a8b8c8d8",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "pagra3"
+        },
+        "content": "𒈔"
+    },
+    {
+        "MesZL": 570,
+        "HethZL": "19; 351",
+        "LHA": 355,
+        "got": "a2c6d5",
+        "aBZL": 296,
+        "transliteration": {
+            "valid": true,
+            "content": "pah"
+        },
+        "content": "𒈜"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "palil"
+        },
+        "content": "𒅆𒁺"
+    },
+    {
+        "MesZL": 92,
+        "HethZL": "256(1)",
+        "LHA": 60,
+        "got": "c1d1",
+        "aBZL": 249,
+        "transliteration": {
+            "valid": true,
+            "content": "pap"
+        },
+        "content": "𒉽"
+    },
+    {
+        "MesZL": 598,
+        "HethZL": 317,
+        "LHA": 383,
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "pe"
+        },
+        "content": "𒉿"
+    },
+    {
+        "MesZL": 558,
+        "HethZL": "244A",
+        "LHA": 346,
+        "got": "a4b4c2",
+        "aBZL": 222,
+        "transliteration": {
+            "valid": true,
+            "content": "pesz"
+        },
+        "content": "𒄫"
+    },
+    {
+        "MesZL": 598,
+        "HethZL": 317,
+        "LHA": 383,
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "pi"
+        },
+        "content": "𒉿"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "LHA": 371,
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "pu"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": 511,
+        "HethZL": 233,
+        "LHA": 328,
+        "got": "a4b5",
+        "aBZL": 192,
+        "transliteration": {
+            "valid": true,
+            "content": "ra"
+        },
+        "content": "𒊏"
+    },
+    {
+        "MesZL": 142,
+        "HethZL": 32,
+        "LHA": 86,
+        "got": "a3b1c1",
+        "aBZL": 39,
+        "transliteration": {
+            "valid": true,
+            "content": "ri"
+        },
+        "content": "𒊑"
+    },
+    {
+        "MesZL": 71,
+        "HethZL": 229,
+        "LHA": 38,
+        "got": "a3b3",
+        "aBZL": 181,
+        "transliteration": {
+            "valid": true,
+            "content": "ri2"
+        },
+        "content": "𒌷"
+    },
+    {
+        "MesZL": 496,
+        "HethZL": 196,
+        "LHA": 322,
+        "got": "a2b2c1d1",
+        "aBZL": 176,
+        "transliteration": {
+            "valid": true,
+            "content": "rib"
+        },
+        "content": "𒆗"
+    },
+    {
+        "MesZL": 65,
+        "HethZL": 149,
+        "LHA": 36,
+        "got": "a6b2c5d2",
+        "aBZL": 329,
+        "transliteration": {
+            "valid": true,
+            "content": "rig"
+        },
+        "content": "𒅥"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "rig7"
+        },
+        "content": "𒉺𒄸𒁺"
+    },
+    {
+        "MesZL": 352,
+        "HethZL": 129,
+        "LHA": 202,
+        "got": "a1b2c6",
+        "aBZL": 66,
+        "transliteration": {
+            "valid": true,
+            "content": "rim4"
+        },
+        "content": "𒁽"
+    },
+    {
+        "MesZL": 755,
+        "HethZL": 179,
+        "LHA": 483,
+        "got": "a2b2",
+        "aBZL": 402,
+        "transliteration": {
+            "valid": true,
+            "content": "rin"
+        },
+        "content": "𒆸"
+    },
+    {
+        "MesZL": 111,
+        "HethZL": 43,
+        "LHA": 68,
+        "got": "b2c2d2",
+        "aBZL": 60,
+        "transliteration": {
+            "valid": true,
+            "content": "ru"
+        },
+        "content": "𒊒"
+    },
+    {
+        "MesZL": 1,
+        "HethZL": 1,
+        "LHA": 1,
+        "got": "b1",
+        "aBZL": 1,
+        "transliteration": {
+            "valid": true,
+            "content": "rum"
+        },
+        "content": "𒀸"
+    },
+    {
+        "MesZL": 172,
+        "HethZL": 200,
+        "LHA": 104,
+        "got": "a4b4",
+        "aBZL": 147,
+        "transliteration": {
+            "valid": true,
+            "content": "sa"
+        },
+        "content": "𒊓"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b4c12",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sa10"
+        },
+        "content": "𒉚"
+    },
+    {
+        "MesZL": 736,
+        "HethZL": 312,
+        "LHA": 457,
+        "got": "b2c2d2",
+        "aBZL": 431,
+        "transliteration": {
+            "valid": true,
+            "content": "sa2"
+        },
+        "content": "𒁲"
+    },
+    {
+        "MesZL": 851,
+        "HethZL": 366,
+        "LHA": 586,
+        "got": "a4",
+        "aBZL": 474,
+        "transliteration": {
+            "valid": true,
+            "content": "sa3"
+        },
+        "content": "𒍝"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sa4"
+        },
+        "content": "𒄷𒈿"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sag2"
+        },
+        "content": "𒉺𒃶"
+    },
+    {
+        "MesZL": 511,
+        "HethZL": 233,
+        "LHA": 328,
+        "got": "a4b5",
+        "aBZL": 192,
+        "transliteration": {
+            "valid": true,
+            "content": "sag3"
+        },
+        "content": "𒊏"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "sag9"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 357,
+        "HethZL": 151,
+        "LHA": 212,
+        "got": "a2b4c1",
+        "aBZL": 162,
+        "transliteration": {
+            "valid": true,
+            "content": "sahar"
+        },
+        "content": "𒅖"
+    },
+    {
+        "MesZL": 184,
+        "HethZL": 192,
+        "LHA": 115,
+        "got": "a3b2c1d1",
+        "aBZL": 309,
+        "transliteration": {
+            "valid": true,
+            "content": "saj"
+        },
+        "content": "𒊕"
+    },
+    {
+        "MesZL": 883,
+        "HethZL": 297,
+        "LHA": 554,
+        "got": "a1b1c1d1",
+        "aBZL": 450,
+        "transliteration": {
+            "valid": true,
+            "content": "sal"
+        },
+        "content": "𒊩"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b4c12",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sam2"
+        },
+        "content": "𒉚"
+    },
+    {
+        "MesZL": 541,
+        "HethZL": 353,
+        "LHA": "331e, 152iv",
+        "got": "a2b2c9",
+        "aBZL": 385,
+        "transliteration": {
+            "valid": true,
+            "content": "sar"
+        },
+        "content": "𒊬"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sed4"
+        },
+        "content": "𒈹𒁲"
+    },
+    {
+        "MesZL": 181,
+        "HethZL": 86,
+        "LHA": 112,
+        "got": "a2b2",
+        "aBZL": 164,
+        "transliteration": {
+            "valid": true,
+            "content": "si"
+        },
+        "content": "𒋛"
+    },
+    {
+        "MesZL": 881,
+        "HethZL": 255,
+        "LHA": 592,
+        "got": "c2d2",
+        "aBZL": 437,
+        "transliteration": {
+            "valid": true,
+            "content": "sig"
+        },
+        "content": "𒋝"
+    },
+    {
+        "MesZL": 292,
+        "HethZL": 350,
+        "LHA": 164,
+        "got": "c10",
+        "aBZL": 388,
+        "transliteration": {
+            "valid": true,
+            "content": "sig10"
+        },
+        "content": "𒋧"
+    },
+    {
+        "MesZL": 141,
+        "HethZL": 30,
+        "LHA": 85,
+        "got": "a1b1c5d2",
+        "aBZL": 40,
+        "transliteration": {
+            "valid": true,
+            "content": "sig17"
+        },
+        "content": "𒄀"
+    },
+    {
+        "MesZL": 564,
+        "HethZL": 239,
+        "LHA": 351,
+        "got": "a1b5c1",
+        "aBZL": 198,
+        "transliteration": {
+            "valid": true,
+            "content": "sig7"
+        },
+        "content": "𒅊"
+    },
+    {
+        "MesZL": 181,
+        "HethZL": 86,
+        "LHA": 112,
+        "got": "a2b2",
+        "aBZL": 164,
+        "transliteration": {
+            "valid": true,
+            "content": "sig9"
+        },
+        "content": "𒋛"
+    },
+    {
+        "MesZL": 816,
+        "HethZL": 65,
+        "LHA": 539,
+        "got": "a3b7c1",
+        "aBZL": 395,
+        "transliteration": {
+            "valid": true,
+            "content": "siki"
+        },
+        "content": "𒋠"
+    },
+    {
+        "MesZL": 899,
+        "HethZL": 307,
+        "LHA": 564,
+        "got": "a3b3c1d1",
+        "aBZL": 455,
+        "transliteration": {
+            "valid": true,
+            "content": "sikil"
+        },
+        "content": "𒂖"
+    },
+    {
+        "MesZL": 485,
+        "HethZL": 231,
+        "LHA": 314,
+        "got": "a3b5",
+        "aBZL": "212; 207a",
+        "transliteration": {
+            "valid": true,
+            "content": "sila11"
+        },
+        "content": "𒋃"
+    },
+    {
+        "MesZL": 99,
+        "HethZL": 21,
+        "LHA": 62,
+        "got": "a1c1d1",
+        "aBZL": 269,
+        "transliteration": {
+            "valid": true,
+            "content": "sila3"
+        },
+        "content": "𒋡"
+    },
+    {
+        "MesZL": 408,
+        "HethZL": 54,
+        "LHA": 252,
+        "got": "a4b4",
+        "aBZL": 97,
+        "transliteration": {
+            "valid": true,
+            "content": "sila4"
+        },
+        "content": "𒃢"
+    },
+    {
+        "MesZL": 79,
+        "HethZL": "",
+        "LHA": 44,
+        "got": "a4b4c1",
+        "aBZL": 184,
+        "transliteration": {
+            "valid": true,
+            "content": "silig"
+        },
+        "content": "𒍂"
+    },
+    {
+        "MesZL": 736,
+        "HethZL": 312,
+        "LHA": 457,
+        "got": "b2c2d2",
+        "aBZL": 431,
+        "transliteration": {
+            "valid": true,
+            "content": "silim"
+        },
+        "content": "𒁲"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "sipard"
+        },
+        "content": "𒋠𒇴𒋦"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "LHA": 371,
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "sir2"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": 16,
+        "HethZL": 213,
+        "LHA": 7,
+        "got": "a5b2c1d1",
+        "aBZL": 305,
+        "transliteration": {
+            "valid": true,
+            "content": "su"
+        },
+        "content": "𒋢"
+    },
+    {
+        "MesZL": 584,
+        "HethZL": 341,
+        "LHA": 373,
+        "got": "a4b1c2d2",
+        "aBZL": 266,
+        "transliteration": {
+            "valid": true,
+            "content": "su3"
+        },
+        "content": "𒋤"
+    },
+    {
+        "MesZL": 584,
+        "HethZL": 341,
+        "LHA": 373,
+        "got": "a4b1c2d2",
+        "aBZL": 266,
+        "transliteration": {
+            "valid": true,
+            "content": "sud"
+        },
+        "content": "𒋤"
+    },
+    {
+        "MesZL": 153,
+        "HethZL": 41,
+        "LHA": "103v",
+        "got": "a2b1c1d1",
+        "aBZL": 44,
+        "transliteration": {
+            "valid": true,
+            "content": "suh"
+        },
+        "content": "𒈹"
+    },
+    {
+        "MesZL": 153,
+        "HethZL": 41,
+        "LHA": "103v",
+        "got": "a2b1c1d1",
+        "aBZL": 44,
+        "transliteration": {
+            "valid": true,
+            "content": "suh10"
+        },
+        "content": "𒈹"
+    },
+    {
+        "MesZL": 892,
+        "HethZL": "",
+        "LHA": 569,
+        "got": "c11d5",
+        "aBZL": 251,
+        "transliteration": {
+            "valid": true,
+            "content": "suh3"
+        },
+        "content": "𒄗"
+    },
+    {
+        "MesZL": 646,
+        "HethZL": 349,
+        "LHA": 403,
+        "got": "a8c6d2",
+        "aBZL": 384,
+        "transliteration": {
+            "valid": true,
+            "content": "suhur"
+        },
+        "content": "𒋦"
+    },
+    {
+        "MesZL": 494,
+        "HethZL": 198,
+        "LHA": 321,
+        "got": "a4b4",
+        "aBZL": 196,
+        "transliteration": {
+            "valid": true,
+            "content": "sukkal"
+        },
+        "content": "𒈛"
+    },
+    {
+        "MesZL": 292,
+        "HethZL": 350,
+        "LHA": 164,
+        "got": "c10",
+        "aBZL": 388,
+        "transliteration": {
+            "valid": true,
+            "content": "sum"
+        },
+        "content": "𒋧"
+    },
+    {
+        "MesZL": 512,
+        "HethZL": "",
+        "LHA": 329,
+        "got": "a6b2c1d1",
+        "aBZL": 331,
+        "transliteration": {
+            "valid": true,
+            "content": "sumur"
+        },
+        "content": "𒊨"
+    },
+    {
+        "MesZL": 32,
+        "HethZL": 136,
+        "LHA": "18x",
+        "got": "a7b6c5d1",
+        "aBZL": 316,
+        "transliteration": {
+            "valid": true,
+            "content": "sun4"
+        },
+        "content": "𒅾"
+    },
+    {
+        "MesZL": 8,
+        "HethZL": "",
+        "LHA": 11,
+        "got": "a2b2c3d1",
+        "aBZL": 13,
+        "transliteration": {
+            "valid": true,
+            "content": "sun5"
+        },
+        "content": "𒁔"
+    },
+    {
+        "MesZL": 151,
+        "HethZL": 42,
+        "LHA": 101,
+        "got": "a3b1d1",
+        "aBZL": 56,
+        "transliteration": {
+            "valid": true,
+            "content": "sur"
+        },
+        "content": "𒋩"
+    },
+    {
+        "MesZL": 566,
+        "HethZL": 158,
+        "LHA": 353,
+        "got": "a2b4c1d1",
+        "aBZL": 203,
+        "transliteration": {
+            "valid": true,
+            "content": "sza"
+        },
+        "content": "𒊭"
+    },
+    {
+        "MesZL": 859,
+        "HethZL": 369,
+        "LHA": 597,
+        "got": "a3d1",
+        "aBZL": 473,
+        "transliteration": {
+            "valid": true,
+            "content": "sza2"
+        },
+        "content": "𒃻"
+    },
+    {
+        "MesZL": 599,
+        "HethZL": 294,
+        "LHA": 384,
+        "got": "c3d3",
+        "aBZL": 433,
+        "transliteration": {
+            "valid": true,
+            "content": "sza3"
+        },
+        "content": "𒊮"
+    },
+    {
+        "MesZL": 599,
+        "HethZL": 294,
+        "LHA": 384,
+        "got": "c3d3",
+        "aBZL": 433,
+        "transliteration": {
+            "valid": true,
+            "content": "szag4"
+        },
+        "content": "𒊮"
+    },
+    {
+        "MesZL": 744,
+        "HethZL": 46,
+        "LHA": 467,
+        "got": "a5b2c3d2",
+        "aBZL": "ŠUL:438",
+        "transliteration": {
+            "valid": true,
+            "content": "szah2"
+        },
+        "content": "𒂄"
+    },
+    {
+        "MesZL": 84,
+        "HethZL": "",
+        "LHA": 46,
+        "got": "a5b4c3d1",
+        "aBZL": 185,
+        "transliteration": {
+            "valid": true,
+            "content": "szakir"
+        },
+        "content": "𒍀"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b4c12",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "szam2"
+        },
+        "content": "𒉚"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "szamanur"
+        },
+        "content": "𒅖𒍏"
+    },
+    {
+        "MesZL": 632,
+        "HethZL": 335,
+        "LHA": 396,
+        "got": "c4",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "szar2"
+        },
+        "content": "𒊹"
+    },
+    {
+        "MesZL": 579,
+        "HethZL": 338,
+        "LHA": 367,
+        "got": "c10",
+        "aBZL": 378,
+        "transliteration": {
+            "valid": true,
+            "content": "sze"
+        },
+        "content": "𒊺"
+    },
+    {
+        "MesZL": 810,
+        "HethZL": 212,
+        "LHA": 536,
+        "got": "a2b7",
+        "aBZL": 420,
+        "transliteration": {
+            "valid": true,
+            "content": "sze3"
+        },
+        "content": "𒂠"
+    },
+    {
+        "MesZL": 47,
+        "HethZL": "",
+        "LHA": "25b",
+        "got": "a4b10c11d3",
+        "aBZL": 317,
+        "transliteration": {
+            "valid": true,
+            "content": "szeg11"
+        },
+        "content": "𒅝"
+    },
+    {
+        "MesZL": 905,
+        "HethZL": 311,
+        "LHA": 567,
+        "got": "c6d4",
+        "aBZL": 243,
+        "transliteration": {
+            "valid": true,
+            "content": "szeg12"
+        },
+        "content": "𒋞"
+    },
+    {
+        "MesZL": 362,
+        "HethZL": 154,
+        "LHA": 215,
+        "got": "a7b2c2d1",
+        "aBZL": 83,
+        "transliteration": {
+            "valid": true,
+            "content": "szembi2"
+        },
+        "content": "𒋆"
+    },
+    {
+        "MesZL": 17,
+        "HethZL": 230,
+        "LHA": 8,
+        "got": "a14b6",
+        "aBZL": 306,
+        "transliteration": {
+            "valid": true,
+            "content": "szen"
+        },
+        "content": "𒊿"
+    },
+    {
+        "MesZL": 535,
+        "HethZL": 79,
+        "LHA": 331,
+        "got": "b1c4d2",
+        "aBZL": "21b",
+        "transliteration": {
+            "valid": true,
+            "content": "szesz"
+        },
+        "content": "𒋀"
+    },
+    {
+        "MesZL": 821,
+        "HethZL": 63,
+        "LHA": 544,
+        "got": "a11b9",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "szesz2"
+        },
+        "content": "𒋁"
+    },
+    {
+        "MesZL": 485,
+        "HethZL": 231,
+        "LHA": 314,
+        "got": "a3b5",
+        "aBZL": "212; 207a",
+        "transliteration": {
+            "valid": true,
+            "content": "szid"
+        },
+        "content": "𒋃"
+    },
+    {
+        "MesZL": 79,
+        "HethZL": "",
+        "LHA": 44,
+        "got": "a4b4c1",
+        "aBZL": 184,
+        "transliteration": {
+            "valid": true,
+            "content": "szilig"
+        },
+        "content": "𒍂"
+    },
+    {
+        "MesZL": 362,
+        "HethZL": 154,
+        "LHA": 215,
+        "got": "a7b2c2d1",
+        "aBZL": 83,
+        "transliteration": {
+            "valid": true,
+            "content": "szim"
+        },
+        "content": "𒋆"
+    },
+    {
+        "MesZL": 567,
+        "HethZL": 68,
+        "LHA": 354,
+        "got": "a1b5",
+        "aBZL": 225,
+        "transliteration": {
+            "valid": true,
+            "content": "szu"
+        },
+        "content": "𒋗"
+    },
+    {
+        "MesZL": 869,
+        "HethZL": 251,
+        "LHA": 545,
+        "got": "a1c1",
+        "aBZL": 422,
+        "transliteration": {
+            "valid": true,
+            "content": "szu2"
+        },
+        "content": "𒋙"
+    },
+    {
+        "MesZL": 111,
+        "HethZL": 43,
+        "LHA": 68,
+        "got": "b2c2d2",
+        "aBZL": 60,
+        "transliteration": {
+            "valid": true,
+            "content": "szub"
+        },
+        "content": "𒊒"
+    },
+    {
+        "MesZL": 49,
+        "HethZL": "",
+        "LHA": 26,
+        "got": "a4b8c5d1",
+        "aBZL": 320,
+        "transliteration": {
+            "valid": true,
+            "content": "szudu3"
+        },
+        "content": "𒆃"
+    },
+    {
+        "MesZL": 221,
+        "HethZL": 91,
+        "LHA": 126,
+        "got": "a6b2c2d2",
+        "aBZL": 122,
+        "transliteration": {
+            "valid": true,
+            "content": "szum"
+        },
+        "content": "𒋳"
+    },
+    {
+        "MesZL": 248,
+        "HethZL": 160,
+        "LHA": 139,
+        "got": "a2b2c1d1",
+        "aBZL": 123,
+        "transliteration": {
+            "valid": true,
+            "content": "ta"
+        },
+        "content": "𒋫"
+    },
+    {
+        "MesZL": 209,
+        "HethZL": 90,
+        "LHA": 124,
+        "got": "b2",
+        "aBZL": 109,
+        "transliteration": {
+            "valid": true,
+            "content": "tab"
+        },
+        "content": "𒋰"
+    },
+    {
+        "MesZL": 221,
+        "HethZL": 91,
+        "LHA": 126,
+        "got": "a6b2c2d2",
+        "aBZL": 122,
+        "transliteration": {
+            "valid": true,
+            "content": "tag"
+        },
+        "content": "𒋳"
+    },
+    {
+        "MesZL": 106,
+        "HethZL": 227,
+        "LHA": "63d",
+        "got": "a6b1c1",
+        "aBZL": 58,
+        "transliteration": {
+            "valid": true,
+            "content": "tag4"
+        },
+        "content": "𒋺"
+    },
+    {
+        "MesZL": 301,
+        "HethZL": 171,
+        "LHA": 169,
+        "got": "b2c12",
+        "aBZL": 142,
+        "transliteration": {
+            "valid": true,
+            "content": "tah"
+        },
+        "content": "𒈭"
+    },
+    {
+        "MesZL": 106,
+        "HethZL": 227,
+        "LHA": "63d",
+        "got": "a6b1c1",
+        "aBZL": 58,
+        "transliteration": {
+            "valid": true,
+            "content": "taka4"
+        },
+        "content": "𒋺"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "tam"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": 9,
+        "HethZL": 7,
+        "LHA": 12,
+        "got": "a1c2",
+        "aBZL": 231,
+        "transliteration": {
+            "valid": true,
+            "content": "tar"
+        },
+        "content": "𒋻"
+    },
+    {
+        "MesZL": 166,
+        "HethZL": 71,
+        "LHA": "100; 063x",
+        "got": "a2b5c7d5",
+        "aBZL": 365,
+        "transliteration": {
+            "valid": true,
+            "content": "tarah"
+        },
+        "content": "𒁰"
+    },
+    {
+        "MesZL": 828,
+        "HethZL": 51,
+        "LHA": 575,
+        "got": "a3b2",
+        "aBZL": 400,
+        "transliteration": {
+            "valid": true,
+            "content": "tasz"
+        },
+        "content": "𒌨"
+    },
+    {
+        "MesZL": 589,
+        "HethZL": 249,
+        "LHA": 376,
+        "got": "a2c2d2",
+        "aBZL": 289,
+        "transliteration": {
+            "valid": true,
+            "content": "te"
+        },
+        "content": "𒋼"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "c4d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "tel"
+        },
+        "content": "𒌀"
+    },
+    {
+        "MesZL": 828,
+        "HethZL": 51,
+        "LHA": 575,
+        "got": "a3b2",
+        "aBZL": 400,
+        "transliteration": {
+            "valid": true,
+            "content": "tesz2"
+        },
+        "content": "𒌨"
+    },
+    {
+        "MesZL": 118,
+        "HethZL": 37,
+        "LHA": 73,
+        "got": "a1b2c2",
+        "aBZL": 23,
+        "transliteration": {
+            "valid": true,
+            "content": "ti"
+        },
+        "content": "𒋾"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "c4d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "til"
+        },
+        "content": "𒌀"
+    },
+    {
+        "MesZL": 118,
+        "HethZL": 37,
+        "LHA": 73,
+        "got": "a1b2c2",
+        "aBZL": 23,
+        "transliteration": {
+            "valid": true,
+            "content": "til3"
+        },
+        "content": "𒋾"
+    },
+    {
+        "MesZL": 587,
+        "HethZL": 344,
+        "LHA": 375,
+        "aBZL": 380,
+        "transliteration": {
+            "valid": true,
+            "content": "tir"
+        },
+        "content": "𒌁"
+    },
+    {
+        "MesZL": 86,
+        "HethZL": 346,
+        "LHA": 58,
+        "got": "a1c12d2",
+        "aBZL": 382,
+        "transliteration": {
+            "valid": true,
+            "content": "tu"
+        },
+        "content": "𒌅"
+    },
+    {
+        "MesZL": 354,
+        "HethZL": 125,
+        "LHA": 207,
+        "got": "a4b4c3d1",
+        "aBZL": 75,
+        "transliteration": {
+            "valid": true,
+            "content": "tu2"
+        },
+        "content": "𒌈"
+    },
+    {
+        "MesZL": 354,
+        "HethZL": 125,
+        "LHA": 207,
+        "got": "a4b4c3d1",
+        "aBZL": 75,
+        "transliteration": {
+            "valid": true,
+            "content": "tu4"
+        },
+        "content": "𒌈"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "tu5"
+        },
+        "content": "𒋗𒉀"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "tu6"
+        },
+        "content": "𒉆𒊒"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b1c3d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "tu7"
+        },
+        "content": "𒄰"
+    },
+    {
+        "MesZL": 809,
+        "HethZL": 212,
+        "LHA": 536,
+        "got": "a2b4",
+        "aBZL": 417,
+        "transliteration": {
+            "valid": true,
+            "content": "tug2"
+        },
+        "content": "𒌆"
+    },
+    {
+        "MesZL": 827,
+        "HethZL": 53,
+        "LHA": 574,
+        "got": "a2b1c1d1",
+        "aBZL": 444,
+        "transliteration": {
+            "valid": true,
+            "content": "tuku"
+        },
+        "content": "𒌇"
+    },
+    {
+        "MesZL": 788,
+        "HethZL": "",
+        "LHA": 515,
+        "got": "a2b2c3",
+        "aBZL": 411,
+        "transliteration": {
+            "valid": true,
+            "content": "tuku4"
+        },
+        "content": "𒇧"
+    },
+    {
+        "MesZL": 786,
+        "HethZL": 180,
+        "LHA": 511,
+        "got": "a2b2c1",
+        "aBZL": 410,
+        "transliteration": {
+            "valid": true,
+            "content": "tul2"
+        },
+        "content": "𒇥"
+    },
+    {
+        "MesZL": 354,
+        "HethZL": 125,
+        "LHA": 207,
+        "got": "a4b4c3d1",
+        "aBZL": 75,
+        "transliteration": {
+            "valid": true,
+            "content": "tum"
+        },
+        "content": "𒌈"
+    },
+    {
+        "MesZL": 350,
+        "HethZL": 128,
+        "LHA": 206,
+        "got": "a1b2c2",
+        "aBZL": "64, 197",
+        "transliteration": {
+            "valid": true,
+            "content": "tum2"
+        },
+        "content": "𒁺"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "tur3"
+        },
+        "content": "𒉣𒇬"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "LHA": 536,
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "tusz"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": "",
+        "HethZL": 261,
+        "LHA": "",
+        "got": "c1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "u"
+        },
+        "content": "𒌋"
+    },
+    {
+        "MesZL": 490,
+        "HethZL": 195,
+        "LHA": 318,
+        "got": "a4b2",
+        "aBZL": 146,
+        "transliteration": {
+            "valid": true,
+            "content": "u2"
+        },
+        "content": "𒌑"
+    },
+    {
+        "MesZL": 731,
+        "HethZL": 265,
+        "LHA": 455,
+        "got": "a4b5c1",
+        "aBZL": "239b",
+        "transliteration": {
+            "valid": true,
+            "content": "u3"
+        },
+        "content": "𒅇"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "u4"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "u6"
+        },
+        "content": "𒅆𒂍"
+    },
+    {
+        "MesZL": 504,
+        "HethZL": 152,
+        "LHA": 306,
+        "got": "a1c2d2",
+        "aBZL": 288,
+        "transliteration": {
+            "valid": true,
+            "content": "ub"
+        },
+        "content": "𒌒"
+    },
+    {
+        "MesZL": 810,
+        "HethZL": 212,
+        "LHA": 536,
+        "got": "a2b7",
+        "aBZL": 420,
+        "transliteration": {
+            "valid": true,
+            "content": "ub2"
+        },
+        "content": "𒂠"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a10b12c5d3",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ubur"
+        },
+        "content": "𒁜"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "ud"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": 812,
+        "HethZL": 210,
+        "LHA": 537,
+        "got": "a3b3",
+        "aBZL": 416,
+        "transliteration": {
+            "valid": true,
+            "content": "udu"
+        },
+        "content": "𒇻"
+    },
+    {
+        "MesZL": 296,
+        "HethZL": 93,
+        "LHA": 130,
+        "got": "a10b9c4d4",
+        "aBZL": 179,
+        "transliteration": {
+            "valid": true,
+            "content": "ug"
+        },
+        "content": "𒊌"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "ugu"
+        },
+        "content": "𒌋𒅗"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "LHA": 536,
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "ugu4"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": 636,
+        "HethZL": 332,
+        "LHA": 398,
+        "got": "a5b1c2d2",
+        "aBZL": 280,
+        "transliteration": {
+            "valid": true,
+            "content": "uh"
+        },
+        "content": "𒄴"
+    },
+    {
+        "MesZL": 698,
+        "HethZL": 275,
+        "LHA": 441,
+        "got": "a1b2c2d1",
+        "aBZL": 344,
+        "transliteration": {
+            "valid": true,
+            "content": "ul"
+        },
+        "content": "𒌌"
+    },
+    {
+        "MesZL": 7,
+        "HethZL": 6,
+        "LHA": 10,
+        "got": "a4b1c2d2",
+        "aBZL": 8,
+        "transliteration": {
+            "valid": true,
+            "content": "ul4"
+        },
+        "content": "𒄉"
+    },
+    {
+        "MesZL": 80,
+        "HethZL": "",
+        "LHA": "49x",
+        "got": "a5b3",
+        "aBZL": 189,
+        "transliteration": {
+            "valid": true,
+            "content": "ulu3"
+        },
+        "content": "𒍇"
+    },
+    {
+        "MesZL": 238,
+        "HethZL": 98,
+        "LHA": 134,
+        "got": "a6b4",
+        "aBZL": 113,
+        "transliteration": {
+            "valid": true,
+            "content": "um"
+        },
+        "content": "𒌝"
+    },
+    {
+        "MesZL": "",
+        "HethZL": 261,
+        "LHA": "",
+        "got": "c1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "umun"
+        },
+        "content": "𒌋"
+    },
+    {
+        "MesZL": 547,
+        "HethZL": 102,
+        "LHA": 338,
+        "got": "a2b6c2d2",
+        "aBZL": 215,
+        "transliteration": {
+            "valid": true,
+            "content": "umun2"
+        },
+        "content": "𒌣"
+    },
+    {
+        "MesZL": "",
+        "HethZL": 197,
+        "LHA": "",
+        "got": "a6b5c2d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "un"
+        },
+        "content": "𒌦"
+    },
+    {
+        "MesZL": 73,
+        "HethZL": 134,
+        "LHA": 40,
+        "got": "a4b4",
+        "aBZL": 186,
+        "transliteration": {
+            "valid": true,
+            "content": "unken"
+        },
+        "content": "𒌺"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "unu2"
+        },
+        "content": "𒋼𒀕"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "unu6"
+        },
+        "content": "𒋼𒀕"
+    },
+    {
+        "MesZL": 232,
+        "HethZL": "",
+        "LHA": "",
+        "got": "a1b2c4d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "unug"
+        },
+        "content": "𒀔"
+    },
+    {
+        "MesZL": 828,
+        "HethZL": 51,
+        "LHA": 575,
+        "got": "a3b2",
+        "aBZL": 400,
+        "transliteration": {
+            "valid": true,
+            "content": "ur"
+        },
+        "content": "𒌨"
+    },
+    {
+        "MesZL": 341,
+        "HethZL": 124,
+        "LHA": 203,
+        "got": "a2b4c2",
+        "aBZL": 72,
+        "transliteration": {
+            "valid": true,
+            "content": "ur2"
+        },
+        "content": "𒌫"
+    },
+    {
+        "MesZL": 411,
+        "HethZL": 58,
+        "LHA": 255,
+        "got": "a13b4",
+        "aBZL": 99,
+        "transliteration": {
+            "valid": true,
+            "content": "ur3"
+        },
+        "content": "𒃡"
+    },
+    {
+        "MesZL": 835,
+        "HethZL": "",
+        "LHA": 594,
+        "got": "a4c1d1",
+        "aBZL": 448,
+        "transliteration": {
+            "valid": true,
+            "content": "ur4"
+        },
+        "content": "𒌴"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "LHA": 401,
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "ur5"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": 35,
+        "HethZL": "",
+        "LHA": "22x",
+        "got": "a4b6c9d1",
+        "aBZL": 313,
+        "transliteration": {
+            "valid": true,
+            "content": "urgu2"
+        },
+        "content": "𒅺"
+    },
+    {
+        "MesZL": 574,
+        "HethZL": 246,
+        "LHA": "359n1",
+        "got": "a6b8d2",
+        "aBZL": 224,
+        "transliteration": {
+            "valid": true,
+            "content": "uri"
+        },
+        "content": "𒌵"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "urim2"
+        },
+        "content": "𒋀𒀕"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "urim5"
+        },
+        "content": "𒋀𒀕"
+    },
+    {
+        "MesZL": 88,
+        "HethZL": 315,
+        "LHA": 58,
+        "got": "a2b4c2d2",
+        "aBZL": 283,
+        "transliteration": {
+            "valid": true,
+            "content": "uru5"
+        },
+        "content": "𒋽"
+    },
+    {
+        "MesZL": 230,
+        "HethZL": 109,
+        "LHA": 132,
+        "got": "a3b4",
+        "aBZL": 111,
+        "transliteration": {
+            "valid": true,
+            "content": "urud"
+        },
+        "content": "𒍏"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "b1c1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "us2"
+        },
+        "content": "𒍗"
+    },
+    {
+        "MesZL": 864,
+        "HethZL": 374,
+        "LHA": "598n2",
+        "got": "a8",
+        "aBZL": 479,
+        "transliteration": {
+            "valid": true,
+            "content": "ussu"
+        },
+        "content": "𒐍"
+    },
+    {
+        "MesZL": 381,
+        "HethZL": 132,
+        "LHA": 211,
+        "got": "a3b2c1",
+        "aBZL": 68,
+        "transliteration": {
+            "valid": true,
+            "content": "usz"
+        },
+        "content": "𒍑"
+    },
+    {
+        "MesZL": 29,
+        "HethZL": "",
+        "LHA": 17,
+        "got": "a3b3c5d2",
+        "aBZL": 314,
+        "transliteration": {
+            "valid": true,
+            "content": "usz11"
+        },
+        "content": "𒅜"
+    },
+    {
+        "MesZL": 26,
+        "HethZL": 146,
+        "LHA": 16,
+        "got": "a5b6c16d2",
+        "aBZL": 325,
+        "transliteration": {
+            "valid": true,
+            "content": "usz7"
+        },
+        "content": "𒅲"
+    },
+    {
+        "MesZL": 8,
+        "HethZL": "",
+        "LHA": 11,
+        "got": "a2b2c3d1",
+        "aBZL": 13,
+        "transliteration": {
+            "valid": true,
+            "content": "uszum"
+        },
+        "content": "𒁔"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "ut"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a8b6c2d2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "uttu"
+        },
+        "content": "𒋸"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "uttuku"
+        },
+        "content": "𒃻𒋃"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "utu"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": 71,
+        "HethZL": 229,
+        "LHA": 38,
+        "got": "a3b3",
+        "aBZL": 181,
+        "transliteration": {
+            "valid": true,
+            "content": "uzu"
+        },
+        "content": "𒌷"
+    },
+    {
+        "MesZL": 598,
+        "HethZL": 317,
+        "LHA": 383,
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "wa"
+        },
+        "content": "𒉿"
+    },
+    {
+        "MesZL": 851,
+        "HethZL": 366,
+        "LHA": 586,
+        "got": "a4",
+        "aBZL": 474,
+        "transliteration": {
+            "valid": true,
+            "content": "za"
+        },
+        "content": "𒍝"
+    },
+    {
+        "MesZL": 540,
+        "HethZL": 238,
+        "LHA": 332,
+        "got": "a4b6c2d2",
+        "aBZL": 206,
+        "transliteration": {
+            "valid": true,
+            "content": "za3"
+        },
+        "content": "𒍠"
+    },
+    {
+        "MesZL": 612,
+        "HethZL": 327,
+        "LHA": 393,
+        "got": "c2d2",
+        "aBZL": 247,
+        "transliteration": {
+            "valid": true,
+            "content": "zab"
+        },
+        "content": "𒂟"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "zabar"
+        },
+        "content": "𒌓𒅗𒁇"
+    },
+    {
+        "MesZL": 540,
+        "HethZL": 238,
+        "LHA": 332,
+        "got": "a4b6c2d2",
+        "aBZL": 206,
+        "transliteration": {
+            "valid": true,
+            "content": "zag"
+        },
+        "content": "𒍠"
+    },
+    {
+        "MesZL": 846,
+        "HethZL": "",
+        "LHA": "584; 587",
+        "got": "a7c2",
+        "aBZL": 471,
+        "transliteration": {
+            "valid": true,
+            "content": "zah3"
+        },
+        "content": "𒀄"
+    },
+    {
+        "MesZL": 380,
+        "HethZL": 72,
+        "LHA": 231,
+        "got": "a2c1d1",
+        "aBZL": 261,
+        "transliteration": {
+            "valid": true,
+            "content": "zal"
+        },
+        "content": "𒉌"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "zalag"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": "",
+        "HethZL": "",
+        "LHA": "",
+        "got": "a9b8c3d1",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "zanabal"
+        },
+        "content": "𒈉"
+    },
+    {
+        "MesZL": 259,
+        "HethZL": 108,
+        "LHA": 147,
+        "got": "a4b4c1d1",
+        "aBZL": 126,
+        "transliteration": {
+            "valid": true,
+            "content": "ze2"
+        },
+        "content": "𒍢"
+    },
+    {
+        "MesZL": 140,
+        "HethZL": 33,
+        "LHA": 84,
+        "got": "a2b1c10",
+        "aBZL": 41,
+        "transliteration": {
+            "valid": true,
+            "content": "zi"
+        },
+        "content": "𒍣"
+    },
+    {
+        "MesZL": 336,
+        "HethZL": "",
+        "LHA": 190,
+        "got": "b4c4",
+        "aBZL": 140,
+        "transliteration": {
+            "valid": true,
+            "content": "zib2"
+        },
+        "content": "𒍨"
+    },
+    {
+        "MesZL": 140,
+        "HethZL": 33,
+        "LHA": 84,
+        "got": "a2b1c10",
+        "aBZL": 41,
+        "transliteration": {
+            "valid": true,
+            "content": "zid"
+        },
+        "content": "𒍣"
+    },
+    {
+        "MesZL": 140,
+        "HethZL": 33,
+        "LHA": 84,
+        "got": "a2b1c10",
+        "aBZL": 41,
+        "transliteration": {
+            "valid": true,
+            "content": "zig3"
+        },
+        "content": "𒍣"
+    },
+    {
+        "MesZL": 15,
+        "HethZL": 209,
+        "LHA": 6,
+        "got": "a5b1c1d1",
+        "aBZL": 304,
+        "transliteration": {
+            "valid": true,
+            "content": "zu"
+        },
+        "content": "𒍪"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "LHA": 15,
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "zu2"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 15,
+        "HethZL": 209,
+        "LHA": 6,
+        "got": "a5b1c1d1",
+        "aBZL": 304,
+        "transliteration": {
+            "valid": true,
+            "content": "zuh"
+        },
+        "content": "𒍪"
+    },
+    {
+        "MesZL": 884,
+        "HethZL": 300,
+        "LHA": 555,
+        "got": "a1b1c3d3",
+        "aBZL": 456,
+        "transliteration": {
+            "valid": true,
+            "content": "zum"
+        },
+        "content": "𒍮"
+    }
+]}}
