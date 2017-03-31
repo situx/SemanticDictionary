@@ -1,0 +1,1881 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒚_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AVIS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔒚_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q5113> .
+
+<https://www.wikidata.org/entity/Q1193004>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q5113>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q5113_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒚_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q5113> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐚_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "FRONS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐚_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑮_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑮"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑮_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EQUUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑮" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q190>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q190_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖖_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q190> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "OCCIDENS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖬_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q679> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓢_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TONITRUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓢_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q83301> .
+
+<https://www.wikidata.org/entity/Q28050776>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://purl.org/olia/ubyCat.owl#has_partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q12097>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q12097_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐑_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q12097> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕺"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ANNUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕺" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q25294>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q25294_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔻_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q25294> .
+
+<https://www.wikidata.org/entity/Q405>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://www.wikidata.org/entity/Q3947>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SCRIBA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕭_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q883211> .
+
+<https://www.wikidata.org/entity/Q474188>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "STELE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔭_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q178743> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑦_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PES₂"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑦_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q15807> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔒺"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DOMINUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔒺" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://www.wikidata.org/wiki/Q15807>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑺"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑺_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BOS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑺" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q9614>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q9614_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓊_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q9614> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2021>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_2021_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐖_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021> .
+
+<https://www.wikidata.org/entity/Q33767>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://www.wikidata.org/entity/Q37726>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓾"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓾_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "VIA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓾" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q1193004>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q1193004_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐜_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q1193004> .
+
+<https://www.wikidata.org/entity/Q49404>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://www.linkedmodel.org/schema/vaem#owner>
+        a       owl:DatatypeProperty .
+
+<https://www.wikidata.org/entity/Q726>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔂_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔂"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔂_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "URBS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔂" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑮_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EQUUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑮_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q726> .
+
+<http://lemon-model.net/lemon#isSenseOf>
+        a       owl:ObjectProperty .
+
+<https://www.wikidata.org/entity/Q178743>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://www.wikidata.org/entity/Q82025>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lemon#representation>
+        a       owl:DatatypeProperty .
+
+<https://www.wikidata.org/entity/Q183905>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://www.wikidata.org/entity/Q133105>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒂_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔒂"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒂_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CORNU" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔒂" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q577>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q577_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕺_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q577> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔆_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔆"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔆_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "REGIO" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔆" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐿"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐿_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "INFRA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐿" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ANNUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕺_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q577> .
+
+<https://github.com/situx/ontology/cuneiform#isIncludedIn>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓊_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓊"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓊_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LINGUA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓊" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑳_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CERVUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑳_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q23390> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_489>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_489_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑒_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_489> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DOMINUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔒺_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q332209> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑇_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑇"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑇_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PONERE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑇" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BOS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑺_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q11748378> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "VIA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓾_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q34442> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕒"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕒_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "NEPOS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕒" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<http://purl.org/dc/terms/created>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖖"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DEUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖖" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q23390>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q23390_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑴_word> , <https://github.com/situx/ontology/cuneiform/word#𔑳_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q23390> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔂_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "URBS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔂_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q515> .
+
+<http://lemon-model.net/lemon#Word>
+        a       owl:Class .
+
+<https://www.wikidata.org/entity/Q5113>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q7802>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q7802_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓐_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q7802> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑒"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑒_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AUDIRE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑒" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> .
+
+<https://github.com/situx/ontology/cuneiform#Tablet>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑏_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑏"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑏_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SUPER" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑏" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒂_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CORNU"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔒂_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q82025> .
+
+<https://www.wikidata.org/entity/Q679>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q23640>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q23640_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐉_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q23640> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔆_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "REGIO"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔆_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q28050776> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "INFRA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐿_form> .
+
+<https://www.wikidata.org/entity/Q1347864>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lemon#isFormOf>
+        a       owl:ObjectProperty .
+
+<http://www.linkedmodel.org/schema/vaem#description>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓚_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓚"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓚_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SOL" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓚" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔒚_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔒚"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒚_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "AVIS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔒚" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1857>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1857_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑈_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓊_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LINGUA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓊_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q9614> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕛_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕛"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕛_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CRUX" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕛" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q467>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q467_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑘_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q467> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓛_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓛"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓛_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ORIENS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓛" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖟_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖟"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖟_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MALUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖟" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑇_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PONERE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑇_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1464> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q40843>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q40843_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕛_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q40843> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q83301>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q83301_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓢_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q83301> .
+
+<http://lemon-model.net/lemon#LexicalSense>
+        a       owl:Class .
+
+<https://www.wikidata.org/entity/Q162244>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lemon#LexicalForm>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑛_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑛"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑛_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CRUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑛" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q525>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q525_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓚_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q525> .
+
+<https://www.wikidata.org/entity/Q190>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "NEPOS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕒_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q183905> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑘_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑘"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑘_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "FEMINA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑘" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓢_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓢"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓢_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TONITRUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓢" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐛_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐛"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐛_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "VERSUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐛" .
+
+<http://purl.org/olia/olia.owl#Noun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q28050776>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q28050776_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔆_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q28050776> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q16743864>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q16743864_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐨_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q16743864> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DEUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖖_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q190> .
+
+<https://www.wikidata.org/entity/Q8441>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://purl.org/olia/ubyCat.owl#partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://www.wikidata.org/entity/Q11748378>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://purl.org/olia/olia.owl#Verb>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐜"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LIBARE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐜" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑏_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SUPER"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑏_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑣_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑣"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑣_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PES" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑣" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐣_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐣"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐣_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "POST" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐣" .
+
+<https://www.wikidata.org/entity/Q7569>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖫"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖫_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LITUUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖫" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓤_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓤"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓤_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "TERRA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓤" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://www.wikidata.org/entity/Q12097>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓚_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SOL"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓚_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q525> .
+
+<https://github.com/situx/ontology/cuneiform#epoch>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <http://lemon-model.net/lemon#Word> , <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <https://github.com/situx/ontology/cuneiform#Tablet> , xsd:string .
+
+<https://www.wikidata.org/entity/Q25294>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q178743>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q178743_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔭_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q178743> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕛_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CRUX"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕛_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q40843> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q133105>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q133105_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑛_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q133105> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q2731419>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q2731419_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕐_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q2731419> .
+
+<http://lemon-model.net/lemon#reference>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓛_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ORIENS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓛_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q684> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖟_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MALUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖟_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔯_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔯"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔯_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SCALPRUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔯" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐨"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐨_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PUGNUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐨" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑛_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CRUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑛_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q133105> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓬"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MONS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓬" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑘_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "FEMINA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑘_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q467> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐛_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "VERSUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐛_form> .
+
+<https://www.wikidata.org/entity/Q577>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔰"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EXERCITUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔰" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<http://purl.org/olia/ubyCat.owl#PartOfSpeech>
+        a       owl:Class .
+
+<https://www.wikidata.org/wiki/Q34442>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LIBARE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐜_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q1193004> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑳_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑳"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑳_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CERVUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑳" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<http://purl.org/dc/terms/title>
+        a       owl:DatatypeProperty .
+
+<https://www.wikidata.org/entity/Q11081619>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐰_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐰"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐰_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "INFANS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐰" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑣_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PES"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑣_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q15807> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐣_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "POST"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐣_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LITUUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖫_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q1347864> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔻_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔻"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔻_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MALLEUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔻" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q515>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q515_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔂_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q515> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓤_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "TERRA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓤_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q11081619> .
+
+<https://www.wikidata.org/entity/Q332209>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑴_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑴"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑴_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CERVUS₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑴" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://www.wikidata.org/entity/Q8502>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕿"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕿_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CULTER" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕿" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://www.wikidata.org/entity/Q4489450>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔯_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SCALPRUM"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔯_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q474188> .
+
+<https://www.wikidata.org/entity/Q16743864>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform#contains>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#Word> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PUGNUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐨_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q16743864> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕃_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕃"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕃_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CURRUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕃" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓬_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MONS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓬_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q8502> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q883211>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q883211_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕭_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q883211> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EXERCITUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔰_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q37726> .
+
+<https://www.wikidata.org/entity/Q23390>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓀"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "BONUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓀" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑀"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑀" .
+
+<http://lemon-model.net/lemon#LemonReference>
+        a       owl:Class .
+
+<http://lemon-model.net/lemon#writtenRep>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐀_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐀"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐀_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "EGO" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐀" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#PersonalPronoun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q162244>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q162244_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐕_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q162244> .
+
+<https://www.wikidata.org/entity/Q23640>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐰_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "INFANS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐰_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q7569> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q203788>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q203788_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕃_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q203788> .
+
+<https://www.wikidata.org/entity/Q467>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔻_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MALLEUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔻_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q25294> .
+
+<http://lemon-model.net/lemon#language>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑁"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑁_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MANUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑁" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑴_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CERVUS₂"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑴_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q23390> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q8441>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q8441_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕠_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q8441> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CULTER"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕿_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q32489> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q4489450>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q4489450_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓑_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q4489450> .
+
+<https://www.wikidata.org/entity/Q525>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑈_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑈"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑈_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DARE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑈" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔉"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CASTRUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔉" .
+
+<https://github.com/situx/ontology/cuneiform/word#Q7569>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q7569_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐰_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q7569> .
+
+<https://github.com/situx/ontology/cuneiform#dialect>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://www.wikidata.org/entity/Q40843>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕐_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕐"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕐_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SOLIUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕐" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q405>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q405_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓜_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q405> .
+
+<https://www.wikidata.org/wiki/Q684>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://www.wikidata.org/entity/Q83301>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q11748378>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q11748378_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑺_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q11748378> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q33767>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q33767_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑁_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q33767> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕃_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CURRUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕃_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q203788> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q37726>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q37726_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔰_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q37726> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓐_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓐"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓐_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PANIS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓐" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐉_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐉"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐉_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CAPUT" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐉" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q49404>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q49404_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐀_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q49404> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "BONUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓀_form> .
+
+<https://www.wikidata.org/entity/Q32489>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CUM"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑀_form> .
+
+<https://github.com/situx/ontology/cuneiform#tabletnumber>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓑"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CAELUM" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓑" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q82025>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q82025_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒂_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q82025> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q726>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q726_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑮_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q726> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐀_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "EGO"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐀_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q49404> .
+
+<http://purl.org/olia/olia.owl#PersonalPronoun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://www.wikidata.org/entity/Q2731419>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖙_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖙"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖙_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "MAGNUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖙" .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐑"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐑_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "REX" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐑" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform#language>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#Q34442>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q34442_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓾_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/wiki/Q34442> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐎_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐎"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐎_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PRAE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐎" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MANUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑁_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q33767> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q3947>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q3947_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔙_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q3947> .
+
+<https://www.wikidata.org/entity/Q9614>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lemon#sense>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#LexicalSense> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔙_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔙"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔙_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "DOMUS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔙" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓜_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔓜"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓜_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LUNA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔓜" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐕"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐕_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "ḪEROS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐕" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑈_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DARE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑈_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1857> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖝"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖝_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "OMNIS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖝" .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕠"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕠_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "VIR" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕠" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<http://lemon-model.net/lemon#entry>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q474188>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q474188_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔯_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q474188> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CASTRUM"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔉_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q684>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q684_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓛_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/wiki/Q684> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕐_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "SOLIUM"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕐_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q2731419> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q8502>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q8502_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓬_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q8502> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q332209>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q332209_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔒺_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q332209> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐖_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐖"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐖_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "LOQUI" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐖" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> .
+
+<https://www.wikidata.org/entity/Q883211>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q11081619>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q11081619_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔓤_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q11081619> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓐_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PANIS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓐_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q7802> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐉_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CAPUT"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐉_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q23640> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐚_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔐚"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔐚_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "FRONS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔐚" .
+
+<http://lemon-model.net/lemon#Lexicon>
+        a       owl:Class .
+
+<https://www.wikidata.org/entity/Q515>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CAELUM"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓑_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q4489450> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q183905>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q183905_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕒_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q183905> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1464>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1464_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑇_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖬_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔖬"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖬_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "OCCIDENS" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔖬" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://www.wikidata.org/entity/Q203788>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q15807>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q15807_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑦_word> , <https://github.com/situx/ontology/cuneiform/word#𔑣_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/wiki/Q15807> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "REX"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐑_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q12097> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_489>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/en>
+        a           <http://lemon-model.net/lemon#Lexicon> ;
+        rdfs:label  "Luwian Semantic Dictionary"@en ;
+        <http://lemon-model.net/lemon#entry>
+                <https://github.com/situx/ontology/cuneiform/word#𔑮_word> , <https://github.com/situx/ontology/cuneiform/word#𔖙_word> , <https://github.com/situx/ontology/cuneiform/word#𔑣_word> , <https://github.com/situx/ontology/cuneiform/word#𔓛_word> , <https://github.com/situx/ontology/cuneiform/word#𔒺_word> , <https://github.com/situx/ontology/cuneiform/word#𔖝_word> , <https://github.com/situx/ontology/cuneiform/word#𔐎_word> , <https://github.com/situx/ontology/cuneiform/word#𔕐_word> , <https://github.com/situx/ontology/cuneiform/word#𔔉_word> , <https://github.com/situx/ontology/cuneiform/word#𔒚_word> , <https://github.com/situx/ontology/cuneiform/word#𔐰_word> , <https://github.com/situx/ontology/cuneiform/word#𔐜_word> , <https://github.com/situx/ontology/cuneiform/word#𔑳_word> , <https://github.com/situx/ontology/cuneiform/word#𔒂_word> , <https://github.com/situx/ontology/cuneiform/word#𔐀_word> , <https://github.com/situx/ontology/cuneiform/word#𔔰_word> , <https://github.com/situx/ontology/cuneiform/word#𔔭_word> , <https://github.com/situx/ontology/cuneiform/word#𔓜_word> , <https://github.com/situx/ontology/cuneiform/word#𔓚_word> , <https://github.com/situx/ontology/cuneiform/word#𔐉_word> , <https://github.com/situx/ontology/cuneiform/word#𔑺_word> , <https://github.com/situx/ontology/cuneiform/word#𔑇_word> , <https://github.com/situx/ontology/cuneiform/word#𔕃_word> , <https://github.com/situx/ontology/cuneiform/word#𔔆_word> , <https://github.com/situx/ontology/cuneiform/word#𔑏_word> , <https://github.com/situx/ontology/cuneiform/word#𔕠_word> , <https://github.com/situx/ontology/cuneiform/word#𔓤_word> , <https://github.com/situx/ontology/cuneiform/word#𔕒_word> , <https://github.com/situx/ontology/cuneiform/word#𔖟_word> , <https://github.com/situx/ontology/cuneiform/word#𔓐_word> , <https://github.com/situx/ontology/cuneiform/word#𔔯_word> , <https://github.com/situx/ontology/cuneiform/word#𔓊_word> , <https://github.com/situx/ontology/cuneiform/word#𔑴_word> , <https://github.com/situx/ontology/cuneiform/word#𔐣_word> , <https://github.com/situx/ontology/cuneiform/word#𔔂_word> , <https://github.com/situx/ontology/cuneiform/word#𔐖_word> , <https://github.com/situx/ontology/cuneiform/word#𔔙_word> , <https://github.com/situx/ontology/cuneiform/word#𔓾_word> , <https://github.com/situx/ontology/cuneiform/word#𔓀_word> , <https://github.com/situx/ontology/cuneiform/word#𔓬_word> , <https://github.com/situx/ontology/cuneiform/word#𔐨_word> , <https://github.com/situx/ontology/cuneiform/word#𔕺_word> , <https://github.com/situx/ontology/cuneiform/word#𔑁_word> , <https://github.com/situx/ontology/cuneiform/word#𔐕_word> , <https://github.com/situx/ontology/cuneiform/word#𔑘_word> , <https://github.com/situx/ontology/cuneiform/word#𔑒_word> , <https://github.com/situx/ontology/cuneiform/word#𔑦_word> , <https://github.com/situx/ontology/cuneiform/word#𔐑_word> , <https://github.com/situx/ontology/cuneiform/word#𔓢_word> , <https://github.com/situx/ontology/cuneiform/word#𔕿_word> , <https://github.com/situx/ontology/cuneiform/word#𔐿_word> , <https://github.com/situx/ontology/cuneiform/word#𔑈_word> , <https://github.com/situx/ontology/cuneiform/word#𔑛_word> , <https://github.com/situx/ontology/cuneiform/word#𔖬_word> , <https://github.com/situx/ontology/cuneiform/word#𔐛_word> , <https://github.com/situx/ontology/cuneiform/word#𔐚_word> , <https://github.com/situx/ontology/cuneiform/word#𔕭_word> , <https://github.com/situx/ontology/cuneiform/word#𔔻_word> , <https://github.com/situx/ontology/cuneiform/word#𔓑_word> , <https://github.com/situx/ontology/cuneiform/word#𔕛_word> , <https://github.com/situx/ontology/cuneiform/word#𔖫_word> , <https://github.com/situx/ontology/cuneiform/word#𔖖_word> , <https://github.com/situx/ontology/cuneiform/word#𔑀_word> ;
+        <http://lemon-model.net/lemon#language>
+                "en" ;
+        <http://purl.org/dc/terms/created>
+                "Thu Mar 30 23:54:54 CEST 2017"^^xsd:dateTime , "Thu Mar 30 23:54:53 CEST 2017"^^xsd:dateTime ;
+        <http://purl.org/dc/terms/title>
+                "Luwian Semantic Dictionary"^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#description>
+                "Luwian Unicode Dictionary."^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+                <https://www.wikidata.org/wiki/Q10513445> ;
+        <http://www.linkedmodel.org/schema/vaem#owner>
+                "Timo Homburg"^^xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐎_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "PRAE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐎_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖙_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "MAGNUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖙_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q679>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q679_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖬_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q679> .
+
+<http://lemon-model.net/lemon#form>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q32489>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q32489_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕿_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q32489> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔕭"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔕭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "SCRIBA" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔕭" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔙_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "DOMUS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔔙_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q3947> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "AUDIRE"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔑒_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_489> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔓜_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LUNA"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔓜_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q405> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḪEROS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐕_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q162244> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔖝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "OMNIS"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔖝_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔕠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "VIR"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔕠_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q8441> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔔭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔔭"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔔭_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "STELE" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔔭" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔑦_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𔑦"@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔑦_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "PES₂" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𔑦" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q1347864>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q1347864_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𔖫_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q1347864> .
+
+<https://www.wikidata.org/entity/Q7802>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<https://github.com/situx/ontology/cuneiform/word#𔐖_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "LOQUI"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𔐖_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2021> .
