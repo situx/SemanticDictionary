@@ -6,13 +6,24 @@ var egyptian={"dictentries": {
             "content": "GPLv3"
         },
         "references": {
-            "reference": {
-                "a": {
-                    "href": "http://hieroglyphs.net/0301/cgi/pager.pl?p=16",
-                    "content": "Hieroglyphs.net"
+            "reference": [
+                {
+                    "val": "hieronet",
+                    "a": {
+                        "href": "http://hieroglyphs.net/0301/cgi/pager.pl?p=16",
+                        "content": "Hieroglyphs.net"
+                    },
+                    "uri": "https://www.wikidata.org/entity/Q121769"
                 },
-                "uri": "https://www.wikidata.org/entity/Q121769"
-            },
+                {
+                    "val": "dickson",
+                    "a": {
+                        "href": "http://www.pyramidtextsonline.com/documents/DicksonDictionary.pdf",
+                        "content": "Dickson Dictionary"
+                    },
+                    "uri": "https://www.wikidata.org/entity/Q121769"
+                }
+            ],
             "uri": "https://www.wikidata.org/entity/Q134995"
         },
         "author": {
@@ -34,6 +45,7 @@ var egyptian={"dictentries": {
     "dictentry": [
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -53,6 +65,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -72,6 +85,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -91,6 +105,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -110,6 +125,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -129,6 +145,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q319224",
+            "translation": {
+                "locale": "en",
+                "content": "cargo"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "A9-Z7-Y1-Z2",
+                "transcription": "Atpw",
+                "content": "Atpw"
+            },
+            "content": "𓀋𓏲𓏛𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -148,6 +185,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -167,6 +205,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -186,6 +225,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -204,6 +244,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -222,6 +263,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -240,6 +282,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -259,6 +302,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -278,6 +322,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -297,6 +342,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -316,6 +362,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -335,6 +382,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -354,6 +402,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -373,6 +422,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -392,6 +442,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -411,6 +462,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -430,6 +482,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -449,6 +502,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -468,6 +522,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1063",
+            "translation": {
+                "locale": "en",
+                "content": "observe"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Q3*X1:D21-D6",
+                "transcription": "ptr",
+                "content": "ptr"
+            },
+            "content": "𓊪*𓏏:𓂋𓁻"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -487,6 +562,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -506,6 +582,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -525,6 +602,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -544,6 +622,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -563,6 +642,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -581,6 +661,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -600,6 +681,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -619,6 +701,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2282",
+            "translation": {
+                "locale": "en",
+                "content": "await"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "A47-M17-M17",
+                "transcription": "sAi",
+                "content": "sAi"
+            },
+            "content": "𓅠𓅓"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3222",
+            "translation": {
+                "locale": "en",
+                "content": "greet"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa27*W24-A2-Aa1:D21:X1-Y1:Z2",
+                "transcription": "nD Hr",
+                "content": "nD Hr"
+            },
+            "content": "𓐩*𓏌𓀁𓐍:𓂋:𓏏𓏛:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -638,6 +761,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -657,6 +781,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -676,6 +801,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -695,6 +821,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2242",
+            "translation": {
+                "locale": "en",
+                "content": "retreat"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N41-G17-M3:Aa1*X1-D55",
+                "transcription": "Hm-xt",
+                "content": "Hm-xt"
+            },
+            "content": "𓈞𓅓𓆱:𓐍*𓏏𓂽"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -714,6 +861,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -733,6 +881,26 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be small"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V31:X1*X1-G37",
+                "transcription": "ktt",
+                "content": "ktt"
+            },
+            "content": "𓎡:𓏏*𓏏𓅪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -752,6 +920,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -771,6 +940,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -790,6 +960,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -809,6 +980,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -828,6 +1000,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -847,6 +1020,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -866,6 +1040,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -885,6 +1060,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -904,6 +1080,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -923,6 +1100,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -942,6 +1120,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -960,6 +1139,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -979,6 +1159,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -998,6 +1179,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_898",
+            "translation": {
+                "locale": "en",
+                "content": "feed"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-N35:T34*G17-G52",
+                "transcription": "snm",
+                "content": "snm"
+            },
+            "content": "𓋴𓈖:𓌰*𓅓𓅼"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1017,6 +1219,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1036,6 +1239,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1055,6 +1259,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1074,6 +1279,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1092,6 +1298,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1111,6 +1318,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1130,6 +1338,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1149,6 +1358,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1168,6 +1378,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1947",
+            "translation": {
+                "locale": "en",
+                "content": "separate"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F13:Q3*Z9",
+                "transcription": "wp(i)",
+                "content": "wp(i)"
+            },
+            "content": "𓄋:𓊪*𓏴"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2629",
+            "translation": {
+                "locale": "en",
+                "content": "throw"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29*X1-F29",
+                "transcription": "st",
+                "content": "st"
+            },
+            "content": "𓋴*𓏏𓄝"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1187,6 +1438,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1206,6 +1458,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1225,6 +1478,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1244,6 +1498,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1262,6 +1517,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1280,6 +1536,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1299,6 +1556,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1317,6 +1575,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3328",
+            "translation": {
+                "locale": "en",
+                "content": "converse"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "a27*W24-Aa27*W24-A2",
+                "transcription": "nDnD",
+                "content": "nDnD"
+            },
+            "content": "𓀟*𓏌𓐩*𓏌𓀁"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1335,6 +1614,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1353,6 +1633,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1372,6 +1653,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1391,6 +1673,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1409,6 +1692,67 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1594",
+            "translation": {
+                "locale": "en",
+                "content": "satisfy"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-R4:X1*Q3",
+                "transcription": "sHtp",
+                "content": "sHtp"
+            },
+            "content": "𓋴𓊵:𓏏*𓊪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1018",
+            "translation": {
+                "locale": "en",
+                "content": "summon"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N35:M17*S29-A26",
+                "transcription": "nis",
+                "content": "nis"
+            },
+            "content": "𓈖:𓇋*𓋴𓀞"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1981",
+            "translation": {
+                "locale": "en",
+                "content": "prepare"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D2:D21-Aa19:D40",
+                "transcription": "Hr",
+                "content": "Hr"
+            },
+            "content": "𓁷:𓂋𓐡:𓂡"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1427,6 +1771,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1446,6 +1791,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1465,6 +1811,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1484,6 +1831,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1503,6 +1851,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1521,6 +1870,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1540,6 +1890,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1559,6 +1910,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1578,6 +1930,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1021",
+            "translation": {
+                "locale": "en",
+                "content": "rest"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "R4:X1*Q3",
+                "transcription": "Htp",
+                "content": "Htp"
+            },
+            "content": "𓊵:𓏏*𓊪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171",
+            "translation": {
+                "locale": "en",
+                "content": "bind"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O34:N35-V28*V1-A24",
+                "transcription": "snH",
+                "content": "snH"
+            },
+            "content": "𓊃:𓈖𓎛*𓍢𓀜"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1597,6 +1990,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1616,6 +2010,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1635,6 +2030,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1653,6 +2049,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1672,6 +2069,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1691,6 +2089,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1710,6 +2109,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1954",
+            "translation": {
+                "locale": "en",
+                "content": "praise"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V28*W14:O34-A2",
+                "transcription": "Hsi",
+                "content": "Hsi"
+            },
+            "content": "𓎛*𓎿:𓊃𓀁"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1729,6 +2149,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1748,6 +2169,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1766,6 +2188,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1785,6 +2208,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1804,6 +2228,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1822,6 +2247,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1841,6 +2267,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1859,6 +2286,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1878,6 +2306,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1897,6 +2326,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1915,6 +2345,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1933,6 +2364,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1952,6 +2384,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1971,6 +2404,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1989,6 +2423,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -2008,6 +2443,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -2027,6 +2463,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -2046,6 +2483,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2065,6 +2503,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2084,6 +2523,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2103,6 +2543,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -2122,6 +2563,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2141,6 +2583,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2160,6 +2603,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2179,6 +2623,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2198,6 +2643,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2217,6 +2663,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q573606",
+            "translation": {
+                "locale": "en",
+                "content": "Ptahhotep"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Q3:X1-V28-R4:X1*Q3",
+                "transcription": "ptH-Htp",
+                "content": "ptH-Htp"
+            },
+            "content": "𓊪:𓏏𓎛𓊵:𓏏*𓊪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2236,6 +2703,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2255,6 +2723,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2274,6 +2743,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2293,6 +2763,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2312,6 +2783,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2331,6 +2803,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2350,6 +2823,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2369,6 +2843,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2388,6 +2863,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2407,6 +2883,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2426,6 +2903,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2445,6 +2923,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2464,6 +2943,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2483,6 +2963,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2502,6 +2983,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2521,6 +3003,126 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q9614",
+            "translation": {
+                "locale": "en",
+                "content": "tongue"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F20:Z1*F51",
+                "transcription": "ns",
+                "content": "ns"
+            },
+            "content": "𓄓:𓏤*𓄹"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "front"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F4:X1*Z1",
+                "transcription": "HAt",
+                "content": "HAt"
+            },
+            "content": "𓄂:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q4989906",
+            "translation": {
+                "locale": "en",
+                "content": "monument"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Y5:W24\\90*W24\\90*W24\\90",
+                "transcription": "mnw",
+                "content": "mnw"
+            },
+            "content": "𓏠:𓏌𓏌𓏌"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1107656",
+            "translation": {
+                "locale": "en",
+                "content": "garden"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "W17-N35:X1-N37:Z1*N21",
+                "transcription": "xnt-S",
+                "content": "xnt-S"
+            },
+            "content": "𓏃𓈖:𓏏𓈙:𓏤*𓈅"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q10884",
+            "translation": {
+                "locale": "en",
+                "content": "tree"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N35:O4*X1-M1",
+                "transcription": "nht",
+                "content": "nht"
+            },
+            "content": "𓈖:𓉔*𓏏𓆭"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q193279",
+            "translation": {
+                "locale": "en",
+                "content": "orphan"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N35:T34*G17-V28-A17-G37",
+                "transcription": "nmH",
+                "content": "nmH"
+            },
+            "content": "𓈖:𓌰*𓅓𓎛𓀔𓅪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2540,6 +3142,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2558,6 +3161,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2577,6 +3181,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2596,6 +3201,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2615,6 +3221,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2634,6 +3241,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2653,6 +3261,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2671,6 +3280,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2690,6 +3300,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2709,6 +3320,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2728,6 +3340,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2747,6 +3360,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2766,6 +3380,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2785,6 +3400,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2804,6 +3420,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2823,6 +3440,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2842,6 +3460,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2861,6 +3480,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2880,6 +3500,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2899,6 +3520,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2918,6 +3540,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q31184",
+            "translation": {
+                "locale": "en",
+                "content": "sibling"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T22-N35:N35:W24*X1-G43-A1*B1:Z2",
+                "transcription": "snw snwt",
+                "content": "snw snwt"
+            },
+            "content": "𓌢𓈖:𓈖:𓏌*𓏏𓅱𓀀*𓁐:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q527",
+            "translation": {
+                "locale": "en",
+                "content": "sky"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Q3*X1:N1",
+                "transcription": "pt",
+                "content": "pt"
+            },
+            "content": "𓊪*𓏏:𓇯"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2937,6 +3600,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2956,6 +3620,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2975,6 +3640,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2994,6 +3660,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3012,6 +3679,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3031,6 +3699,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3050,6 +3719,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3069,6 +3739,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3088,6 +3759,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3107,6 +3779,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3126,6 +3799,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3145,6 +3819,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3164,6 +3839,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3183,6 +3859,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3202,6 +3879,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3221,6 +3899,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3240,6 +3919,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3259,6 +3939,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3278,6 +3959,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3297,6 +3979,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -3316,6 +3999,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q146313",
+            "translation": {
+                "locale": "en",
+                "content": "Sobek"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-D58-V31:I5",
+                "transcription": "sbk",
+                "content": "sbk"
+            },
+            "content": "𓋴𓃀𓎡:𓆌"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -3335,6 +4039,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1116771",
+            "translation": {
+                "locale": "en",
+                "content": "Wepwawet"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F13-N31:X1*Z2-E18",
+                "transcription": "wp-wAwt",
+                "content": "wp-wAwt"
+            },
+            "content": "𓄋𓈐:𓏏*𓏥𓃧"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3354,6 +4079,166 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8514",
+            "translation": {
+                "locale": "en",
+                "content": "desert"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N25:X1*Z1",
+                "transcription": "xAst",
+                "content": "xAst"
+            },
+            "content": "𓈉:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q35872",
+            "translation": {
+                "locale": "en",
+                "content": "boat"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:Q3*X1-P1",
+                "transcription": "dpt",
+                "content": "dpt"
+            },
+            "content": "𓂧:𓊪*𓏏𓊛"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7802",
+            "translation": {
+                "locale": "en",
+                "content": "bread"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "X1*X2:N18",
+                "transcription": "t",
+                "content": "t"
+            },
+            "content": "𓏏*𓏐:𓈀"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "brow"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "F13:X1*Z1",
+                "transcription": "wpt",
+                "content": "wpt"
+            },
+            "content": "𓄋:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q160131",
+            "translation": {
+                "locale": "en",
+                "content": "baker"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "U31:X1*Z4-D40:A1",
+                "transcription": "rtHty",
+                "content": "rtHty"
+            },
+            "content": "𓍕:𓏏*𓏭𓂡:𓀀"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q201097",
+            "translation": {
+                "locale": "en",
+                "content": "basket"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V30:X1*Z1",
+                "transcription": "nbt",
+                "content": "nbt"
+            },
+            "content": "𓎟:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q34095",
+            "translation": {
+                "locale": "en",
+                "content": "bronze"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "V28-S29-Y5:N35-U32-N34:Z(N33)*Z(N33)*Z(N33)",
+                "transcription": "Hsmn",
+                "content": "Hsmn"
+            },
+            "content": "𓎛𓋴𓏠:𓈖𓍖𓈔:𓈒𓈒𓈒"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q287",
+            "translation": {
+                "locale": "en",
+                "content": "wood"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M3:X1*Z1",
+                "transcription": "xt",
+                "content": "xt"
+            },
+            "content": "𓆱:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3373,6 +4258,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3392,6 +4278,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3411,6 +4298,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3430,6 +4318,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3449,6 +4338,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3468,6 +4358,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3487,6 +4378,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q846677",
+            "translation": {
+                "locale": "en",
+                "content": "remainder"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "(D2-D36):D21-G37:Z2",
+                "transcription": "minb",
+                "content": "Hr a"
+            },
+            "content": "(𓁷𓂝):𓂋𓅪:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3506,6 +4418,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3525,6 +4438,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q55187",
+            "translation": {
+                "locale": "en",
+                "content": "coiffeur"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D4:D3",
+                "transcription": "iri Snw",
+                "content": "iri Snw"
+            },
+            "content": "𓁹:𓁸"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3544,6 +4478,107 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q7632586",
+            "translation": {
+                "locale": "en",
+                "content": "success"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21:D46-X1:T12-Y1:Z2",
+                "transcription": "Xrd",
+                "content": "Xrd"
+            },
+            "content": "𓂋:𓂧𓏏:𓌡𓏛:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2651366",
+            "translation": {
+                "locale": "en",
+                "content": "mandrake"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21:D21-G17-X1-Z2:N33",
+                "transcription": "rrmt",
+                "content": "rrmt"
+            },
+            "content": "𓂋:𓂋𓅓𓏏𓏥:𓈒"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8441",
+            "translation": {
+                "locale": "en",
+                "content": "man"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O34:A1*Z1",
+                "transcription": "s",
+                "content": "s"
+            },
+            "content": "𓊃:𓀀*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8495",
+            "translation": {
+                "locale": "en",
+                "content": "milk"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M17-D21:X1*X1-W20",
+                "transcription": "irtt",
+                "content": "irtt"
+            },
+            "content": "𓇋𓂋:𓏏*𓏏𓏈"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q6460735",
+            "translation": {
+                "locale": "en",
+                "content": "meal"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M8-G1-D58-G43-X3*W22:N18-Z3",
+                "transcription": "SAbw",
+                "content": "SAbw"
+            },
+            "content": "𓆷𓄿𓃀𓅱𓏑*𓏊:𓈀𓏪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3563,6 +4598,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3582,6 +4618,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3601,6 +4638,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q34442",
+            "translation": {
+                "locale": "en",
+                "content": "road"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N31:X1*Z1",
+                "transcription": "wAt",
+                "content": "wAt"
+            },
+            "content": "𓈐:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q5468632",
+            "translation": {
+                "locale": "en",
+                "content": "foreleg"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa1*Q3:N37-F23",
+                "transcription": "xpS",
+                "content": "xpS"
+            },
+            "content": "𓐍*𓊪:𓈙𓄗"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3620,6 +4698,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3639,6 +4718,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3658,6 +4738,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3677,6 +4758,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3696,6 +4778,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3715,6 +4798,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3733,6 +4817,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3752,6 +4837,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3771,6 +4857,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3790,6 +4877,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3809,6 +4897,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3828,6 +4917,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3846,6 +4936,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3865,6 +4956,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3884,6 +4976,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3903,6 +4996,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3922,6 +5016,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3941,6 +5036,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3960,6 +5056,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3979,6 +5076,46 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q121308",
+            "translation": {
+                "locale": "en",
+                "content": "scimitar"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa1*Q3:N37-T16",
+                "transcription": "xpS",
+                "content": "xpS"
+            },
+            "content": "𓐍*𓊪:𓈙𓌛"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "secret"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "S29-N37:X1*U30-G1-Z9:Z2",
+                "transcription": "sStA",
+                "content": "sStA"
+            },
+            "content": "𓋴𓈙:𓏏*𓍔𓄿𓏴:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3998,6 +5135,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4017,6 +5155,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4036,6 +5175,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4055,6 +5195,106 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7748",
+            "translation": {
+                "locale": "en",
+                "content": "law"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O4*Q3:Y1",
+                "transcription": "hp",
+                "content": "hp"
+            },
+            "content": "𓉔*𓊪:𓏛"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q15173",
+            "translation": {
+                "locale": "en",
+                "content": "lip"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D24:X1*Z1",
+                "transcription": "spt",
+                "content": "spt"
+            },
+            "content": "𓂎:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q23397",
+            "translation": {
+                "locale": "en",
+                "content": "lake"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N37:N23*Z1",
+                "transcription": "S",
+                "content": "S"
+            },
+            "content": "𓈙:𓈇*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q515",
+            "translation": {
+                "locale": "en",
+                "content": "city"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O49:X1*Z1",
+                "transcription": "niwt",
+                "content": "niwt"
+            },
+            "content": "𓊖:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "confidence"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "X1*Q1:N36-Aa1:D21-X1-W23:Z1",
+                "transcription": "niwt",
+                "content": "st-xrt-ib"
+            },
+            "content": "𓏏*𓊨:𓈘𓐍:𓂋𓏏𓏋:𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4074,6 +5314,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4093,6 +5334,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4112,6 +5354,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4130,6 +5373,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4149,6 +5393,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4168,6 +5413,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4187,6 +5433,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4206,6 +5453,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4225,6 +5473,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4244,6 +5493,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4263,6 +5513,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4282,6 +5533,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q12284",
+            "translation": {
+                "locale": "en",
+                "content": "canal"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N36:N21*Z1",
+                "transcription": "mr",
+                "content": "mr"
+            },
+            "content": "𓈘:𓈅*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4301,6 +5573,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4320,6 +5593,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4339,6 +5613,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4364,6 +5639,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4383,6 +5659,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4402,6 +5679,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4421,6 +5699,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4440,6 +5719,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4459,6 +5739,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4478,6 +5759,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4497,6 +5779,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4516,6 +5799,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4535,6 +5819,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -4554,6 +5839,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4573,6 +5859,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4592,6 +5879,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4611,6 +5899,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4630,6 +5919,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4649,6 +5939,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4668,6 +5959,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4687,6 +5979,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4706,6 +5999,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4725,6 +6019,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4744,6 +6039,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4763,6 +6059,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q9081",
+            "translation": {
+                "locale": "en",
+                "content": "knowledge"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21:Aa1-U33",
+                "transcription": "rxt",
+                "content": "rxt"
+            },
+            "content": "𓂋:𓐍𓍘"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4782,6 +6099,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4801,6 +6119,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4820,6 +6139,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4839,6 +6159,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4858,6 +6179,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4877,6 +6199,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q23387",
+            "translation": {
+                "locale": "en",
+                "content": "week"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D1:Z1-N5:V20",
+                "transcription": "tp ra mD",
+                "content": "tp ra mD"
+            },
+            "content": "𓁶:𓏤𓇳:𓎆"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2401485",
+            "translation": {
+                "locale": "en",
+                "content": "expedition"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "A12",
+                "transcription": "mSa",
+                "content": "mSa"
+            },
+            "content": "𓀎"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4896,6 +6259,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4915,6 +6279,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4934,6 +6299,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4953,6 +6319,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4972,6 +6339,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4991,6 +6359,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5010,6 +6379,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5029,6 +6399,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5048,6 +6419,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5067,6 +6439,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5086,6 +6459,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5105,6 +6479,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5124,6 +6499,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5143,6 +6519,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5162,6 +6539,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5181,6 +6559,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5199,6 +6578,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5218,6 +6598,53 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q939129",
+            "translation": [
+                {
+                    "locale": "en",
+                    "content": "Arsaphes"
+                },
+                {
+                    "locale": "en",
+                    "content": "Heryshaf"
+                }
+            ],
+            "determinative": true,
+            "transliteration": {
+                "code": "D2:D21-X1:D36-Z1-G37:Z2",
+                "transcription": "Hry S .f",
+                "content": "Hry S .f"
+            },
+            "content": "𓁷:𓂋𓏏:𓂝𓏤𓅪:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q756990",
+            "translation": {
+                "locale": "en",
+                "content": "Uraeus"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D1:Z1-X1:I13",
+                "transcription": "tpt",
+                "content": "tpt"
+            },
+            "content": "𓁶:𓏤𓏏:𓆘"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5237,6 +6664,47 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1126848",
+            "translation": {
+                "locale": "en",
+                "content": "Heh"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "C11",
+                "transcription": "HH",
+                "content": "HH"
+            },
+            "content": "𓁨"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1252904",
+            "translation": {
+                "locale": "en",
+                "content": "Re"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "C2",
+                "transcription": "ra",
+                "content": "ra"
+            },
+            "content": "𓁛"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5256,6 +6724,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5275,6 +6744,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5294,6 +6764,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5313,6 +6784,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5332,6 +6804,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5351,6 +6824,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5370,6 +6844,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5389,6 +6864,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5408,6 +6884,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5427,6 +6904,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5446,6 +6924,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5465,6 +6944,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5484,6 +6964,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5503,6 +6984,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5522,6 +7004,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5541,6 +7024,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5560,6 +7044,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5579,6 +7064,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5598,6 +7084,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5617,6 +7104,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5636,6 +7124,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5655,6 +7144,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5674,6 +7164,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5693,6 +7184,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -5721,6 +7213,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5740,6 +7233,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5759,6 +7253,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5778,6 +7273,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5797,6 +7293,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5816,6 +7313,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5835,6 +7333,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5854,6 +7353,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5873,6 +7373,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5892,6 +7393,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5911,6 +7413,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5930,6 +7433,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5949,6 +7453,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5968,6 +7473,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5987,6 +7493,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6005,6 +7512,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6023,6 +7531,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6041,6 +7550,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6059,6 +7569,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6077,6 +7588,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6101,6 +7613,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6119,6 +7632,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6137,6 +7651,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Particle",
                 "content": "PART"
@@ -6155,6 +7670,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Particle",
                 "content": "PART"
@@ -6173,6 +7689,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6191,6 +7708,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6209,6 +7727,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6227,6 +7746,45 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "never"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D35-O34:Q3*O50",
+                "transcription": "n sp",
+                "content": "n sp"
+            },
+            "content": "𓂜𓊃:𓊪*𓊗"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "formerly"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T28:D21-F4:X1*Z1",
+                "transcription": "Xr-HAt",
+                "content": "Xr-HAt"
+            },
+            "content": "𓌨:𓂋𓄂:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6245,6 +7803,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6264,6 +7823,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6282,6 +7842,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6300,6 +7861,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6318,6 +7880,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6336,6 +7899,26 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "unique"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T21:X1*Z4",
+                "transcription": "waty",
+                "content": "waty"
+            },
+            "content": "𓌡:𓏏*𓏭"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6354,6 +7937,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6372,6 +7956,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6390,6 +7975,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6409,6 +7995,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6427,6 +8014,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6445,6 +8033,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6463,6 +8052,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#PersonalPronoun",
                 "content": "PPRO"
@@ -6482,6 +8072,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6501,6 +8092,64 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "because"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M36:D21-N35:X1*X1",
+                "transcription": "Dr ntt",
+                "content": "Dr ntt"
+            },
+            "content": "𓇥:𓂋𓈖:𓏏*𓏏"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "beside"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21:D36*Z1",
+                "transcription": "r-a",
+                "content": "r-a"
+            },
+            "content": "𓂋:𓂝*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "before"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-F4:X1*Z1",
+                "transcription": "r-HAt",
+                "content": "r-HAt"
+            },
+            "content": "𓂋𓄂:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6519,6 +8168,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6537,6 +8187,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6555,6 +8206,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6574,6 +8226,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6592,6 +8245,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6611,6 +8265,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6630,6 +8285,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6649,6 +8305,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6668,6 +8325,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6687,6 +8345,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6706,6 +8365,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -6724,6 +8384,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6748,6 +8409,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6766,6 +8428,26 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "after"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G17-M3:Aa1*X1-D54",
+                "transcription": "m-xt",
+                "content": "m-xt"
+            },
+            "content": "𓅓𓆱:𓐍*𓏏𓂻"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6784,6 +8466,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
@@ -6802,6 +8485,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6821,6 +8505,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6840,6 +8525,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6859,6 +8545,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6878,6 +8565,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6897,6 +8585,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6916,6 +8605,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6934,6 +8624,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -6953,6 +8644,27 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q165496",
+            "translation": {
+                "locale": "en",
+                "content": "Nut"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "W24*X1:N1",
+                "transcription": "nwt",
+                "content": "nwt"
+            },
+            "content": "𓏌*𓏏:𓇯"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6972,6 +8684,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6991,6 +8704,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -7010,6 +8724,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7029,6 +8744,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7048,6 +8764,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7067,6 +8784,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7086,6 +8804,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7105,6 +8824,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7124,6 +8844,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -7143,6 +8864,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7162,6 +8884,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7181,6 +8904,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7200,6 +8924,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7218,6 +8943,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7237,6 +8963,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7256,6 +8983,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7274,6 +9002,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -7293,6 +9022,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7311,6 +9041,7 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7329,6 +9060,165 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "alone"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T21:D36*Z1",
+                "transcription": "wa",
+                "content": "wa"
+            },
+            "content": "𓌡:𓂝*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q18123755",
+            "translation": {
+                "locale": "en",
+                "content": "deed"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "O34:Q3*O50",
+                "transcription": "sp",
+                "content": "sp"
+            },
+            "content": "𓊃:𓊪*𓊗"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q149621",
+            "translation": {
+                "locale": "en",
+                "content": "district"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N24:X1*Z1",
+                "transcription": "spAt",
+                "content": "spAt"
+            },
+            "content": "𓈈:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q39631",
+            "translation": {
+                "locale": "en",
+                "content": "doctor"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "T11:W24*Z1-A1",
+                "transcription": "swnw",
+                "content": "swnw"
+            },
+            "content": "𓌕:𓏌*𓏤𓀀"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8436",
+            "translation": {
+                "locale": "en",
+                "content": "family"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "U23-D58-W8:X1-A1*B1:Z2",
+                "transcription": "swnw",
+                "content": "swnw"
+            },
+            "content": "𓍋𓃀𓎷:𓏏𓀀*𓁐:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2095",
+            "translation": {
+                "locale": "en",
+                "content": "food"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M42:N35-G17-X1-A2-X2*W22:N18-Z3",
+                "transcription": "wnmt",
+                "content": "wnmt"
+            },
+            "content": "𓇬:𓈖𓅓𓏏𓀁𓏐*𓏊:𓈀𓏪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q189998",
+            "translation": {
+                "locale": "en",
+                "content": "flagellum"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N35:Aa1\\90*Aa1\\90-G43-S45",
+                "transcription": "swnw",
+                "content": "swnw"
+            },
+            "content": "𓈖:𓐍*𓐍𓅱𓌅"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "pervading"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M3:Aa1*X1-D54",
+                "transcription": "xt",
+                "content": "xt"
+            },
+            "content": "𓆱:𓐍*𓏏𓂻"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7344,6 +9234,25 @@ var egyptian={"dictentries": {
                 "content": "qb"
             },
             "content": "𓈎𓃀𓏁"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "foremost one"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "W17-N35:X1*Z4",
+                "transcription": "xnty",
+                "content": "xnty"
+            },
+            "content": "𓏃𓈖:𓏏*𓏭"
         }
     ]
 }}

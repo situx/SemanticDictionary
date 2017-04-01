@@ -18,11 +18,31 @@
 <translation locale="en">illustrious</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
 𒈤𒁲</dictentry>
+<dictentry>
+<transliteration transcription="szudima">szu-dim4-ma</transliteration>
+<translation locale="en">loyal</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒋗𒉽𒉽𒈠</dictentry>
+<dictentry>
+<transliteration transcription="szudua">szu-du3-a</transliteration>
+<translation locale="en">szudu (measure of 10 fingers)</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒋗𒆕𒀀</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q2132873">
 <transliteration transcription="na">na</transliteration>
 <translation locale="en">advice</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒈾</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q16246919">
+<transliteration transcription="szudua">szu-du8-a</transliteration>
+<translation locale="en">guarantee</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒋗𒃮𒀀</dictentry>
+<dictentry>
+<transliteration transcription="szuhala">szu-hal-la</transliteration>
+<translation locale="en">open hand</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒋗𒄬𒆷</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q22731">
 <transliteration transcription="na4">na4</transliteration>
 <translation locale="en">stone</translation>
@@ -38,6 +58,11 @@
 <translation locale="en">mat</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒆤</dictentry>
+<dictentry  concept="https://www.wikidata.org/wiki/Q1752346">
+<transliteration transcription="ubszukkina">ub-szu-ukkin-na</transliteration>
+<translation locale="en">assembly</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒌒𒋗𒌺𒈾</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q2734060">
 <transliteration transcription="gi">gi</transliteration>
 <translation locale="en">reed</translation>
@@ -148,22 +173,22 @@
 <translation locale="en">driver</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒁕𒊑</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q2647209">
+<dictentry  concept="https://www.wikidata.org/entity/Q2647209">
 <transliteration transcription="giduba">gi-dub-ba</transliteration>
 <translation locale="en">stylus</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄀𒁾𒁀</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q184393">
+<dictentry  concept="https://www.wikidata.org/entity/Q184393">
 <transliteration transcription="gigud">gi-gu4-ud</transliteration>
 <translation locale="en">catapult</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄀𒄞𒌓</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q381155">
+<dictentry  concept="https://www.wikidata.org/entity/Q381155">
 <transliteration transcription="giszasur">gi-sza3-sur</transliteration>
 <translation locale="en">sieve</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄀𒊮𒋩</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q327954">
+<dictentry  concept="https://www.wikidata.org/entity/Q327954">
 <transliteration transcription="gizila">gi-izi-la2</transliteration>
 <translation locale="en">torch</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -229,6 +254,16 @@
 <translation locale="en">bran</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃮</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q28813">
+<transliteration transcription="unugara">u3-nu-gar-ra</transliteration>
+<translation locale="en">fraud</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒅇𒉡𒃻𒊏</dictentry>
+<dictentry>
+<transliteration transcription="uda">u4-da</transliteration>
+<translation locale="en">today</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒌓𒁕</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q18919">
 <transliteration transcription="bala">bala</transliteration>
 <translation locale="en">wastage</translation>
@@ -244,6 +279,7 @@
 <translation locale="en">oak</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉄</dictentry>
+
 <dictentry  concept="https://www.wikidata.org/entity/Q1156970">
 <transliteration transcription="namlu2ulu3">nam-lu2-ulu3</transliteration>
 <translation locale="en">humanity</translation>
@@ -299,6 +335,11 @@
 <translation locale="en">ruler</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒁈</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q23703778">
+<transliteration transcription="migir" cunei="𒊩𒄫">mi2-gir</transliteration>
+<translation locale="en">heifer</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊩𒄫</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q11081619">
 <transliteration transcription="barim" cunei="">bar-rim4</transliteration>
 <translation locale="en">dry land</translation>
@@ -324,12 +365,12 @@
 <translation locale="en">deficit</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒅎𒁀</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q194431">
+<dictentry concept="https://www.wikidata.org/entity/Q194431">
 <transliteration transcription="imszu" cunei="𒅎𒋗">im-szu</transliteration>
 <translation locale="en">paragraph</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒅎𒋗</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q36539">
+<dictentry concept="https://www.wikidata.org/entity/Q36539">
 <transliteration transcription="imszurina" cunei="𒅎𒋗">im-szu-rin-na</transliteration>
 <translation locale="en">oven</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -360,6 +401,11 @@
 <translation locale="en">narrow</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
 𒋝𒋝</dictentry>
+<dictentry>
+<transliteration transcription="szula">szu-la2-a</transliteration>
+<translation locale="en">entrusted</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒋗𒇲𒀀</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q1192097">
 <transliteration transcription="sisig">si-si-ig</transliteration>
 <translation locale="en">whirlwind</translation>
@@ -380,17 +426,17 @@
 <translation locale="en">flutist</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇽𒄀𒁍𒁕</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q329737">
+<dictentry concept="https://www.wikidata.org/entity/Q329737">
 <transliteration transcription="lugirla">lu2-gir2-la2</transliteration>
 <translation locale="en">butcher</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇽𒄈𒇲</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q19125">
+<dictentry concept="https://www.wikidata.org/entity/Q19125">
 <transliteration transcription="girtab">gir2-tab</transliteration>
 <translation locale="en">scorpion</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄈𒋰</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q207172">
+<dictentry concept="https://www.wikidata.org/entity/Q207172">
 <transliteration transcription="girzal">gir2-zal</transliteration>
 <translation locale="en">scalpel</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -455,7 +501,7 @@
 <translation locale="en">politeness</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄭𒌓𒀝</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q308194">
+<dictentry concept="https://www.wikidata.org/entity/Q308194">
 <transliteration transcription="dumumi">dumu-mi2</transliteration>
 <translation locale="en">daughter</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -558,7 +604,7 @@
 <translation locale="en">when</translation>
 <postag uri="http://purl.org/olia/olia.owl#InterrogativePronoun">INTPRO</postag>
 𒈨𒈾𒀀𒀭</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q1640824">
+<dictentry concept="https://www.wikidata.org/entity/Q1640824">
 <transliteration transcription="mursara">mur-sar-ra</transliteration>
 <translation locale="en">inscription</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -633,12 +679,17 @@
 <translation locale="en">Enki</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒀭𒂗𒆠</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q3217825">
+<dictentry concept="https://www.wikidata.org/entity/Q842">
+<transliteration transcription="magan">ma2-gan-an-na-ki</transliteration>
+<translation locale="en">Magan</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒈣𒃶𒀭𒈾𒆠</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q3217825">
 <transliteration transcription="larak">la-ra-ak</transliteration>
 <translation locale="en">Larak</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒆷𒊏𒀝</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q771497">
+<dictentry concept="https://www.wikidata.org/entity/Q771497">
 <transliteration transcription="anszar" cunei="𒀭𒊹">an-szar2</transliteration>
 <transliteration transcription="kiszar" cunei="𒀭𒆠𒊹">d-ki-szar2</transliteration>
 <translation locale="en">Anshar</translation>
@@ -654,7 +705,7 @@
 <translation locale="en">Girsu</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒄈𒋢</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q159709">
+<dictentry concept="https://www.wikidata.org/entity/Q159709">
 <transliteration transcription="gilgamesh">d-gilgamesz2</transliteration>
 <translation locale="en">Gilgamesh</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
@@ -669,18 +720,18 @@
 <translation locale="en">Ningishzida</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒀭𒊩𒌆𒄑𒍣𒁕</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q1370714">
+<dictentry concept="https://www.wikidata.org/entity/Q1370714">
 <transliteration transcription="giszdua">gisz-du3-a</transliteration>
 <translation locale="en">timber</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄑𒆕𒀀</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q14532655">
+<dictentry concept="https://www.wikidata.org/entity/Q14532655">
 <transliteration transcription="giszkar" cunei="𒄑𒃸">gisz-kar2</transliteration>
 <transliteration transcription="giszkar" cunei="𒄑𒃼">gisz-kar3</transliteration>
 <translation locale="en">task</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄑𒃸</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q1138737">
+<dictentry concept="https://www.wikidata.org/entity/Q1138737">
 <transliteration transcription="gisznu" cunei="𒄑𒃸">gisz-nu11</transliteration>
 <translation locale="en">lamp</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -690,12 +741,17 @@
 <translation locale="en">virgin</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒐕𒉡𒍪</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q9301547">
+<dictentry concept="https://www.wikidata.org/entity/Q859281">
+<transliteration transcription="giszmargida" cunei="">gisz-mar-gid2-da</transliteration>
+<translation locale="en">wagon</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄑𒈥𒁍𒁕</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q9301547">
 <transliteration transcription="giszkad">gisz-kad5</transliteration>
 <translation locale="en">stepladder</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄑𒆓</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q392326">
+<dictentry concept="https://www.wikidata.org/entity/Q392326">
 <transliteration transcription="giszgaz">gisz-gaz</transliteration>
 <translation locale="en">cudgel</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -720,22 +776,22 @@
 <translation locale="en">Ninhursag</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒀭𒊩𒌆𒉺𒂅</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q501259">
+<dictentry concept="https://www.wikidata.org/entity/Q501259">
 <transliteration transcription="isin">i3-si-in-ki</transliteration>
 <translation locale="en">Isin</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒉌𒋛𒅔𒆠</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q188395">
+<dictentry concept="https://www.wikidata.org/entity/Q188395">
 <transliteration transcription="enlil">en-lil-ki</transliteration>
 <translation locale="en">Nippur</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒂗𒆤𒆠</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q1330881">
+<dictentry concept="https://www.wikidata.org/entity/Q1330881">
 <transliteration transcription="hamazi">ha-ma-zi-ki</transliteration>
 <translation locale="en">Hamazi</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒄩𒈠𒍣𒆠</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q346445">
+<dictentry concept="https://www.wikidata.org/entity/Q346445">
 <transliteration transcription="adab">adab-ki</transliteration>
 <translation locale="en">Adab</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
@@ -869,7 +925,7 @@
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒀭𒊩𒌆𒆤</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q210065">
-<transliteration transcription="eridu">eridu</transliteration>
+<transliteration transcription="eridu">eridu-ki</transliteration>
 <translation locale="en">Eridu</translation>
 <postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
 𒉣𒆠</dictentry>
@@ -893,6 +949,11 @@
 <translation locale="en">young man</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒂄</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q186361">
+<transliteration transcription="szulalum">szul-a-lum</transliteration>
+<translation locale="en">punishment</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒂄𒀀𒈝</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q366345">
 <transliteration transcription="imlag">im-lag</transliteration>
 <translation locale="en">pellet</translation>
@@ -988,11 +1049,21 @@
 <translation locale="en">mistress</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒅔𒊩𒌆</dictentry>
-<dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q16684351">
 <transliteration transcription="ragaba">ra-gaba</transliteration>
 <translation locale="en">rider</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒊏𒃮</dictentry>
+<dictentry concept="https://www.wikidata.org/wiki/Q2824657">
+<transliteration transcription="u6di">u6-di</transliteration>
+<translation locale="en">admiration</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒅆𒂍𒁲</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q7358">
+<transliteration transcription="udatusz">u4-da-tusz</transliteration>
+<translation locale="en">clown</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒌈𒁕𒆪</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q44337">
 <transliteration transcription="agarin4">agarin4</transliteration>
 <translation locale="en">matrix</translation>
@@ -1187,42 +1258,42 @@
 <translation locale="en">hay fork</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒆤𒁴</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q1786125">
+<dictentry  concept="https://www.wikidata.org/entity/Q1786125">
 <transliteration transcription="iku">i2-ku6</transliteration>
 <translation locale="en">fish oil</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒐊𒄩</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q4004659">
+<dictentry  concept="https://www.wikidata.org/entity/Q4004659">
 <transliteration transcription="ira">i2-ir-a</transliteration>
 <translation locale="en">ointment</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒐊𒅕𒀀</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q34172">
+<dictentry  concept="https://www.wikidata.org/entity/Q34172">
 <transliteration transcription="inun">i2-nun</transliteration>
 <translation locale="en">butter</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒐊𒉣</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q1058800">
+<dictentry  concept="https://www.wikidata.org/entity/Q1058800">
 <transliteration transcription="iti">i2-ti</transliteration>
 <translation locale="en">moonlight</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒐊𒋾</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q79871">
+<dictentry  concept="https://www.wikidata.org/entity/Q79871">
 <transliteration transcription="ibdamza">ib2-dam-za</transliteration>
 <translation locale="en">anger</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌈𒁮𒍝</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q198763">
+<dictentry  concept="https://www.wikidata.org/entity/Q198763">
 <transliteration transcription="iblal">ib2-lal</transliteration>
 <translation locale="en">underwear</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌈𒇲</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q1762124">
+<dictentry  concept="https://www.wikidata.org/entity/Q1762124">
 <transliteration transcription="ibtag">ib2-tag4</transliteration>
 <translation locale="en">leftover</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌈𒋺</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q1970769">
+<dictentry  concept="https://www.wikidata.org/entity/Q1970769">
 <transliteration transcription="illa">il2-la2</transliteration>
 <translation locale="en">elevation</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -1444,11 +1515,6 @@
 <translation locale="en">be ill</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒈪𒉭</dictentry>
-<dictentry>
-<transliteration transcription="sud">sud</transliteration>
-<translation locale="en">be distant</translation>
-<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
-𒋤</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_41">
 <transliteration transcription="sur">sur</transliteration>
 <translation locale="en">drip</translation>
@@ -1511,7 +1577,7 @@
 <translation locale="en">jar</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄠𒄠</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q7378">
+<dictentry concept="https://www.wikidata.org/entity/Q7378">
 <transliteration transcription="amsi">am-si</transliteration>
 <translation locale="en">elephant</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -1526,6 +1592,11 @@
 <translation locale="en">ladyship</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉆𒊩𒌆</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q41611">
+<transliteration transcription="szelusar">sze-lu2-sar</transliteration>
+<translation locale="en">coriander</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊺𒇽𒊬</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q1282093">
 <transliteration transcription="namdam">nam-dam</transliteration>
 <translation locale="en">marital status</translation>
@@ -1541,6 +1612,11 @@
 <translation locale="en">partner</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒋰𒁀</dictentry>
+<dictentry>
+<transliteration transcription="teszbi">tesz2-bi</transliteration>
+<translation locale="en">together</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
+𒌨𒁉</dictentry>
 <dictentry concept="https://www.wikidata.org/entity/Q7269">
 <transliteration transcription="nambara">nam-bara2</transliteration>
 <translation locale="en">monarchy</translation>
@@ -1662,6 +1738,16 @@
 <translation locale="en">malt</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉽𒉽</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q150784">
+<transliteration transcription="maur">ma2-ur2</transliteration>
+<translation locale="en">ravine</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒈣𒌫</dictentry>
+<dictentry>
+<transliteration transcription="mahbi">mah-bi</transliteration>
+<translation locale="en">powerfully</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒈤𒁉</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_916">
 <transliteration transcription="mu2">mu2</transliteration>
 <translation locale="en">grow</translation>
@@ -1697,7 +1783,7 @@
 <translation locale="en">marsh</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒆹</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q3199915">
+<dictentry  concept="https://www.wikidata.org/entity/Q3199915">
 <transliteration transcription="hubgaz">hub2-gaz</transliteration>
 <translation locale="en">slaughter</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -1753,7 +1839,7 @@
 <translation locale="en">abacus</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒋃</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q155925">
+<dictentry concept="https://www.wikidata.org/entity/Q155925">
 <transliteration transcription="usz7">usz7</transliteration>
 <translation locale="en">saliva</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -1839,6 +1925,11 @@
 <translation locale="en">offspring</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒈊</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q950375">
+<transliteration transcription="naszuna">na4-szu-na</transliteration>
+<translation locale="en">pestle</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉌𒋗𒈾</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q2892050">
 <transliteration transcription="teszlug">teszlug</transliteration>
 <translation locale="en">hatchling</translation>
@@ -1849,6 +1940,11 @@
 <translation locale="en">seed</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒆰</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q173486">
+<transliteration transcription="szimgig">szim-gig</transliteration>
+<translation locale="en">frankincense</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒋆𒈪𒉭</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q31029">
 <transliteration transcription="esz2">esz2</transliteration>
 <translation locale="en">rope</translation>
@@ -1870,6 +1966,31 @@
 <translation locale="en">cow</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒀖</dictentry>
+<dictentry>
+<transliteration transcription="nigdiri">nig2-diri</transliteration>
+<translation locale="en">supplement</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒃻𒋛𒀀</dictentry>
+<dictentry>
+<transliteration transcription="nigkur">nig2-kur2</transliteration>
+<translation locale="en">belligerence</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒃻𒉽</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q633403">
+<transliteration transcription="nigsiga">nig2-sig-ga</transliteration>
+<translation locale="en">weakness</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒃻𒋝𒂵</dictentry>
+<dictentry>
+<transliteration transcription="nigdun">nig2-dun</transliteration>
+<translation locale="en">submission</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒃻𒂄</dictentry>
+<dictentry>
+<transliteration transcription="nisub">ni2-su-ub</transliteration>
+<translation locale="en">coward</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉎𒋢𒌒</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q12284">
 <transliteration transcription="pa5">pa5</transliteration>
 <translation locale="en">canal</translation>
@@ -1945,11 +2066,21 @@
 <translation locale="en">be bad</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒅆𒌨</dictentry>
+<dictentry concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3794">
+<transliteration transcription="szu...pesz">szu...pesz</transliteration>
+<translation locale="en">expand</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒋗...𒄫</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845">
 <transliteration transcription="tuku4">tuku4</transliteration>
 <translation locale="en">shake</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒇧</dictentry>
+<dictentry>
+<transliteration transcription="mutuku">mu-tuku</transliteration>
+<translation locale="en">be famous</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒈬𒌇</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1664">
 <transliteration transcription="ur4">ur4</transliteration>
 <translation locale="en">collect</translation>
@@ -2027,16 +2158,36 @@
 <translation locale="en">ham</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒂉𒂄</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q7366">
+<dictentry  concept="https://www.wikidata.org/entity/Q7366">
 <transliteration transcription="endu">en3-du</transliteration>
 <translation locale="en">song</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇷𒁺</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q48422">
+<dictentry  concept="https://www.wikidata.org/entity/Q48422">
 <transliteration transcription="adda">adda2</transliteration>
 <translation locale="en">corpse</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇼</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q2166722">
+<transliteration transcription="namlul">nam-lul</transliteration>
+<translation locale="en">treachery</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉆𒈜</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q4106463">
+<transliteration transcription="namah">nam-mah</transliteration>
+<translation locale="en">greatness</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉆𒈤</dictentry>
+<dictentry>
+<transliteration transcription="muszendu">muszen-du3</transliteration>
+<translation locale="en">fowler</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄷𒆕</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q666115">
+<transliteration transcription="murguba">murgu-ba</transliteration>
+<translation locale="en">turtle shell</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒋞𒁀</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q4340209">
 <transliteration transcription="dunla">dun3-la2</transliteration>
 <translation locale="en">depression</translation>
@@ -2072,6 +2223,11 @@
 <translation locale="en">tiny</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
 𒊊</dictentry>
+<dictentry>
+<transliteration transcription="nigal">ni2-gal2</transliteration>
+<translation locale="en">terrifying</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒉎𒅅</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q13276">
 <transliteration transcription="gug2">gug2</transliteration>
 <translation locale="en">cake</translation>
@@ -2199,6 +2355,11 @@
 <translation locale="en">now</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
 𒀉𒊺</dictentry>
+<dictentry>
+<transliteration transcription="tina">ti-na</transliteration>
+<translation locale="en">strongly</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
+𒋾𒈾</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q19707">
 <transliteration transcription="ansze">ansze</transliteration>
 <translation locale="en">donkey</translation>
@@ -2239,7 +2400,7 @@
 <translation locale="en">kingship</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉆𒈗</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q124490">
+<dictentry concept="https://www.wikidata.org/entity/Q124490">
 <transliteration transcription="namszilig">nam-szilig</transliteration>
 <translation locale="en">violence</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -2254,32 +2415,42 @@
 <translation locale="en">skillfulness</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉆𒃴</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q168247">
+<dictentry concept="https://www.wikidata.org/entity/Q168247">
 <transliteration transcription="nigszagara">nig2-sza3-gar-ra</transliteration>
 <translation locale="en">famine</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒊮𒃻𒊏</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q178024">
+<dictentry concept="https://www.wikidata.org/entity/Q2095">
+<transliteration transcription="nigzugub">nig2-zu2-gub</transliteration>
+<translation locale="en">food</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒃻𒅗𒁺</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q543695">
+<transliteration transcription="ninkilim">d-nin-kilim</transliteration>
+<translation locale="en">mongoose</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒀭𒊩𒌆𒉾</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q178024">
 <transliteration transcription="nigsilaszidga">nig2-sila11-szid-ga2</transliteration>
 <translation locale="en">dough</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒋃𒋃𒂷</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q160151">
+<dictentry concept="https://www.wikidata.org/entity/Q160151">
 <transliteration transcription="nigsam">nig2-sam2</transliteration>
 <translation locale="en">price</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒉚</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q7860">
+<dictentry concept="https://www.wikidata.org/entity/Q7860">
 <transliteration transcription="nignamtara">nig2-nam-tar-ra</transliteration>
 <translation locale="en">nature</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒉆𒋻𒊏</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q42233">
+<dictentry concept="https://www.wikidata.org/entity/Q42233">
 <transliteration transcription="nigala">nig2-gal2-la</transliteration>
 <translation locale="en">sickle</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒃻𒅅𒆷</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q2138622">
+<dictentry concept="https://www.wikidata.org/entity/Q2138622">
 <transliteration transcription="niguda">nig2-gu7-da</transliteration>
 <translation locale="en">nourishment</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -2408,6 +2579,11 @@
 <translation locale="en">have</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒌇</dictentry>
+<dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_638">
+<transliteration transcription="u2...la2">u2...la2</transliteration>
+<translation locale="en">diminish</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒌑...𒇲</dictentry>
 <dictentry>
 <transliteration transcription="tuku">tu-lu</transliteration>
 <translation locale="en">be loose</translation>
@@ -2483,7 +2659,7 @@
 <translation locale="en">pour</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒌤</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q152079">
+<dictentry  concept="https://www.wikidata.org/entity/Q152079">
 <transliteration transcription="de2dal">de2-dal</transliteration>
 <translation locale="en">ashes</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -2493,6 +2669,31 @@
 <translation locale="en">right</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
 𒍣</dictentry>
+<dictentry>
+<transliteration transcription="nuzu">nu-zu</transliteration>
+<translation locale="en">ignorant</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒉡𒍪</dictentry>
+<dictentry>
+<transliteration transcription="nuzua">nu-zu-a</transliteration>
+<translation locale="en">unknown</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉡𒍪𒀀</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q859257">
+<transliteration transcription="numsahara">num-sahar-ra</transliteration>
+<translation locale="en">fly</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉏𒅖𒊏</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q858590">
+<transliteration transcription="pag">pa-ag2</transliteration>
+<translation locale="en">nostrils</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉺𒉘</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q827125">
+<transliteration transcription="papa">pa-pah</transliteration>
+<translation locale="en">cella</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒉺𒈜</dictentry>
 <dictentry>
 <transliteration transcription="sud">sud</transliteration>
 <translation locale="en">be distant</translation>
@@ -2534,18 +2735,12 @@
 <translation locale="en">hire</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒆪</dictentry>
-<dictentry  concept="https://www.wikidata.org/entity/Q573">
-<transliteration transcription="ud">ud</transliteration>
-<translation locale="en">day</translation>
-<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒌓</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q1347864">
 <transliteration transcription="eszgiri2">eszgiri2</transliteration>
 <translation locale="en">staff</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒂙</dictentry>
 <dictentry>
-
     <transliteration transcription="udul">ud-ul</transliteration>
 <translation locale="en">always</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
@@ -2668,12 +2863,12 @@
 <translation locale="en">disappearance</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌓𒍝𒄬</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q193605">
+<dictentry concept="https://www.wikidata.org/entity/Q193605">
 <transliteration transcription="ua">u5-a</transliteration>
 <translation locale="en">lullaby</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄷𒋛𒀀</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q1367">
+<dictentry concept="https://www.wikidata.org/entity/Q1367">
 <transliteration transcription="ugubi">ugu4-bi</transliteration>
 <translation locale="en">monkey</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -2871,17 +3066,17 @@
 <translation locale="en">delivery</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒈬𒁺</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q104363">
+<dictentry  concept="https://www.wikidata.org/entity/Q104363">
 <transliteration transcription="naszumin">na4-szu-min3</transliteration>
 <translation locale="en">anvil</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉌𒌓𒋗𒌋𒌋</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q211439">
+<dictentry  concept="https://www.wikidata.org/entity/Q211439">
 <transliteration transcription="mutum">mur-gu4</transliteration>
 <translation locale="en">fodder</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒄯𒄞</dictentry>
-<dictentry  concept="https://www.wikidata.org/wiki/Q1196129">
+<dictentry  concept="https://www.wikidata.org/entity/Q1196129">
 <transliteration transcription="mudna">mu-ud-na</transliteration>
 <translation locale="en">spouse</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -2921,6 +3116,16 @@
 <translation locale="en">hunter</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇽𒄭𒃻𒊏</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q416718">
+<transliteration transcription="lududu">lu2-du-du</transliteration>
+<translation locale="en">vagabond</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒇽𒁺𒁺</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q21550382">
+<transliteration transcription="lugidida">lu2-gi-di-da</transliteration>
+<translation locale="en">piper</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒇽𒄀𒁲𒁕</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q1195098">
 <transliteration transcription="luduna">lu2-dun-a</transliteration>
 <translation locale="en">ward</translation>
@@ -2936,6 +3141,11 @@
 <translation locale="en">unity</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌨</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q1056267">
+<transliteration transcription="luzah">lu2-zah3</transliteration>
+<translation locale="en">runaway</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒇽𒀄</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q3562775">
 <transliteration transcription="lunizu" cunei="𒇽𒉎𒍪">lu2-ni2-zu</transliteration>
 <transliteration transcription="lunizuh" cunei="𒇽𒉎𒅗">lu2-ni2-zuh</transliteration>
@@ -2993,6 +3203,16 @@
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
 𒆬</dictentry>
 <dictentry>
+<transliteration transcription="maz">ma-az</transliteration>
+<translation locale="en">exuberant</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒈠𒊍</dictentry>
+<dictentry>
+<transliteration transcription="riba">rib-ba</transliteration>
+<translation locale="en">enormous</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒆗𒁀</dictentry>
+<dictentry>
 <transliteration transcription="ade2">a-de2</transliteration>
 <translation locale="en">fresh</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
@@ -3014,6 +3234,11 @@
 <translation locale="en">be healthy</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒁲</dictentry>
+<dictentry>
+<transliteration transcription="umbin...kud">umbin...kud</transliteration>
+<translation locale="en">shave</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒌢...𒋻</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904">
 <transliteration transcription="silig">silig</transliteration>
 <translation locale="en">cease</translation>
@@ -3074,16 +3299,16 @@
 <translation locale="en">blanket</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒌆𒄘𒇲</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q1130359">
+<transliteration transcription="tugnigdara">tug2-nij2-dara2</transliteration>
+<translation locale="en">loincloth</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒌆𒃻𒅁</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q146">
 <transliteration transcription="sua">su-a</transliteration>
 <translation locale="en">cat</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒋢𒀀</dictentry>
-<dictentry  concept="https://www.wikidata.org/entity/Q193605">
-<transliteration transcription="ua">u5-a</transliteration>
-<translation locale="en">lullaby</translation>
-<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
-𒄷𒋛𒀀</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q7722">
 <transliteration transcription="utena" cunei="𒌓𒋼𒈾">u4-te-na</transliteration>
 <transliteration transcription="utena" cunei="𒌓𒋼">u4-te</transliteration>
@@ -3206,7 +3431,7 @@
 <translation locale="en">friend</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒆪𒇷</dictentry>
-<dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q160066">
 <transliteration transcription="in">in</transliteration>
 <translation locale="en">straw</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -3267,6 +3492,11 @@
 <translation locale="en">sheep</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒇻</dictentry>
+<dictentry  concept="https://www.wikidata.org/entity/Q22724">
+<transliteration transcription="udusiki">udu-siki</transliteration>
+<translation locale="en">wool sheep</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒇻𒋠</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q81710">
 <transliteration transcription="munsub2">munsub2</transliteration>
 <transliteration transcription="sipard">sipard</transliteration>
@@ -3702,6 +3932,41 @@
 <translation locale="en">quickly</translation>
 <postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
 𒀀𒄭𒀸</dictentry>
+<dictentry>
+<transliteration transcription="szada">sza3-da</transliteration>
+<translation locale="en">voluntarily</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adverb">ADV</postag>
+𒊮𒁕</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q134560">
+<transliteration transcription="szagadu">sza3-ga-du3</transliteration>
+<translation locale="en">belt</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊮𒂵𒆕</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q160232">
+<transliteration transcription="szahulgig">sza3-hul-gig</transliteration>
+<translation locale="en">hatred</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊮𒅆𒌨𒈪𒉭</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q8">
+<transliteration transcription="szahula">sza3-hul2-la</transliteration>
+<translation locale="en">delight</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊮𒄾𒆷</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q165947">
+<transliteration transcription="szakatab">sza3-ka-tab</transliteration>
+<translation locale="en">hunger</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒊮𒅗𒋰</dictentry>
+<dictentry>
+<transliteration transcription="szakatab">sza3-su3-ga</transliteration>
+<translation locale="en">hungry</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒊮𒋤𒂵</dictentry>
+<dictentry>
+<transliteration transcription="szatam">sza3-tam</transliteration>
+<translation locale="en">credible</translation>
+<postag uri="http://purl.org/olia/olia.owl#Adjective">ADJ</postag>
+𒊮𒌓</dictentry>
 <dictentry  concept="https://www.wikidata.org/entity/Q749565">
 <transliteration transcription="zahum">za-hum</transliteration>
 <transliteration transcription="zahum">za-hu-um</transliteration>
@@ -3829,6 +4094,11 @@
 <translation locale="en">withstand</translation>
 <postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
 𒊒𒄘</dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q3916957">
+<transliteration transcription="lubsar">lu-ub2-sar</transliteration>
+<translation locale="en">turnip</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒇻𒂠𒊬</dictentry>
 <dictentry  concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1614">
 <transliteration transcription="gur">guru3</transliteration>
 <translation locale="en">bear</translation>
@@ -3999,7 +4269,7 @@
 <translation locale="en">anus</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒁁</dictentry>
-<dictentry concept="https://www.wikidata.org/wiki/Q18099">
+<dictentry concept="https://www.wikidata.org/entity/Q18099">
 <transliteration transcription="gudalim">gud-alim</transliteration>
 <translation locale="en">bison</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
@@ -4199,7 +4469,7 @@
 <translation locale="en">writing</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
 𒉆𒁾</dictentry>
-<dictentry>
+<dictentry concept="https://www.wikidata.org/entity/Q1760988">
 <transliteration transcription="aszgab">aszgab</transliteration>
 <translation locale="en">leatherworker</translation>
 <postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>

@@ -40,15 +40,16 @@ function isArray(what) {
     var translationToObj={}
     var posTagMap={}
     var strToMap={}
+    var dictMap={}
     var numconcepts=0;
     var currentsearch="translationToObj";
     function printNewPage(value,mapordict){
         result=""//<thead><th>.</th><th>.</th><th>.</th><th>.</th></thead><tbody>";
         map={}
         keylist=[]
-        map=translationToObj;
+        map=dictMap;
         numconcepts=0;
-        for(obj in translationToObj){
+        for(obj in map){
                     result+="<tr>"
                     result+="<td style=\"font-family: '"+value+"', Arial, sans-serif;\""+(map[obj]["transliteration"]!=undefined && map[obj]["transliteration"]["code"]!=undefined?" title=\""+map[obj]["transliteration"]["code"]+"\">":">");
                     if("img" in map[obj]){
@@ -129,6 +130,7 @@ function isArray(what) {
     }
         function buildMap(value){
                 translationToObj={}
+                dictMap={}
                 posTagMap={}
                 strToMap={}
                  $('#inputenglish').val("")
@@ -144,10 +146,10 @@ function isArray(what) {
                 for(item in this["transliteration"]){
                         resstr+=this["transliteration"][item]["content"]+";"
                 }
-                translationToObj[resstr]=this
+               // translationToObj[resstr]=this
                 strToMap[resstr]=this
             }else{
-                translationToObj[this["transliteration"]["content"]]=this
+               // translationToObj[this["transliteration"]["content"]]=this
                             strToMap[this["transliteration"]["content"]]=this
             }
             }
@@ -156,7 +158,7 @@ function isArray(what) {
             printNewPage(value.substring(0,value.length-4),true)
             }
             function buildDict(value){
-        translationToObj={}
+        dictMap={}
         posTagMap={}
         strToMap={}
         $('#inputenglish').val("")
@@ -187,16 +189,18 @@ function isArray(what) {
         }
        // ("references" in window[this.value]["dictentries"]["about"]?$('#references').html("<a href=\""+window[this.value]["dictentries"]["about"]["comment"]["uri"]+"\">"+window[this.value]["dictentries"]["about"]["comment"]["content"]+"</a>"):"")
         jQuery.each(window[value]["dictentries"]["dictentry"], function() {
+        combinedstring=""
         if(this["translation"]!=undefined){
             if(isArray(this["translation"])){
                 resstr=""
                 for(item in this["translation"]){
                         resstr+=this["translation"][item]["content"]+";"
                 }
-                translationToObj[resstr]=this
+               // translationToObj[resstr]=this
                 strToMap[resstr]=this
+                
             }else{
-                translationToObj[this["translation"]["content"]]=this
+                //translationToObj[this["translation"]["content"]]=this
                             strToMap[this["translation"]["content"]]=this
             }
             }
@@ -205,6 +209,7 @@ function isArray(what) {
                         strToMap[this["transliteration"]["content"]]=this
             }
         if(this["content"]!=undefined){
+           
             //wordToObj[this["content"]]=this
             strToMap[this["content"]]=this
             }
@@ -215,7 +220,10 @@ function isArray(what) {
                     posTagMap[this["postag"]["content"]]=1                
                 }
             }
-
+            if(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:"") in dictMap){
+                    console.log(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:""))
+            }
+            dictMap[this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:"")]=this
         }); 
                     setupSearch();
         printNewPage(value,false)
@@ -224,7 +232,7 @@ function isArray(what) {
     
         function setupSearch(){
         currentsearch= $("input[name='search']:checked").val();
-          $('#amount').text(Object.keys(translationToObj).length+" words")
+          $('#amount').text(Object.keys(dictMap).length+" words")
         $("#inputenglish").autocomplete({source: []});
         $( "#inputenglish" ).autocomplete({
       source: Object.keys(window[currentsearch]),

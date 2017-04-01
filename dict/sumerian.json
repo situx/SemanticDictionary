@@ -67,6 +67,36 @@
         },
         {
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "loyal"
+            },
+            "transliteration": {
+                "transcription": "szudima",
+                "content": "szu-dim4-ma"
+            },
+            "content": "𒋗𒉽𒉽𒈠"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "szudu (measure of 10 fingers)"
+            },
+            "transliteration": {
+                "transcription": "szudua",
+                "content": "szu-du3-a"
+            },
+            "content": "𒋗𒆕𒀀"
+        },
+        {
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
@@ -80,6 +110,37 @@
                 "content": "na"
             },
             "content": "𒈾"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q16246919",
+            "translation": {
+                "locale": "en",
+                "content": "guarantee"
+            },
+            "transliteration": {
+                "transcription": "szudua",
+                "content": "szu-du8-a"
+            },
+            "content": "𒋗𒃮𒀀"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "open hand"
+            },
+            "transliteration": {
+                "transcription": "szuhala",
+                "content": "szu-hal-la"
+            },
+            "content": "𒋗𒄬𒆷"
         },
         {
             "postag": {
@@ -127,6 +188,22 @@
                 "content": "kid"
             },
             "content": "𒆤"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1752346",
+            "translation": {
+                "locale": "en",
+                "content": "assembly"
+            },
+            "transliteration": {
+                "transcription": "ubszukkina",
+                "content": "ub-szu-ukkin-na"
+            },
+            "content": "𒌒𒋗𒌺𒈾"
         },
         {
             "postag": {
@@ -484,7 +561,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2647209",
+            "concept": "https://www.wikidata.org/entity/Q2647209",
             "translation": {
                 "locale": "en",
                 "content": "stylus"
@@ -500,7 +577,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q184393",
+            "concept": "https://www.wikidata.org/entity/Q184393",
             "translation": {
                 "locale": "en",
                 "content": "catapult"
@@ -516,7 +593,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q381155",
+            "concept": "https://www.wikidata.org/entity/Q381155",
             "translation": {
                 "locale": "en",
                 "content": "sieve"
@@ -532,7 +609,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q327954",
+            "concept": "https://www.wikidata.org/entity/Q327954",
             "translation": {
                 "locale": "en",
                 "content": "torch"
@@ -738,6 +815,37 @@
                 "content": "duh"
             },
             "content": "𒃮"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q28813",
+            "translation": {
+                "locale": "en",
+                "content": "fraud"
+            },
+            "transliteration": {
+                "transcription": "unugara",
+                "content": "u3-nu-gar-ra"
+            },
+            "content": "𒅇𒉡𒃻𒊏"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "today"
+            },
+            "transliteration": {
+                "transcription": "uda",
+                "content": "u4-da"
+            },
+            "content": "𒌓𒁕"
         },
         {
             "postag": {
@@ -968,6 +1076,23 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q23703778",
+            "translation": {
+                "locale": "en",
+                "content": "heifer"
+            },
+            "transliteration": {
+                "transcription": "migir",
+                "cunei": "𒊩𒄫",
+                "content": "mi2-gir"
+            },
+            "content": "𒊩𒄫"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q11081619",
             "translation": {
                 "locale": "en",
@@ -1052,7 +1177,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q194431",
+            "concept": "https://www.wikidata.org/entity/Q194431",
             "translation": {
                 "locale": "en",
                 "content": "paragraph"
@@ -1069,7 +1194,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q36539",
+            "concept": "https://www.wikidata.org/entity/Q36539",
             "translation": {
                 "locale": "en",
                 "content": "oven"
@@ -1170,6 +1295,21 @@
         },
         {
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "entrusted"
+            },
+            "transliteration": {
+                "transcription": "szula",
+                "content": "szu-la2-a"
+            },
+            "content": "𒋗𒇲𒀀"
+        },
+        {
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
@@ -1235,7 +1375,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q329737",
+            "concept": "https://www.wikidata.org/entity/Q329737",
             "translation": {
                 "locale": "en",
                 "content": "butcher"
@@ -1251,7 +1391,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q19125",
+            "concept": "https://www.wikidata.org/entity/Q19125",
             "translation": {
                 "locale": "en",
                 "content": "scorpion"
@@ -1267,7 +1407,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q207172",
+            "concept": "https://www.wikidata.org/entity/Q207172",
             "translation": {
                 "locale": "en",
                 "content": "scalpel"
@@ -1474,7 +1614,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q308194",
+            "concept": "https://www.wikidata.org/entity/Q308194",
             "translation": {
                 "locale": "en",
                 "content": "daughter"
@@ -1809,7 +1949,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1640824",
+            "concept": "https://www.wikidata.org/entity/Q1640824",
             "translation": {
                 "locale": "en",
                 "content": "inscription"
@@ -2045,7 +2185,23 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q3217825",
+            "concept": "https://www.wikidata.org/entity/Q842",
+            "translation": {
+                "locale": "en",
+                "content": "Magan"
+            },
+            "transliteration": {
+                "transcription": "magan",
+                "content": "ma2-gan-an-na-ki"
+            },
+            "content": "𒈣𒃶𒀭𒈾𒆠"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3217825",
             "translation": {
                 "locale": "en",
                 "content": "Larak"
@@ -2061,7 +2217,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q771497",
+            "concept": "https://www.wikidata.org/entity/Q771497",
             "translation": {
                 "locale": "en",
                 "content": "Anshar"
@@ -2117,7 +2273,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q159709",
+            "concept": "https://www.wikidata.org/entity/Q159709",
             "translation": {
                 "locale": "en",
                 "content": "Gilgamesh"
@@ -2165,7 +2321,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1370714",
+            "concept": "https://www.wikidata.org/entity/Q1370714",
             "translation": {
                 "locale": "en",
                 "content": "timber"
@@ -2181,7 +2337,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q14532655",
+            "concept": "https://www.wikidata.org/entity/Q14532655",
             "translation": {
                 "locale": "en",
                 "content": "task"
@@ -2205,7 +2361,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1138737",
+            "concept": "https://www.wikidata.org/entity/Q1138737",
             "translation": {
                 "locale": "en",
                 "content": "lamp"
@@ -2238,7 +2394,24 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q9301547",
+            "concept": "https://www.wikidata.org/entity/Q859281",
+            "translation": {
+                "locale": "en",
+                "content": "wagon"
+            },
+            "transliteration": {
+                "transcription": "giszmargida",
+                "cunei": "",
+                "content": "gisz-mar-gid2-da"
+            },
+            "content": "𒄑𒈥𒁍𒁕"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q9301547",
             "translation": {
                 "locale": "en",
                 "content": "stepladder"
@@ -2254,7 +2427,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q392326",
+            "concept": "https://www.wikidata.org/entity/Q392326",
             "translation": {
                 "locale": "en",
                 "content": "cudgel"
@@ -2334,7 +2507,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q501259",
+            "concept": "https://www.wikidata.org/entity/Q501259",
             "translation": {
                 "locale": "en",
                 "content": "Isin"
@@ -2350,7 +2523,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q188395",
+            "concept": "https://www.wikidata.org/entity/Q188395",
             "translation": {
                 "locale": "en",
                 "content": "Nippur"
@@ -2366,7 +2539,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1330881",
+            "concept": "https://www.wikidata.org/entity/Q1330881",
             "translation": {
                 "locale": "en",
                 "content": "Hamazi"
@@ -2382,7 +2555,7 @@
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q346445",
+            "concept": "https://www.wikidata.org/entity/Q346445",
             "translation": {
                 "locale": "en",
                 "content": "Adab"
@@ -2893,7 +3066,7 @@
             },
             "transliteration": {
                 "transcription": "eridu",
-                "content": "eridu"
+                "content": "eridu-ki"
             },
             "content": "𒉣𒆠"
         },
@@ -2959,6 +3132,22 @@
                 "content": "szul"
             },
             "content": "𒂄"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q186361",
+            "translation": {
+                "locale": "en",
+                "content": "punishment"
+            },
+            "transliteration": {
+                "transcription": "szulalum",
+                "content": "szul-a-lum"
+            },
+            "content": "𒂄𒀀𒈝"
         },
         {
             "postag": {
@@ -3267,6 +3456,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q16684351",
             "translation": {
                 "locale": "en",
                 "content": "rider"
@@ -3276,6 +3466,38 @@
                 "content": "ra-gaba"
             },
             "content": "𒊏𒃮"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2824657",
+            "translation": {
+                "locale": "en",
+                "content": "admiration"
+            },
+            "transliteration": {
+                "transcription": "u6di",
+                "content": "u6-di"
+            },
+            "content": "𒅆𒂍𒁲"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7358",
+            "translation": {
+                "locale": "en",
+                "content": "clown"
+            },
+            "transliteration": {
+                "transcription": "udatusz",
+                "content": "u4-da-tusz"
+            },
+            "content": "𒌈𒁕𒆪"
         },
         {
             "postag": {
@@ -3923,7 +4145,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1786125",
+            "concept": "https://www.wikidata.org/entity/Q1786125",
             "translation": {
                 "locale": "en",
                 "content": "fish oil"
@@ -3939,7 +4161,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q4004659",
+            "concept": "https://www.wikidata.org/entity/Q4004659",
             "translation": {
                 "locale": "en",
                 "content": "ointment"
@@ -3955,7 +4177,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q34172",
+            "concept": "https://www.wikidata.org/entity/Q34172",
             "translation": {
                 "locale": "en",
                 "content": "butter"
@@ -3971,7 +4193,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1058800",
+            "concept": "https://www.wikidata.org/entity/Q1058800",
             "translation": {
                 "locale": "en",
                 "content": "moonlight"
@@ -3987,7 +4209,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q79871",
+            "concept": "https://www.wikidata.org/entity/Q79871",
             "translation": {
                 "locale": "en",
                 "content": "anger"
@@ -4003,7 +4225,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q198763",
+            "concept": "https://www.wikidata.org/entity/Q198763",
             "translation": {
                 "locale": "en",
                 "content": "underwear"
@@ -4019,7 +4241,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1762124",
+            "concept": "https://www.wikidata.org/entity/Q1762124",
             "translation": {
                 "locale": "en",
                 "content": "leftover"
@@ -4035,7 +4257,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1970769",
+            "concept": "https://www.wikidata.org/entity/Q1970769",
             "translation": {
                 "locale": "en",
                 "content": "elevation"
@@ -4744,21 +4966,6 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
-            "translation": {
-                "locale": "en",
-                "content": "be distant"
-            },
-            "transliteration": {
-                "transcription": "sud",
-                "content": "sud"
-            },
-            "content": "𒋤"
-        },
-        {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Verb",
-                "content": "VV"
-            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_41",
             "translation": {
                 "locale": "en",
@@ -4963,7 +5170,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q7378",
+            "concept": "https://www.wikidata.org/entity/Q7378",
             "translation": {
                 "locale": "en",
                 "content": "elephant"
@@ -5004,6 +5211,22 @@
                 "content": "nam-nin"
             },
             "content": "𒉆𒊩𒌆"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q41611",
+            "translation": {
+                "locale": "en",
+                "content": "coriander"
+            },
+            "transliteration": {
+                "transcription": "szelusar",
+                "content": "sze-lu2-sar"
+            },
+            "content": "𒊺𒇽𒊬"
         },
         {
             "postag": {
@@ -5052,6 +5275,21 @@
                 "content": "tab-ba"
             },
             "content": "𒋰𒁀"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "together"
+            },
+            "transliteration": {
+                "transcription": "teszbi",
+                "content": "tesz2-bi"
+            },
+            "content": "𒌨𒁉"
         },
         {
             "postag": {
@@ -5437,6 +5675,37 @@
         },
         {
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q150784",
+            "translation": {
+                "locale": "en",
+                "content": "ravine"
+            },
+            "transliteration": {
+                "transcription": "maur",
+                "content": "ma2-ur2"
+            },
+            "content": "𒈣𒌫"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "powerfully"
+            },
+            "transliteration": {
+                "transcription": "mahbi",
+                "content": "mah-bi"
+            },
+            "content": "𒈤𒁉"
+        },
+        {
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
@@ -5552,7 +5821,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q3199915",
+            "concept": "https://www.wikidata.org/entity/Q3199915",
             "translation": {
                 "locale": "en",
                 "content": "slaughter"
@@ -5734,7 +6003,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q155925",
+            "concept": "https://www.wikidata.org/entity/Q155925",
             "translation": {
                 "locale": "en",
                 "content": "saliva"
@@ -6011,6 +6280,22 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q950375",
+            "translation": {
+                "locale": "en",
+                "content": "pestle"
+            },
+            "transliteration": {
+                "transcription": "naszuna",
+                "content": "na4-szu-na"
+            },
+            "content": "𒉌𒋗𒈾"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q2892050",
             "translation": {
                 "locale": "en",
@@ -6037,6 +6322,22 @@
                 "content": "numun"
             },
             "content": "𒆰"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q173486",
+            "translation": {
+                "locale": "en",
+                "content": "frankincense"
+            },
+            "transliteration": {
+                "transcription": "szimgig",
+                "content": "szim-gig"
+            },
+            "content": "𒋆𒈪𒉭"
         },
         {
             "postag": {
@@ -6106,6 +6407,82 @@
                 "content": "ab2"
             },
             "content": "𒀖"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "supplement"
+            },
+            "transliteration": {
+                "transcription": "nigdiri",
+                "content": "nig2-diri"
+            },
+            "content": "𒃻𒋛𒀀"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "belligerence"
+            },
+            "transliteration": {
+                "transcription": "nigkur",
+                "content": "nig2-kur2"
+            },
+            "content": "𒃻𒉽"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q633403",
+            "translation": {
+                "locale": "en",
+                "content": "weakness"
+            },
+            "transliteration": {
+                "transcription": "nigsiga",
+                "content": "nig2-sig-ga"
+            },
+            "content": "𒃻𒋝𒂵"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "submission"
+            },
+            "transliteration": {
+                "transcription": "nigdun",
+                "content": "nig2-dun"
+            },
+            "content": "𒃻𒂄"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "coward"
+            },
+            "transliteration": {
+                "transcription": "nisub",
+                "content": "ni2-su-ub"
+            },
+            "content": "𒉎𒋢𒌒"
         },
         {
             "postag": {
@@ -6347,6 +6724,22 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3794",
+            "translation": {
+                "locale": "en",
+                "content": "expand"
+            },
+            "transliteration": {
+                "transcription": "szu...pesz",
+                "content": "szu...pesz"
+            },
+            "content": "𒋗...𒄫"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845",
             "translation": {
                 "locale": "en",
@@ -6357,6 +6750,21 @@
                 "content": "tuku4"
             },
             "content": "𒇧"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "be famous"
+            },
+            "transliteration": {
+                "transcription": "mutuku",
+                "content": "mu-tuku"
+            },
+            "content": "𒈬𒌇"
         },
         {
             "postag": {
@@ -6611,7 +7019,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q7366",
+            "concept": "https://www.wikidata.org/entity/Q7366",
             "translation": {
                 "locale": "en",
                 "content": "song"
@@ -6627,7 +7035,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q48422",
+            "concept": "https://www.wikidata.org/entity/Q48422",
             "translation": {
                 "locale": "en",
                 "content": "corpse"
@@ -6637,6 +7045,69 @@
                 "content": "adda2"
             },
             "content": "𒇼"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2166722",
+            "translation": {
+                "locale": "en",
+                "content": "treachery"
+            },
+            "transliteration": {
+                "transcription": "namlul",
+                "content": "nam-lul"
+            },
+            "content": "𒉆𒈜"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q4106463",
+            "translation": {
+                "locale": "en",
+                "content": "greatness"
+            },
+            "transliteration": {
+                "transcription": "namah",
+                "content": "nam-mah"
+            },
+            "content": "𒉆𒈤"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "fowler"
+            },
+            "transliteration": {
+                "transcription": "muszendu",
+                "content": "muszen-du3"
+            },
+            "content": "𒄷𒆕"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q666115",
+            "translation": {
+                "locale": "en",
+                "content": "turtle shell"
+            },
+            "transliteration": {
+                "transcription": "murguba",
+                "content": "murgu-ba"
+            },
+            "content": "𒋞𒁀"
         },
         {
             "postag": {
@@ -6747,6 +7218,21 @@
                 "content": "ug2"
             },
             "content": "𒊊"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "terrifying"
+            },
+            "transliteration": {
+                "transcription": "nigal",
+                "content": "ni2-gal2"
+            },
+            "content": "𒉎𒅅"
         },
         {
             "postag": {
@@ -7158,6 +7644,21 @@
         },
         {
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "strongly"
+            },
+            "transliteration": {
+                "transcription": "tina",
+                "content": "ti-na"
+            },
+            "content": "𒋾𒈾"
+        },
+        {
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
@@ -7288,7 +7789,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q124490",
+            "concept": "https://www.wikidata.org/entity/Q124490",
             "translation": {
                 "locale": "en",
                 "content": "violence"
@@ -7335,7 +7836,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q168247",
+            "concept": "https://www.wikidata.org/entity/Q168247",
             "translation": {
                 "locale": "en",
                 "content": "famine"
@@ -7351,7 +7852,39 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q178024",
+            "concept": "https://www.wikidata.org/entity/Q2095",
+            "translation": {
+                "locale": "en",
+                "content": "food"
+            },
+            "transliteration": {
+                "transcription": "nigzugub",
+                "content": "nig2-zu2-gub"
+            },
+            "content": "𒃻𒅗𒁺"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q543695",
+            "translation": {
+                "locale": "en",
+                "content": "mongoose"
+            },
+            "transliteration": {
+                "transcription": "ninkilim",
+                "content": "d-nin-kilim"
+            },
+            "content": "𒀭𒊩𒌆𒉾"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q178024",
             "translation": {
                 "locale": "en",
                 "content": "dough"
@@ -7367,7 +7900,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q160151",
+            "concept": "https://www.wikidata.org/entity/Q160151",
             "translation": {
                 "locale": "en",
                 "content": "price"
@@ -7383,7 +7916,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q7860",
+            "concept": "https://www.wikidata.org/entity/Q7860",
             "translation": {
                 "locale": "en",
                 "content": "nature"
@@ -7399,7 +7932,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q42233",
+            "concept": "https://www.wikidata.org/entity/Q42233",
             "translation": {
                 "locale": "en",
                 "content": "sickle"
@@ -7415,7 +7948,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2138622",
+            "concept": "https://www.wikidata.org/entity/Q2138622",
             "translation": {
                 "locale": "en",
                 "content": "nourishment"
@@ -7834,6 +8367,22 @@
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_638",
+            "translation": {
+                "locale": "en",
+                "content": "diminish"
+            },
+            "transliteration": {
+                "transcription": "u2...la2",
+                "content": "u2...la2"
+            },
+            "content": "𒌑...𒇲"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "translation": {
                 "locale": "en",
                 "content": "be loose"
@@ -8067,7 +8616,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q152079",
+            "concept": "https://www.wikidata.org/entity/Q152079",
             "translation": {
                 "locale": "en",
                 "content": "ashes"
@@ -8092,6 +8641,84 @@
                 "content": "zid"
             },
             "content": "𒍣"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "ignorant"
+            },
+            "transliteration": {
+                "transcription": "nuzu",
+                "content": "nu-zu"
+            },
+            "content": "𒉡𒍪"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "unknown"
+            },
+            "transliteration": {
+                "transcription": "nuzua",
+                "content": "nu-zu-a"
+            },
+            "content": "𒉡𒍪𒀀"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q859257",
+            "translation": {
+                "locale": "en",
+                "content": "fly"
+            },
+            "transliteration": {
+                "transcription": "numsahara",
+                "content": "num-sahar-ra"
+            },
+            "content": "𒉏𒅖𒊏"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q858590",
+            "translation": {
+                "locale": "en",
+                "content": "nostrils"
+            },
+            "transliteration": {
+                "transcription": "pag",
+                "content": "pa-ag2"
+            },
+            "content": "𒉺𒉘"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q827125",
+            "translation": {
+                "locale": "en",
+                "content": "cella"
+            },
+            "transliteration": {
+                "transcription": "papa",
+                "content": "pa-pah"
+            },
+            "content": "𒉺𒈜"
         },
         {
             "postag": {
@@ -8224,22 +8851,6 @@
                 "content": "dab5"
             },
             "content": "𒆪"
-        },
-        {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
-            },
-            "concept": "https://www.wikidata.org/entity/Q573",
-            "translation": {
-                "locale": "en",
-                "content": "day"
-            },
-            "transliteration": {
-                "transcription": "ud",
-                "content": "ud"
-            },
-            "content": "𒌓"
         },
         {
             "postag": {
@@ -8669,7 +9280,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q193605",
+            "concept": "https://www.wikidata.org/entity/Q193605",
             "translation": {
                 "locale": "en",
                 "content": "lullaby"
@@ -8685,7 +9296,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1367",
+            "concept": "https://www.wikidata.org/entity/Q1367",
             "translation": {
                 "locale": "en",
                 "content": "monkey"
@@ -9319,7 +9930,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q104363",
+            "concept": "https://www.wikidata.org/entity/Q104363",
             "translation": {
                 "locale": "en",
                 "content": "anvil"
@@ -9335,7 +9946,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q211439",
+            "concept": "https://www.wikidata.org/entity/Q211439",
             "translation": {
                 "locale": "en",
                 "content": "fodder"
@@ -9351,7 +9962,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1196129",
+            "concept": "https://www.wikidata.org/entity/Q1196129",
             "translation": {
                 "locale": "en",
                 "content": "spouse"
@@ -9477,6 +10088,38 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q416718",
+            "translation": {
+                "locale": "en",
+                "content": "vagabond"
+            },
+            "transliteration": {
+                "transcription": "lududu",
+                "content": "lu2-du-du"
+            },
+            "content": "𒇽𒁺𒁺"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q21550382",
+            "translation": {
+                "locale": "en",
+                "content": "piper"
+            },
+            "transliteration": {
+                "transcription": "lugidida",
+                "content": "lu2-gi-di-da"
+            },
+            "content": "𒇽𒄀𒁲𒁕"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q1195098",
             "translation": {
                 "locale": "en",
@@ -9519,6 +10162,22 @@
                 "content": "tesz2"
             },
             "content": "𒌨"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1056267",
+            "translation": {
+                "locale": "en",
+                "content": "runaway"
+            },
+            "transliteration": {
+                "transcription": "luzah",
+                "content": "lu2-zah3"
+            },
+            "content": "𒇽𒀄"
         },
         {
             "postag": {
@@ -9710,6 +10369,36 @@
             },
             "translation": {
                 "locale": "en",
+                "content": "exuberant"
+            },
+            "transliteration": {
+                "transcription": "maz",
+                "content": "ma-az"
+            },
+            "content": "𒈠𒊍"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "enormous"
+            },
+            "transliteration": {
+                "transcription": "riba",
+                "content": "rib-ba"
+            },
+            "content": "𒆗𒁀"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
                 "content": "fresh"
             },
             "transliteration": {
@@ -9776,6 +10465,21 @@
                 "content": "silim"
             },
             "content": "𒁲"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "shave"
+            },
+            "transliteration": {
+                "transcription": "umbin...kud",
+                "content": "umbin...kud"
+            },
+            "content": "𒌢...𒋻"
         },
         {
             "postag": {
@@ -9973,6 +10677,22 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q1130359",
+            "translation": {
+                "locale": "en",
+                "content": "loincloth"
+            },
+            "transliteration": {
+                "transcription": "tugnigdara",
+                "content": "tug2-nij2-dara2"
+            },
+            "content": "𒌆𒃻𒅁"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q146",
             "translation": {
                 "locale": "en",
@@ -9983,22 +10703,6 @@
                 "content": "su-a"
             },
             "content": "𒋢𒀀"
-        },
-        {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
-            },
-            "concept": "https://www.wikidata.org/entity/Q193605",
-            "translation": {
-                "locale": "en",
-                "content": "lullaby"
-            },
-            "transliteration": {
-                "transcription": "ua",
-                "content": "u5-a"
-            },
-            "content": "𒄷𒋛𒀀"
         },
         {
             "postag": {
@@ -10404,6 +11108,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q160066",
             "translation": {
                 "locale": "en",
                 "content": "straw"
@@ -10595,6 +11300,22 @@
                 "content": "udu"
             },
             "content": "𒇻"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q22724",
+            "translation": {
+                "locale": "en",
+                "content": "wool sheep"
+            },
+            "transliteration": {
+                "transcription": "udusiki",
+                "content": "udu-siki"
+            },
+            "content": "𒇻𒋠"
         },
         {
             "postag": {
@@ -12008,6 +12729,115 @@
         },
         {
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "voluntarily"
+            },
+            "transliteration": {
+                "transcription": "szada",
+                "content": "sza3-da"
+            },
+            "content": "𒊮𒁕"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q134560",
+            "translation": {
+                "locale": "en",
+                "content": "belt"
+            },
+            "transliteration": {
+                "transcription": "szagadu",
+                "content": "sza3-ga-du3"
+            },
+            "content": "𒊮𒂵𒆕"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q160232",
+            "translation": {
+                "locale": "en",
+                "content": "hatred"
+            },
+            "transliteration": {
+                "transcription": "szahulgig",
+                "content": "sza3-hul-gig"
+            },
+            "content": "𒊮𒅆𒌨𒈪𒉭"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8",
+            "translation": {
+                "locale": "en",
+                "content": "delight"
+            },
+            "transliteration": {
+                "transcription": "szahula",
+                "content": "sza3-hul2-la"
+            },
+            "content": "𒊮𒄾𒆷"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q165947",
+            "translation": {
+                "locale": "en",
+                "content": "hunger"
+            },
+            "transliteration": {
+                "transcription": "szakatab",
+                "content": "sza3-ka-tab"
+            },
+            "content": "𒊮𒅗𒋰"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "hungry"
+            },
+            "transliteration": {
+                "transcription": "szakatab",
+                "content": "sza3-su3-ga"
+            },
+            "content": "𒊮𒋤𒂵"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "credible"
+            },
+            "transliteration": {
+                "transcription": "szatam",
+                "content": "sza3-tam"
+            },
+            "content": "𒊮𒌓"
+        },
+        {
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
@@ -12413,6 +13243,22 @@
                 "content": "ru-gu2"
             },
             "content": "𒊒𒄘"
+        },
+        {
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3916957",
+            "translation": {
+                "locale": "en",
+                "content": "turnip"
+            },
+            "transliteration": {
+                "transcription": "lubsar",
+                "content": "lu-ub2-sar"
+            },
+            "content": "𒇻𒂠𒊬"
         },
         {
             "postag": {
@@ -12949,7 +13795,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q18099",
+            "concept": "https://www.wikidata.org/entity/Q18099",
             "translation": {
                 "locale": "en",
                 "content": "bison"
@@ -13583,6 +14429,7 @@
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q1760988",
             "translation": {
                 "locale": "en",
                 "content": "leatherworker"
