@@ -6,6 +6,7 @@ var sumerian={"dictentries": {
             "content": "GPLv3"
         },
         "references": {
+            "val": "cdli",
             "reference": [
                 {
                     "a": {
@@ -15,6 +16,15 @@ var sumerian={"dictentries": {
                     "uri": "https://www.wikidata.org/entity/Q121769"
                 },
                 {
+                    "val": "epsd",
+                    "a": {
+                        "href": "http://psd.museum.upenn.edu/epsd/nepsd-frame.html",
+                        "content": "ePSD Cuneiform Dictionary"
+                    },
+                    "uri": "https://www.wikidata.org/entity/Q121769"
+                },
+                {
+                    "val": "sumdict",
                     "a": {
                         "href": "http://psd.museum.upenn.edu/epsd/nepsd-frame.html",
                         "content": "ePSD Cuneiform Dictionary"
@@ -35,6 +45,7 @@ var sumerian={"dictentries": {
     },
     "dictentry": [
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -51,6 +62,7 @@ var sumerian={"dictentries": {
             "content": "𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -66,6 +78,7 @@ var sumerian={"dictentries": {
             "content": "𒈤𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -81,6 +94,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒉽𒉽𒈠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -96,6 +110,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒆕𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -112,6 +127,7 @@ var sumerian={"dictentries": {
             "content": "𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -128,6 +144,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒃮𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -143,6 +160,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒄬𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -159,6 +177,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -174,6 +193,7 @@ var sumerian={"dictentries": {
             "content": "𒄩𒄩𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -190,6 +210,24 @@ var sumerian={"dictentries": {
             "content": "𒆤"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1752346",
+            "translation": {
+                "locale": "en",
+                "content": "assembly"
+            },
+            "transliteration": {
+                "transcription": "ubszukkina",
+                "content": "ub-szu-ukkin-na"
+            },
+            "content": "𒌒𒋗𒌺𒈾"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -206,6 +244,7 @@ var sumerian={"dictentries": {
             "content": "𒄀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -222,6 +261,7 @@ var sumerian={"dictentries": {
             "content": "𒇻𒄷𒌝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -238,6 +278,7 @@ var sumerian={"dictentries": {
             "content": "𒇻𒅆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -254,6 +295,7 @@ var sumerian={"dictentries": {
             "content": "𒄬𒇻𒂠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -270,6 +312,7 @@ var sumerian={"dictentries": {
             "content": "𒂊𒁍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -286,6 +329,7 @@ var sumerian={"dictentries": {
             "content": "𒅎"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -301,6 +345,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒍠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -317,6 +362,7 @@ var sumerian={"dictentries": {
             "content": "𒋆𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -333,6 +379,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒂔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -349,6 +396,7 @@ var sumerian={"dictentries": {
             "content": "𒌣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -365,6 +413,7 @@ var sumerian={"dictentries": {
             "content": "𒍤𒆸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -381,6 +430,7 @@ var sumerian={"dictentries": {
             "content": "𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -397,6 +447,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒊭𒀭𒃼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -413,6 +464,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -429,6 +481,7 @@ var sumerian={"dictentries": {
             "content": "𒁇𒄘𒄘𒉡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -445,6 +498,7 @@ var sumerian={"dictentries": {
             "content": "𒉻𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -461,6 +515,7 @@ var sumerian={"dictentries": {
             "content": "𒌉𒌉𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -477,6 +532,7 @@ var sumerian={"dictentries": {
             "content": "𒄴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -493,6 +549,7 @@ var sumerian={"dictentries": {
             "content": "𒁲𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -509,6 +566,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -525,6 +583,7 @@ var sumerian={"dictentries": {
             "content": "𒁖𒄄𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -541,6 +600,7 @@ var sumerian={"dictentries": {
             "content": "𒁕𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -557,6 +617,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒁾𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -573,6 +634,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒄞𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -589,6 +651,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒊮𒋩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -605,6 +668,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒉈𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -621,6 +685,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒁕𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -637,6 +702,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒌫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -653,6 +719,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒉺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -669,6 +736,7 @@ var sumerian={"dictentries": {
             "content": "𒊭𒃶𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -685,6 +753,7 @@ var sumerian={"dictentries": {
             "content": "𒈥𒁍𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -700,6 +769,7 @@ var sumerian={"dictentries": {
             "content": "𒈨𒁶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -722,6 +792,7 @@ var sumerian={"dictentries": {
             "content": "𒋼𒀕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -738,6 +809,7 @@ var sumerian={"dictentries": {
             "content": "𒁯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -754,6 +826,7 @@ var sumerian={"dictentries": {
             "content": "𒂠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -769,6 +842,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒅋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -785,6 +859,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒉌𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -801,6 +876,7 @@ var sumerian={"dictentries": {
             "content": "𒃮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -817,6 +893,7 @@ var sumerian={"dictentries": {
             "content": "𒅇𒉡𒃻𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -832,6 +909,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -848,6 +926,7 @@ var sumerian={"dictentries": {
             "content": "𒁄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -864,6 +943,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒊕𒅍𒂡𒍑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -880,6 +960,7 @@ var sumerian={"dictentries": {
             "content": "𒉄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -896,6 +977,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒇽𒍇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -912,6 +994,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒌋𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -928,6 +1011,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -944,6 +1028,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒋳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -959,6 +1044,7 @@ var sumerian={"dictentries": {
             "content": "𒌑𒋆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -975,6 +1061,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒋳𒋳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -990,6 +1077,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒉆𒋳𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1006,6 +1094,7 @@ var sumerian={"dictentries": {
             "content": "𒆷𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1022,6 +1111,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒆷𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1039,6 +1129,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒄑𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1056,6 +1147,7 @@ var sumerian={"dictentries": {
             "content": "𒁈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1073,6 +1165,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒄫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1090,6 +1183,7 @@ var sumerian={"dictentries": {
             "content": "𒁇𒁽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1107,6 +1201,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒁇𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1124,6 +1219,7 @@ var sumerian={"dictentries": {
             "content": "𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1140,6 +1236,7 @@ var sumerian={"dictentries": {
             "content": "𒄯𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1157,6 +1254,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1174,6 +1272,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒋗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1191,6 +1290,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒋗𒆸𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1215,6 +1315,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒅗𒈠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1231,6 +1332,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒄖𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1247,6 +1349,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1263,6 +1366,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -1278,6 +1382,7 @@ var sumerian={"dictentries": {
             "content": "𒋝𒋝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -1293,6 +1398,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒇲𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1309,6 +1415,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒋛𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1324,6 +1431,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒁺𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1339,6 +1447,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1355,6 +1464,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒄀𒁍𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1371,6 +1481,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒄈𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1387,6 +1498,7 @@ var sumerian={"dictentries": {
             "content": "𒄈𒋰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1403,6 +1515,7 @@ var sumerian={"dictentries": {
             "content": "𒄈𒉌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1419,6 +1532,7 @@ var sumerian={"dictentries": {
             "content": "𒂵𒁀𒊏𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1434,6 +1548,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒂵𒋳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1450,6 +1565,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1466,6 +1582,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒋫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1482,6 +1599,7 @@ var sumerian={"dictentries": {
             "content": "𒅁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1498,6 +1616,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1514,6 +1633,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1530,6 +1650,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1546,6 +1667,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒁕𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1562,6 +1684,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒍝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1578,6 +1701,7 @@ var sumerian={"dictentries": {
             "content": "𒄿𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1594,6 +1718,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒌓𒀝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1610,6 +1735,7 @@ var sumerian={"dictentries": {
             "content": "𒌉𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1625,6 +1751,7 @@ var sumerian={"dictentries": {
             "content": "𒁺𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1641,6 +1768,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒂁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1657,6 +1785,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒅆𒌨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1686,6 +1815,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1702,6 +1832,7 @@ var sumerian={"dictentries": {
             "content": "𒄿𒇻𒀀𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1724,6 +1855,7 @@ var sumerian={"dictentries": {
             "content": "𒄿𒆠𒈥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -1740,6 +1872,7 @@ var sumerian={"dictentries": {
             "content": "𒂟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1756,6 +1889,7 @@ var sumerian={"dictentries": {
             "content": "𒁾𒂟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1771,6 +1905,7 @@ var sumerian={"dictentries": {
             "content": "𒁾𒊕𒋫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1787,6 +1922,7 @@ var sumerian={"dictentries": {
             "content": "𒌉𒇽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1802,6 +1938,7 @@ var sumerian={"dictentries": {
             "content": "𒌉𒆪𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1818,6 +1955,24 @@ var sumerian={"dictentries": {
             "content": "𒁾𒊬"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1318187",
+            "translation": {
+                "locale": "en",
+                "content": "young scribe"
+            },
+            "transliteration": {
+                "transcription": "dubsartur",
+                "content": "dub-sar-tur"
+            },
+            "content": "𒁾𒊬𒌉"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1834,6 +1989,7 @@ var sumerian={"dictentries": {
             "content": "𒈾𒉆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1850,6 +2006,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒊬𒃾𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1866,6 +2023,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒃾𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1882,6 +2040,7 @@ var sumerian={"dictentries": {
             "content": "𒈾𒂷𒄴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1897,6 +2056,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒀊𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1913,6 +2073,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒈪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#InterrogativePronoun",
                 "content": "INTPRO"
@@ -1929,6 +2090,7 @@ var sumerian={"dictentries": {
             "content": "𒈨𒈾𒀀𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -1945,6 +2107,7 @@ var sumerian={"dictentries": {
             "content": "𒄯𒊬𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#InterrogativePronoun",
                 "content": "INTPRO"
@@ -1960,6 +2123,7 @@ var sumerian={"dictentries": {
             "content": "𒈨𒈾𒂠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#InterrogativePronoun",
                 "content": "INTPRO"
@@ -1976,6 +2140,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#InterrogativePronoun",
                 "content": "INTPRO"
@@ -1992,6 +2157,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2008,6 +2174,7 @@ var sumerian={"dictentries": {
             "content": "𒆲𒍣𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2023,6 +2190,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒈾𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2039,6 +2207,7 @@ var sumerian={"dictentries": {
             "content": "𒂼𒅈𒄄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2055,6 +2224,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒋡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2071,6 +2241,7 @@ var sumerian={"dictentries": {
             "content": "𒈾𒉈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2087,6 +2258,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒇉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2103,6 +2275,7 @@ var sumerian={"dictentries": {
             "content": "𒌨𒁇𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2118,6 +2291,7 @@ var sumerian={"dictentries": {
             "content": "𒆳𒌫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2134,6 +2308,7 @@ var sumerian={"dictentries": {
             "content": "𒅗𒀭𒉌𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2149,6 +2324,7 @@ var sumerian={"dictentries": {
             "content": "𒂔𒆤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2165,6 +2341,330 @@ var sumerian={"dictentries": {
             "content": "𒀭𒂗𒆠"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2482448",
+            "translation": {
+                "locale": "en",
+                "content": "Urnungal"
+            },
+            "transliteration": {
+                "transcription": "urnungal",
+                "content": "ur-nun-gal"
+            },
+            "content": "𒌨𒉣𒃲"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2631552",
+            "translation": {
+                "locale": "en",
+                "content": "Enmengalana"
+            },
+            "transliteration": {
+                "transcription": "enmengalana",
+                "content": "en-men-gal-ana"
+            },
+            "content": "𒂗𒃞𒃲𒁹"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q926830",
+            "translation": {
+                "locale": "en",
+                "content": "Zamug"
+            },
+            "transliteration": {
+                "transcription": "zamug",
+                "content": "zamug"
+            },
+            "content": "𒁾"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q4468530",
+            "translation": {
+                "locale": "en",
+                "content": "Ubara-Tutu"
+            },
+            "transliteration": {
+                "transcription": "ubaratutu",
+                "content": "ubara-tu-tu"
+            },
+            "content": "𒂬𒌅𒌅"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2915816",
+            "translation": {
+                "locale": "en",
+                "content": "Ensipadzidana"
+            },
+            "transliteration": {
+                "transcription": "ensipadzidana",
+                "content": "en-sipad-zid-ana"
+            },
+            "content": "𒂗𒉺𒇻𒍣𒁹"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1974736",
+            "translation": {
+                "locale": "en",
+                "content": "Enmendurana"
+            },
+            "transliteration": {
+                "transcription": "enmendurana",
+                "content": "en-men-dur-ana"
+            },
+            "content": "𒂗𒃞𒄙𒁹"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q5374927",
+            "translation": {
+                "locale": "en",
+                "content": "Enmenluana"
+            },
+            "transliteration": {
+                "transcription": "enmenluana",
+                "content": "en-men-lu-ana"
+            },
+            "content": "𒂗𒃞𒇻𒁹"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q447370",
+            "translation": {
+                "locale": "en",
+                "content": "Alulim"
+            },
+            "transliteration": {
+                "transcription": "alulim",
+                "content": "a-lu-lim"
+            },
+            "content": "𒀀𒇻𒅆"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q391118",
+            "translation": {
+                "locale": "en",
+                "content": "Shamhat"
+            },
+            "transliteration": {
+                "transcription": "szamhat",
+                "content": "d-szam-hat"
+            },
+            "content": "𒀭𒌑𒉺"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1064930",
+            "translation": {
+                "locale": "en",
+                "content": "Uras"
+            },
+            "transliteration": {
+                "transcription": "urasz",
+                "content": "d-ur-asz"
+            },
+            "content": "𒀭𒌨𒀸"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q848327",
+            "translation": {
+                "locale": "en",
+                "content": "Ninsun"
+            },
+            "transliteration": {
+                "transcription": "ninsun",
+                "content": "d-nin-sun"
+            },
+            "content": "𒀭𒊩𒌆𒌀"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q755755",
+            "translation": {
+                "locale": "en",
+                "content": "Lugalbanda"
+            },
+            "transliteration": {
+                "transcription": "lugalbanda",
+                "content": "lugal-banda3"
+            },
+            "content": "𒈗𒌉"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q762282",
+            "translation": {
+                "locale": "en",
+                "content": "Kingu"
+            },
+            "transliteration": {
+                "transcription": "kingu",
+                "content": "d-kin-gu"
+            },
+            "content": "𒀭𒆥𒄖"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3054421",
+            "translation": {
+                "locale": "en",
+                "content": "Enkimdu"
+            },
+            "transliteration": {
+                "transcription": "enkimdu",
+                "content": "d-en-kim-du"
+            },
+            "content": "𒀭𒂗𒁶𒁺"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1964809",
+            "translation": {
+                "locale": "en",
+                "content": "Nanshe"
+            },
+            "transliteration": {
+                "transcription": "nansze",
+                "content": "d-nan-sze"
+            },
+            "content": "𒀭𒋀𒊺"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q654458",
+            "translation": {
+                "locale": "en",
+                "content": "Ereshkigal"
+            },
+            "transliteration": {
+                "transcription": "ereszkigal",
+                "content": "d-eresz-ki-gal"
+            },
+            "content": "𒀭𒊩𒌆𒆠𒃲"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q685878",
+            "translation": {
+                "locale": "en",
+                "content": "Assur"
+            },
+            "transliteration": {
+                "transcription": "aszur",
+                "content": "d-asz-szur3"
+            },
+            "content": "𒀭𒀸𒋓"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q682855",
+            "translation": {
+                "locale": "en",
+                "content": "Iszkur"
+            },
+            "transliteration": {
+                "transcription": "iszkur",
+                "content": "d-isz-kur"
+            },
+            "content": "𒀭𒅖𒆳"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q468912",
+            "translation": {
+                "locale": "en",
+                "content": "Nergal"
+            },
+            "transliteration": {
+                "transcription": "girunugal",
+                "content": "d-gir3-unug-gal"
+            },
+            "content": "𒀭𒄊𒀕𒃲"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2181,6 +2681,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒃶𒀭𒈾𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2197,6 +2698,7 @@ var sumerian={"dictentries": {
             "content": "𒆷𒊏𒀝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2221,6 +2723,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2237,6 +2740,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒆳𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2248,11 +2752,12 @@ var sumerian={"dictentries": {
             },
             "transliteration": {
                 "transcription": "girsu",
-                "content": "d-gir2-su"
+                "content": "gir2-su"
             },
             "content": "𒄈𒋢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2269,6 +2774,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒄑𒉋𒂵𒈨𒌋𒌋𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2285,6 +2791,7 @@ var sumerian={"dictentries": {
             "content": "𒄘𒃼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2301,6 +2808,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒄑𒍣𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2317,6 +2825,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒆕𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2341,6 +2850,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒃸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2358,6 +2868,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒉢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2374,6 +2885,7 @@ var sumerian={"dictentries": {
             "content": "𒐕𒉡𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2391,6 +2903,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒈥𒁍𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2407,6 +2920,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒆓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -2423,6 +2937,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒄤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2439,6 +2954,41 @@ var sumerian={"dictentries": {
             "content": "𒆧"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q720380",
+            "translation": {
+                "locale": "en",
+                "content": "Asag"
+            },
+            "transliteration": {
+                "transcription": "asag",
+                "content": "asag"
+            },
+            "content": "𒆬𒀭"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q267445",
+            "translation": {
+                "locale": "en",
+                "content": "Sarpanitu"
+            },
+            "transliteration": {
+                "transcription": "sarpanitu",
+                "content": "sar-pa-ni-tu"
+            },
+            "content": "𒀭𒊬𒉺𒉌𒌅"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2455,6 +3005,24 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒋢𒌅"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q743609",
+            "translation": {
+                "locale": "en",
+                "content": "Ninshubur"
+            },
+            "transliteration": {
+                "transcription": "Ninszubur",
+                "content": "d-nin-szu-bur"
+            },
+            "content": "𒀭𒊩𒌆𒋗𒁓"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2471,6 +3039,24 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒋾"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q732551",
+            "translation": {
+                "locale": "en",
+                "content": "Pazuzu"
+            },
+            "transliteration": {
+                "transcription": "pazuzu",
+                "content": "d-pa-zu-zu"
+            },
+            "content": "𒀭𒉺𒍪𒍪"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2487,6 +3073,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒉺𒂅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2503,6 +3090,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒋛𒅔𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2519,6 +3107,7 @@ var sumerian={"dictentries": {
             "content": "𒂗𒆤𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2535,6 +3124,49 @@ var sumerian={"dictentries": {
             "content": "𒄩𒈠𒍣𒆠"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1051459",
+            "translation": {
+                "locale": "en",
+                "content": "Adapa"
+            },
+            "transliteration": {
+                "transcription": "adapa",
+                "content": "a-da-pa"
+            },
+            "content": "𒀀𒁕𒉺"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q425449",
+            "translation": {
+                "locale": "en",
+                "content": "Humbaba"
+            },
+            "transliteration": [
+                {
+                    "transcription": "humbaba",
+                    "cunei": "𒄷𒌝𒁀𒁀",
+                    "content": "hu-um-ba-ba"
+                },
+                {
+                    "transcription": "humbaba",
+                    "content": "hu-wa-wa",
+                    "cuncei": "𒄷𒉿𒉿"
+                }
+            ],
+            "content": "𒄷𒌝𒁀𒁀"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2551,6 +3183,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒉣𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2567,6 +3200,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2583,6 +3217,24 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒆉"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2088330",
+            "translation": {
+                "locale": "en",
+                "content": "Ashnan"
+            },
+            "transliteration": {
+                "transcription": "Asznan",
+                "content": "d-asz-nan"
+            },
+            "content": "𒀭𒀸𒋀"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2599,6 +3251,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒋸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2623,6 +3276,92 @@ var sumerian={"dictentries": {
             "content": "𒀭𒋀𒆠"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q767219",
+            "translation": {
+                "locale": "en",
+                "content": "Dimme"
+            },
+            "transliteration": {
+                "transcription": "dimme",
+                "content": "d-dim3-me"
+            },
+            "content": "𒀭𒈕𒈨"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3673766",
+            "translation": {
+                "locale": "en",
+                "content": "Enbilulu"
+            },
+            "transliteration": {
+                "transcription": "enbilulu",
+                "content": "d-en-bi-lu-lu"
+            },
+            "content": "𒀭𒂗𒁉𒇻𒇻"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8215452",
+            "translation": {
+                "locale": "en",
+                "content": "Mamitu"
+            },
+            "transliteration": {
+                "transcription": "mamitu",
+                "content": "d-ma-mi-tu"
+            },
+            "content": "𒀭𒈠𒈪𒌅"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q351543",
+            "translation": {
+                "locale": "en",
+                "content": "Enmerkar"
+            },
+            "transliteration": {
+                "transcription": "enmerkar",
+                "content": "en-mer-kar"
+            },
+            "content": "𒂗𒂇𒋼𒀀"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q767219",
+            "translation": {
+                "locale": "en",
+                "content": "Lamashtu"
+            },
+            "transliteration": {
+                "transcription": "lamasztu",
+                "content": "d-la-masz-tu"
+            },
+            "content": "𒀭𒆷𒈦𒌅"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2639,6 +3378,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2655,6 +3395,7 @@ var sumerian={"dictentries": {
             "content": "𒀔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2679,6 +3420,7 @@ var sumerian={"dictentries": {
             "content": "𒋀𒀕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2696,6 +3438,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒀴𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2720,6 +3463,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒉺𒀊𒋢𒆗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2749,6 +3493,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒌨𒈨𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2766,6 +3511,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒍝𒂷𒂷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2805,6 +3551,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒋾𒊩𒆳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2844,6 +3591,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒈾𒁉𒌝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2873,6 +3621,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒄖𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2901,6 +3650,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒀴𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2930,6 +3680,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒁕𒈬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2941,11 +3692,12 @@ var sumerian={"dictentries": {
             },
             "transliteration": {
                 "transcription": "enlil",
-                "content": "en-lil"
+                "content": "d-en-lil"
             },
-            "content": "𒂗𒇸"
+            "content": "𒀭𒂗𒇸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2970,6 +3722,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒁕𒃶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -2994,6 +3747,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒍂𒇽𒄭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -3023,6 +3777,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒀀𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -3039,6 +3794,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒆤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
@@ -3055,6 +3811,7 @@ var sumerian={"dictentries": {
             "content": "𒉣𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3071,6 +3828,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3087,6 +3845,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒃲𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3102,6 +3861,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒂖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3118,6 +3878,7 @@ var sumerian={"dictentries": {
             "content": "𒂄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3134,6 +3895,7 @@ var sumerian={"dictentries": {
             "content": "𒂄𒀀𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3150,6 +3912,7 @@ var sumerian={"dictentries": {
             "content": "𒅎𒋃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3165,6 +3928,7 @@ var sumerian={"dictentries": {
             "content": "𒋾𒅆𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3181,6 +3945,7 @@ var sumerian={"dictentries": {
             "content": "𒋾𒄄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -3196,6 +3961,7 @@ var sumerian={"dictentries": {
             "content": "𒌑𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3212,6 +3978,7 @@ var sumerian={"dictentries": {
             "content": "𒅗𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3228,6 +3995,7 @@ var sumerian={"dictentries": {
             "content": "𒇥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3244,6 +4012,7 @@ var sumerian={"dictentries": {
             "content": "𒋢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3260,6 +4029,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3276,6 +4046,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒆷𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3292,6 +4063,7 @@ var sumerian={"dictentries": {
             "content": "𒈛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3308,6 +4080,7 @@ var sumerian={"dictentries": {
             "content": "𒇸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3324,6 +4097,7 @@ var sumerian={"dictentries": {
             "content": "𒅖𒁾𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3340,6 +4114,7 @@ var sumerian={"dictentries": {
             "content": "𒅔𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3356,6 +4131,7 @@ var sumerian={"dictentries": {
             "content": "𒅖𒉺𒌅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3372,6 +4148,7 @@ var sumerian={"dictentries": {
             "content": "𒅖𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3388,6 +4165,7 @@ var sumerian={"dictentries": {
             "content": "𒅕𒄀𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3404,6 +4182,7 @@ var sumerian={"dictentries": {
             "content": "𒋗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3420,6 +4199,7 @@ var sumerian={"dictentries": {
             "content": "𒅔𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3436,6 +4216,7 @@ var sumerian={"dictentries": {
             "content": "𒅔𒊩𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3452,6 +4233,24 @@ var sumerian={"dictentries": {
             "content": "𒊏𒃮"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2824657",
+            "translation": {
+                "locale": "en",
+                "content": "admiration"
+            },
+            "transliteration": {
+                "transcription": "u6di",
+                "content": "u6-di"
+            },
+            "content": "𒅆𒂍𒁲"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3468,6 +4267,7 @@ var sumerian={"dictentries": {
             "content": "𒌈𒁕𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3484,6 +4284,7 @@ var sumerian={"dictentries": {
             "content": "𒂼𒋆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3506,6 +4307,7 @@ var sumerian={"dictentries": {
             "content": "𒆤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3522,6 +4324,7 @@ var sumerian={"dictentries": {
             "content": "𒆃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3538,6 +4341,7 @@ var sumerian={"dictentries": {
             "content": "𒋃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3553,6 +4357,7 @@ var sumerian={"dictentries": {
             "content": "𒆜𒁍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3569,6 +4374,7 @@ var sumerian={"dictentries": {
             "content": "𒊓𒌅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3585,6 +4391,7 @@ var sumerian={"dictentries": {
             "content": "𒁜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3607,6 +4414,7 @@ var sumerian={"dictentries": {
             "content": "𒅔𒋾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3622,6 +4430,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒉣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3638,6 +4447,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒋼𒂗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3654,6 +4464,7 @@ var sumerian={"dictentries": {
             "content": "𒂗𒋼𒂗𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3670,6 +4481,7 @@ var sumerian={"dictentries": {
             "content": "𒂊𒃡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3686,6 +4498,7 @@ var sumerian={"dictentries": {
             "content": "𒉣𒇬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -3701,6 +4514,7 @@ var sumerian={"dictentries": {
             "content": "𒃮𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3717,6 +4531,7 @@ var sumerian={"dictentries": {
             "content": "𒈪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3733,6 +4548,7 @@ var sumerian={"dictentries": {
             "content": "𒁀𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -3749,6 +4565,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3766,6 +4583,7 @@ var sumerian={"dictentries": {
             "content": "𒁹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3783,6 +4601,7 @@ var sumerian={"dictentries": {
             "content": "𒈫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3800,6 +4619,7 @@ var sumerian={"dictentries": {
             "content": "𒌍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3817,6 +4637,7 @@ var sumerian={"dictentries": {
             "content": "𒐼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3834,6 +4655,7 @@ var sumerian={"dictentries": {
             "content": "𒅀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3851,6 +4673,7 @@ var sumerian={"dictentries": {
             "content": "𒀸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3868,6 +4691,7 @@ var sumerian={"dictentries": {
             "content": "𒅓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3885,6 +4709,7 @@ var sumerian={"dictentries": {
             "content": "𒐍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3902,6 +4727,7 @@ var sumerian={"dictentries": {
             "content": "𒑆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3919,6 +4745,7 @@ var sumerian={"dictentries": {
             "content": "𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3936,6 +4763,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3953,6 +4781,7 @@ var sumerian={"dictentries": {
             "content": "𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3970,6 +4799,7 @@ var sumerian={"dictentries": {
             "content": "𒐏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -3987,6 +4817,7 @@ var sumerian={"dictentries": {
             "content": "𒐐"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -4011,6 +4842,7 @@ var sumerian={"dictentries": {
             "content": "𒄑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -4028,6 +4860,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -4045,6 +4878,7 @@ var sumerian={"dictentries": {
             "content": "𒅆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Cardinal",
                 "content": "CARD"
@@ -4062,6 +4896,7 @@ var sumerian={"dictentries": {
             "content": "𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -4077,6 +4912,7 @@ var sumerian={"dictentries": {
             "content": "𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4093,6 +4929,7 @@ var sumerian={"dictentries": {
             "content": "𒌑𒂉𒂉𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4109,6 +4946,7 @@ var sumerian={"dictentries": {
             "content": "𒆤𒁴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4125,6 +4963,7 @@ var sumerian={"dictentries": {
             "content": "𒐊𒄩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4141,6 +4980,7 @@ var sumerian={"dictentries": {
             "content": "𒐊𒅕𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4157,6 +4997,7 @@ var sumerian={"dictentries": {
             "content": "𒐊𒉣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4173,6 +5014,7 @@ var sumerian={"dictentries": {
             "content": "𒐊𒋾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4189,6 +5031,7 @@ var sumerian={"dictentries": {
             "content": "𒌈𒁮𒍝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4205,6 +5048,7 @@ var sumerian={"dictentries": {
             "content": "𒌈𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4221,6 +5065,7 @@ var sumerian={"dictentries": {
             "content": "𒌈𒋺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4237,6 +5082,7 @@ var sumerian={"dictentries": {
             "content": "𒅍𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4252,6 +5098,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒁄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4274,6 +5121,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒄭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4290,6 +5138,7 @@ var sumerian={"dictentries": {
             "content": "𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4306,6 +5155,7 @@ var sumerian={"dictentries": {
             "content": "𒁾𒁀𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4322,6 +5172,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4338,6 +5189,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒈮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4353,6 +5205,7 @@ var sumerian={"dictentries": {
             "content": "𒍪𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4369,6 +5222,7 @@ var sumerian={"dictentries": {
             "content": "𒍑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4385,6 +5239,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4401,6 +5256,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒁔𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4417,6 +5273,7 @@ var sumerian={"dictentries": {
             "content": "𒈩𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4433,6 +5290,7 @@ var sumerian={"dictentries": {
             "content": "𒅁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4449,6 +5307,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒊹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4465,6 +5324,7 @@ var sumerian={"dictentries": {
             "content": "𒈌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4481,6 +5341,7 @@ var sumerian={"dictentries": {
             "content": "𒅗𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4497,6 +5358,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒂠𒁺𒂟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4513,6 +5375,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4528,6 +5391,7 @@ var sumerian={"dictentries": {
             "content": "𒁾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4543,6 +5407,7 @@ var sumerian={"dictentries": {
             "content": "𒌌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4559,6 +5424,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4575,6 +5441,7 @@ var sumerian={"dictentries": {
             "content": "𒌇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4591,6 +5458,7 @@ var sumerian={"dictentries": {
             "content": "𒂖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4607,6 +5475,7 @@ var sumerian={"dictentries": {
             "content": "𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4630,6 +5499,7 @@ var sumerian={"dictentries": {
             "content": "𒉿𒂖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4646,6 +5516,7 @@ var sumerian={"dictentries": {
             "content": "𒉿𒇷𒉿𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4662,6 +5533,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒇷𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4677,6 +5549,7 @@ var sumerian={"dictentries": {
             "content": "𒄀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4693,6 +5566,7 @@ var sumerian={"dictentries": {
             "content": "𒊿"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4709,6 +5583,7 @@ var sumerian={"dictentries": {
             "content": "𒍠𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4725,6 +5600,7 @@ var sumerian={"dictentries": {
             "content": "𒍢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4741,6 +5617,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4757,6 +5634,7 @@ var sumerian={"dictentries": {
             "content": "𒌀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4773,6 +5651,7 @@ var sumerian={"dictentries": {
             "content": "𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -4789,6 +5668,7 @@ var sumerian={"dictentries": {
             "content": "𒃌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4805,6 +5685,7 @@ var sumerian={"dictentries": {
             "content": "𒋾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4821,6 +5702,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒈿"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4837,6 +5719,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒋛𒅖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4852,6 +5735,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4868,6 +5752,7 @@ var sumerian={"dictentries": {
             "content": "𒌌𒌌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4883,6 +5768,7 @@ var sumerian={"dictentries": {
             "content": "𒋰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4899,6 +5785,7 @@ var sumerian={"dictentries": {
             "content": "𒁲𒁉𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4915,6 +5802,7 @@ var sumerian={"dictentries": {
             "content": "𒄄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4930,21 +5818,7 @@ var sumerian={"dictentries": {
             "content": "𒈪𒉭"
         },
         {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Verb",
-                "content": "VV"
-            },
-            "translation": {
-                "locale": "en",
-                "content": "be distant"
-            },
-            "transliteration": {
-                "transcription": "sud",
-                "content": "sud"
-            },
-            "content": "𒋤"
-        },
-        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4961,6 +5835,7 @@ var sumerian={"dictentries": {
             "content": "𒋩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4977,6 +5852,7 @@ var sumerian={"dictentries": {
             "content": "𒄯𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -4998,6 +5874,7 @@ var sumerian={"dictentries": {
             "content": "𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5013,6 +5890,7 @@ var sumerian={"dictentries": {
             "content": "𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5029,6 +5907,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒊒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5045,6 +5924,7 @@ var sumerian={"dictentries": {
             "content": "𒋃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5061,6 +5941,7 @@ var sumerian={"dictentries": {
             "content": "𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5077,6 +5958,7 @@ var sumerian={"dictentries": {
             "content": "𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5093,6 +5975,7 @@ var sumerian={"dictentries": {
             "content": "𒂶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5109,6 +5992,7 @@ var sumerian={"dictentries": {
             "content": "𒌍𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5125,6 +6009,7 @@ var sumerian={"dictentries": {
             "content": "𒌆𒋗𒄥𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5149,6 +6034,7 @@ var sumerian={"dictentries": {
             "content": "𒄠𒄠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5165,6 +6051,7 @@ var sumerian={"dictentries": {
             "content": "𒄠𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5181,6 +6068,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒂼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5196,6 +6084,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒊩𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5212,6 +6101,7 @@ var sumerian={"dictentries": {
             "content": "𒊺𒇽𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5228,6 +6118,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒁮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5244,6 +6135,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒌉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5260,6 +6152,7 @@ var sumerian={"dictentries": {
             "content": "𒋰𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -5275,6 +6168,7 @@ var sumerian={"dictentries": {
             "content": "𒌨𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5291,6 +6185,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒁈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5307,6 +6202,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒉪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5323,6 +6219,7 @@ var sumerian={"dictentries": {
             "content": "𒊒𒈗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5339,6 +6236,7 @@ var sumerian={"dictentries": {
             "content": "𒊒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5354,6 +6252,7 @@ var sumerian={"dictentries": {
             "content": "𒃴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -5369,6 +6268,7 @@ var sumerian={"dictentries": {
             "content": "𒃲𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5384,6 +6284,7 @@ var sumerian={"dictentries": {
             "content": "𒃵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5399,6 +6300,7 @@ var sumerian={"dictentries": {
             "content": "𒂼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5415,6 +6317,7 @@ var sumerian={"dictentries": {
             "content": "𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5431,6 +6334,24 @@ var sumerian={"dictentries": {
             "content": "𒍑"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2913",
+            "translation": {
+                "locale": "en",
+                "content": "devastate"
+            },
+            "transliteration": {
+                "transcription": "u4u4",
+                "content": "u4-u4"
+            },
+            "content": "𒌓𒌓"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5453,6 +6374,7 @@ var sumerian={"dictentries": {
             "content": "𒁳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5469,6 +6391,7 @@ var sumerian={"dictentries": {
             "content": "𒄢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5484,6 +6407,7 @@ var sumerian={"dictentries": {
             "content": "𒁯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5500,6 +6424,7 @@ var sumerian={"dictentries": {
             "content": "𒈗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5516,6 +6441,7 @@ var sumerian={"dictentries": {
             "content": "𒌉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5532,6 +6458,7 @@ var sumerian={"dictentries": {
             "content": "𒁍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -5547,6 +6474,23 @@ var sumerian={"dictentries": {
             "content": "𒌌𒈾𒁉"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "famous"
+            },
+            "transliteration": {
+                "transcription": "urdida",
+                "content": "ur5-di-da"
+            },
+            "content": "𒄯𒁲𒁕"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5562,6 +6506,7 @@ var sumerian={"dictentries": {
             "content": "𒃮𒃮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5578,6 +6523,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒍑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5594,6 +6540,7 @@ var sumerian={"dictentries": {
             "content": "𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5609,6 +6556,7 @@ var sumerian={"dictentries": {
             "content": "𒇥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5625,6 +6573,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5641,6 +6590,7 @@ var sumerian={"dictentries": {
             "content": "𒅜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5657,6 +6607,7 @@ var sumerian={"dictentries": {
             "content": "𒉽𒉽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5673,6 +6624,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒌫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -5688,6 +6640,7 @@ var sumerian={"dictentries": {
             "content": "𒈤𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5704,6 +6657,7 @@ var sumerian={"dictentries": {
             "content": "𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5720,6 +6674,7 @@ var sumerian={"dictentries": {
             "content": "𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5736,6 +6691,7 @@ var sumerian={"dictentries": {
             "content": "𒀞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5752,6 +6708,7 @@ var sumerian={"dictentries": {
             "content": "𒊬𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -5768,6 +6725,7 @@ var sumerian={"dictentries": {
             "content": "𒄉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5784,6 +6742,7 @@ var sumerian={"dictentries": {
             "content": "𒃢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5800,6 +6759,7 @@ var sumerian={"dictentries": {
             "content": "𒆹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5816,6 +6776,7 @@ var sumerian={"dictentries": {
             "content": "𒄸𒄤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5832,6 +6793,7 @@ var sumerian={"dictentries": {
             "content": "𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5848,6 +6810,7 @@ var sumerian={"dictentries": {
             "content": "𒍑𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5864,6 +6827,7 @@ var sumerian={"dictentries": {
             "content": "𒉽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5880,6 +6844,7 @@ var sumerian={"dictentries": {
             "content": "𒉽𒄬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5902,6 +6867,7 @@ var sumerian={"dictentries": {
             "content": "𒀚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5918,6 +6884,7 @@ var sumerian={"dictentries": {
             "content": "𒉈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5934,6 +6901,7 @@ var sumerian={"dictentries": {
             "content": "𒂗𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5950,6 +6918,7 @@ var sumerian={"dictentries": {
             "content": "𒉒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5966,6 +6935,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒋠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5982,6 +6952,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒋃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -5998,6 +6969,7 @@ var sumerian={"dictentries": {
             "content": "𒅲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6013,6 +6985,7 @@ var sumerian={"dictentries": {
             "content": "𒅖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6029,6 +7002,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒊨𒅇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6045,6 +7019,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒅥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6061,6 +7036,7 @@ var sumerian={"dictentries": {
             "content": "𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6077,6 +7053,40 @@ var sumerian={"dictentries": {
             "content": "𒅾"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "fatty meat"
+            },
+            "transliteration": {
+                "transcription": "uzui",
+                "content": "uzu-i3"
+            },
+            "content": "𒍜𒉌"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q193294",
+            "translation": {
+                "locale": "en",
+                "content": "sunrise"
+            },
+            "transliteration": {
+                "transcription": "utue",
+                "content": "d-utu-e3"
+            },
+            "content": "𒀭𒌓𒌓𒁺"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6093,6 +7103,7 @@ var sumerian={"dictentries": {
             "content": "𒅔𒉡𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6109,6 +7120,7 @@ var sumerian={"dictentries": {
             "content": "𒆕𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6125,6 +7137,7 @@ var sumerian={"dictentries": {
             "content": "𒉣𒈨𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6141,6 +7154,7 @@ var sumerian={"dictentries": {
             "content": "𒂦𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6157,6 +7171,7 @@ var sumerian={"dictentries": {
             "content": "𒈔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6173,6 +7188,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6189,6 +7205,7 @@ var sumerian={"dictentries": {
             "content": "𒅕𒄷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6211,6 +7228,7 @@ var sumerian={"dictentries": {
             "content": "𒅕𒋛𒅎"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6227,6 +7245,7 @@ var sumerian={"dictentries": {
             "content": "𒅖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6243,6 +7262,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6259,6 +7279,7 @@ var sumerian={"dictentries": {
             "content": "𒈊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6275,6 +7296,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒋗𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6291,6 +7313,7 @@ var sumerian={"dictentries": {
             "content": "𒈊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6307,6 +7330,7 @@ var sumerian={"dictentries": {
             "content": "𒆰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6323,6 +7347,7 @@ var sumerian={"dictentries": {
             "content": "𒋆𒈪𒉭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6339,6 +7364,7 @@ var sumerian={"dictentries": {
             "content": "𒂠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6354,6 +7380,7 @@ var sumerian={"dictentries": {
             "content": "𒄑𒄀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6376,6 +7403,7 @@ var sumerian={"dictentries": {
             "content": "𒃷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6392,6 +7420,7 @@ var sumerian={"dictentries": {
             "content": "𒀖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6407,6 +7436,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒋛𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6422,6 +7452,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒉽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6438,6 +7469,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒋝𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6453,6 +7485,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒂄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6468,6 +7501,7 @@ var sumerian={"dictentries": {
             "content": "𒉎𒋢𒌒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6484,6 +7518,7 @@ var sumerian={"dictentries": {
             "content": "𒉽𒂊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6500,6 +7535,7 @@ var sumerian={"dictentries": {
             "content": "𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6516,6 +7552,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒉿𒉿"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6532,6 +7569,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒌓𒁍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6548,6 +7586,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6564,6 +7603,7 @@ var sumerian={"dictentries": {
             "content": "𒍀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6579,6 +7619,7 @@ var sumerian={"dictentries": {
             "content": "𒁄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6595,6 +7636,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒉀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6610,6 +7652,7 @@ var sumerian={"dictentries": {
             "content": "𒌉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -6625,6 +7668,7 @@ var sumerian={"dictentries": {
             "content": "𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6641,6 +7685,7 @@ var sumerian={"dictentries": {
             "content": "𒄊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6657,6 +7702,7 @@ var sumerian={"dictentries": {
             "content": "𒄊𒁺𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6672,6 +7718,7 @@ var sumerian={"dictentries": {
             "content": "𒄾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6688,6 +7735,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6703,6 +7751,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒌨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6719,6 +7768,7 @@ var sumerian={"dictentries": {
             "content": "𒋗...𒄫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6735,6 +7785,7 @@ var sumerian={"dictentries": {
             "content": "𒇧"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6750,6 +7801,7 @@ var sumerian={"dictentries": {
             "content": "𒈬𒌇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6766,6 +7818,7 @@ var sumerian={"dictentries": {
             "content": "𒌴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6782,6 +7835,7 @@ var sumerian={"dictentries": {
             "content": "𒊓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6804,6 +7858,7 @@ var sumerian={"dictentries": {
             "content": "𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6820,6 +7875,7 @@ var sumerian={"dictentries": {
             "content": "𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6836,6 +7892,7 @@ var sumerian={"dictentries": {
             "content": "𒇯𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6851,6 +7908,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6867,6 +7925,7 @@ var sumerian={"dictentries": {
             "content": "𒆟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6883,6 +7942,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6898,6 +7958,7 @@ var sumerian={"dictentries": {
             "content": "𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6913,6 +7974,7 @@ var sumerian={"dictentries": {
             "content": "𒄫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6928,6 +7990,7 @@ var sumerian={"dictentries": {
             "content": "𒈪𒈪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6950,6 +8013,7 @@ var sumerian={"dictentries": {
             "content": "𒌀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -6966,6 +8030,7 @@ var sumerian={"dictentries": {
             "content": "𒋢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6982,6 +8047,7 @@ var sumerian={"dictentries": {
             "content": "𒂉𒁽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -6998,6 +8064,7 @@ var sumerian={"dictentries": {
             "content": "𒂉𒂄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7014,6 +8081,7 @@ var sumerian={"dictentries": {
             "content": "𒇷𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7030,6 +8098,7 @@ var sumerian={"dictentries": {
             "content": "𒇼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7046,6 +8115,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7062,6 +8132,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒈤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7077,6 +8148,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7093,6 +8165,7 @@ var sumerian={"dictentries": {
             "content": "𒋞𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7109,6 +8182,7 @@ var sumerian={"dictentries": {
             "content": "𒂅𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -7125,6 +8199,7 @@ var sumerian={"dictentries": {
             "content": "𒂄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -7141,6 +8216,7 @@ var sumerian={"dictentries": {
             "content": "𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -7156,6 +8232,7 @@ var sumerian={"dictentries": {
             "content": "𒋤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -7172,6 +8249,7 @@ var sumerian={"dictentries": {
             "content": "𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7188,6 +8266,7 @@ var sumerian={"dictentries": {
             "content": "𒄖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7203,6 +8282,7 @@ var sumerian={"dictentries": {
             "content": "𒊊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7218,6 +8298,7 @@ var sumerian={"dictentries": {
             "content": "𒉎𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7234,6 +8315,7 @@ var sumerian={"dictentries": {
             "content": "𒈖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7250,6 +8332,7 @@ var sumerian={"dictentries": {
             "content": "𒂊𒉈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7266,6 +8349,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒁾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7282,6 +8366,7 @@ var sumerian={"dictentries": {
             "content": "𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7298,6 +8383,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7314,6 +8400,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒌑𒀸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7330,6 +8417,7 @@ var sumerian={"dictentries": {
             "content": "𒁵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7346,6 +8434,7 @@ var sumerian={"dictentries": {
             "content": "𒂡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7362,6 +8451,7 @@ var sumerian={"dictentries": {
             "content": "𒄸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7378,6 +8468,7 @@ var sumerian={"dictentries": {
             "content": "𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7393,6 +8484,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7409,6 +8501,7 @@ var sumerian={"dictentries": {
             "content": "𒋻𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7424,6 +8517,7 @@ var sumerian={"dictentries": {
             "content": "𒈨𒋼𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -7439,6 +8533,7 @@ var sumerian={"dictentries": {
             "content": "𒉪𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7455,6 +8550,7 @@ var sumerian={"dictentries": {
             "content": "𒉪𒃵𒈠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7471,6 +8567,7 @@ var sumerian={"dictentries": {
             "content": "𒈧𒀲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7499,6 +8596,7 @@ var sumerian={"dictentries": {
             "content": "𒂊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7515,6 +8613,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒁮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7531,6 +8630,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒈿𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7547,6 +8647,7 @@ var sumerian={"dictentries": {
             "content": "𒈬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7563,6 +8664,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒈽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7579,6 +8681,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒄩𒉌𒄷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7595,6 +8698,7 @@ var sumerian={"dictentries": {
             "content": "𒀖𒄞𒄭𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7611,6 +8715,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒌫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -7626,6 +8731,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒊺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -7641,6 +8747,7 @@ var sumerian={"dictentries": {
             "content": "𒋾𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7657,6 +8764,7 @@ var sumerian={"dictentries": {
             "content": "𒀲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7673,6 +8781,7 @@ var sumerian={"dictentries": {
             "content": "𒈬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7689,6 +8798,7 @@ var sumerian={"dictentries": {
             "content": "𒅈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7705,6 +8815,7 @@ var sumerian={"dictentries": {
             "content": "𒆬𒁶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7721,6 +8832,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒆬𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7737,6 +8849,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒃶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7753,6 +8866,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7768,6 +8882,23 @@ var sumerian={"dictentries": {
             "content": "𒉆𒈗"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "watchdog"
+            },
+            "transliteration": {
+                "transcription": "urmuda",
+                "content": "ur-mu2-da"
+            },
+            "content": "𒌨𒊬𒁕"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7784,6 +8915,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒍂"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7800,6 +8932,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒆸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7815,6 +8948,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒃴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7831,6 +8965,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒊮𒃻𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7847,6 +8982,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒅗𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7863,6 +8999,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒊩𒌆𒉾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7879,6 +9016,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒋃𒋃𒂷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7895,6 +9033,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒉚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7911,6 +9050,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒉆𒋻𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7927,6 +9067,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒅅𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7943,6 +9084,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒅥𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7959,6 +9101,7 @@ var sumerian={"dictentries": {
             "content": "𒀭𒈪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7981,6 +9124,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒊒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -7997,6 +9141,7 @@ var sumerian={"dictentries": {
             "content": "𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8013,6 +9158,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒉪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8029,6 +9175,7 @@ var sumerian={"dictentries": {
             "content": "𒁖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8045,6 +9192,7 @@ var sumerian={"dictentries": {
             "content": "𒇉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8061,6 +9209,7 @@ var sumerian={"dictentries": {
             "content": "𒄩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8083,6 +9232,7 @@ var sumerian={"dictentries": {
             "content": "𒄿𒇻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8099,6 +9249,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8114,6 +9265,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒀜𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8130,6 +9282,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒁀𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8146,6 +9299,7 @@ var sumerian={"dictentries": {
             "content": "𒃶𒌌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8161,6 +9315,7 @@ var sumerian={"dictentries": {
             "content": "𒃶𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8177,6 +9332,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8193,6 +9349,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8218,6 +9375,7 @@ var sumerian={"dictentries": {
             "content": "𒀊𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8234,6 +9392,7 @@ var sumerian={"dictentries": {
             "content": "𒁁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8250,6 +9409,7 @@ var sumerian={"dictentries": {
             "content": "𒁮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8266,6 +9426,7 @@ var sumerian={"dictentries": {
             "content": "𒉪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8282,6 +9443,7 @@ var sumerian={"dictentries": {
             "content": "𒈬𒅆𒊒𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8298,6 +9460,7 @@ var sumerian={"dictentries": {
             "content": "𒅆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8314,6 +9477,7 @@ var sumerian={"dictentries": {
             "content": "𒌉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8330,6 +9494,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒌉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8346,6 +9511,7 @@ var sumerian={"dictentries": {
             "content": "𒌇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8362,6 +9528,7 @@ var sumerian={"dictentries": {
             "content": "𒌑...𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8377,6 +9544,7 @@ var sumerian={"dictentries": {
             "content": "𒌅𒇻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8392,6 +9560,7 @@ var sumerian={"dictentries": {
             "content": "𒋢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8407,6 +9576,7 @@ var sumerian={"dictentries": {
             "content": "𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8422,6 +9592,7 @@ var sumerian={"dictentries": {
             "content": "𒋺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8438,6 +9609,7 @@ var sumerian={"dictentries": {
             "content": "𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8454,6 +9626,7 @@ var sumerian={"dictentries": {
             "content": "𒊺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8470,6 +9643,7 @@ var sumerian={"dictentries": {
             "content": "𒊺𒅕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8486,6 +9660,7 @@ var sumerian={"dictentries": {
             "content": "𒄉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8502,6 +9677,7 @@ var sumerian={"dictentries": {
             "content": "𒌌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8517,6 +9693,7 @@ var sumerian={"dictentries": {
             "content": "𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8532,6 +9709,7 @@ var sumerian={"dictentries": {
             "content": "𒉺𒄸𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8548,6 +9726,7 @@ var sumerian={"dictentries": {
             "content": "𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8564,6 +9743,7 @@ var sumerian={"dictentries": {
             "content": "𒄬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8579,6 +9759,7 @@ var sumerian={"dictentries": {
             "content": "𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8595,6 +9776,7 @@ var sumerian={"dictentries": {
             "content": "𒌤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8611,6 +9793,7 @@ var sumerian={"dictentries": {
             "content": "𒌤𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -8626,6 +9809,7 @@ var sumerian={"dictentries": {
             "content": "𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -8641,6 +9825,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8656,6 +9841,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒍪𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8672,6 +9858,7 @@ var sumerian={"dictentries": {
             "content": "𒉏𒅖𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8688,6 +9875,7 @@ var sumerian={"dictentries": {
             "content": "𒉺𒉘"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8704,6 +9892,7 @@ var sumerian={"dictentries": {
             "content": "𒉺𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8719,6 +9908,7 @@ var sumerian={"dictentries": {
             "content": "𒋤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8735,6 +9925,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8751,6 +9942,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8767,6 +9959,7 @@ var sumerian={"dictentries": {
             "content": "𒉺𒃶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8788,6 +9981,7 @@ var sumerian={"dictentries": {
             "content": "𒄭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8804,6 +9998,7 @@ var sumerian={"dictentries": {
             "content": "𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8820,6 +10015,7 @@ var sumerian={"dictentries": {
             "content": "𒃵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -8836,22 +10032,7 @@ var sumerian={"dictentries": {
             "content": "𒆪"
         },
         {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
-            },
-            "concept": "https://www.wikidata.org/entity/Q573",
-            "translation": {
-                "locale": "en",
-                "content": "day"
-            },
-            "transliteration": {
-                "transcription": "ud",
-                "content": "ud"
-            },
-            "content": "𒌓"
-        },
-        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8868,6 +10049,7 @@ var sumerian={"dictentries": {
             "content": "𒂙"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -8883,6 +10065,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒌌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8899,6 +10082,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒊒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8914,6 +10098,7 @@ var sumerian={"dictentries": {
             "content": "𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8942,6 +10127,7 @@ var sumerian={"dictentries": {
             "content": "𒊺𒅕𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8959,6 +10145,7 @@ var sumerian={"dictentries": {
             "content": "𒋗𒆟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8976,6 +10163,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -8993,6 +10181,7 @@ var sumerian={"dictentries": {
             "content": "𒊺𒊕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9010,6 +10199,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9027,6 +10217,7 @@ var sumerian={"dictentries": {
             "content": "𒂗𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9044,6 +10235,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒉌𒂶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9061,6 +10253,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒄄𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9078,6 +10271,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒌋𒀜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9095,6 +10289,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒋆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9119,6 +10314,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒄖𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9134,6 +10330,7 @@ var sumerian={"dictentries": {
             "content": "𒂍𒄘"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9150,6 +10347,7 @@ var sumerian={"dictentries": {
             "content": "𒌨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9166,6 +10364,7 @@ var sumerian={"dictentries": {
             "content": "𒌷𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9182,6 +10381,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9197,6 +10397,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒁄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -9212,6 +10413,7 @@ var sumerian={"dictentries": {
             "content": "𒋛𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -9228,6 +10430,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -9244,6 +10447,7 @@ var sumerian={"dictentries": {
             "content": "𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -9259,6 +10463,7 @@ var sumerian={"dictentries": {
             "content": "𒋼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9275,6 +10480,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒍝𒄬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9291,6 +10497,7 @@ var sumerian={"dictentries": {
             "content": "𒄷𒋛𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9307,6 +10514,7 @@ var sumerian={"dictentries": {
             "content": "𒆪𒁉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9322,6 +10530,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒌓𒁺𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9338,6 +10547,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9354,6 +10564,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒉈𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9370,6 +10581,7 @@ var sumerian={"dictentries": {
             "content": "𒋽𒌇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9386,6 +10598,7 @@ var sumerian={"dictentries": {
             "content": "𒉡𒈬𒌦𒋢"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9402,6 +10615,7 @@ var sumerian={"dictentries": {
             "content": "𒅺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9418,6 +10632,7 @@ var sumerian={"dictentries": {
             "content": "𒀞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9434,6 +10649,7 @@ var sumerian={"dictentries": {
             "content": "𒆠𒃡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9450,6 +10666,7 @@ var sumerian={"dictentries": {
             "content": "𒌁𒀭𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9466,6 +10683,7 @@ var sumerian={"dictentries": {
             "content": "𒌗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9482,6 +10700,7 @@ var sumerian={"dictentries": {
             "content": "𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9498,6 +10717,7 @@ var sumerian={"dictentries": {
             "content": "𒌨𒄖𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9514,6 +10734,7 @@ var sumerian={"dictentries": {
             "content": "𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9530,6 +10751,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒊑𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9546,6 +10768,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒊏𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9562,6 +10785,7 @@ var sumerian={"dictentries": {
             "content": "𒌑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9578,6 +10802,7 @@ var sumerian={"dictentries": {
             "content": "𒊮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9594,6 +10819,7 @@ var sumerian={"dictentries": {
             "content": "𒅖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9610,6 +10836,7 @@ var sumerian={"dictentries": {
             "content": "𒋠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9625,6 +10852,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒈪𒉭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9641,6 +10869,7 @@ var sumerian={"dictentries": {
             "content": "𒆳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9657,6 +10886,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒂟"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9673,6 +10903,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒌇𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9695,6 +10926,7 @@ var sumerian={"dictentries": {
             "content": "𒍏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9717,6 +10949,7 @@ var sumerian={"dictentries": {
             "content": "𒆪𒀯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9733,6 +10966,7 @@ var sumerian={"dictentries": {
             "content": "𒌷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9749,6 +10983,7 @@ var sumerian={"dictentries": {
             "content": "𒋭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9765,6 +11000,7 @@ var sumerian={"dictentries": {
             "content": "𒋭𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9781,6 +11017,7 @@ var sumerian={"dictentries": {
             "content": "𒀉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9797,6 +11034,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9813,6 +11051,7 @@ var sumerian={"dictentries": {
             "content": "𒁲𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9829,6 +11068,7 @@ var sumerian={"dictentries": {
             "content": "𒈦𒈦"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9845,6 +11085,7 @@ var sumerian={"dictentries": {
             "content": "𒈦𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9861,6 +11102,7 @@ var sumerian={"dictentries": {
             "content": "𒈲𒁕𒆸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9877,6 +11119,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒊮𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9893,6 +11136,7 @@ var sumerian={"dictentries": {
             "content": "𒁵𒓊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9909,6 +11153,7 @@ var sumerian={"dictentries": {
             "content": "𒈬𒊭𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9925,6 +11170,7 @@ var sumerian={"dictentries": {
             "content": "𒈬𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9941,6 +11187,7 @@ var sumerian={"dictentries": {
             "content": "𒉌𒌓𒋗𒌋𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9957,6 +11204,7 @@ var sumerian={"dictentries": {
             "content": "𒄯𒄞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9973,6 +11221,7 @@ var sumerian={"dictentries": {
             "content": "𒈬𒌓𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -9989,6 +11238,7 @@ var sumerian={"dictentries": {
             "content": "𒈧𒄎"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10005,6 +11255,7 @@ var sumerian={"dictentries": {
             "content": "𒄰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10020,6 +11271,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒅴𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10036,6 +11288,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒈽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10051,6 +11304,40 @@ var sumerian={"dictentries": {
             "content": "𒌑𒀀"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q17190136",
+            "translation": {
+                "locale": "en",
+                "content": "decision"
+            },
+            "transliteration": {
+                "transcription": "didaba",
+                "content": "di-dab5-ba"
+            },
+            "content": "𒁲𒆪𒁀"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "forever"
+            },
+            "transliteration": {
+                "transcription": "darisze",
+                "content": "da-ri2-sze3"
+            },
+            "content": "𒁕𒌷𒂠"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10067,6 +11354,24 @@ var sumerian={"dictentries": {
             "content": "𒇽𒋼𒀀𒊏"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q19828939",
+            "translation": {
+                "locale": "en",
+                "content": "contortionist"
+            },
+            "transliteration": {
+                "transcription": "ludabariri",
+                "content": "lu2-da-ba-ri-ri"
+            },
+            "content": "𒇽𒁕𒁀𒊑𒊑"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10083,6 +11388,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒄭𒃻𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10099,6 +11405,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒁺𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10115,6 +11422,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒄀𒁲𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10131,6 +11439,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒂄𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10147,6 +11456,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒊬𒄤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10163,6 +11473,7 @@ var sumerian={"dictentries": {
             "content": "𒌨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10179,6 +11490,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒀄"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10203,6 +11515,7 @@ var sumerian={"dictentries": {
             "content": "𒇽𒉎𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10219,6 +11532,7 @@ var sumerian={"dictentries": {
             "content": "𒍠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10235,6 +11549,7 @@ var sumerian={"dictentries": {
             "content": "𒅝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10251,6 +11566,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒆸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10267,6 +11583,7 @@ var sumerian={"dictentries": {
             "content": "𒄀𒊏𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10283,6 +11600,7 @@ var sumerian={"dictentries": {
             "content": "𒋞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10299,6 +11617,7 @@ var sumerian={"dictentries": {
             "content": "𒋼𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10315,6 +11634,7 @@ var sumerian={"dictentries": {
             "content": "𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10331,6 +11651,7 @@ var sumerian={"dictentries": {
             "content": "𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10347,6 +11668,7 @@ var sumerian={"dictentries": {
             "content": "𒆬𒄀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -10362,6 +11684,7 @@ var sumerian={"dictentries": {
             "content": "𒆬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -10377,6 +11700,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒊍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -10392,6 +11716,7 @@ var sumerian={"dictentries": {
             "content": "𒆗𒁀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -10407,6 +11732,7 @@ var sumerian={"dictentries": {
             "content": "𒀀 𒌤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10435,6 +11761,7 @@ var sumerian={"dictentries": {
             "content": "𒋧"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10451,6 +11778,7 @@ var sumerian={"dictentries": {
             "content": "𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10466,6 +11794,7 @@ var sumerian={"dictentries": {
             "content": "𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10481,6 +11810,7 @@ var sumerian={"dictentries": {
             "content": "𒌢...𒋻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10497,6 +11827,7 @@ var sumerian={"dictentries": {
             "content": "𒍂"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10513,6 +11844,7 @@ var sumerian={"dictentries": {
             "content": "𒋙"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10528,6 +11860,7 @@ var sumerian={"dictentries": {
             "content": "𒈪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10544,6 +11877,7 @@ var sumerian={"dictentries": {
             "content": "𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10560,6 +11894,7 @@ var sumerian={"dictentries": {
             "content": "𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10576,6 +11911,7 @@ var sumerian={"dictentries": {
             "content": "𒉺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10592,6 +11928,7 @@ var sumerian={"dictentries": {
             "content": "𒁍𒈛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10608,6 +11945,7 @@ var sumerian={"dictentries": {
             "content": "𒋢𒁔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10624,6 +11962,7 @@ var sumerian={"dictentries": {
             "content": "𒋢𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10640,6 +11979,7 @@ var sumerian={"dictentries": {
             "content": "𒋢𒁷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10656,6 +11996,7 @@ var sumerian={"dictentries": {
             "content": "𒄘𒋻𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10672,6 +12013,7 @@ var sumerian={"dictentries": {
             "content": "𒌆𒄘𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10688,6 +12030,7 @@ var sumerian={"dictentries": {
             "content": "𒌆𒃻𒅁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10704,22 +12047,7 @@ var sumerian={"dictentries": {
             "content": "𒋢𒀀"
         },
         {
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
-            },
-            "concept": "https://www.wikidata.org/entity/Q193605",
-            "translation": {
-                "locale": "en",
-                "content": "lullaby"
-            },
-            "transliteration": {
-                "transcription": "ua",
-                "content": "u5-a"
-            },
-            "content": "𒄷𒋛𒀀"
-        },
-        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10744,6 +12072,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒋼𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10768,6 +12097,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒌅𒌓𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10784,6 +12114,7 @@ var sumerian={"dictentries": {
             "content": "𒅇𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10800,6 +12131,7 @@ var sumerian={"dictentries": {
             "content": "𒅇𒌷𒅔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -10816,6 +12148,7 @@ var sumerian={"dictentries": {
             "content": "𒋢𒌒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10832,6 +12165,7 @@ var sumerian={"dictentries": {
             "content": "𒆏𒉚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10848,6 +12182,7 @@ var sumerian={"dictentries": {
             "content": "𒆏𒅍𒅍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10864,6 +12199,121 @@ var sumerian={"dictentries": {
             "content": "𒃮"
         },
         {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "aromatic seed"
+            },
+            "transliteration": {
+                "transcription": "zibatum",
+                "content": "zi-ba-tum"
+            },
+            "content": "𒍣𒁀𒌈"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "chick pea flour"
+            },
+            "transliteration": {
+                "transcription": "zidgugal",
+                "content": "zid2-gu2-gal"
+            },
+            "content": "𒍥𒄘𒃲"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "living being"
+            },
+            "transliteration": {
+                "transcription": "zigalla",
+                "content": "zi-gal2-la"
+            },
+            "content": "𒍣𒅅𒆷"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "good person"
+            },
+            "transliteration": {
+                "transcription": "zidu",
+                "content": "zi-du"
+            },
+            "content": "𒍣𒁺"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "holy water"
+            },
+            "transliteration": {
+                "transcription": "aguba",
+                "content": "a-gub2-ba"
+            },
+            "content": "𒀀𒇷𒁀"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2333821",
+            "translation": {
+                "locale": "en",
+                "content": "palm frond"
+            },
+            "transliteration": {
+                "transcription": "jiszena",
+                "content": "jisz-ze2-na"
+            },
+            "content": "𒄑𒍢𒈾"
+        },
+        {
+            "ref": "sumdict",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q22694",
+            "translation": {
+                "locale": "en",
+                "content": "marjoran"
+            },
+            "transliteration": {
+                "transcription": "zazaga",
+                "content": "za-za-ga"
+            },
+            "content": "𒍝𒍝𒂵"
+        },
+        {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10880,6 +12330,7 @@ var sumerian={"dictentries": {
             "content": "𒈣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10896,6 +12347,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒁕𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10912,6 +12364,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒊕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10928,6 +12381,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒁲𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10944,6 +12398,7 @@ var sumerian={"dictentries": {
             "content": "𒈣𒀀𒉺𒄐𒉻𒋛𒀀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10960,6 +12415,7 @@ var sumerian={"dictentries": {
             "content": "𒄷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10976,6 +12432,7 @@ var sumerian={"dictentries": {
             "content": "𒈲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -10992,6 +12449,7 @@ var sumerian={"dictentries": {
             "content": "𒉣𒈨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11008,6 +12466,7 @@ var sumerian={"dictentries": {
             "content": "𒉣𒈨𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11024,6 +12483,7 @@ var sumerian={"dictentries": {
             "content": "𒁰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11040,6 +12500,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11056,6 +12517,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -11071,6 +12533,7 @@ var sumerian={"dictentries": {
             "content": "𒀸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11087,6 +12550,7 @@ var sumerian={"dictentries": {
             "content": "𒋃"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11103,6 +12567,7 @@ var sumerian={"dictentries": {
             "content": "𒄞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11119,6 +12584,7 @@ var sumerian={"dictentries": {
             "content": "𒆪𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11135,6 +12601,7 @@ var sumerian={"dictentries": {
             "content": "𒅔"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11151,6 +12618,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11167,6 +12635,7 @@ var sumerian={"dictentries": {
             "content": "𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11183,6 +12652,7 @@ var sumerian={"dictentries": {
             "content": "𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11199,6 +12669,7 @@ var sumerian={"dictentries": {
             "content": "𒅘"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11215,6 +12686,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒈨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11231,6 +12703,7 @@ var sumerian={"dictentries": {
             "content": "𒄵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11247,6 +12720,7 @@ var sumerian={"dictentries": {
             "content": "𒀊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11263,6 +12737,7 @@ var sumerian={"dictentries": {
             "content": "𒋧𒂖"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11279,6 +12754,7 @@ var sumerian={"dictentries": {
             "content": "𒉊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11301,6 +12777,7 @@ var sumerian={"dictentries": {
             "content": "𒂗𒈨𒈬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11317,6 +12794,7 @@ var sumerian={"dictentries": {
             "content": "𒇻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11333,6 +12811,7 @@ var sumerian={"dictentries": {
             "content": "𒇻𒋠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11355,6 +12834,7 @@ var sumerian={"dictentries": {
             "content": "𒋠𒇴𒋦"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11371,6 +12851,7 @@ var sumerian={"dictentries": {
             "content": "𒌷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11399,6 +12880,7 @@ var sumerian={"dictentries": {
             "content": "𒇽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11415,6 +12897,7 @@ var sumerian={"dictentries": {
             "content": "𒌷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11431,6 +12914,7 @@ var sumerian={"dictentries": {
             "content": "𒂵𒋾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11447,6 +12931,7 @@ var sumerian={"dictentries": {
             "content": "𒈠𒀭𒂵𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11463,6 +12948,7 @@ var sumerian={"dictentries": {
             "content": "𒀠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11479,6 +12965,7 @@ var sumerian={"dictentries": {
             "content": "𒌨𒊕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11495,6 +12982,7 @@ var sumerian={"dictentries": {
             "content": "𒂵𒀊𒉚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11511,6 +12999,7 @@ var sumerian={"dictentries": {
             "content": "𒃡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11527,6 +13016,7 @@ var sumerian={"dictentries": {
             "content": "𒂗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11542,6 +13032,7 @@ var sumerian={"dictentries": {
             "content": "𒀊𒊮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11557,6 +13048,7 @@ var sumerian={"dictentries": {
             "content": "𒁇𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11573,6 +13065,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒀀𒁇𒊏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11589,6 +13082,7 @@ var sumerian={"dictentries": {
             "content": "𒂵𒁮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11605,6 +13099,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒂵𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11621,6 +13116,7 @@ var sumerian={"dictentries": {
             "content": "𒀉𒅆𒌨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11637,6 +13133,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -11652,6 +13149,7 @@ var sumerian={"dictentries": {
             "content": "𒌨𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11668,6 +13166,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒅆𒌨𒈪𒉭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11683,6 +13182,7 @@ var sumerian={"dictentries": {
             "content": "𒅐"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11699,6 +13199,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒃻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11715,6 +13216,7 @@ var sumerian={"dictentries": {
             "content": "𒋆𒋢𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11731,6 +13233,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒍣𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11747,6 +13250,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒊩"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11763,6 +13267,7 @@ var sumerian={"dictentries": {
             "content": "𒌦"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11779,6 +13284,7 @@ var sumerian={"dictentries": {
             "content": "𒍣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11795,6 +13301,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒅆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11811,6 +13318,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒂍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11827,6 +13335,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒂍𒉪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11849,6 +13358,7 @@ var sumerian={"dictentries": {
             "content": "𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11871,6 +13381,7 @@ var sumerian={"dictentries": {
             "content": "𒂼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11887,6 +13398,7 @@ var sumerian={"dictentries": {
             "content": "𒁦"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11903,6 +13415,7 @@ var sumerian={"dictentries": {
             "content": "𒆲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11919,6 +13432,7 @@ var sumerian={"dictentries": {
             "content": "𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11935,6 +13449,7 @@ var sumerian={"dictentries": {
             "content": "𒄿𒇻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11957,6 +13472,7 @@ var sumerian={"dictentries": {
             "content": "𒆬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11973,6 +13489,7 @@ var sumerian={"dictentries": {
             "content": "𒌚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -11989,6 +13506,7 @@ var sumerian={"dictentries": {
             "content": "𒌵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12005,6 +13523,7 @@ var sumerian={"dictentries": {
             "content": "𒀫"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12021,6 +13540,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12037,6 +13557,7 @@ var sumerian={"dictentries": {
             "content": "𒄘"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12052,6 +13573,7 @@ var sumerian={"dictentries": {
             "content": "𒄘𒂗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12068,6 +13590,7 @@ var sumerian={"dictentries": {
             "content": "𒊯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12083,6 +13606,7 @@ var sumerian={"dictentries": {
             "content": "𒀚"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12099,6 +13623,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12115,6 +13640,7 @@ var sumerian={"dictentries": {
             "content": "𒉣"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12131,6 +13657,7 @@ var sumerian={"dictentries": {
             "content": "𒂠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12147,6 +13674,7 @@ var sumerian={"dictentries": {
             "content": "𒂊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12171,6 +13699,7 @@ var sumerian={"dictentries": {
             "content": "𒀠𒈜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12187,6 +13716,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒇻"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12209,6 +13739,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒉌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12231,6 +13762,7 @@ var sumerian={"dictentries": {
             "content": "𒁶"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12255,6 +13787,7 @@ var sumerian={"dictentries": {
             "content": "𒅥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12271,6 +13804,7 @@ var sumerian={"dictentries": {
             "content": "𒋧"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12286,6 +13820,7 @@ var sumerian={"dictentries": {
             "content": "𒋝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12302,6 +13837,7 @@ var sumerian={"dictentries": {
             "content": "𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12318,6 +13854,7 @@ var sumerian={"dictentries": {
             "content": "𒈭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12333,6 +13870,7 @@ var sumerian={"dictentries": {
             "content": "𒊨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12349,6 +13887,7 @@ var sumerian={"dictentries": {
             "content": "𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12364,6 +13903,7 @@ var sumerian={"dictentries": {
             "content": "𒆒"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12380,6 +13920,7 @@ var sumerian={"dictentries": {
             "content": "𒋀𒃲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12396,6 +13937,7 @@ var sumerian={"dictentries": {
             "content": "𒃶𒆪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12412,6 +13954,7 @@ var sumerian={"dictentries": {
             "content": "𒅖𒍏"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12428,6 +13971,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒃶𒇲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12444,6 +13988,7 @@ var sumerian={"dictentries": {
             "content": "𒋁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12459,6 +14004,7 @@ var sumerian={"dictentries": {
             "content": "𒅊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12475,6 +14021,7 @@ var sumerian={"dictentries": {
             "content": "𒃰𒋺𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12490,6 +14037,7 @@ var sumerian={"dictentries": {
             "content": "𒄬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12506,6 +14054,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒋝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12522,6 +14071,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒈹𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12537,6 +14087,7 @@ var sumerian={"dictentries": {
             "content": "𒄩𒇴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12553,6 +14104,7 @@ var sumerian={"dictentries": {
             "content": "𒄩𒁵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12569,6 +14121,7 @@ var sumerian={"dictentries": {
             "content": "𒈓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12584,6 +14137,7 @@ var sumerian={"dictentries": {
             "content": "𒉽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12600,6 +14154,7 @@ var sumerian={"dictentries": {
             "content": "𒊺𒁉𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -12616,6 +14171,7 @@ var sumerian={"dictentries": {
             "content": "𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12632,6 +14188,7 @@ var sumerian={"dictentries": {
             "content": "𒉎"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12648,6 +14205,7 @@ var sumerian={"dictentries": {
             "content": "𒀴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12664,6 +14222,7 @@ var sumerian={"dictentries": {
             "content": "𒄧"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12680,6 +14239,7 @@ var sumerian={"dictentries": {
             "content": "𒅇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12696,6 +14256,7 @@ var sumerian={"dictentries": {
             "content": "𒅇𒈠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12712,6 +14273,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12728,6 +14290,7 @@ var sumerian={"dictentries": {
             "content": "𒁖𒋛"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -12743,6 +14306,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒄭𒀸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -12758,6 +14322,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12774,6 +14339,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒂵𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12790,6 +14356,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒅆𒌨𒈪𒉭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12806,6 +14373,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒄾𒆷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12822,6 +14390,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒅗𒋰"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -12837,6 +14406,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒋤𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -12852,6 +14422,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒌓"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12874,6 +14445,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12890,6 +14462,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒅔𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12905,6 +14478,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒉪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12921,6 +14495,7 @@ var sumerian={"dictentries": {
             "content": "𒀮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12930,13 +14505,22 @@ var sumerian={"dictentries": {
                 "locale": "en",
                 "content": "caterpillar"
             },
-            "transliteration": {
-                "transcription": "zanabal",
-                "content": "zanabal"
-            },
+            "transliteration": [
+                {
+                    "transcription": "zanabal",
+                    "cunei": "𒈉",
+                    "content": "zanabal"
+                },
+                {
+                    "transcription": "zana",
+                    "cunei": "𒍝𒈾",
+                    "content": "za-na"
+                }
+            ],
             "content": "𒈉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12953,6 +14537,7 @@ var sumerian={"dictentries": {
             "content": "𒄩𒍝𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12969,6 +14554,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒉈𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -12985,6 +14571,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒇴"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13001,6 +14588,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒀾𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13017,6 +14605,7 @@ var sumerian={"dictentries": {
             "content": "𒃵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13033,6 +14622,7 @@ var sumerian={"dictentries": {
             "content": "𒉈𒍝𒍝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13049,6 +14639,7 @@ var sumerian={"dictentries": {
             "content": "𒃞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13065,6 +14656,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒅗𒁇"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13081,6 +14673,7 @@ var sumerian={"dictentries": {
             "content": "𒂟𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13097,6 +14690,7 @@ var sumerian={"dictentries": {
             "content": "𒅇𒈾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13113,6 +14707,7 @@ var sumerian={"dictentries": {
             "content": "𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13129,6 +14724,7 @@ var sumerian={"dictentries": {
             "content": "𒄖 𒉡"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13144,6 +14740,7 @@ var sumerian={"dictentries": {
             "content": "𒄖𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13160,6 +14757,7 @@ var sumerian={"dictentries": {
             "content": "𒄴𒊒𒌝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13175,6 +14773,7 @@ var sumerian={"dictentries": {
             "content": "𒊊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13197,6 +14796,7 @@ var sumerian={"dictentries": {
             "content": "𒈹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13213,6 +14813,7 @@ var sumerian={"dictentries": {
             "content": "𒄗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13229,6 +14830,7 @@ var sumerian={"dictentries": {
             "content": "𒄥"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13245,6 +14847,7 @@ var sumerian={"dictentries": {
             "content": "𒈝𒈝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13260,6 +14863,7 @@ var sumerian={"dictentries": {
             "content": "𒊒𒄘"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13276,6 +14880,7 @@ var sumerian={"dictentries": {
             "content": "𒇻𒂠𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13292,6 +14897,7 @@ var sumerian={"dictentries": {
             "content": "𒅍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13308,6 +14914,7 @@ var sumerian={"dictentries": {
             "content": "𒈨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13324,6 +14931,7 @@ var sumerian={"dictentries": {
             "content": "𒍨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13339,6 +14947,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒄊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13355,6 +14964,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13371,6 +14981,7 @@ var sumerian={"dictentries": {
             "content": "𒊑"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13387,6 +14998,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13402,6 +15014,7 @@ var sumerian={"dictentries": {
             "content": "𒊹"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13417,6 +15030,7 @@ var sumerian={"dictentries": {
             "content": "𒆗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13432,6 +15046,7 @@ var sumerian={"dictentries": {
             "content": "𒆗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13448,6 +15063,7 @@ var sumerian={"dictentries": {
             "content": "𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13464,6 +15080,7 @@ var sumerian={"dictentries": {
             "content": "𒍪"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13480,6 +15097,7 @@ var sumerian={"dictentries": {
             "content": "𒋳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13496,6 +15114,7 @@ var sumerian={"dictentries": {
             "content": "𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13512,6 +15131,7 @@ var sumerian={"dictentries": {
             "content": "𒊬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13528,6 +15148,7 @@ var sumerian={"dictentries": {
             "content": "𒅍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13543,6 +15164,7 @@ var sumerian={"dictentries": {
             "content": "𒍮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13558,6 +15180,7 @@ var sumerian={"dictentries": {
             "content": "𒂂"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13574,6 +15197,7 @@ var sumerian={"dictentries": {
             "content": "𒆕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13589,6 +15213,7 @@ var sumerian={"dictentries": {
             "content": "𒈹𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13604,6 +15229,7 @@ var sumerian={"dictentries": {
             "content": "𒈤"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13619,6 +15245,7 @@ var sumerian={"dictentries": {
             "content": "𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13634,6 +15261,7 @@ var sumerian={"dictentries": {
             "content": "𒀝"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13650,6 +15278,7 @@ var sumerian={"dictentries": {
             "content": "𒍗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13665,6 +15294,7 @@ var sumerian={"dictentries": {
             "content": "𒄷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13681,6 +15311,7 @@ var sumerian={"dictentries": {
             "content": "𒄉"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13697,6 +15328,7 @@ var sumerian={"dictentries": {
             "content": "𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13713,6 +15345,7 @@ var sumerian={"dictentries": {
             "content": "𒋼"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13729,6 +15362,7 @@ var sumerian={"dictentries": {
             "content": "𒋦"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13744,6 +15378,7 @@ var sumerian={"dictentries": {
             "content": "𒈨"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -13759,6 +15394,7 @@ var sumerian={"dictentries": {
             "content": "𒄿"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13775,6 +15411,7 @@ var sumerian={"dictentries": {
             "content": "𒀊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13790,6 +15427,7 @@ var sumerian={"dictentries": {
             "content": "𒁷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13806,6 +15444,7 @@ var sumerian={"dictentries": {
             "content": "𒁁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13822,6 +15461,7 @@ var sumerian={"dictentries": {
             "content": "𒄞𒄋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13838,6 +15478,7 @@ var sumerian={"dictentries": {
             "content": "𒁉𒊑𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13854,6 +15495,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13870,6 +15512,7 @@ var sumerian={"dictentries": {
             "content": "𒌑𒆠𒋧𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13886,6 +15529,7 @@ var sumerian={"dictentries": {
             "content": "𒅗𒉌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13902,6 +15546,7 @@ var sumerian={"dictentries": {
             "content": "𒅁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13918,6 +15563,7 @@ var sumerian={"dictentries": {
             "content": "𒅗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13934,6 +15580,7 @@ var sumerian={"dictentries": {
             "content": "𒄞"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13950,6 +15597,7 @@ var sumerian={"dictentries": {
             "content": "𒈪𒌈"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13966,6 +15614,7 @@ var sumerian={"dictentries": {
             "content": "𒂡𒄯"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13982,6 +15631,7 @@ var sumerian={"dictentries": {
             "content": "𒍝𒆳"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -13998,6 +15648,7 @@ var sumerian={"dictentries": {
             "content": "𒉆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14014,6 +15665,7 @@ var sumerian={"dictentries": {
             "content": "𒀠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14029,6 +15681,7 @@ var sumerian={"dictentries": {
             "content": "𒌝𒈠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14045,6 +15698,7 @@ var sumerian={"dictentries": {
             "content": "𒊩𒌆"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14061,6 +15715,7 @@ var sumerian={"dictentries": {
             "content": "𒆍"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14077,6 +15732,7 @@ var sumerian={"dictentries": {
             "content": "𒌺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14093,6 +15749,7 @@ var sumerian={"dictentries": {
             "content": "𒊮𒉣𒇬"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adverb",
                 "content": "ADV"
@@ -14108,6 +15765,7 @@ var sumerian={"dictentries": {
             "content": "𒀸𒀸"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14123,6 +15781,7 @@ var sumerian={"dictentries": {
             "content": "𒌅𒁲𒁕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14139,6 +15798,7 @@ var sumerian={"dictentries": {
             "content": "𒉺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14155,6 +15815,7 @@ var sumerian={"dictentries": {
             "content": "𒋀"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14171,6 +15832,7 @@ var sumerian={"dictentries": {
             "content": "𒂵"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14187,6 +15849,7 @@ var sumerian={"dictentries": {
             "content": "𒄭𒅋𒍮"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14203,6 +15866,7 @@ var sumerian={"dictentries": {
             "content": "𒂁"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14219,6 +15883,7 @@ var sumerian={"dictentries": {
             "content": "𒅗𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14235,6 +15900,7 @@ var sumerian={"dictentries": {
             "content": "𒌀𒇻𒊌"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -14250,6 +15916,7 @@ var sumerian={"dictentries": {
             "content": "𒅆𒁺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14266,6 +15933,7 @@ var sumerian={"dictentries": {
             "content": "𒇺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14281,6 +15949,7 @@ var sumerian={"dictentries": {
             "content": "𒌋𒅗𒇺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14297,6 +15966,7 @@ var sumerian={"dictentries": {
             "content": "𒊕"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14312,6 +15982,7 @@ var sumerian={"dictentries": {
             "content": "𒊕𒆠"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14328,6 +15999,7 @@ var sumerian={"dictentries": {
             "content": "𒌓𒊑𒅅"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14344,6 +16016,7 @@ var sumerian={"dictentries": {
             "content": "𒊕𒈪𒉭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14360,6 +16033,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒍝𒀜"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14376,6 +16050,7 @@ var sumerian={"dictentries": {
             "content": "𒈱"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14392,6 +16067,7 @@ var sumerian={"dictentries": {
             "content": "𒈊"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14408,6 +16084,7 @@ var sumerian={"dictentries": {
             "content": "𒄯𒊏𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14424,6 +16101,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒀭"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14440,6 +16118,7 @@ var sumerian={"dictentries": {
             "content": "𒉆𒁾"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14456,6 +16135,7 @@ var sumerian={"dictentries": {
             "content": "𒀿"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14472,6 +16152,7 @@ var sumerian={"dictentries": {
             "content": "𒃲𒌺"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
@@ -14487,6 +16168,7 @@ var sumerian={"dictentries": {
             "content": "𒁲"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14503,6 +16185,7 @@ var sumerian={"dictentries": {
             "content": "𒆗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14519,6 +16202,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒉽"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -14534,6 +16218,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒆗𒆗"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
@@ -14549,6 +16234,7 @@ var sumerian={"dictentries": {
             "content": "𒃻𒄭𒇷"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -14565,6 +16251,7 @@ var sumerian={"dictentries": {
             "content": "𒀀𒁕𒌋𒌋"
         },
         {
+            "ref": "epsd",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"

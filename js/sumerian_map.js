@@ -649,6 +649,39 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
+                "content": 748
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 390
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 480
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 356
+            }
+        ],
+        "transliteration": {
+            "valid": true,
+            "content": "ana"
+        },
+        "content": "𒁹"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
                 "content": 353
             },
             {
@@ -812,6 +845,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "arad"
         },
         "content": "𒀴"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "asag"
+        },
+        "content": "𒆬𒀭"
     },
     {
         "reference": [
@@ -2241,6 +2281,28 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁶"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": "516, 534"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "330_8n"
+            }
+        ],
+        "paint": "a4c7d1",
+        "transliteration": {
+            "valid": true,
+            "content": "dim3"
+        },
+        "content": "𒈕"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "dimgul"
@@ -2873,6 +2935,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "dun3"
         },
         "content": "𒂅"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 178
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 88
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 108
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 202
+            }
+        ],
+        "paint": "a4b2c2d2",
+        "transliteration": {
+            "valid": true,
+            "content": "dur"
+        },
+        "content": "𒄙"
     },
     {
         "paint": "a2b3",
@@ -3573,33 +3669,33 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
-                "content": 89
+                "content": 491
             },
             {
                 "ref": "https://openlibrary.org/works/OL9899303W",
                 "short": "AbZl",
                 "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 177
+                "content": 201
             },
             {
                 "ref": "lha",
                 "short": "LHA",
                 "title": "The Deimel Numbers",
-                "content": 55
+                "content": 319
             },
             {
                 "ref": "hethzl",
                 "short": "HethZl",
                 "title": "Hethitisches Zeichenlexikon",
-                "content": 95
+                "content": 159
             }
         ],
-        "paint": "a5b7",
+        "paint": "a5b6c1d1",
         "transliteration": {
             "valid": true,
             "content": "ga"
         },
-        "content": "𒆷"
+        "content": "𒂵"
     },
     {
         "reference": [
@@ -4467,6 +4563,40 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
+                "content": 701
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": "291b"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 444
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 301
+            }
+        ],
+        "paint": "a1b6c3d3",
+        "transliteration": {
+            "valid": true,
+            "content": "gir3"
+        },
+        "content": "𒄊"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
                 "content": 24
             },
             {
@@ -5286,6 +5416,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "hasz"
         },
         "content": "𒋻"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 464
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 143
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 295
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 174
+            }
+        ],
+        "paint": "a1b2",
+        "transliteration": {
+            "valid": true,
+            "content": "hat"
+        },
+        "content": "𒉺"
     },
     {
         "reference": [
@@ -7187,6 +7351,40 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
+                "content": 686
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 67
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 440
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 165
+            }
+        ],
+        "paint": "a2b2c1d2",
+        "transliteration": {
+            "valid": true,
+            "content": "kim"
+        },
+        "content": "𒁶"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
                 "content": 580
             },
             {
@@ -7214,6 +7412,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "kim3"
         },
         "content": "𒁍"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 815
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 447
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 538
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 47
+            }
+        ],
+        "paint": "a3b5c1d1",
+        "transliteration": {
+            "valid": true,
+            "content": "kin"
+        },
+        "content": "𒆥"
     },
     {
         "transliteration": {
@@ -9484,6 +9716,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "nam"
         },
         "content": "𒉆"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 535
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": "21b"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 331
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 79
+            }
+        ],
+        "paint": "b1c4d2",
+        "transliteration": {
+            "valid": true,
+            "content": "nan"
+        },
+        "content": "𒋀"
     },
     {
         "reference": [
@@ -12030,6 +12296,40 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍀"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 490
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 146
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 318
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 195
+            }
+        ],
+        "paint": "a4b2",
+        "transliteration": {
+            "valid": true,
+            "content": "szam"
+        },
+        "content": "𒌑"
+    },
+    {
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -12638,6 +12938,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "szum"
         },
         "content": "𒋳"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 115
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 28
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 71
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 5
+            }
+        ],
+        "paint": "b2c2d2",
+        "transliteration": {
+            "valid": true,
+            "content": "szur3"
+        },
+        "content": "𒋓"
     },
     {
         "reference": [
@@ -13487,6 +13821,40 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 255
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 393
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 144
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 237
+            }
+        ],
+        "paint": "a1b2c2d2",
+        "transliteration": {
+            "valid": true,
+            "content": "tur"
+        },
+        "content": "𒌉"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "tur3"
@@ -13726,6 +14094,34 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂠"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 277
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 157
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "152_4"
+            }
+        ],
+        "paint": "a4b6c2d2",
+        "transliteration": {
+            "valid": true,
+            "content": "ubara"
+        },
+        "content": "𒂬"
+    },
+    {
         "paint": "a10b12c5d3",
         "transliteration": {
             "valid": true,
@@ -13909,6 +14305,40 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "uh"
         },
         "content": "𒄴"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 73
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 186
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 40
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 134
+            }
+        ],
+        "paint": "a4b4",
+        "transliteration": {
+            "valid": true,
+            "content": "ukkin"
+        },
+        "content": "𒌺"
     },
     {
         "reference": [
@@ -14158,18 +14588,38 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋼𒀕"
     },
     {
-        "reference": {
-            "ref": "https://openlibrary.org/works/OL15890317W",
-            "short": "MeZl",
-            "title": "Mesopotamisches Zeichenlexikon",
-            "content": 232
-        },
-        "paint": "a1b2c4d1",
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 232
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 129
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 195
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 111
+            }
+        ],
+        "paint": "a1b2c5d1",
         "transliteration": {
             "valid": true,
             "content": "unug"
         },
-        "content": "𒀔"
+        "content": "𒀕"
     },
     {
         "reference": [
@@ -14734,33 +15184,33 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
-                "content": 71
+                "content": 311
             },
             {
                 "ref": "https://openlibrary.org/works/OL9899303W",
                 "short": "AbZl",
                 "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 181
+                "content": 134
             },
             {
                 "ref": "lha",
                 "short": "LHA",
                 "title": "The Deimel Numbers",
-                "content": 38
+                "content": 171
             },
             {
                 "ref": "hethzl",
                 "short": "HethZl",
                 "title": "Hethitisches Zeichenlexikon",
-                "content": 229
+                "content": 203
             }
         ],
-        "paint": "a3b3",
+        "paint": "a4c14d4",
         "transliteration": {
             "valid": true,
             "content": "uzu"
         },
-        "content": "𒌷"
+        "content": "𒍜"
     },
     {
         "reference": [
@@ -15172,6 +15622,14 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "zid"
         },
         "content": "𒍣"
+    },
+    {
+        "paint": "b7c2",
+        "transliteration": {
+            "valid": true,
+            "content": "zid2"
+        },
+        "content": "𒍥"
     },
     {
         "reference": [

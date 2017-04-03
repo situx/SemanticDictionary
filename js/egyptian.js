@@ -4320,6 +4320,46 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q721931",
+            "translation": {
+                "locale": "en",
+                "content": "shed"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G17-D36-M12-G1-Z7:O1",
+                "transcription": "mxAw",
+                "content": "mxAw"
+            },
+            "content": "𓅓𓂝𓆼𓄿𓏲:𓉐"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q287",
+            "translation": {
+                "locale": "en",
+                "content": "balance"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "M3:X1*Z1",
+                "transcription": "xt",
+                "content": "xt"
+            },
+            "content": "𓆱:𓏏*𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q15296811",
             "translation": {
                 "locale": "en",
@@ -4971,6 +5011,26 @@ var egyptian={"dictentries": {
                 "content": "nSt"
             },
             "content": "𓈖:𓈙𓏏:𓁸"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1317634",
+            "translation": {
+                "locale": "en",
+                "content": "cauldron"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "G43-V28-X1:W23",
+                "transcription": "wAHt",
+                "content": "wAHt"
+            },
+            "content": "𓅱𓎛𓏏:𓏋"
         },
         {
             "logogram": "",
@@ -6011,6 +6071,63 @@ var egyptian={"dictentries": {
                 "content": "mnTw"
             },
             "content": "𓏠:𓈖:𓍿𓅱"
+        },
+        {
+            "logogram": "",
+            "ref": "misc",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q215940",
+            "translation": {
+                "locale": "en",
+                "content": "Khepri"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "L1:D21-M17-C2",
+                "transcription": ""
+            },
+            "content": "𓆣:𓂋𓇋𓁛"
+        },
+        {
+            "logogram": "",
+            "ref": "misc",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q208150",
+            "translation": {
+                "locale": "en",
+                "content": "Apis"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa5:Q3-E1",
+                "transcription": ""
+            },
+            "content": "𓎛𓐑:𓊪𓃒"
+        },
+        {
+            "logogram": "",
+            "ref": "misc",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q190521",
+            "translation": {
+                "locale": "en",
+                "content": "Khonsu"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa1:N35:O34-M23-G45-G7",
+                "transcription": ""
+            },
+            "content": "𓐍:𓈖:𓊃𓇓𓅴𓅆"
         },
         {
             "logogram": "",
