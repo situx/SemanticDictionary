@@ -65,6 +65,25 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "copulate"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46-G1-D52",
+                "transcription": "dA",
+                "content": "dA"
+            },
+            "content": "𓂧𓄿𓂸"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -150,7 +169,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q319224",
+            "concept": "https://www.wikidata.org/entity/Q319224",
             "translation": {
                 "locale": "en",
                 "content": "cargo"
@@ -507,6 +526,25 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "translation": {
+                "locale": "en",
+                "content": "be low"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46-M16-G1-G37",
+                "transcription": "dHi",
+                "content": "dHi"
+            },
+            "content": "𓂧𓇉𓄿𓅪"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819",
             "translation": {
                 "locale": "en",
@@ -539,6 +577,26 @@ var egyptian={"dictentries": {
                 "content": "ptr"
             },
             "content": "𓊪*𓏏:𓂋𓁻"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2788",
+            "translation": {
+                "locale": "en",
+                "content": "serve"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-G43-M17-D56-D54",
+                "transcription": "rwi",
+                "content": "rwi"
+            },
+            "content": "𓂋𓅱𓇋𓂾𓂻"
         },
         {
             "logogram": "",
@@ -2523,6 +2581,25 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "interruption"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-G43-M17-D54:X1",
+                "transcription": "rwit",
+                "content": "rwit"
+            },
+            "content": "𓂋𓅱𓇋𓂻:𓏏"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -3047,7 +3124,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q4989906",
+            "concept": "https://www.wikidata.org/entity/Q4989906",
             "translation": {
                 "locale": "en",
                 "content": "monument"
@@ -4298,6 +4375,26 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q160066",
+            "translation": {
+                "locale": "en",
+                "content": "straw"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46-M16-G1-M2:Z2",
+                "transcription": "dHA",
+                "content": "dHA"
+            },
+            "content": "𓂧𓇉𓄿𓆰:𓏥"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -4380,10 +4477,30 @@ var egyptian={"dictentries": {
             "logogram": "",
             "ref": "dickson",
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "https://www.wikidata.org/entity/Q47092",
+            "translation": {
+                "locale": "en",
+                "content": "rape"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46-G1-M17-D21:T12-A24",
+                "transcription": "dAir",
+                "content": "dAir"
+            },
+            "content": "𓂧𓄿𓇋𓂋:𓌗𓀜"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q846677",
+            "concept": "https://www.wikidata.org/entity/Q846677",
             "translation": {
                 "locale": "en",
                 "content": "remainder"
@@ -4443,7 +4560,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q55187",
+            "concept": "https://www.wikidata.org/entity/Q55187",
             "translation": {
                 "locale": "en",
                 "content": "coiffeur"
@@ -4483,7 +4600,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q7632586",
+            "concept": "https://www.wikidata.org/entity/Q7632586",
             "translation": {
                 "locale": "en",
                 "content": "success"
@@ -4503,7 +4620,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2651366",
+            "concept": "https://www.wikidata.org/entity/Q2651366",
             "translation": {
                 "locale": "en",
                 "content": "mandrake"
@@ -4555,6 +4672,26 @@ var egyptian={"dictentries": {
                 "content": "irtt"
             },
             "content": "𓇋𓂋:𓏏*𓏏𓏈"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q11639",
+            "translation": {
+                "locale": "en",
+                "content": "dance"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-G43-X1:D36",
+                "transcription": "rwt",
+                "content": "rwt"
+            },
+            "content": "𓂋𓅱𓏏:𓂝"
         },
         {
             "logogram": "",
@@ -4837,6 +4974,45 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "departure"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-G43-G43-X1-D54:Z2",
+                "transcription": "rwwt",
+                "content": "rwwt"
+            },
+            "content": "𓂋𓅱𓅱𓏏𓂻:𓏥"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q158808",
+            "translation": {
+                "locale": "en",
+                "content": "papyrus plant"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46-M17-M17-X1-M15",
+                "transcription": "rwwt",
+                "content": "rwwt"
+            },
+            "content": "𓂧𓇋𓇋𓏏𓇇"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -4897,12 +5073,31 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q135028",
+            "translation": {
+                "locale": "en",
+                "content": "Nubia"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa32-X1:Z8",
+                "transcription": "sty",
+                "content": "sty"
+            },
+            "content": "𓐮𓏏:𓏳"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/entity/Q180284",
             "translation": {
                 "locale": "en",
                 "content": "antiguity"
@@ -5899,6 +6094,65 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7873",
+            "translation": {
+                "locale": "en",
+                "content": "blood"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:N37:D21-D26",
+                "transcription": "dSrw",
+                "content": "dSrw"
+            },
+            "content": "𓂧:𓈙:𓂋𓂐"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q41994",
+            "translation": {
+                "locale": "en",
+                "content": "flamingo"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:N37-D21-G27",
+                "transcription": "dSr",
+                "content": "dSr"
+            },
+            "content": "𓂧:𓈙𓂋𓅟"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "grind"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa27-W24:D36",
+                "transcription": "nD",
+                "content": "nD"
+            },
+            "content": "𓐩𓏌:𓂝"
+        },
+        {
+            "logogram": "",
             "ref": "hieronet",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -6064,7 +6318,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q9081",
+            "concept": "https://www.wikidata.org/entity/Q9081",
             "translation": {
                 "locale": "en",
                 "content": "knowledge"
@@ -6204,7 +6458,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q23387",
+            "concept": "https://www.wikidata.org/entity/Q23387",
             "translation": {
                 "locale": "en",
                 "content": "week"
@@ -6224,7 +6478,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2401485",
+            "concept": "https://www.wikidata.org/entity/Q2401485",
             "translation": {
                 "locale": "en",
                 "content": "expedition"
@@ -6396,6 +6650,45 @@ var egyptian={"dictentries": {
                 "content": "nTr"
             },
             "content": "𓊹𓏤"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1391831",
+            "translation": {
+                "locale": "en",
+                "content": "thread"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa27-W24-S28",
+                "transcription": "nD",
+                "content": "nD"
+            },
+            "content": "𓐩𓏌𓋳"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "protector"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "Aa27-W24-X1:Z4-D40",
+                "transcription": "nDty",
+                "content": "nDty"
+            },
+            "content": "𓐩𓏌𓏏:𓏭𓂡"
         },
         {
             "logogram": "",
@@ -6598,12 +6891,31 @@ var egyptian={"dictentries": {
         },
         {
             "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Ramses I"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "N5-F31-S29-M23-G43",
+                "transcription": "Rˁ msj sw",
+                "content": "Rˁ msj sw"
+            },
+            "content": "𓇳𓄟𓋴𓇓𓅱"
+        },
+        {
+            "logogram": "",
             "ref": "dickson",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q939129",
+            "concept": "https://www.wikidata.org/entity/Q939129",
             "translation": [
                 {
                     "locale": "en",
@@ -6629,7 +6941,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q756990",
+            "concept": "https://www.wikidata.org/entity/Q756990",
             "translation": {
                 "locale": "en",
                 "content": "Uraeus"
@@ -6641,6 +6953,26 @@ var egyptian={"dictentries": {
                 "content": "tpt"
             },
             "content": "𓁶:𓏤𓏏:𓆘"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8860",
+            "translation": {
+                "locale": "en",
+                "content": "Orion"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D61-N14-G1-A40",
+                "transcription": "sAH",
+                "content": "sAH"
+            },
+            "content": "𓃃𓇼𓄿𓀭"
         },
         {
             "logogram": "",
@@ -6669,7 +7001,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1126848",
+            "concept": "https://www.wikidata.org/entity/Q1126848",
             "translation": {
                 "locale": "en",
                 "content": "Heh"
@@ -6689,7 +7021,7 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1252904",
+            "concept": "https://www.wikidata.org/entity/Q1252904",
             "translation": {
                 "locale": "en",
                 "content": "Re"
@@ -6861,6 +7193,26 @@ var egyptian={"dictentries": {
                 "content": "gHs"
             },
             "content": "𓎼𓎛𓋴𓃴"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q53060",
+            "translation": {
+                "locale": "en",
+                "content": "gate"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D21-G43-X1-O32",
+                "transcription": "rwt",
+                "content": "rwt"
+            },
+            "content": "𓂋𓅱𓏏𓊀"
         },
         {
             "logogram": "",
@@ -7509,6 +7861,25 @@ var egyptian={"dictentries": {
                 "content": "HH"
             },
             "content": "𓁨"
+        },
+        {
+            "logogram": "",
+            "ref": "hieronet",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "heavy"
+            },
+            "determinative": true,
+            "transliteration": {
+                "code": "D46:N35-S29-U32-Y1v",
+                "transcription": "dns",
+                "content": "dns"
+            },
+            "content": "𓂧:𓈖𓋴𓍖𓏜"
         },
         {
             "logogram": "",

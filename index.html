@@ -146,9 +146,12 @@ function isArray(what) {
                 for(item in this["transliteration"]){
                         resstr+=this["transliteration"][item]["content"]+";"
                 }
+
                // translationToObj[resstr]=this
+                dictMap[resstr]=this
                 strToMap[resstr]=this
             }else{
+            dictMap[this["transliteration"]["content"]]=this
                // translationToObj[this["transliteration"]["content"]]=this
                             strToMap[this["transliteration"]["content"]]=this
             }
