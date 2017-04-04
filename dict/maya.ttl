@@ -1,0 +1,155 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://github.com/situx/ontology/cuneiform#contains>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#Word> .
+
+<http://lemon-model.net/lemon#LemonReference>
+        a       owl:Class .
+
+<http://lemon-model.net/lemon#writtenRep>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "CḪAN"@en ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q527> .
+
+<http://lemon-model.net/lemon#reference>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform#dialect>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<http://lemon-model.net/lemon#Lexicon>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/en>
+        a           <http://lemon-model.net/lemon#Lexicon> ;
+        rdfs:label  "Maya Semantic Dictionary"@en ;
+        <http://lemon-model.net/lemon#entry>
+                <https://github.com/situx/ontology/cuneiform/word#_word> ;
+        <http://lemon-model.net/lemon#language>
+                "en" ;
+        <http://purl.org/dc/terms/created>
+                "Sun Apr 02 23:05:43 CEST 2017"^^xsd:dateTime ;
+        <http://purl.org/dc/terms/title>
+                "Maya Semantic Dictionary"^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#description>
+                "Maya Unicode Dictionary. This dictionary contains Maya base forms of words and shall be a basis for Natural Language Processing on the Standard Mayan language. "^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+                <https://www.wikidata.org/wiki/Q10513445> ;
+        <http://www.linkedmodel.org/schema/vaem#owner>
+                "Timo Homburg"^^xsd:string .
+
+<http://lemon-model.net/lemon#isFormOf>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform#epoch>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <http://lemon-model.net/lemon#Word> , <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <https://github.com/situx/ontology/cuneiform#Tablet> , xsd:string .
+
+<http://purl.org/olia/ubyCat.owl#has_partOfSpeech>
+        a       owl:ObjectProperty .
+
+<http://purl.org/olia/ubyCat.owl#partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  ""@en ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#_word> ;
+        <http://lemon-model.net/lemon#representation>
+                "CḪAN" ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> .
+
+<http://purl.org/dc/terms/created>
+        a       owl:DatatypeProperty .
+
+<http://lemon-model.net/lemon#isSenseOf>
+        a       owl:ObjectProperty .
+
+<http://lemon-model.net/lemon#form>
+        a       owl:ObjectProperty .
+
+<http://www.linkedmodel.org/schema/vaem#owner>
+        a       owl:DatatypeProperty .
+
+<http://lemon-model.net/lemon#language>
+        a       owl:DatatypeProperty .
+
+<https://www.wikidata.org/wiki/Q527>
+        a       <http://lemon-model.net/lemon#LemonReference> .
+
+<http://lemon-model.net/lemon#entry>
+        a       owl:ObjectProperty .
+
+<http://purl.org/olia/ubyCat.owl#PartOfSpeech>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform#Tablet>
+        a       owl:Class .
+
+<http://lemon-model.net/lemon#representation>
+        a       owl:DatatypeProperty .
+
+<http://www.linkedmodel.org/schema/vaem#description>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q527>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q527_sense"@en ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/wiki/Q527> .
+
+<http://purl.org/dc/terms/title>
+        a       owl:DatatypeProperty .
+
+<http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+        a       owl:ObjectProperty .
+
+<http://lemon-model.net/lemon#LexicalSense>
+        a       owl:Class .
+
+<http://lemon-model.net/lemon#sense>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#LexicalSense> .
+
+<http://lemon-model.net/lemon#LexicalForm>
+        a       owl:Class .
+
+<http://purl.org/olia/olia.owl#Noun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform#isIncludedIn>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform#language>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform#tabletnumber>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<http://lemon-model.net/lemon#Word>
+        a       owl:Class .

@@ -2346,6 +2346,159 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
+            "concept": "https://www.wikidata.org/entity/Q189726",
+            "translation": {
+                "locale": "en",
+                "content": "Enmebaragesi"
+            },
+            "transliteration": {
+                "transcription": "enmebaragesi",
+                "content": "en-me-bara-ge-si"
+            },
+            "content": "𒂗𒈨𒁇𒄀𒋛"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q232505",
+            "translation": {
+                "locale": "en",
+                "content": "Enheduanna"
+            },
+            "transliteration": {
+                "transcription": "enheduana",
+                "content": "en-he-du-ana"
+            },
+            "content": "𒂗𒃶𒁺𒀭𒈾"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q492046",
+            "translation": {
+                "locale": "en",
+                "content": "Marhasi"
+            },
+            "transliteration": {
+                "transcription": "maharsziki",
+                "content": "ma-har-szi-ki"
+            },
+            "content": "𒈥𒄩𒅆𒆠"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q61054",
+            "translation": {
+                "locale": "en",
+                "content": "Manishtushu"
+            },
+            "transliteration": {
+                "transcription": "manisztuszu",
+                "content": "ma-nisz-tu-szu"
+            },
+            "content": "𒈠𒌋𒌋𒌅𒋗"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q313856",
+            "translation": {
+                "locale": "en",
+                "content": "Rimusz"
+            },
+            "transliteration": {
+                "transcription": "rimusz",
+                "content": "ri-musz"
+            },
+            "content": "𒊑𒈲"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q7504389",
+            "translation": {
+                "locale": "en",
+                "content": "Shu-Enlil"
+            },
+            "transliteration": {
+                "transcription": "szuenlil",
+                "content": "szu-en-lil"
+            },
+            "content": "𒋗𒂗𒇸"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q845747",
+            "translation": {
+                "locale": "en",
+                "content": "Mesh-Ane-pada"
+            },
+            "transliteration": {
+                "transcription": "meszanepada",
+                "content": "mesz-a-ne-pada"
+            },
+            "content": "𒈨𒌍𒀀𒉈𒉻"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q352544",
+            "translation": {
+                "locale": "en",
+                "content": "Eannatum"
+            },
+            "transliteration": {
+                "transcription": "eannatum",
+                "content": "e-an-na-tum"
+            },
+            "content": "𒂊𒀭𒈾𒌈"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q258078",
+            "translation": {
+                "locale": "en",
+                "content": "Puabi"
+            },
+            "transliteration": {
+                "transcription": "puabi",
+                "content": "pu-a-bi"
+            },
+            "content": "𒁍𒀀𒁉"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
             "concept": "https://www.wikidata.org/entity/Q2482448",
             "translation": {
                 "locale": "en",
@@ -3044,6 +3197,40 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3724898",
+            "translation": {
+                "locale": "en",
+                "content": "Ennuntarahana"
+            },
+            "transliteration": {
+                "transcription": "ennuntarahana",
+                "content": "en-nun-tarah-ana"
+            },
+            "content": "𒂗𒉣𒁰𒁹"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q2915812",
+            "translation": {
+                "locale": "en",
+                "content": "Nangishlishma"
+            },
+            "transliteration": {
+                "transcription": "nangiszliszma",
+                "content": "nan-gisz-lisz-ma"
+            },
+            "content": "𒋀𒄑𒇺𒈠"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
             "concept": "https://www.wikidata.org/entity/Q720380",
             "translation": {
                 "locale": "en",
@@ -3068,7 +3255,7 @@ var sumerian={"dictentries": {
             },
             "transliteration": {
                 "transcription": "sarpanitu",
-                "content": "sar-pa-ni-tu"
+                "content": "d-sar-pa-ni-tu"
             },
             "content": "𒀭𒊬𒉺𒉌𒌅"
         },
