@@ -26,6 +26,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "364; 365"
             }
         ],
+        "signName": "A",
         "paint": "a3",
         "transliteration": {
             "valid": true,
@@ -60,6 +61,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 215
             }
         ],
+        "signName": "A2",
         "paint": "a2b8c7",
         "transliteration": {
             "valid": true,
@@ -94,6 +96,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 37
             }
         ],
+        "signName": "TI",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -107,33 +110,34 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
                 "title": "Mesopotamisches Zeichenlexikon",
-                "content": 223
+                "content": 15
             },
             {
                 "ref": "https://openlibrary.org/works/OL9899303W",
                 "short": "AbZl",
                 "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 125
+                "content": 304
             },
             {
                 "ref": "lha",
                 "short": "LHA",
                 "title": "The Deimel Numbers",
-                "content": 128
+                "content": 6
             },
             {
                 "ref": "hethzl",
                 "short": "HethZl",
                 "title": "Hethitisches Zeichenlexikon",
-                "content": 97
+                "content": 209
             }
         ],
-        "paint": "a1b2c1d1",
+        "signName": "ZU",
+        "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "ab"
         },
-        "content": "𒀊"
+        "content": "𒍪"
     },
     {
         "reference": [
@@ -162,6 +166,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 277
             }
         ],
+        "signName": "ÁB",
         "paint": "c2d1",
         "transliteration": {
             "valid": true,
@@ -210,6 +215,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 105
             }
         ],
+        "signName": "AD",
         "paint": "a3b4c1d1",
         "transliteration": {
             "valid": true,
@@ -232,6 +238,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "537_65c; 537x"
             }
         ],
+        "signName": "ÀD (LU×BAD)",
         "paint": "a3b4c1d1",
         "transliteration": {
             "valid": true,
@@ -266,6 +273,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 121
             }
         ],
+        "signName": "ÁG (NÍNDA×NE)",
         "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
@@ -307,6 +315,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 332
             }
         ],
+        "signName": "AḪ (ḪI×NUN)",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -341,6 +350,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 121
             }
         ],
+        "signName": "ÁG (NÍNDA×NE)",
         "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
@@ -349,6 +359,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉘"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "399xn"
+        },
+        "signName": "IMKREUZTIM",
         "paint": "a5b5c6d5",
         "transliteration": {
             "valid": true,
@@ -390,6 +407,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 81
             }
         ],
+        "signName": "AG",
         "paint": "a1b10",
         "transliteration": {
             "valid": true,
@@ -438,6 +456,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 303
             }
         ],
+        "signName": "ALIM (GÌR× A.IGI)",
         "paint": "a6b7c3d3",
         "transliteration": {
             "valid": true,
@@ -472,6 +491,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 308
             }
         ],
+        "signName": "NAGAR",
         "paint": "a3b1c2d1",
         "transliteration": {
             "valid": true,
@@ -506,6 +526,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 168
             }
         ],
+        "signName": "AM (GU4×KUR)",
         "paint": "a1b2c4d1",
         "transliteration": {
             "valid": true,
@@ -540,6 +561,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 57
             }
         ],
+        "signName": "AMA (GÁ×AN)",
         "paint": "a4b3c1d1",
         "transliteration": {
             "valid": true,
@@ -574,6 +596,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 155
             }
         ],
+        "signName": "AMAR (ZUR)",
         "paint": "b2c4",
         "transliteration": {
             "valid": true,
@@ -602,6 +625,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 293
             }
         ],
+        "signName": "AMAŠ (DAG.KISIM5× LU.MÁŠ)",
         "paint": "a8b9c5d4",
         "transliteration": {
             "valid": true,
@@ -636,6 +660,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 182
             }
         ],
+        "signName": "SUG (LAGAB×A)",
         "paint": "a5b2",
         "transliteration": {
             "valid": true,
@@ -670,6 +695,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 8
             }
         ],
+        "signName": "AN",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -704,6 +730,8 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 356
             }
         ],
+        "signName": "DIŠ (1)",
+        "paint": "a1",
         "transliteration": {
             "valid": true,
             "content": "ana"
@@ -737,6 +765,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 302
             }
         ],
+        "signName": "ANŠE (GÌR×PA or GÌR×TAB)",
         "paint": "a2b7c6d4",
         "transliteration": {
             "valid": true,
@@ -771,6 +800,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 97
             }
         ],
+        "signName": "AB",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -805,6 +835,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 289
             }
         ],
+        "signName": "AR (IGI.RI)",
         "paint": "a4b2c2",
         "transliteration": {
             "valid": true,
@@ -839,6 +870,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 333
             }
         ],
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -873,6 +905,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 16
             }
         ],
+        "signName": "ARAD",
         "paint": "a3b1c2d1",
         "transliteration": {
             "valid": true,
@@ -908,6 +941,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "ASARI (URU×IGI)",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -936,6 +970,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "ASARI (URU×IGI)",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -970,6 +1005,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 1
             }
         ],
+        "signName": "AŠ",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -1004,6 +1040,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 241
             }
         ],
+        "signName": "ÁŠ (ZÍZ)",
         "paint": "a1b4",
         "transliteration": {
             "valid": true,
@@ -1038,6 +1075,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 80
             }
         ],
+        "signName": "AŠGAB",
         "paint": "a5b1c1",
         "transliteration": {
             "valid": true,
@@ -1079,6 +1117,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 92
             }
         ],
+        "signName": "AZ (PIRIG×ZA)",
         "paint": "a14b9c2d2",
         "transliteration": {
             "valid": true,
@@ -1113,6 +1152,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 205
             }
         ],
+        "signName": "BA",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1147,6 +1187,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 56
             }
         ],
+        "signName": "GÁ (MAL)",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -1181,6 +1222,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 295
             }
         ],
+        "signName": "PAD (ŠUK)",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -1215,6 +1257,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 114
             }
         ],
+        "signName": "BÀD (UG5 (EZEN×BAD))",
         "paint": "a10b9",
         "transliteration": {
             "valid": true,
@@ -1249,6 +1292,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 4
             }
         ],
+        "signName": "BAL",
         "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
@@ -1283,6 +1327,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 4
             }
         ],
+        "signName": "BAL",
         "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
@@ -1324,6 +1369,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 237
             }
         ],
+        "signName": "TUR (DUMU)",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -1358,6 +1404,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 20
             }
         ],
+        "signName": "BAR",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -1392,6 +1439,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 169
             }
         ],
+        "signName": "NE",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -1426,6 +1474,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 20
             }
         ],
+        "signName": "BAR",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -1460,6 +1509,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 235
             }
         ],
+        "signName": "BÁRA",
         "paint": "a10b10c1d1",
         "transliteration": {
             "valid": true,
@@ -1494,6 +1544,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 235
             }
         ],
+        "signName": "BÁRA",
         "paint": "a10b10c1d1",
         "transliteration": {
             "valid": true,
@@ -1528,6 +1579,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 153
             }
         ],
+        "signName": "BI",
         "paint": "a4b2c1d1",
         "transliteration": {
             "valid": true,
@@ -1562,6 +1614,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 153
             }
         ],
+        "signName": "BI",
         "paint": "a4b2c1d1",
         "transliteration": {
             "valid": true,
@@ -1596,6 +1649,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 169
             }
         ],
+        "signName": "NE",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -1630,6 +1684,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 13
             }
         ],
+        "signName": "BAD",
         "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1664,6 +1719,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 339
             }
         ],
+        "signName": "BU (GÍD)",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -1692,6 +1748,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 19
             }
         ],
+        "signName": "PÙ (KA×KÁR)",
         "paint": "a8b2c7d1",
         "transliteration": {
             "valid": true,
@@ -1720,6 +1777,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 11
             }
         ],
+        "signName": "BÚR",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -1748,6 +1806,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 11
             }
         ],
+        "signName": "BÚR",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -1756,12 +1815,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁔"
     },
     {
-        "reference": {
-            "ref": "hethzl",
-            "short": "HethZl",
-            "title": "Hethitisches Zeichenlexikon",
-            "content": 261
-        },
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 661
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 337
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 411
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 261
+            }
+        ],
+        "signName": "U",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -1796,6 +1876,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 8
             }
         ],
+        "signName": "AN",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1830,6 +1911,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 214
             }
         ],
+        "signName": "DA",
         "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
@@ -1864,6 +1946,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 206
             }
         ],
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -1905,6 +1988,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 243
             }
         ],
+        "signName": "DAG (PÀR)",
         "paint": "a4b5c1d1",
         "transliteration": {
             "valid": true,
@@ -1939,6 +2023,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 32
             }
         ],
+        "signName": "RI",
         "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
@@ -1973,6 +2058,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 298
             }
         ],
+        "signName": "DAM",
         "paint": "a3b4c2d1",
         "transliteration": {
             "valid": true,
@@ -2014,6 +2100,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "IB",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -2022,6 +2109,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "338n1"
+        },
+        "signName": "UMUM×KASKAL",
         "paint": "a2b6c4d4",
         "transliteration": {
             "valid": true,
@@ -2056,6 +2150,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 169
             }
         ],
+        "signName": "NE",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -2090,6 +2185,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 312
             }
         ],
+        "signName": "DI",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -2124,6 +2220,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 237
             }
         ],
+        "signName": "TUR (DUMU)",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -2158,6 +2255,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "210?"
             }
         ],
+        "signName": "DIB (DAB)",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -2199,6 +2297,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 8
             }
         ],
+        "signName": "AN",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -2233,6 +2332,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 1
             }
         ],
+        "signName": "AŠ",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -2267,6 +2367,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 231
             }
         ],
+        "signName": "ŠID (LAG)",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -2301,6 +2402,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 286
             }
         ],
+        "signName": "LIŠ",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -2335,6 +2437,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 14
             }
         ],
+        "signName": "DIM",
         "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
@@ -2369,6 +2472,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 165
             }
         ],
+        "signName": "GIM (DÍM)",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -2391,6 +2495,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "330_8n"
             }
         ],
+        "signName": "LÚ-šeššig (LÚ.GAM)",
         "paint": "a4c7d1",
         "transliteration": {
             "valid": true,
@@ -2432,6 +2537,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 330
             }
         ],
+        "signName": "DIN",
         "paint": "c3d1",
         "transliteration": {
             "valid": true,
@@ -2473,6 +2579,8 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 356
             }
         ],
+        "signName": "DIŠ (1)",
+        "paint": "a1",
         "transliteration": {
             "valid": true,
             "content": "disz"
@@ -2506,6 +2614,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 128
             }
         ],
+        "signName": "DU",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -2540,6 +2649,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -2574,6 +2684,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 133
             }
         ],
+        "signName": "KA",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -2602,6 +2713,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "330_7a"
             }
         ],
+        "signName": "LÚ×NE",
         "paint": "a5b4c6d1",
         "transliteration": {
             "valid": true,
@@ -2636,6 +2748,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 75
             }
         ],
+        "signName": "GAG (KAK)",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -2670,6 +2783,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 275
             }
         ],
+        "signName": "UL (DU7)",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -2678,6 +2792,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌌"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 298
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 141
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 167
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 164
+            }
+        ],
+        "signName": "GABA",
         "paint": "b2c8",
         "transliteration": {
             "valid": true,
@@ -2712,6 +2853,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 99
             }
         ],
+        "signName": "DUB",
         "paint": "a9b4",
         "transliteration": {
             "valid": true,
@@ -2746,6 +2888,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -2780,6 +2923,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 334
             }
         ],
+        "signName": "BIR (ḪI×ŠE)",
         "paint": "c12d2",
         "transliteration": {
             "valid": true,
@@ -2814,6 +2958,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 162
             }
         ],
+        "signName": "DUG (BI×A)",
         "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
@@ -2848,6 +2993,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -2882,6 +3028,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 268
             }
         ],
+        "signName": "DUGUD",
         "paint": "b9c1",
         "transliteration": {
             "valid": true,
@@ -2923,6 +3070,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 125
             }
         ],
+        "signName": "TUM",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -2957,6 +3105,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 237
             }
         ],
+        "signName": "TUR (DUMU)",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -2991,6 +3140,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 46
             }
         ],
+        "signName": "ŠUL (DUN)",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -3025,6 +3175,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "223; 209.2"
             }
         ],
+        "signName": "GÍN (TÙN)",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -3059,6 +3210,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 202
             }
         ],
+        "signName": "DUR (GÚxGAG, GÚ.GAG)",
         "paint": "a4b2c2d2",
         "transliteration": {
             "valid": true,
@@ -3067,6 +3219,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄙"
     },
     {
+        "signName": "DUŔ",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -3101,6 +3254,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "364; 365"
             }
         ],
+        "signName": "A",
         "paint": "a3",
         "transliteration": {
             "valid": true,
@@ -3109,6 +3263,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀀"
     },
     {
+        "signName": "DUŔ",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -3143,6 +3298,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 187
             }
         ],
+        "signName": "E",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -3177,6 +3333,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 199
             }
         ],
+        "signName": "É",
         "paint": "a5b4",
         "transliteration": {
             "valid": true,
@@ -3218,6 +3375,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "(168)"
             }
         ],
+        "signName": "EDIN",
         "paint": "a7b7c3d2",
         "transliteration": {
             "valid": true,
@@ -3252,6 +3410,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "(168)"
             }
         ],
+        "signName": "EDIN",
         "paint": "a7b7c3d2",
         "transliteration": {
             "valid": true,
@@ -3286,6 +3445,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 187
             }
         ],
+        "signName": "E",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -3320,6 +3480,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 212
             }
         ],
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -3354,6 +3515,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 332
             }
         ],
+        "signName": "AḪ (ḪI×NUN)",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -3388,6 +3550,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 307
             }
         ],
+        "signName": "EL",
         "paint": "a3b3c1d1",
         "transliteration": {
             "valid": true,
@@ -3422,6 +3585,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 147
             }
         ],
+        "signName": "EME (KA×ME)",
         "paint": "a4b3c5d1",
         "transliteration": {
             "valid": true,
@@ -3444,6 +3608,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 174
             }
         ],
+        "signName": "ÉMEŠ (NE×UD)",
         "paint": "a1b4c6d2",
         "transliteration": {
             "valid": true,
@@ -3478,6 +3643,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 40
             }
         ],
+        "signName": "EN",
         "paint": "a2b5c3",
         "transliteration": {
             "valid": true,
@@ -3512,6 +3678,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 343
             }
         ],
+        "signName": "LI",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -3560,6 +3727,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 216
             }
         ],
+        "signName": "ENGUR (LAGAB×ḪAL)",
         "paint": "a2b3c1d1",
         "transliteration": {
             "valid": true,
@@ -3594,6 +3762,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 77
             }
         ],
+        "signName": "IR (GAG-gunû)",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -3635,6 +3804,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 36
             }
         ],
+        "signName": "NUN",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -3676,6 +3846,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 196
             }
         ],
+        "signName": "KAL",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -3710,6 +3881,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 331
             }
         ],
+        "signName": "EŠ (3×U)",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -3718,6 +3890,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌍"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "054v"
+        },
+        "signName": "EN×GAŃTENÛ",
         "paint": "a7b5c5",
         "transliteration": {
             "valid": true,
@@ -3752,6 +3931,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 106
             }
         ],
+        "signName": "EZEN",
         "paint": "a4b6",
         "transliteration": {
             "valid": true,
@@ -3786,6 +3966,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 159
             }
         ],
+        "signName": "GA",
         "paint": "a5b6c1d1",
         "transliteration": {
             "valid": true,
@@ -3820,6 +4001,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 56
             }
         ],
+        "signName": "GÁ (MAL)",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -3854,6 +4036,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 49
             }
         ],
+        "signName": "KAB",
         "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
@@ -3862,6 +4045,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆏"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 298
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 141
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 167
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 164
+            }
+        ],
+        "signName": "GABA",
         "paint": "b2c8",
         "transliteration": {
             "valid": true,
@@ -3896,6 +4106,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 242
             }
         ],
+        "signName": "GAL",
         "paint": "a1b5",
         "transliteration": {
             "valid": true,
@@ -3930,6 +4141,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 67
             }
         ],
+        "signName": "IG (GÁL)",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -3964,6 +4176,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 297
             }
         ],
+        "signName": "MUNUS (SAL)",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -3992,6 +4205,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "190kv"
             }
         ],
+        "signName": "GALAM (SUKUD)",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -4026,6 +4240,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 247
             }
         ],
+        "signName": "GAM",
         "paint": "c2",
         "transliteration": {
             "valid": true,
@@ -4060,6 +4275,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 113
             }
         ],
+        "signName": "GAN",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -4094,6 +4310,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 61
             }
         ],
+        "signName": "GÁN",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -4128,6 +4345,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 61
             }
         ],
+        "signName": "GÁN",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -4162,6 +4380,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 369
             }
         ],
+        "signName": "NÍG (GAR, NINDA)",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -4196,6 +4415,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 240
             }
         ],
+        "signName": "GÀR (QAR)",
         "paint": "b4c2d1",
         "transliteration": {
             "valid": true,
@@ -4224,6 +4444,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "319n"
             }
         ],
+        "signName": "GA-gunû",
         "paint": "a9b6c1d1",
         "transliteration": {
             "valid": true,
@@ -4258,6 +4479,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 122
             }
         ],
+        "signName": "GAZ (KUM×ŠE)",
         "paint": "a2b4c14",
         "transliteration": {
             "valid": true,
@@ -4299,6 +4521,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 30
             }
         ],
+        "signName": "GI",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -4333,6 +4556,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 234
             }
         ],
+        "signName": "GI4 (GI-gunû)",
         "paint": "a1b5c4d2",
         "transliteration": {
             "valid": true,
@@ -4367,6 +4591,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 128
             }
         ],
+        "signName": "DU",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -4401,6 +4626,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 30
             }
         ],
+        "signName": "GI",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -4435,6 +4661,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 178
             }
         ],
+        "signName": "GIŠ (GEŠ)",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -4469,6 +4696,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 30
             }
         ],
+        "signName": "GI",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -4503,6 +4731,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 194
             }
         ],
+        "signName": "KID (LÍL)",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -4537,6 +4766,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 234
             }
         ],
+        "signName": "GI4 (GI-gunû)",
         "paint": "a1b5c4d2",
         "transliteration": {
             "valid": true,
@@ -4571,6 +4801,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 339
             }
         ],
+        "signName": "BU (GÍD)",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -4612,6 +4843,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 267
             }
         ],
+        "signName": "MI",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -4646,6 +4878,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 329
             }
         ],
+        "signName": "KUR",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -4680,6 +4913,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "244A"
             }
         ],
+        "signName": "GIR (ḪA-gunû)",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -4714,6 +4948,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 6
             }
         ],
+        "signName": "GÍR",
         "paint": "a1b1c2d2",
         "transliteration": {
             "valid": true,
@@ -4748,6 +4983,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 301
             }
         ],
+        "signName": "GÌR",
         "paint": "a1b6c3d3",
         "transliteration": {
             "valid": true,
@@ -4782,6 +5018,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 133
             }
         ],
+        "signName": "KA",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -4816,6 +5053,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 178
             }
         ],
+        "signName": "GIŠ (GEŠ)",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -4824,6 +5062,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
+        "signName": "one GEŠ2",
         "paint": "a1",
         "transliteration": {
             "valid": true,
@@ -4858,6 +5097,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 304
             }
         ],
+        "signName": "GU",
         "paint": "a2b1c3d1",
         "transliteration": {
             "valid": true,
@@ -4892,6 +5132,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 201
             }
         ],
+        "signName": "GÚ (TIK)",
         "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
@@ -4926,6 +5167,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 157
             }
         ],
+        "signName": "GU4",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -4960,6 +5202,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 206
             }
         ],
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -4994,6 +5237,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 149
             }
         ],
+        "signName": "GU7 (KA×NÍG)",
         "paint": "a6b2c5d2",
         "transliteration": {
             "valid": true,
@@ -5028,6 +5272,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 128
             }
         ],
+        "signName": "DU",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -5062,6 +5307,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 343
             }
         ],
+        "signName": "LI",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -5096,6 +5342,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 157
             }
         ],
+        "signName": "GU4",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -5137,6 +5384,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "220; 221"
             }
         ],
+        "signName": "GÚG (LÙ; ŠÈ-gunû)",
         "paint": "a2b10",
         "transliteration": {
             "valid": true,
@@ -5171,6 +5419,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 271
             }
         ],
+        "signName": "GUL (SÚN)",
         "paint": "a2b4c2",
         "transliteration": {
             "valid": true,
@@ -5205,6 +5454,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 201
             }
         ],
+        "signName": "GÚ (TIK)",
         "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
@@ -5239,6 +5489,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 83
             }
         ],
+        "signName": "DAR (GÙN; ḪU-gunû, SI-gunû)",
         "paint": "a2b6c1",
         "transliteration": {
             "valid": true,
@@ -5273,6 +5524,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 185
             }
         ],
+        "signName": "GUR",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -5307,6 +5559,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 247
             }
         ],
+        "signName": "GAM",
         "paint": "c2",
         "transliteration": {
             "valid": true,
@@ -5341,6 +5594,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 179
             }
         ],
+        "signName": "LAGAB",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -5375,6 +5629,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 193
             }
         ],
+        "signName": "GURUN",
         "paint": "a2b2c4",
         "transliteration": {
             "valid": true,
@@ -5409,6 +5664,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 367
             }
         ],
+        "signName": "ḪA (KU6)",
         "paint": "a4c2",
         "transliteration": {
             "valid": true,
@@ -5443,6 +5699,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 2
             }
         ],
+        "signName": "ḪAL",
         "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
@@ -5477,6 +5734,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 300
             }
         ],
+        "signName": "ZUM",
         "paint": "a1b1c3d3",
         "transliteration": {
             "valid": true,
@@ -5518,6 +5776,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 333
             }
         ],
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -5540,6 +5799,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "330_7b"
             }
         ],
+        "signName": "LÚ×LAGAB",
         "paint": "a6b2c3d1",
         "transliteration": {
             "valid": true,
@@ -5574,6 +5834,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 7
             }
         ],
+        "signName": "TAR",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -5608,6 +5869,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 174
             }
         ],
+        "signName": "PA",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -5642,6 +5904,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -5676,6 +5939,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 113
             }
         ],
+        "signName": "GAN",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -5710,6 +5974,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -5744,6 +6009,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 24
             }
         ],
+        "signName": "ḪU",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -5778,6 +6044,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 49
             }
         ],
+        "signName": "ḪÚB",
         "paint": "a3b1c2d1",
         "transliteration": {
             "valid": true,
@@ -5819,6 +6086,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 51
             }
         ],
+        "signName": "UR",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -5853,6 +6121,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 254
             }
         ],
+        "signName": "ḪÚL",
         "paint": "a2b5c1",
         "transliteration": {
             "valid": true,
@@ -5887,6 +6156,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 310
             }
         ],
+        "signName": "LUM",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -5921,6 +6191,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 333
             }
         ],
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -5962,6 +6233,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 217
             }
         ],
+        "signName": "I",
         "paint": "b5",
         "transliteration": {
             "valid": true,
@@ -5996,6 +6268,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 371
             }
         ],
+        "signName": "IÁ (5)",
         "paint": "a5",
         "transliteration": {
             "valid": true,
@@ -6030,6 +6303,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 72
             }
         ],
+        "signName": "NI",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -6064,6 +6338,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 218
             }
         ],
+        "signName": "IA (I.A)",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -6098,6 +6373,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 233
             }
         ],
+        "signName": "RA",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -6132,6 +6408,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "IB",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -6166,12 +6443,48 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 125
             }
         ],
+        "signName": "TUM",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
             "content": "ib2"
         },
         "content": "𒌈"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 807
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 394
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 535
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 44
+            }
+        ],
+        "signName": "IB",
+        "paint": "a6b2",
+        "transliteration": {
+            "valid": true,
+            "content": "ibbi"
+        },
+        "content": "𒅁"
     },
     {
         "transliteration": {
@@ -6214,6 +6527,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 67
             }
         ],
+        "signName": "IG (GÁL)",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -6248,6 +6562,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 288
             }
         ],
+        "signName": "IGI (ŠI, LIM)",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -6282,6 +6597,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 117
             }
         ],
+        "signName": "IL (AL×ŠE)",
         "paint": "a5b2c8d1",
         "transliteration": {
             "valid": true,
@@ -6316,6 +6632,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 161
             }
         ],
+        "signName": "ÍL (GA.GÍN)",
         "paint": "a9b7c1d1",
         "transliteration": {
             "valid": true,
@@ -6357,6 +6674,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 375
             }
         ],
+        "signName": "ILIMMU (9)",
         "paint": "a9",
         "transliteration": {
             "valid": true,
@@ -6391,6 +6709,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 33
             }
         ],
+        "signName": "ZI",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -6446,6 +6765,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 373
             }
         ],
+        "signName": "IMIN (7)",
         "paint": "a7",
         "transliteration": {
             "valid": true,
@@ -6480,6 +6800,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 354
             }
         ],
+        "signName": "IN",
         "paint": "a2c10d1",
         "transliteration": {
             "valid": true,
@@ -6488,6 +6809,21 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅔"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 255
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "330_60"
+            }
+        ],
+        "signName": "LÚGEGENÜBERLU",
         "paint": "a8c6d2",
         "transliteration": {
             "valid": true,
@@ -6522,6 +6858,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 133
             }
         ],
+        "signName": "KA",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -6556,6 +6893,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 77
             }
         ],
+        "signName": "IR (GAG-gunû)",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -6590,6 +6928,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 229
             }
         ],
+        "signName": "URU (IRI)",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -6624,6 +6963,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 178
             }
         ],
+        "signName": "GIŠ (GEŠ)",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -6658,6 +6998,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 151
             }
         ],
+        "signName": "IŠ",
         "paint": "a2b4c1",
         "transliteration": {
             "valid": true,
@@ -6686,6 +7027,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 390
             }
         ],
+        "signName": "PEŠ4 (ŠÀ×A)",
         "paint": "a3c3d3",
         "transliteration": {
             "valid": true,
@@ -6720,6 +7062,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 84
             }
         ],
+        "signName": "ITI (UD×EŠ)",
         "paint": "c5d2",
         "transliteration": {
             "valid": true,
@@ -6728,6 +7071,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌗"
     },
     {
+        "signName": "UDŠEŠIG",
         "paint": "c6d2",
         "transliteration": {
             "valid": true,
@@ -6762,6 +7106,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 169
             }
         ],
+        "signName": "NE",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -6796,6 +7141,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 56
             }
         ],
+        "signName": "GÁ (MAL)",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -6830,6 +7176,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 67
             }
         ],
+        "signName": "IG (GÁL)",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -6864,6 +7211,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 60
             }
         ],
+        "signName": "GALGA (GÁÉ×NÍG)",
         "paint": "a6b2d1",
         "transliteration": {
             "valid": true,
@@ -6898,6 +7246,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 369
             }
         ],
+        "signName": "NÍG (GAR, NINDA)",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -6932,6 +7281,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 128
             }
         ],
+        "signName": "DU",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -6966,6 +7316,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 178
             }
         ],
+        "signName": "GIŠ (GEŠ)",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -7000,6 +7351,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 131
             }
         ],
+        "signName": "GEŠTIN (GIŠ.DIN)",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -7034,6 +7386,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 267
             }
         ],
+        "signName": "MI",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -7068,6 +7421,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 301
             }
         ],
+        "signName": "GÌR",
         "paint": "a1b6c3d3",
         "transliteration": {
             "valid": true,
@@ -7102,6 +7456,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 178
             }
         ],
+        "signName": "GIŠ (GEŠ)",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -7136,6 +7491,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 133
             }
         ],
+        "signName": "KA",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -7170,6 +7526,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 148
             }
         ],
+        "signName": "NAG (KA×A)",
         "paint": "a6b2c5d1",
         "transliteration": {
             "valid": true,
@@ -7204,6 +7561,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 68
             }
         ],
+        "signName": "KAD4",
         "paint": "a2b6c1d1",
         "transliteration": {
             "valid": true,
@@ -7232,6 +7590,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "354bv"
             }
         ],
+        "signName": "KAD5",
         "paint": "a3b5c8d1",
         "transliteration": {
             "valid": true,
@@ -7273,6 +7632,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 196
             }
         ],
+        "signName": "KAL",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -7281,12 +7641,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": {
-            "ref": "hethzl",
-            "short": "HethZl",
-            "title": "Hethitisches Zeichenlexikon",
-            "content": 197
-        },
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 501
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 169
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 312
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 197
+            }
+        ],
+        "signName": "UN",
         "paint": "a6b5c2d2",
         "transliteration": {
             "valid": true,
@@ -7321,6 +7702,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 113
             }
         ],
+        "signName": "GAN",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -7355,6 +7737,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 167
             }
         ],
+        "signName": "KÁ",
         "paint": "a5b4c4",
         "transliteration": {
             "valid": true,
@@ -7390,6 +7773,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 105
             }
         ],
+        "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
         "paint": "a5c2",
         "transliteration": {
             "valid": true,
@@ -7418,6 +7802,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 105
             }
         ],
+        "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
         "paint": "a5c2",
         "transliteration": {
             "valid": true,
@@ -7452,6 +7837,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 129
             }
         ],
+        "signName": "KAŠ4 (DU-šeššig)",
         "paint": "a1b2c6",
         "transliteration": {
             "valid": true,
@@ -7460,6 +7846,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁽"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 271
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": "152a,b,c"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 152
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 106
+            }
+        ],
+        "signName": "KEŠ´",
         "paint": "a12b16",
         "transliteration": {
             "valid": true,
@@ -7468,6 +7881,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆟"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 271
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": "152a,b,c"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 152
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 106
+            }
+        ],
+        "signName": "KEŠ´",
         "paint": "a12b16",
         "transliteration": {
             "valid": true,
@@ -7502,6 +7942,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 313
             }
         ],
+        "signName": "KI",
         "paint": "b4c2d2",
         "transliteration": {
             "valid": true,
@@ -7536,6 +7977,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 165
             }
         ],
+        "signName": "GIM (DÍM)",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -7570,6 +8012,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 339
             }
         ],
+        "signName": "BU (GÍD)",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -7604,6 +8047,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 47
             }
         ],
+        "signName": "KIN",
         "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
@@ -7645,6 +8089,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 353
             }
         ],
+        "signName": "SAR",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -7679,6 +8124,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 273
             }
         ],
+        "signName": "KIŠ",
         "paint": "a2b7c5d3",
         "transliteration": {
             "valid": true,
@@ -7713,6 +8159,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 112
             }
         ],
+        "signName": "MES (RID)",
         "paint": "a8b4",
         "transliteration": {
             "valid": true,
@@ -7747,6 +8194,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 206
             }
         ],
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -7781,6 +8229,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 267
             }
         ],
+        "signName": "MI",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -7815,6 +8264,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 69
             }
         ],
+        "signName": "KUG (KÙ)",
         "paint": "c7d7",
         "transliteration": {
             "valid": true,
@@ -7849,6 +8299,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 367
             }
         ],
+        "signName": "ḪA (KU6)",
         "paint": "a4c2",
         "transliteration": {
             "valid": true,
@@ -7883,6 +8334,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 7
             }
         ],
+        "signName": "TAR",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -7917,6 +8369,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 69
             }
         ],
+        "signName": "KUG (KÙ)",
         "paint": "c7d7",
         "transliteration": {
             "valid": true,
@@ -7951,6 +8404,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 35
             }
         ],
+        "signName": "KUN",
         "paint": "a5b2c2d2",
         "transliteration": {
             "valid": true,
@@ -7992,6 +8446,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 329
             }
         ],
+        "signName": "KUR",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -8026,6 +8481,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "256(1)"
             }
         ],
+        "signName": "PAB or PAP",
         "paint": "c1d1",
         "transliteration": {
             "valid": true,
@@ -8074,6 +8530,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 330
             }
         ],
+        "signName": "DIN",
         "paint": "c3d1",
         "transliteration": {
             "valid": true,
@@ -8108,6 +8565,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 213
             }
         ],
+        "signName": "SU",
         "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
@@ -8136,6 +8594,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 329
             }
         ],
+        "signName": "DÙL (SAG-gunû)",
         "paint": "a6b2c1d1",
         "transliteration": {
             "valid": true,
@@ -8170,6 +8629,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 95
             }
         ],
+        "signName": "LA",
         "paint": "a5b7",
         "transliteration": {
             "valid": true,
@@ -8204,6 +8664,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 358
             }
         ],
+        "signName": "LAL (LÁ)",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -8238,12 +8699,48 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 231
             }
         ],
+        "signName": "ŠID (LAG)",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
             "content": "lag"
         },
         "content": "𒋃"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 596
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 332
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 381
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 316
+            }
+        ],
+        "signName": "UD (BABBAR)",
+        "paint": "c2d2",
+        "transliteration": {
+            "valid": true,
+            "content": "lah"
+        },
+        "content": "𒌓"
     },
     {
         "reference": [
@@ -8272,6 +8769,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 327
             }
         ],
+        "signName": "ERIM (ZÁLAG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -8306,6 +8804,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 358
             }
         ],
+        "signName": "LAL (LÁ)",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -8340,6 +8839,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 170
             }
         ],
+        "signName": "LÀL (TA×ḪI)",
         "paint": "a2b2c3d3",
         "transliteration": {
             "valid": true,
@@ -8374,6 +8874,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 306
             }
         ],
+        "signName": "LAM",
         "paint": "a5c2d2",
         "transliteration": {
             "valid": true,
@@ -8408,6 +8909,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 288
             }
         ],
+        "signName": "IGI (ŠI, LIM)",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -8442,6 +8944,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 343
             }
         ],
+        "signName": "LI",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -8476,6 +8979,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 77
             }
         ],
+        "signName": "IR (GAG-gunû)",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -8510,6 +9014,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -8544,6 +9049,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 127
             }
         ],
+        "signName": "LIL",
         "paint": "b2c12d1",
         "transliteration": {
             "valid": true,
@@ -8578,6 +9084,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 194
             }
         ],
+        "signName": "KID (LÍL)",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -8612,6 +9119,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 288
             }
         ],
+        "signName": "IGI (ŠI, LIM)",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -8646,6 +9154,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 370
             }
         ],
+        "signName": "LIMMU (NÍG, 4)",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -8674,6 +9183,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 424
             }
         ],
+        "signName": "LIBIŠ (ÁB×ŠÀ)",
         "paint": "c5d4",
         "transliteration": {
             "valid": true,
@@ -8708,6 +9218,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 286
             }
         ],
+        "signName": "LIŠ",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -8742,6 +9253,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 210
             }
         ],
+        "signName": "LU (UDU)",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -8776,6 +9288,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 78
             }
         ],
+        "signName": "LÚ",
         "paint": "a4c3d1",
         "transliteration": {
             "valid": true,
@@ -8810,6 +9323,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "19; 351"
             }
         ],
+        "signName": "LUL (NAR)",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -8844,6 +9358,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "19; 351"
             }
         ],
+        "signName": "LUL (NAR)",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -8878,6 +9393,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 162
             }
         ],
+        "signName": "DUG (BI×A)",
         "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
@@ -8912,6 +9428,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 115
             }
         ],
+        "signName": "",
         "paint": "a5b4c4d1",
         "transliteration": {
             "valid": true,
@@ -8946,6 +9463,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 198
             }
         ],
+        "signName": "LUḪ",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -8987,6 +9505,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "19; 351"
             }
         ],
+        "signName": "LUL (NAR)",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -9009,6 +9528,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "421a"
             }
         ],
+        "signName": "LULIM (GÌR× LU.IGI)",
         "paint": "a7b10c4d3",
         "transliteration": {
             "valid": true,
@@ -9043,6 +9563,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 310
             }
         ],
+        "signName": "LUM",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -9077,6 +9598,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 154
             }
         ],
+        "signName": "ŠIM",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -9111,6 +9633,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 208
             }
         ],
+        "signName": "MA",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -9145,6 +9668,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 87
             }
         ],
+        "signName": "MÁ",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -9179,6 +9703,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 10
             }
         ],
+        "signName": "MAḪ",
         "paint": "a2b4c1d2",
         "transliteration": {
             "valid": true,
@@ -9213,6 +9738,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 191
             }
         ],
+        "signName": "MAR",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -9247,6 +9773,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 20
             }
         ],
+        "signName": "MAŠ",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -9281,6 +9808,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 38
             }
         ],
+        "signName": "MÁŠ",
         "paint": "a1b1c2d2",
         "transliteration": {
             "valid": true,
@@ -9315,6 +9843,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 357
             }
         ],
+        "signName": "ME",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -9349,6 +9878,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 82
             }
         ],
+        "signName": "MÈ (AG×ERIM)",
         "transliteration": {
             "valid": true,
             "content": "me3"
@@ -9376,6 +9906,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 270
             }
         ],
+        "signName": "MEN (GÁ× ME.EN)",
         "paint": "a6b8c3",
         "transliteration": {
             "valid": true,
@@ -9410,6 +9941,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 357
             }
         ],
+        "signName": "ME",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -9444,6 +9976,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 267
             }
         ],
+        "signName": "MI",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -9478,6 +10011,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 297
             }
         ],
+        "signName": "MUNUS (SAL)",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -9512,6 +10046,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 361
             }
         ],
+        "signName": "MIN (2)",
         "paint": "a2",
         "transliteration": {
             "valid": true,
@@ -9546,6 +10081,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 17
             }
         ],
+        "signName": "MU",
         "paint": "b1c6",
         "transliteration": {
             "valid": true,
@@ -9580,6 +10116,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 353
             }
         ],
+        "signName": "SAR",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -9614,6 +10151,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 165
             }
         ],
+        "signName": "GIM (DÍM)",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -9648,6 +10186,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 249
             }
         ],
+        "signName": "TE",
         "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
@@ -9656,6 +10195,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋼"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "338n1"
+        },
+        "signName": "UMUM×KASKAL",
         "paint": "a2b6c4d4",
         "transliteration": {
             "valid": true,
@@ -9690,6 +10236,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 18
             }
         ],
+        "signName": "DIM×ŠE, later DIM×KUR",
         "paint": "a2b1c6d2",
         "transliteration": {
             "valid": true,
@@ -9738,6 +10285,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 333
             }
         ],
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -9772,6 +10320,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 311
             }
         ],
+        "signName": "SIG4",
         "paint": "c6d4",
         "transliteration": {
             "valid": true,
@@ -9806,6 +10355,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 311
             }
         ],
+        "signName": "MÚRGU (LUM)",
         "paint": "c4d2",
         "transliteration": {
             "valid": true,
@@ -9840,6 +10390,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 342
             }
         ],
+        "signName": "MUŠ",
         "paint": "a4b1c3d2",
         "transliteration": {
             "valid": true,
@@ -9874,6 +10425,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 24
             }
         ],
+        "signName": "ḪU",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -9908,6 +10460,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 15
             }
         ],
+        "signName": "NA",
         "paint": "b4c3d2",
         "transliteration": {
             "valid": true,
@@ -9942,6 +10495,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 314
             }
         ],
+        "signName": "NÁ",
         "paint": "a2b6c7d1",
         "transliteration": {
             "valid": true,
@@ -9977,6 +10531,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 100
             }
         ],
+        "signName": "NAB (ANoverAN)",
         "paint": "a2b2c2d2",
         "transliteration": {
             "valid": true,
@@ -10018,6 +10573,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 39
             }
         ],
+        "signName": "NAM",
         "paint": "a3b1c9",
         "transliteration": {
             "valid": true,
@@ -10052,6 +10608,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 79
             }
         ],
+        "signName": "ŠEŠ (ÙRI)",
         "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
@@ -10086,6 +10643,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 169
             }
         ],
+        "signName": "NE",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -10094,6 +10652,21 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 178
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 444
+            }
+        ],
+        "signName": "PIRIG",
         "paint": "a10b9c2d2",
         "transliteration": {
             "valid": true,
@@ -10128,6 +10701,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 72
             }
         ],
+        "signName": "NI",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -10136,6 +10710,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
+        "signName": "NÍ",
         "paint": "a4b1c2d3",
         "transliteration": {
             "valid": true,
@@ -10170,6 +10745,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 369
             }
         ],
+        "signName": "NÍG (GAR, NINDA)",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -10204,6 +10780,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 369
             }
         ],
+        "signName": "NÍG (GAR, NINDA)",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -10238,6 +10815,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "NIMIN (4×U)",
         "paint": "c4",
         "transliteration": {
             "valid": true,
@@ -10286,6 +10864,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 119
             }
         ],
+        "signName": "NÍNDA",
         "paint": "b4c2",
         "transliteration": {
             "valid": true,
@@ -10314,6 +10893,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 475
             }
         ],
+        "signName": "NINNU (5×U)",
         "paint": "c5",
         "transliteration": {
             "valid": true,
@@ -10348,6 +10928,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 204
             }
         ],
+        "signName": "NIR (NUNoverNUN)",
         "paint": "a10b2",
         "transliteration": {
             "valid": true,
@@ -10389,6 +10970,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 11
             }
         ],
+        "signName": "NU",
         "paint": "a1b1d1",
         "transliteration": {
             "valid": true,
@@ -10397,6 +10979,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉡"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 115
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": "028"
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "071"
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 5
+            }
+        ],
+        "signName": "NU11",
         "paint": "b8c4d2",
         "transliteration": {
             "valid": true,
@@ -10431,6 +11040,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 74
             }
         ],
+        "signName": "NIM",
         "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
@@ -10465,6 +11075,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 310
             }
         ],
+        "signName": "LUM",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -10499,6 +11110,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 12
             }
         ],
+        "signName": "NUMUN",
         "paint": "b2c3",
         "transliteration": {
             "valid": true,
@@ -10540,6 +11152,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 36
             }
         ],
+        "signName": "NUN",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -10574,6 +11187,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 36
             }
         ],
+        "signName": "NUN",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -10608,6 +11222,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 174
             }
         ],
+        "signName": "PA",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -10656,6 +11271,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 24
             }
         ],
+        "signName": "ḪU",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -10664,6 +11280,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "330_60n2"
+        },
+        "signName": "LÚIMQUADRAT",
         "paint": "a8b8c8d8",
         "transliteration": {
             "valid": true,
@@ -10698,6 +11321,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "19; 351"
             }
         ],
+        "signName": "LUL (NAR)",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -10739,6 +11363,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "256(1)"
             }
         ],
+        "signName": "PAB or PAP",
         "paint": "c1d1",
         "transliteration": {
             "valid": true,
@@ -10773,6 +11398,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 317
             }
         ],
+        "signName": "PI",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -10807,6 +11433,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "244A"
             }
         ],
+        "signName": "GIR (ḪA-gunû)",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -10841,6 +11468,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 317
             }
         ],
+        "signName": "PI",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -10875,6 +11503,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "244A"
             }
         ],
+        "signName": "GIR (ḪA-gunû)",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -10909,6 +11538,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 339
             }
         ],
+        "signName": "BU (GÍD)",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -10943,6 +11573,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 21
             }
         ],
+        "signName": "SÌLA",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -10977,6 +11608,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 240
             }
         ],
+        "signName": "GÀR (QAR)",
         "paint": "b4c2d1",
         "transliteration": {
             "valid": true,
@@ -10985,6 +11617,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒃼"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 378
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 274
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "296n2"
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 260
+            }
+        ],
+        "signName": "GIŠKREUZTGIŠ",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -11019,6 +11678,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 233
             }
         ],
+        "signName": "RA",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -11053,6 +11713,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 32
             }
         ],
+        "signName": "RI",
         "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
@@ -11087,6 +11748,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 229
             }
         ],
+        "signName": "URU (IRI)",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -11121,6 +11783,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 196
             }
         ],
+        "signName": "KAL",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -11155,6 +11818,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 149
             }
         ],
+        "signName": "GU7 (KA×NÍG)",
         "paint": "a6b2c5d2",
         "transliteration": {
             "valid": true,
@@ -11196,6 +11860,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 129
             }
         ],
+        "signName": "KAŠ4 (DU-šeššig)",
         "paint": "a1b2c6",
         "transliteration": {
             "valid": true,
@@ -11230,6 +11895,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 179
             }
         ],
+        "signName": "LAGAB",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -11264,6 +11930,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 43
             }
         ],
+        "signName": "RU",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -11298,6 +11965,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 1
             }
         ],
+        "signName": "AŠ",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -11332,6 +12000,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 200
             }
         ],
+        "signName": "SA",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -11340,6 +12009,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒊓"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "187v5"
+        },
+        "signName": "NINDÁ×ŠE",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -11374,6 +12050,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 312
             }
         ],
+        "signName": "DI",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -11408,6 +12085,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 366
             }
         ],
+        "signName": "ZA",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -11456,6 +12134,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 233
             }
         ],
+        "signName": "RA",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -11490,6 +12169,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ḪI (DÙG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -11524,6 +12204,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 151
             }
         ],
+        "signName": "IŠ",
         "paint": "a2b4c1",
         "transliteration": {
             "valid": true,
@@ -11558,6 +12239,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 192
             }
         ],
+        "signName": "SAG",
         "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
@@ -11592,6 +12274,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 297
             }
         ],
+        "signName": "MUNUS (SAL)",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -11600,6 +12283,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "187v5"
+        },
+        "signName": "NINDÁ×ŠE",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -11634,6 +12324,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 353
             }
         ],
+        "signName": "SAR",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -11675,6 +12366,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 86
             }
         ],
+        "signName": "SI",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -11709,6 +12401,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 255
             }
         ],
+        "signName": "SIG",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -11743,6 +12436,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 350
             }
         ],
+        "signName": "SUM",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -11777,6 +12471,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 30
             }
         ],
+        "signName": "GI",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -11811,6 +12506,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 239
             }
         ],
+        "signName": "SIG7 (IGI-gunû)",
         "paint": "a1b5c1",
         "transliteration": {
             "valid": true,
@@ -11845,6 +12541,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 86
             }
         ],
+        "signName": "SI",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -11879,6 +12576,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 65
             }
         ],
+        "signName": "SÍG  SÍK",
         "paint": "a3b7c1",
         "transliteration": {
             "valid": true,
@@ -11913,6 +12611,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 307
             }
         ],
+        "signName": "EL",
         "paint": "a3b3c1d1",
         "transliteration": {
             "valid": true,
@@ -11947,6 +12646,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 231
             }
         ],
+        "signName": "ŠID (LAG)",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -11981,6 +12681,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 21
             }
         ],
+        "signName": "SÌLA",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -12015,6 +12716,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 54
             }
         ],
+        "signName": "SILA4 (GÁ×PA)",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -12043,6 +12745,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "ASARI (URU×IGI)",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -12077,6 +12780,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 312
             }
         ],
+        "signName": "DI",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -12111,6 +12815,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 331
             }
         ],
+        "signName": "EŠ (3×U)",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -12152,6 +12857,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 339
             }
         ],
+        "signName": "BU (GÍD)",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -12186,6 +12892,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 213
             }
         ],
+        "signName": "SU",
         "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
@@ -12220,6 +12927,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 341
             }
         ],
+        "signName": "SUD (BU-gunû)",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -12254,6 +12962,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 341
             }
         ],
+        "signName": "SUD (BU-gunû)",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -12288,6 +12997,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 41
             }
         ],
+        "signName": "MÙŠ (INANNA)",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -12322,6 +13032,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 41
             }
         ],
+        "signName": "MÙŠ (INANNA)",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -12350,6 +13061,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 569
             }
         ],
+        "signName": "SÙḪ (GUoverGUcrossed)",
         "paint": "c11d5",
         "transliteration": {
             "valid": true,
@@ -12384,6 +13096,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 349
             }
         ],
+        "signName": "SUḪUR",
         "paint": "a8c6d2",
         "transliteration": {
             "valid": true,
@@ -12418,6 +13131,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 198
             }
         ],
+        "signName": "LUḪ",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -12452,6 +13166,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 350
             }
         ],
+        "signName": "SUM",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -12480,6 +13195,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 329
             }
         ],
+        "signName": "DÙL (SAG-gunû)",
         "paint": "a6b2c1d1",
         "transliteration": {
             "valid": true,
@@ -12514,6 +13230,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 136
             }
         ],
+        "signName": "SU6 (KA×SA)",
         "paint": "a7b6c5d1",
         "transliteration": {
             "valid": true,
@@ -12542,6 +13259,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 11
             }
         ],
+        "signName": "BÚR",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -12576,6 +13294,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 42
             }
         ],
+        "signName": "SUR (ŠUR)",
         "paint": "a3b1d1",
         "transliteration": {
             "valid": true,
@@ -12610,6 +13329,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 42
             }
         ],
+        "signName": "SUR (ŠUR)",
         "paint": "a3b1d1",
         "transliteration": {
             "valid": true,
@@ -12644,6 +13364,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 158
             }
         ],
+        "signName": "ŠA",
         "paint": "a2b4c1d1",
         "transliteration": {
             "valid": true,
@@ -12678,6 +13399,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 369
             }
         ],
+        "signName": "NÍG (GAR, NINDA)",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -12712,6 +13434,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 294
             }
         ],
+        "signName": "ŠÀ (ŠAG4)",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -12746,6 +13469,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 192
             }
         ],
+        "signName": "SAG",
         "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
@@ -12780,6 +13504,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 294
             }
         ],
+        "signName": "ŠÀ (ŠAG4)",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -12814,6 +13539,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 46
             }
         ],
+        "signName": "ŠUL (DUN)",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -12842,6 +13568,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 46
             }
         ],
+        "signName": "URU×GU (GUR5)",
         "paint": "a5b4c3d1",
         "transliteration": {
             "valid": true,
@@ -12876,6 +13603,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 195
             }
         ],
+        "signName": "Ú",
         "paint": "a4b2",
         "transliteration": {
             "valid": true,
@@ -12884,6 +13612,13 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌑"
     },
     {
+        "reference": {
+            "ref": "lha",
+            "short": "LHA",
+            "title": "The Deimel Numbers",
+            "content": "187v5"
+        },
+        "signName": "NINDÁ×ŠE",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -12925,6 +13660,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 335
             }
         ],
+        "signName": "ŠAR",
         "paint": "c4",
         "transliteration": {
             "valid": true,
@@ -12959,6 +13695,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 338
             }
         ],
+        "signName": "ŠE",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -12993,6 +13730,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 212
             }
         ],
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -13021,6 +13759,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "25b"
             }
         ],
+        "signName": "KA×DÚBBALAG",
         "paint": "a4b10c11d3",
         "transliteration": {
             "valid": true,
@@ -13055,6 +13794,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 311
             }
         ],
+        "signName": "SIG4",
         "paint": "c6d4",
         "transliteration": {
             "valid": true,
@@ -13089,6 +13829,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 154
             }
         ],
+        "signName": "ŠIM",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -13123,6 +13864,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 230
             }
         ],
+        "signName": "ŠEN (SU×A)",
         "paint": "a14b6",
         "transliteration": {
             "valid": true,
@@ -13157,6 +13899,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 79
             }
         ],
+        "signName": "ŠEŠ (ÙRI)",
         "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
@@ -13185,6 +13928,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 63
             }
         ],
+        "signName": "ŠÉŠ (SÍG.LAM)",
         "paint": "a11b9",
         "transliteration": {
             "valid": true,
@@ -13219,6 +13963,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 288
             }
         ],
+        "signName": "IGI (ŠI, LIM)",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -13253,6 +13998,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 231
             }
         ],
+        "signName": "ŠID (LAG)",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -13281,6 +14027,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 44
             }
         ],
+        "signName": "ASARI (URU×IGI)",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -13315,6 +14062,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 154
             }
         ],
+        "signName": "ŠIM",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -13349,6 +14097,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 68
             }
         ],
+        "signName": "ŠU",
         "paint": "a1b5",
         "transliteration": {
             "valid": true,
@@ -13390,6 +14139,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 251
             }
         ],
+        "signName": "ŠÚ",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -13424,6 +14174,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 43
             }
         ],
+        "signName": "RU",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -13452,6 +14203,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 26
             }
         ],
+        "signName": "ŠÙDU (KA×ŠU)",
         "paint": "a4b8c5d1",
         "transliteration": {
             "valid": true,
@@ -13486,6 +14238,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 46
             }
         ],
+        "signName": "ŠUL (DUN)",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -13520,6 +14273,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 91
             }
         ],
+        "signName": "TAG (ŠUM)",
         "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
@@ -13554,6 +14308,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 5
             }
         ],
+        "signName": "ŠIR",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -13588,6 +14343,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 160
             }
         ],
+        "signName": "TA",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -13622,6 +14378,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 90
             }
         ],
+        "signName": "TAB",
         "paint": "b2",
         "transliteration": {
             "valid": true,
@@ -13656,6 +14413,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 91
             }
         ],
+        "signName": "TAG (ŠUM)",
         "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
@@ -13690,6 +14448,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 227
             }
         ],
+        "signName": "KÍD (TAG4)",
         "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
@@ -13724,6 +14483,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 171
             }
         ],
+        "signName": "TAḪDAḪ (MUoverMU)",
         "paint": "b2c12",
         "transliteration": {
             "valid": true,
@@ -13758,6 +14518,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 227
             }
         ],
+        "signName": "KÍD (TAG4)",
         "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
@@ -13792,6 +14553,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -13826,6 +14588,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 7
             }
         ],
+        "signName": "TAR",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -13860,6 +14623,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 71
             }
         ],
+        "signName": "DÀR",
         "paint": "a2b5c7d5",
         "transliteration": {
             "valid": true,
@@ -13894,6 +14658,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 51
             }
         ],
+        "signName": "UR",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -13928,6 +14693,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 249
             }
         ],
+        "signName": "TE",
         "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
@@ -13936,6 +14702,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋼"
     },
     {
+        "signName": "TIL",
         "paint": "c4d1",
         "transliteration": {
             "valid": true,
@@ -13970,6 +14737,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 51
             }
         ],
+        "signName": "UR",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -14004,6 +14772,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 37
             }
         ],
+        "signName": "TI",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -14012,6 +14781,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋾"
     },
     {
+        "signName": "TIL",
         "paint": "c4d1",
         "transliteration": {
             "valid": true,
@@ -14046,6 +14816,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 37
             }
         ],
+        "signName": "TI",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -14080,6 +14851,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 14
             }
         ],
+        "signName": "DIM",
         "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
@@ -14114,6 +14886,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 344
             }
         ],
+        "signName": "TIR",
         "transliteration": {
             "valid": true,
             "content": "tir"
@@ -14147,6 +14920,8 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 356
             }
         ],
+        "signName": "DIŠ (1)",
+        "paint": "a1",
         "transliteration": {
             "valid": true,
             "content": "tiz"
@@ -14180,6 +14955,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 346
             }
         ],
+        "signName": "TU",
         "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
@@ -14214,6 +14990,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 125
             }
         ],
+        "signName": "TUM",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -14248,6 +15025,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 125
             }
         ],
+        "signName": "TUM",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -14270,6 +15048,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉆𒊒"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 640
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 279
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "406v1"
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 355
+            }
+        ],
+        "signName": "ḪI×BAD",
         "paint": "b1c3d2",
         "transliteration": {
             "valid": true,
@@ -14304,6 +15109,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 212
             }
         ],
+        "signName": "TÚG (NÁM)",
         "paint": "a2b4",
         "transliteration": {
             "valid": true,
@@ -14338,6 +15144,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 53
             }
         ],
+        "signName": "TUK (TUG)",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -14366,6 +15173,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 515
             }
         ],
+        "signName": "BUL (LAGAB×EŠ)",
         "paint": "a2b2c3",
         "transliteration": {
             "valid": true,
@@ -14400,6 +15208,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 180
             }
         ],
+        "signName": "TÚL (LAGAB×U)",
         "paint": "a2b2c1",
         "transliteration": {
             "valid": true,
@@ -14434,6 +15243,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 125
             }
         ],
+        "signName": "TUM",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -14468,6 +15278,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 128
             }
         ],
+        "signName": "DU",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -14502,6 +15313,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 237
             }
         ],
+        "signName": "TUR (DUMU)",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -14543,6 +15355,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 206
             }
         ],
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -14551,12 +15364,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆪"
     },
     {
-        "reference": {
-            "ref": "hethzl",
-            "short": "HethZl",
-            "title": "Hethitisches Zeichenlexikon",
-            "content": 261
-        },
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 661
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 337
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 411
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 261
+            }
+        ],
+        "signName": "U",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -14591,6 +15425,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 195
             }
         ],
+        "signName": "Ú",
         "paint": "a4b2",
         "transliteration": {
             "valid": true,
@@ -14632,6 +15467,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 265
             }
         ],
+        "signName": "Ù (IGI.DIB)",
         "paint": "a4b5c1",
         "transliteration": {
             "valid": true,
@@ -14666,6 +15502,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -14707,6 +15544,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 152
             }
         ],
+        "signName": "UB",
         "paint": "a1c2d2",
         "transliteration": {
             "valid": true,
@@ -14741,6 +15579,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 212
             }
         ],
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -14769,6 +15608,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "152_4"
             }
         ],
+        "signName": "UBARA (EZEN×KASKAL)",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -14777,6 +15617,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂬"
     },
     {
+        "signName": "DAGKISIM5×GA+MAŠ",
         "paint": "a10b12c5d3",
         "transliteration": {
             "valid": true,
@@ -14811,6 +15652,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -14845,6 +15687,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 210
             }
         ],
+        "signName": "LU (UDU)",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -14879,6 +15722,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 93
             }
         ],
+        "signName": "UG (PIRIG×UD)",
         "paint": "a10b9c4d4",
         "transliteration": {
             "valid": true,
@@ -14920,6 +15764,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 206
             }
         ],
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -14954,6 +15799,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 332
             }
         ],
+        "signName": "AḪ (ḪI×NUN)",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -14988,6 +15834,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 134
             }
         ],
+        "signName": "UKKIN (URU×MAŠBAR)",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -15022,6 +15869,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 275
             }
         ],
+        "signName": "UL (DU7)",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -15056,6 +15904,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 6
             }
         ],
+        "signName": "GÍR-gunû",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -15084,6 +15933,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "49x"
             }
         ],
+        "signName": "GIŠGAL (URU×MIN)",
         "paint": "a5b3",
         "transliteration": {
             "valid": true,
@@ -15118,6 +15968,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 98
             }
         ],
+        "signName": "UM",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -15133,12 +15984,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌢𒋻"
     },
     {
-        "reference": {
-            "ref": "hethzl",
-            "short": "HethZl",
-            "title": "Hethitisches Zeichenlexikon",
-            "content": 261
-        },
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 661
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 337
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 411
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 261
+            }
+        ],
+        "signName": "U",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -15173,6 +16045,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 102
             }
         ],
+        "signName": "DÉ (SIMUG)",
         "paint": "a2b6c2d2",
         "transliteration": {
             "valid": true,
@@ -15181,12 +16054,33 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌣"
     },
     {
-        "reference": {
-            "ref": "hethzl",
-            "short": "HethZl",
-            "title": "Hethitisches Zeichenlexikon",
-            "content": 197
-        },
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 501
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 169
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 312
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 197
+            }
+        ],
+        "signName": "UN",
         "paint": "a6b5c2d2",
         "transliteration": {
             "valid": true,
@@ -15221,6 +16115,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 134
             }
         ],
+        "signName": "UKKIN (URU×MAŠBAR)",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -15269,6 +16164,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 111
             }
         ],
+        "signName": "UNUG (AB-gunû andor AB×EŠ)",
         "paint": "a1b2c5d1",
         "transliteration": {
             "valid": true,
@@ -15303,6 +16199,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 51
             }
         ],
+        "signName": "UR",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -15337,6 +16234,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 124
             }
         ],
+        "signName": "ÚR",
         "paint": "a2b4c2",
         "transliteration": {
             "valid": true,
@@ -15371,6 +16269,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 58
             }
         ],
+        "signName": "ÙR (GÁ×NIR)",
         "paint": "a13b4",
         "transliteration": {
             "valid": true,
@@ -15399,6 +16298,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 594
             }
         ],
+        "signName": "UR4",
         "paint": "a4c1d1",
         "transliteration": {
             "valid": true,
@@ -15433,6 +16333,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 333
             }
         ],
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -15461,6 +16362,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "22x"
             }
         ],
+        "signName": "KA×NE",
         "paint": "a4b6c9d1",
         "transliteration": {
             "valid": true,
@@ -15495,6 +16397,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 246
             }
         ],
+        "signName": "URI (BURoverBUR)",
         "paint": "a6b8d2",
         "transliteration": {
             "valid": true,
@@ -15543,6 +16446,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 315
             }
         ],
+        "signName": "GUR8 (TE-gunû)",
         "paint": "a2b4c2d2",
         "transliteration": {
             "valid": true,
@@ -15577,6 +16481,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 109
             }
         ],
+        "signName": "URUDU (URUDA)",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -15585,6 +16490,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍏"
     },
     {
+        "signName": "UŠ´",
         "paint": "b1c1",
         "transliteration": {
             "valid": true,
@@ -15619,6 +16525,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 374
             }
         ],
+        "signName": "USSU (8)",
         "paint": "a8",
         "transliteration": {
             "valid": true,
@@ -15653,6 +16560,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 132
             }
         ],
+        "signName": "UŠ (NITA)",
         "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
@@ -15681,6 +16589,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 17
             }
         ],
+        "signName": "UŠ11 (KA×BAD)",
         "paint": "a3b3c5d2",
         "transliteration": {
             "valid": true,
@@ -15715,6 +16624,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 146
             }
         ],
+        "signName": "TU6 (KA×LI)",
         "paint": "a5b6c16d2",
         "transliteration": {
             "valid": true,
@@ -15743,6 +16653,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 11
             }
         ],
+        "signName": "BÚR",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -15777,6 +16688,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -15785,6 +16697,27 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 122
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": "126fv"
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 91
+            }
+        ],
+        "signName": "TAG×TUǴ",
         "paint": "a8b6c2d2",
         "transliteration": {
             "valid": true,
@@ -15826,6 +16759,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -15860,6 +16794,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 203
             }
         ],
+        "signName": "UZU",
         "paint": "a4c14d4",
         "transliteration": {
             "valid": true,
@@ -15894,6 +16829,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 317
             }
         ],
+        "signName": "PI",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -15928,6 +16864,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 317
             }
         ],
+        "signName": "PI",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -15962,6 +16899,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 366
             }
         ],
+        "signName": "ZA",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -15996,6 +16934,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 238
             }
         ],
+        "signName": "ZAG",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -16030,12 +16969,20 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 327
             }
         ],
+        "signName": "ERIM (ZÁLAG)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "zab"
         },
         "content": "𒂟"
+    },
+    {
+        "transliteration": {
+            "valid": true,
+            "content": "zabala"
+        },
+        "content": "𒍝𒁀𒆷"
     },
     {
         "transliteration": {
@@ -16071,6 +17018,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 238
             }
         ],
+        "signName": "ZAG",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -16099,6 +17047,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": "584; 587"
             }
         ],
+        "signName": "ZÀḪ (A×ḪA)",
         "paint": "a7c2",
         "transliteration": {
             "valid": true,
@@ -16133,6 +17082,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 72
             }
         ],
+        "signName": "NI",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -16167,6 +17117,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 316
             }
         ],
+        "signName": "UD (BABBAR)",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -16175,6 +17126,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
+        "signName": "LÚ×LA+AŠ",
         "paint": "a9b8c3d1",
         "transliteration": {
             "valid": true,
@@ -16209,6 +17161,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 108
             }
         ],
+        "signName": "ZÍ( AB×PA)",
         "paint": "a4b4c1d1",
         "transliteration": {
             "valid": true,
@@ -16243,6 +17196,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 33
             }
         ],
+        "signName": "ZI",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -16271,6 +17225,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 190
             }
         ],
+        "signName": "ZIGZIK (NÍNDA×EŠ)",
         "paint": "b4c4",
         "transliteration": {
             "valid": true,
@@ -16305,6 +17260,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 33
             }
         ],
+        "signName": "ZI",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -16313,6 +17269,7 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍣"
     },
     {
+        "signName": "ZÌ",
         "paint": "b7c2",
         "transliteration": {
             "valid": true,
@@ -16347,6 +17304,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 33
             }
         ],
+        "signName": "ZI",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -16381,6 +17339,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 209
             }
         ],
+        "signName": "ZU",
         "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
@@ -16415,6 +17374,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 133
             }
         ],
+        "signName": "KA",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -16449,6 +17409,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 209
             }
         ],
+        "signName": "ZU",
         "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
@@ -16483,6 +17444,7 @@ var sumerian_map={"mapentries": {"mapentry": [
                 "content": 300
             }
         ],
+        "signName": "ZUM",
         "paint": "a1b1c3d3",
         "transliteration": {
             "valid": true,

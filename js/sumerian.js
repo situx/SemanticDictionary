@@ -2346,7 +2346,41 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/entity/Q189726",
+            "concept": "https://www.wikidata.org/entity/Q352752",
+            "translation": {
+                "locale": "en",
+                "content": "Ibbi-Sin"
+            },
+            "transliteration": {
+                "transcription": "ibbisin",
+                "content": "ibbi-sin"
+            },
+            "content": "𒅁𒌍"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3855264",
+            "translation": {
+                "locale": "en",
+                "content": "Mesh-He"
+            },
+            "transliteration": {
+                "transcription": "meszhe",
+                "content": "mesz-he"
+            },
+            "content": "𒈨𒌍𒄭"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q379891",
             "translation": {
                 "locale": "en",
                 "content": "Enmebaragesi"
@@ -2363,7 +2397,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q232505",
+            "concept": "https://www.wikidata.org/entity/Q232505",
             "translation": {
                 "locale": "en",
                 "content": "Enheduanna"
@@ -2380,7 +2414,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q492046",
+            "concept": "https://www.wikidata.org/entity/Q492046",
             "translation": {
                 "locale": "en",
                 "content": "Marhasi"
@@ -2397,7 +2431,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q61054",
+            "concept": "https://www.wikidata.org/entity/Q61054",
             "translation": {
                 "locale": "en",
                 "content": "Manishtushu"
@@ -2414,7 +2448,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q313856",
+            "concept": "https://www.wikidata.org/entity/Q313856",
             "translation": {
                 "locale": "en",
                 "content": "Rimusz"
@@ -2431,7 +2465,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q7504389",
+            "concept": "https://www.wikidata.org/entity/Q7504389",
             "translation": {
                 "locale": "en",
                 "content": "Shu-Enlil"
@@ -2448,7 +2482,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q845747",
+            "concept": "https://www.wikidata.org/entity/Q845747",
             "translation": {
                 "locale": "en",
                 "content": "Mesh-Ane-pada"
@@ -2465,7 +2499,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q352544",
+            "concept": "https://www.wikidata.org/entity/Q352544",
             "translation": {
                 "locale": "en",
                 "content": "Eannatum"
@@ -2482,7 +2516,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q258078",
+            "concept": "https://www.wikidata.org/entity/Q258078",
             "translation": {
                 "locale": "en",
                 "content": "Puabi"
@@ -3197,7 +3231,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q3724898",
+            "concept": "https://www.wikidata.org/entity/Q3724898",
             "translation": {
                 "locale": "en",
                 "content": "Ennuntarahana"
@@ -3214,7 +3248,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2915812",
+            "concept": "https://www.wikidata.org/entity/Q2915812",
             "translation": {
                 "locale": "en",
                 "content": "Nangishlishma"
@@ -3477,7 +3511,92 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q316241",
+            "concept": "https://www.wikidata.org/wiki/Q932672",
+            "translation": {
+                "locale": "en",
+                "content": "Lah-mu"
+            },
+            "transliteration": {
+                "transcription": "lahmu",
+                "content": "d-lah-mu"
+            },
+            "content": "𒀭𒌓𒈬"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q674441",
+            "translation": {
+                "locale": "en",
+                "content": "Kishar"
+            },
+            "transliteration": {
+                "transcription": "kiszar",
+                "content": "d-kisz-ar"
+            },
+            "content": "𒀭𒆧𒅈"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1094932",
+            "translation": {
+                "locale": "en",
+                "content": "Lahamu"
+            },
+            "transliteration": {
+                "transcription": "lahamu",
+                "content": "d-la-ha-mu"
+            },
+            "content": "𒀭𒆷𒄩𒈬"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q221574",
+            "translation": {
+                "locale": "en",
+                "content": "Abzu"
+            },
+            "transliteration": {
+                "transcription": "abzu",
+                "content": "ab-zu"
+            },
+            "content": "𒍪𒀊"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q1074177",
+            "translation": {
+                "locale": "en",
+                "content": "Zabala"
+            },
+            "transliteration": {
+                "transcription": "zabala",
+                "content": "zabala"
+            },
+            "content": "𒍝𒁀𒆷"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q316241",
             "translation": {
                 "locale": "en",
                 "content": "King Zagesi"
@@ -3494,7 +3613,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1327805",
+            "concept": "https://www.wikidata.org/entity/Q1327805",
             "translation": {
                 "locale": "en",
                 "content": "Ur-Zababa"
@@ -3511,7 +3630,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q4383449",
+            "concept": "https://www.wikidata.org/entity/Q4383449",
             "translation": {
                 "locale": "en",
                 "content": "Puzur-Suen"
@@ -3528,7 +3647,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q767983",
+            "concept": "https://www.wikidata.org/entity/Q767983",
             "translation": {
                 "locale": "en",
                 "content": "Utnapisztim"
@@ -3545,7 +3664,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q206754",
+            "concept": "https://www.wikidata.org/entity/Q206754",
             "translation": {
                 "locale": "en",
                 "content": "Ziusudra"
@@ -3562,7 +3681,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q351679",
+            "concept": "https://www.wikidata.org/entity/Q351679",
             "translation": {
                 "locale": "en",
                 "content": "Amar-Sin"
@@ -3579,7 +3698,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q315893",
+            "concept": "https://www.wikidata.org/entity/Q315893",
             "translation": {
                 "locale": "en",
                 "content": "Shulgi"
@@ -3596,7 +3715,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1346234",
+            "concept": "https://www.wikidata.org/entity/Q1346234",
             "translation": {
                 "locale": "en",
                 "content": "Enshakushanna"
@@ -3629,7 +3748,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1278028",
+            "concept": "https://www.wikidata.org/entity/Q1278028",
             "translation": {
                 "locale": "en",
                 "content": "Tirigan"
@@ -3646,7 +3765,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2613544",
+            "concept": "https://www.wikidata.org/entity/Q2613544",
             "translation": {
                 "locale": "en",
                 "content": "Babum"
@@ -3663,7 +3782,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q3775570",
+            "concept": "https://www.wikidata.org/entity/Q3775570",
             "translation": {
                 "locale": "en",
                 "content": "Puannum"
