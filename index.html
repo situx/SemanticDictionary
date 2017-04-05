@@ -141,7 +141,9 @@ function isArray(what) {
                         first=false;
                     }
         }
-                            $('#amountconcepts').text(", "+numconcepts+" concepts")
+        percent=(numconcepts/Object.keys(dictMap).length)*100+"";
+        percent = percent.substring(0, percent.indexOf('.')+3);
+                            $('#amountconcepts').text(", "+numconcepts+" concepts ("+percent+"%)")
                 maptableheader+="</tr>"
                 //$("#resulthead").html(maptableheader)
 if(firstload){
