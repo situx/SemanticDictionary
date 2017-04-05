@@ -1,1066 +1,1174 @@
 <?xml version="1.1"?>
-<mapentries><mapentry got="a3"  MesZL="839" aBZL="470" LHA="579" HethZL="364; 365"><transliteration valid="true">a</transliteration>
+<mapentries><mapentry got="a3"  signName="A"  MesZL="839" aBZL="470" LHA="579" HethZL="364; 365"><transliteration valid="true">a</transliteration>
 𒀀</mapentry>
-<mapentry got="a2b8c7"  MesZL="560" aBZL="230" LHA="334" HethZL="215"><transliteration valid="true">a2</transliteration>
+<mapentry got="a2b8c7"  signName="A2"  MesZL="560" aBZL="230" LHA="334" HethZL="215"><transliteration valid="true">a2</transliteration>
 𒀉</mapentry>
-<mapentry got="a1b2c2"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">a3</transliteration>
+<mapentry got="a1b2c2"  signName="TI"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">a3</transliteration>
 𒋾</mapentry>
-<mapentry got="a1b2c1d1"  MesZL="223" aBZL="125" LHA="128" HethZL="97"><transliteration valid="true">ab</transliteration>
-𒀊</mapentry>
-<mapentry got="c2d1"  MesZL="672" aBZL="352" LHA="420" HethZL="277"><transliteration valid="true">ab2</transliteration>
+<mapentry got="a5b1c1d1"  signName="ZU"  MesZL="15" aBZL="304" LHA="6" HethZL="209"><transliteration valid="true">ab</transliteration>
+𒍪</mapentry>
+<mapentry got="c2d1"  signName="ÁB"  MesZL="672" aBZL="352" LHA="420" HethZL="277"><transliteration valid="true">ab2</transliteration>
 𒀖</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">abgal</transliteration>
+<mapentry><transliteration valid="true">abgal</transliteration>
 𒉣𒈨</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">abrig</transliteration>
+<mapentry><transliteration valid="true">abrig</transliteration>
 𒉣𒈨𒁺</mapentry>
-<mapentry got="a3b4c1d1"  MesZL="258" aBZL="132" LHA="145" HethZL="105"><transliteration valid="true">ad</transliteration>
+<mapentry got="a3b4c1d1"  signName="AD"  MesZL="258" aBZL="132" LHA="145" HethZL="105"><transliteration valid="true">ad</transliteration>
 𒀜</mapentry>
-<mapentry got="a3b4c1d1"  MesZL="814" aBZL="" LHA="537_65c; 537x" HethZL=""><transliteration valid="true">adda2</transliteration>
+<mapentry got="a3b4c1d1"  signName="ÀD (LU×BAD)"  MesZL="814" aBZL="" LHA="537_65c; 537x" HethZL=""><transliteration valid="true">adda2</transliteration>
 𒇼</mapentry>
-<mapentry got="a1b8c6"  MesZL="326" aBZL="136" LHA="183" HethZL="121"><transliteration valid="true">ag2</transliteration>
+<mapentry got="a1b8c6"  signName="ÁG (NÍNDA×NE)"  MesZL="326" aBZL="136" LHA="183" HethZL="121"><transliteration valid="true">ag2</transliteration>
 𒉘</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">agarin4</transliteration>
+<mapentry><transliteration valid="true">agarin4</transliteration>
 𒂼𒋆</mapentry>
-<mapentry got="a5b1c2d2"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">ah</transliteration>
+<mapentry got="a5b1c2d2"  signName="AḪ (ḪI×NUN)"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">ah</transliteration>
 𒄴</mapentry>
-<mapentry got="a5b5c6d5"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ajar5</transliteration>
+<mapentry got="a1b8c6"  signName="ÁG (NÍNDA×NE)"  MesZL="326" aBZL="136" LHA="183" HethZL="121"><transliteration valid="true">aj2</transliteration>
+𒉘</mapentry>
+<mapentry got="a5b5c6d5"  signName="IMKREUZTIM"  MesZL="" aBZL="" LHA="399xn" HethZL=""><transliteration valid="true">ajar5</transliteration>
 𒅐</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ajrig</transliteration>
+<mapentry><transliteration valid="true">ajrig</transliteration>
 𒅆𒁾</mapentry>
-<mapentry got="a1b10"  MesZL="127" aBZL="52" LHA="97" HethZL="81"><transliteration valid="true">ak</transliteration>
+<mapentry got="a1b10"  signName="AG"  MesZL="127" aBZL="52" LHA="97" HethZL="81"><transliteration valid="true">ak</transliteration>
 𒀝</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">akkil</transliteration>
+<mapentry><transliteration valid="true">akkil</transliteration>
 𒃰𒋺𒋛</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">al</transliteration>
+<mapentry><transliteration valid="true">al</transliteration>
 𒀠</mapentry>
-<mapentry got="a6b7c3d3"  MesZL="703" aBZL="295" LHA="421" HethZL="303"><transliteration valid="true">alim</transliteration>
+<mapentry got="a6b5"  signName="ÚMBISAG (ŠID×A)"  MesZL="489" aBZL="208" LHA="317" HethZL=""><transliteration valid="true">alal</transliteration>
+𒋄</mapentry>
+<mapentry got="a6b7c3d3"  signName="ALIM (GÌR× A.IGI)"  MesZL="703" aBZL="295" LHA="421" HethZL="303"><transliteration valid="true">alim</transliteration>
 𒄋</mapentry>
-<mapentry got="a3b1c2d1"  MesZL="893" aBZL="449" LHA="560" HethZL="308"><transliteration valid="true">alla</transliteration>
+<mapentry got="a3b1c2d1"  signName="NAGAR"  MesZL="893" aBZL="449" LHA="560" HethZL="308"><transliteration valid="true">alla</transliteration>
 𒉄</mapentry>
-<mapentry got="a1b2c4d1"  MesZL="309" aBZL="119" LHA="170" HethZL="168"><transliteration valid="true">am</transliteration>
+<mapentry got="a3b3"  signName="URU (IRI)"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">alu</transliteration>
+𒌷</mapentry>
+<mapentry got="a1b2c4d1"  signName="AM (GU4×KUR)"  MesZL="309" aBZL="119" LHA="170" HethZL="168"><transliteration valid="true">am</transliteration>
 𒄠</mapentry>
-<mapentry got="a4b3c1d1"  MesZL="392" aBZL="94" LHA="237" HethZL="57"><transliteration valid="true">ama</transliteration>
+<mapentry got="a4b3c1d1"  signName="AMA (GÁ×AN)"  MesZL="392" aBZL="94" LHA="237" HethZL="57"><transliteration valid="true">ama</transliteration>
 𒂼</mapentry>
-<mapentry got="b2c4"  MesZL="695" aBZL="367" LHA="437" HethZL="155"><transliteration valid="true">amar</transliteration>
+<mapentry got="b2c4"  signName="AMAR (ZUR)"  MesZL="695" aBZL="367" LHA="437" HethZL="155"><transliteration valid="true">amar</transliteration>
 𒀫</mapentry>
-<mapentry got="a8b9c5d4"  MesZL="460" aBZL="174" LHA="293" HethZL=""><transliteration valid="true">amasz</transliteration>
+<mapentry got="a8b9c5d4"  signName="AMAŠ (DAG.KISIM5× LU.MÁŠ)"  MesZL="460" aBZL="174" LHA="293" HethZL=""><transliteration valid="true">amasz</transliteration>
 𒁦</mapentry>
-<mapentry got="a5b2"  MesZL="795" aBZL="414" LHA="522" HethZL="182"><transliteration valid="true">ambar</transliteration>
+<mapentry got="a5b2"  signName="SUG (LAGAB×A)"  MesZL="795" aBZL="414" LHA="522" HethZL="182"><transliteration valid="true">ambar</transliteration>
 𒆹</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">an</transliteration>
+<mapentry got="a1b1c1d1"  signName="AN"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">an</transliteration>
 𒀭</mapentry>
-<mapentry got="a2b7c6d4"  MesZL="353" aBZL="292" LHA="208" HethZL="302"><transliteration valid="true">ansze</transliteration>
-𒀲</mapentry>
-<mapentry got="a1b2c1d1"  MesZL="223" aBZL="125" LHA="128" HethZL="97"><transliteration valid="true">ap</transliteration>
-𒀊</mapentry>
-<mapentry got="a4b2c2"  MesZL="726" aBZL="234" LHA="451" HethZL="289"><transliteration valid="true">ar</transliteration>
-𒅈</mapentry>
-<mapentry got="a1b4c2d2"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">ar3</transliteration>
-𒄯</mapentry>
-<mapentry got="a3b1c2d1"  MesZL="18" aBZL="16" LHA="50" HethZL="16"><transliteration valid="true">arad</transliteration>
-𒀴</mapentry>
-<mapentry got="a4b4c1"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">asal</transliteration>
-𒍂</mapentry>
-<mapentry got="a4b4c1"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">asar</transliteration>
-𒍂</mapentry>
-<mapentry got="b1"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">asz</transliteration>
-𒀸</mapentry>
-<mapentry got="a1b4"  MesZL="548" aBZL="211" LHA="339" HethZL="241"><transliteration valid="true">asz2</transliteration>
-𒀾</mapentry>
-<mapentry got="a5b1c1"  MesZL="173" aBZL="443" LHA="104_6" HethZL="80"><transliteration valid="true">aszgab</transliteration>
-𒀿</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">aszkud</transliteration>
-𒀉𒈽</mapentry>
-<mapentry got="a14b9c2d2"  MesZL="297" aBZL="180" LHA="131" HethZL="92"><transliteration valid="true">az</transliteration>
-𒊍</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="14" aBZL="303" LHA="5" HethZL="205"><transliteration valid="true">ba</transliteration>
-𒁀</mapentry>
-<mapentry got="a3b2"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ba4</transliteration>
-𒂷</mapentry>
-<mapentry got="a3c1d1"  MesZL="746" aBZL="362" LHA="469" HethZL="295"><transliteration valid="true">bad2</transliteration>
-𒉻</mapentry>
-<mapentry got="a10b9"  MesZL="275" aBZL="153" LHA="152_8" HethZL="114"><transliteration valid="true">bad3</transliteration>
-𒂦</mapentry>
-<mapentry got="a1b3c3"  MesZL="5" aBZL="3" LHA="9" HethZL="4"><transliteration valid="true">bal</transliteration>
-𒁄</mapentry>
-<mapentry got="a1b3c3"  MesZL="5" aBZL="3" LHA="9" HethZL="4"><transliteration valid="true">bala</transliteration>
-𒁄</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">balla</transliteration>
-𒃻𒊕𒅍𒂡𒍑</mapentry>
-<mapentry got="a1b2c2d2"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">banda3</transliteration>
-𒌉</mapentry>
-<mapentry got="a1b1"  MesZL="121" aBZL="57" LHA="74" HethZL="20"><transliteration valid="true">bar</transliteration>
-𒁇</mapentry>
-<mapentry got="a1b4c4"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">bar7</transliteration>
-𒉈</mapentry>
-<mapentry got="a10b10c1d1"  MesZL="554" aBZL="217" LHA="344" HethZL="235"><transliteration valid="true">bara2</transliteration>
-𒁈</mapentry>
-<mapentry got="a10b10c1d1"  MesZL="554" aBZL="217" LHA="344" HethZL="235"><transliteration valid="true">barag</transliteration>
-𒁈</mapentry>
-<mapentry got="a4b2c1d1"  MesZL="358" aBZL="79" LHA="214" HethZL="153"><transliteration valid="true">be2</transliteration>
-𒁉</mapentry>
-<mapentry got="a4b2c1d1"  MesZL="358" aBZL="79" LHA="214" HethZL="153"><transliteration valid="true">bi</transliteration>
-𒁉</mapentry>
-<mapentry got="a1b4c4"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">bi2</transliteration>
-𒉈</mapentry>
-<mapentry got="b1c1d1"  MesZL="113" aBZL="25" LHA="69" HethZL="13"><transliteration valid="true">bid2</transliteration>
-𒁁</mapentry>
-<mapentry got="b1c2d2"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">bu</transliteration>
-𒁍</mapentry>
-<mapentry got="a2b2c3d1"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">bur2</transliteration>
-𒁔</mapentry>
-<mapentry got="a2b2c3d1"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">buru2</transliteration>
-𒁔</mapentry>
-<mapentry got="c1"  MesZL="" aBZL="" LHA="" HethZL="261"><transliteration valid="true">buru3</transliteration>
-𒌋</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">d</transliteration>
-𒀭</mapentry>
-<mapentry got="a2b8c1"  MesZL="561" aBZL="229" LHA="335" HethZL="214"><transliteration valid="true">da</transliteration>
-𒁕</mapentry>
-<mapentry got="a2b3"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">dab5</transliteration>
-𒆪</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">dadag</transliteration>
-𒌓𒌓</mapentry>
-<mapentry got="a4b5c1d1"  MesZL="438" aBZL="168" LHA="280" HethZL="243"><transliteration valid="true">dag</transliteration>
-𒁖</mapentry>
-<mapentry got="a3b1c1"  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">dal</transliteration>
-𒊑</mapentry>
-<mapentry got="a3b4c2d1"  MesZL="889" aBZL="454" LHA="557" HethZL="298"><transliteration valid="true">dam</transliteration>
-𒁮</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">danna</transliteration>
-𒆜𒁍</mapentry>
-<mapentry got="a2b6c4d4"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">de2</transliteration>
-𒌤</mapentry>
-<mapentry got="a1b4c4"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">de3</transliteration>
-𒉈</mapentry>
-<mapentry got="b2c2d2"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">di</transliteration>
-𒁲</mapentry>
-<mapentry got="a1b2c2d2"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">di4</transliteration>
-𒌉</mapentry>
-<mapentry got="a3b4"  MesZL="813" aBZL="419" LHA="537" HethZL="210?"><transliteration valid="true">dib</transliteration>
-𒁳</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">didli</transliteration>
-𒀸𒀸</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">dijir</transliteration>
-𒀭</mapentry>
-<mapentry got="b1"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">dili</transliteration>
-𒀸</mapentry>
-<mapentry got="a3b5"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">dilib</transliteration>
-𒋃</mapentry>
-<mapentry got="a1c1"  MesZL="591" aBZL="232" LHA="377" HethZL="286"><transliteration valid="true">dilim2</transliteration>
-𒇺</mapentry>
-<mapentry got="a2b1c2d2"  MesZL="167" aBZL="14" LHA="94" HethZL="14"><transliteration valid="true">dim</transliteration>
-𒁴</mapentry>
-<mapentry got="a2b2c1d2"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">dim2</transliteration>
-𒁶</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">dimgul</transliteration>
-𒈣𒈮</mapentry>
-<mapentry got="c3d1"  MesZL="119" aBZL="361" LHA="465" HethZL="330"><transliteration valid="true">din</transliteration>
-𒁷</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">dirig</transliteration>
-𒋛𒀀</mapentry>
-<mapentry MesZL="748" aBZL="390" LHA="480" HethZL="356"><transliteration valid="true">disz</transliteration>
+<mapentry got="a1"  signName="DIŠ (1)"  MesZL="748" aBZL="390" LHA="480" HethZL="356"><transliteration valid="true">ana</transliteration>
 𒁹</mapentry>
-<mapentry got="a1b2c2"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">du</transliteration>
-𒁺</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">du10</transliteration>
-𒄭</mapentry>
-<mapentry got="a3b2c5d1"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">du11</transliteration>
-𒅗</mapentry>
-<mapentry got="a5b4c6d1"  MesZL="522" aBZL="257" LHA="330_7a" HethZL=""><transliteration valid="true">du14</transliteration>
-𒈌</mapentry>
-<mapentry got="a1c1d1"  MesZL="379" aBZL="260" LHA="230" HethZL="75"><transliteration valid="true">du3</transliteration>
-𒆕</mapentry>
-<mapentry got="a1b2c2d1"  MesZL="698" aBZL="344" LHA="441" HethZL="275"><transliteration valid="true">du7</transliteration>
-𒌌</mapentry>
-<mapentry got="b2c8"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">du8</transliteration>
-𒃮</mapentry>
-<mapentry got="a9b4"  MesZL="242" aBZL="112b" LHA="138" HethZL="99"><transliteration valid="true">dub</transliteration>
-𒁾</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">dub3</transliteration>
-𒄭</mapentry>
-<mapentry got="c12d2"  MesZL="643" aBZL="287" LHA="400" HethZL="334"><transliteration valid="true">dubur</transliteration>
-𒄵</mapentry>
-<mapentry got="a8b2c1d1"  MesZL="499" aBZL="80" LHA="309" HethZL="162"><transliteration valid="true">dug</transliteration>
-𒂁</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">dug3</transliteration>
-𒄭</mapentry>
-<mapentry got="b9c1"  MesZL="704" aBZL="349" LHA="445" HethZL="268"><transliteration valid="true">dugud</transliteration>
-𒂂</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">dul</transliteration>
-𒌋𒌆</mapentry>
-<mapentry got="a4b4c3d1"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">dum</transliteration>
-𒌈</mapentry>
-<mapentry got="a1b2c2d2"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">dumu</transliteration>
-𒌉</mapentry>
-<mapentry got="a5b2c3d2"  MesZL="744" aBZL="ŠUL:438" LHA="467" HethZL="46"><transliteration valid="true">dun</transliteration>
-𒂄</mapentry>
-<mapentry got="a3b3"  MesZL="836" aBZL="TÙN:401a, GÍN:401b" LHA="595" HethZL="223; 209.2"><transliteration valid="true">dun3</transliteration>
-𒂅</mapentry>
-<mapentry got="a2b3"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">dur2</transliteration>
-𒂉</mapentry>
-<mapentry got="a3"  MesZL="839" aBZL="470" LHA="579" HethZL="364; 365"><transliteration valid="true">duru5</transliteration>
-𒀀</mapentry>
-<mapentry got="a2b3"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">durun</transliteration>
-𒂉</mapentry>
-<mapentry got="a3b4"  MesZL="498" aBZL="167" LHA="308" HethZL="187"><transliteration valid="true">e</transliteration>
-𒂊</mapentry>
-<mapentry got="a5b4"  MesZL="495" aBZL="107" LHA="324" HethZL="199"><transliteration valid="true">e2</transliteration>
-𒂍</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ed3</transliteration>
-𒇯𒁺</mapentry>
-<mapentry got="a7b7c3d2"  MesZL="300" aBZL="115" LHA="168" HethZL="(168)"><transliteration valid="true">eden</transliteration>
-𒂔</mapentry>
-<mapentry got="a7b7c3d2"  MesZL="300" aBZL="115" LHA="168" HethZL="(168)"><transliteration valid="true">edin</transliteration>
-𒂔</mapentry>
-<mapentry got="a3b4"  MesZL="498" aBZL="167" LHA="308" HethZL="187"><transliteration valid="true">eg2</transliteration>
-𒂊</mapentry>
-<mapentry got="a2b7"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">egir2</transliteration>
-𒂠</mapentry>
-<mapentry got="a5b1c2d2"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">eh</transliteration>
-𒄴</mapentry>
-<mapentry got="a3b3c1d1"  MesZL="899" aBZL="455" LHA="564" HethZL="307"><transliteration valid="true">el</transliteration>
-𒂖</mapentry>
-<mapentry got="a4b3c5d1"  MesZL="61" aBZL="326" LHA="32" HethZL="147"><transliteration valid="true">eme</transliteration>
-𒅴</mapentry>
-<mapentry got="a1b4c6d2"  MesZL="314" aBZL="" LHA="174" HethZL=""><transliteration valid="true">emesz2</transliteration>
-𒉊</mapentry>
-<mapentry got="a2c10d1"  MesZL="261" aBZL="386" LHA="148" HethZL="354"><transliteration valid="true">en</transliteration>
-𒅔</mapentry>
-<mapentry got="a2b4c11d1"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">en3</transliteration>
-𒇷</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">endib</transliteration>
-𒂗𒈨𒈬</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">endub</transliteration>
-𒂗𒈨𒈬</mapentry>
-<mapentry got="a2b3c1d1"  MesZL="756" aBZL="404" LHA="484" HethZL="216"><transliteration valid="true">engur</transliteration>
-𒇉</mapentry>
-<mapentry got="a3c1d1"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">er</transliteration>
-𒅕</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">er2</transliteration>
-𒀀𒅆</mapentry>
-<mapentry got="a5b1"  MesZL="143" aBZL="47" LHA="87" HethZL="36"><transliteration valid="true">eridu</transliteration>
-𒉣</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">erim2</transliteration>
-𒉈𒊒</mapentry>
-<mapentry got="a2b2c1d1"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">esi</transliteration>
-𒆗</mapentry>
-<mapentry got="c3"  MesZL="711" aBZL="366" LHA="472" HethZL="331"><transliteration valid="true">esz</transliteration>
-𒌍</mapentry>
-<mapentry got="a7b5c5"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">eszgiri2</transliteration>
-𒂙</mapentry>
-<mapentry got="a4b6"  MesZL="271" aBZL="152a,b,c" LHA="152" HethZL="106"><transliteration valid="true">ezen</transliteration>
-𒂡</mapentry>
-<mapentry got="a5b7"  MesZL="89" aBZL="177" LHA="55" HethZL="95"><transliteration valid="true">ga</transliteration>
-𒆷</mapentry>
-<mapentry got="a3b2"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ga2</transliteration>
-𒂷</mapentry>
-<mapentry got="a2b8c1"  MesZL="148" aBZL="226" LHA="88" HethZL="49"><transliteration valid="true">gab2</transliteration>
-𒆏</mapentry>
-<mapentry got="b2c8"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gaba</transliteration>
-𒃮</mapentry>
-<mapentry got="a1b5"  MesZL="553" aBZL="213" LHA="343" HethZL="242"><transliteration valid="true">gal</transliteration>
-𒃲</mapentry>
-<mapentry got="a3b6c2"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">gal2</transliteration>
-𒅅</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">gal4</transliteration>
-𒊩</mapentry>
-<mapentry got="a1b2c2d1"  MesZL="338" aBZL="210 and 133" LHA="190kv" HethZL=""><transliteration valid="true">galam</transliteration>
-𒃴</mapentry>
-<mapentry got="c2"  MesZL="576" aBZL="359" LHA="362" HethZL="247"><transliteration valid="true">gam</transliteration>
-𒃵</mapentry>
-<mapentry got="a8b2c2d2"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">gan</transliteration>
-𒃶</mapentry>
-<mapentry got="a6b2"  MesZL="174" aBZL="106" LHA="105" HethZL="61"><transliteration valid="true">gan2</transliteration>
-𒃷</mapentry>
-<mapentry got="a6b2"  MesZL="174" aBZL="106" LHA="105" HethZL="61"><transliteration valid="true">gana2</transliteration>
-𒃷</mapentry>
-<mapentry got="a3d1"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">gar</transliteration>
-𒃻</mapentry>
-<mapentry got="b4c2d1"  MesZL="543" aBZL="209" LHA="333" HethZL="240"><transliteration valid="true">gar3</transliteration>
-𒃼</mapentry>
-<mapentry got="a9b6c1d1"  MesZL="492" aBZL="202" LHA="319n" HethZL=""><transliteration valid="true">gara2</transliteration>
-𒂶</mapentry>
-<mapentry got="a2b4c14"  MesZL="340" aBZL="139" LHA="192" HethZL="122"><transliteration valid="true">gaz</transliteration>
-𒄤</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gazi</transliteration>
-𒓊</mapentry>
-<mapentry got="a1b2c2"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">gen</transliteration>
-𒁺</mapentry>
-<mapentry got="a1b1c5d2"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">gen6</transliteration>
-𒄀</mapentry>
-<mapentry got="a1b2"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">gesz</transliteration>
-𒄑</mapentry>
-<mapentry got="a1b1c5d2"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">gi</transliteration>
-𒄀</mapentry>
-<mapentry got="a6b4"  MesZL="484" aBZL="163" LHA="313" HethZL="194"><transliteration valid="true">gi2</transliteration>
-𒆤</mapentry>
-<mapentry got="a1b5c4d2"  MesZL="507" aBZL="214" LHA="326" HethZL="234"><transliteration valid="true">gi4</transliteration>
-𒄄</mapentry>
-<mapentry got="b1c2d2"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">gid2</transliteration>
-𒁍</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gig</transliteration>
-𒈪𒉭</mapentry>
-<mapentry got="b8c1"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">gig2</transliteration>
-𒈪</mapentry>
-<mapentry got="c3"  MesZL="578" aBZL="369" LHA="366" HethZL="329"><transliteration valid="true">gin3</transliteration>
-𒆳</mapentry>
-<mapentry got="a4b4c2"  MesZL="558" aBZL="222" LHA="346" HethZL="244A"><transliteration valid="true">gir</transliteration>
-𒄫</mapentry>
-<mapentry got="a1b1c2d2"  MesZL="6" aBZL="8" LHA="10" HethZL="6"><transliteration valid="true">gir2</transliteration>
-𒄈</mapentry>
-<mapentry got="a3b2c5d1"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">giri17</transliteration>
-𒅗</mapentry>
-<mapentry got="a1b2"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">gisz</transliteration>
-𒄑</mapentry>
-<mapentry got="a1"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gisz2</transliteration>
-𒐕</mapentry>
-<mapentry got="a2b1c3d1"  MesZL="891" aBZL="458" LHA="559" HethZL="304"><transliteration valid="true">gu</transliteration>
-𒄖</mapentry>
-<mapentry got="a3b2c2d2"  MesZL="176" aBZL="89" LHA="106" HethZL="201"><transliteration valid="true">gu2</transliteration>
-𒄘</mapentry>
-<mapentry got="a1b2c1d1"  MesZL="472" aBZL="118" LHA="297" HethZL="157"><transliteration valid="true">gu4</transliteration>
-𒄞</mapentry>
-<mapentry got="a2b3"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">gu5</transliteration>
-𒆪</mapentry>
-<mapentry got="a6b2c5d2"  MesZL="65" aBZL="329" LHA="36" HethZL="149"><transliteration valid="true">gu7</transliteration>
-𒅥</mapentry>
-<mapentry got="a1b2c2"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">gub</transliteration>
-𒁺</mapentry>
-<mapentry got="a2b4c11d1"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">gub2</transliteration>
-𒇷</mapentry>
-<mapentry got="a1b2c1d1"  MesZL="472" aBZL="118" LHA="297" HethZL="157"><transliteration valid="true">gud</transliteration>
-𒄞</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gud3</transliteration>
-𒌑𒆠𒋧𒂵</mapentry>
-<mapentry got="a2b10"  MesZL="555" aBZL="216" LHA="345" HethZL="220; 221"><transliteration valid="true">gug2</transliteration>
-𒈖</mapentry>
-<mapentry got="a2b4c2"  MesZL="682" aBZL="343" LHA="429" HethZL="271"><transliteration valid="true">gul</transliteration>
-𒄢</mapentry>
-<mapentry got="a3b2c2d2"  MesZL="176" aBZL="89" LHA="106" HethZL="201"><transliteration valid="true">gun2</transliteration>
-𒄘</mapentry>
-<mapentry got="a2b6c1"  MesZL="183" aBZL="37" LHA="113" HethZL="83"><transliteration valid="true">gun3</transliteration>
-𒁯</mapentry>
-<mapentry got="a2b2"  MesZL="180" aBZL="92" LHA="111" HethZL="185"><transliteration valid="true">gur</transliteration>
-𒄥</mapentry>
-<mapentry got="c2"  MesZL="576" aBZL="359" LHA="362" HethZL="247"><transliteration valid="true">gur2</transliteration>
-𒃵</mapentry>
-<mapentry got="a2b2"  MesZL="755" aBZL="402" LHA="483" HethZL="179"><transliteration valid="true">gur4</transliteration>
-𒆸</mapentry>
-<mapentry got="a2b2c4"  MesZL="503" aBZL="145" LHA="310" HethZL="193"><transliteration valid="true">gurun</transliteration>
-𒄧</mapentry>
-<mapentry got="a4c2"  MesZL="856" aBZL="475" LHA="589" HethZL="367"><transliteration valid="true">ha</transliteration>
-𒄩</mapentry>
-<mapentry got="b1c1d1"  MesZL="3" aBZL="7" LHA="2" HethZL="2"><transliteration valid="true">hal</transliteration>
-𒄬</mapentry>
-<mapentry got="a1b1c3d3"  MesZL="884" aBZL="456" LHA="555" HethZL="300"><transliteration valid="true">hal2</transliteration>
-𒍮</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">halba2</transliteration>
-𒍝𒈹𒁲</mapentry>
-<mapentry got="a1b4c2d2"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">har</transliteration>
+<mapentry got="a2b7c6d4"  signName="ANŠE (GÌR×PA or GÌR×TAB)"  MesZL="353" aBZL="292" LHA="208" HethZL="302"><transliteration valid="true">ansze</transliteration>
+𒀲</mapentry>
+<mapentry got="a1b2c1d1"  signName="AB"  MesZL="223" aBZL="125" LHA="128" HethZL="97"><transliteration valid="true">ap</transliteration>
+𒀊</mapentry>
+<mapentry got="a4b2c2"  signName="AR (IGI.RI)"  MesZL="726" aBZL="234" LHA="451" HethZL="289"><transliteration valid="true">ar</transliteration>
+𒅈</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">ar3</transliteration>
 𒄯</mapentry>
-<mapentry got="a6b2c3d1"  MesZL="528" aBZL="" LHA="330_7b" HethZL=""><transliteration valid="true">hara3</transliteration>
-𒈊</mapentry>
-<mapentry got="a1c2"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">hasz</transliteration>
-𒋻</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">he</transliteration>
-𒄭</mapentry>
-<mapentry got="a8b2c2d2"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">he2</transliteration>
-𒃶</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">hi</transliteration>
-𒄭</mapentry>
-<mapentry got="a2b1c1"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">hu</transliteration>
-𒄷</mapentry>
-<mapentry got="a3b1c2d1"  MesZL="149" aBZL="445" LHA="88" HethZL="49"><transliteration valid="true">hub2</transliteration>
-𒄸</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">hubur</transliteration>
-𒄠𒄠</mapentry>
-<mapentry got="a3b2"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">hul</transliteration>
-𒌨</mapentry>
-<mapentry got="a2b5c1"  MesZL="877" aBZL="425" LHA="550" HethZL="254"><transliteration valid="true">hul2</transliteration>
-𒄾</mapentry>
-<mapentry got="c8d4"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">hum</transliteration>
-𒈝</mapentry>
-<mapentry got="a1b4c2d2"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">hur</transliteration>
-𒄯</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">husz</transliteration>
-𒄭𒄊</mapentry>
-<mapentry got="b5"  MesZL="252" aBZL="192" LHA="142" HethZL="217"><transliteration valid="true">i</transliteration>
-𒄿</mapentry>
-<mapentry got="a5"  MesZL="861" aBZL="476" LHA="598a" HethZL="371"><transliteration valid="true">i2</transliteration>
-𒐊</mapentry>
-<mapentry got="a2c1d1"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">i3</transliteration>
-𒉌</mapentry>
-<mapentry got="a3b5"  MesZL="260" aBZL="193" LHA="142a" HethZL="218"><transliteration valid="true">ia</transliteration>
-𒅀</mapentry>
-<mapentry got="a4b5"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">ia3</transliteration>
-𒊏</mapentry>
-<mapentry got="a6b2"  MesZL="807" aBZL="394" LHA="535" HethZL="44"><transliteration valid="true">ib</transliteration>
-𒅁</mapentry>
-<mapentry got="a4b4c3d1"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">ib2</transliteration>
-𒌈</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">id2</transliteration>
-𒀀𒇉</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">idigna</transliteration>
-𒄘𒃼</mapentry>
-<mapentry got="a3b6c2"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">ig</transliteration>
-𒅅</mapentry>
-<mapentry got="a1b1c1"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">igi</transliteration>
-𒅆</mapentry>
-<mapentry got="a5b2c8d1"  MesZL="348" aBZL="78" LHA="205" HethZL="117"><transliteration valid="true">il</transliteration>
-𒅋</mapentry>
-<mapentry got="a9b7c1d1"  MesZL="493" aBZL="204" LHA="320" HethZL="161"><transliteration valid="true">il2</transliteration>
-𒅍</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ildum</transliteration>
-𒅆𒂠𒁺𒂟</mapentry>
-<mapentry got="a9"  MesZL="868" aBZL="480" LHA="598e" HethZL="375"><transliteration valid="true">ilimmu</transliteration>
-𒑆</mapentry>
-<mapentry got="a2b1c10"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">im</transliteration>
-𒍣</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">imhur2</transliteration>
-𒅆𒁉</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">imhur3</transliteration>
-𒅆𒁉</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">imhur4</transliteration>
-𒅆𒁉</mapentry>
-<mapentry got="a7"  MesZL="863" aBZL="478" LHA="598n1" HethZL="373"><transliteration valid="true">imin</transliteration>
-𒅓</mapentry>
-<mapentry got="a2c10d1"  MesZL="261" aBZL="386" LHA="148" HethZL="354"><transliteration valid="true">in</transliteration>
-𒅔</mapentry>
-<mapentry got="a8c6d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">inbir</transliteration>
-𒈓</mapentry>
-<mapentry got="a3b2c5d1"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">inim</transliteration>
-𒅗</mapentry>
-<mapentry got="a3c1d1"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">ir</transliteration>
-𒅕</mapentry>
-<mapentry got="a3b3"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">iri</transliteration>
-𒌷</mapentry>
-<mapentry got="a1b2"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">is</transliteration>
-𒄑</mapentry>
-<mapentry got="a2b4c1"  MesZL="357" aBZL="162" LHA="212" HethZL="151"><transliteration valid="true">isz</transliteration>
-𒅖</mapentry>
-<mapentry got="a3c3d3"  MesZL="608" aBZL="436" LHA="390" HethZL=""><transliteration valid="true">iszkila</transliteration>
-𒊯</mapentry>
-<mapentry got="c5d2"  MesZL="20" aBZL="334" LHA="52" HethZL="84"><transliteration valid="true">itid</transliteration>
-𒌗</mapentry>
-<mapentry got="c6d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">itu</transliteration>
-𒌚</mapentry>
-<mapentry got="a1b4c4"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">izi</transliteration>
-𒉈</mapentry>
-<mapentry got="a3b2"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ja2</transliteration>
-𒂷</mapentry>
-<mapentry got="a3b6c2"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">jal2</transliteration>
-𒅅</mapentry>
-<mapentry got="a6b2d1"  MesZL="431" aBZL="105" LHA="278" HethZL="60"><transliteration valid="true">jalga</transliteration>
-𒃌</mapentry>
-<mapentry got="a3d1"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">jar</transliteration>
-𒃻</mapentry>
-<mapentry got="a1b2c2"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">jen</transliteration>
-𒁺</mapentry>
-<mapentry got="a1b2"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">jesz</transliteration>
-𒄑</mapentry>
-<mapentry got="a2b2c3d1"  MesZL="212" aBZL="77" LHA="210" HethZL="131"><transliteration valid="true">jesztin</transliteration>
-𒃾</mapentry>
-<mapentry got="b8c1"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">ji6</transliteration>
-𒈪</mapentry>
-<mapentry got="a1b6c3d3"  MesZL="701" aBZL="291b" LHA="444" HethZL="301"><transliteration valid="true">jiri3</transliteration>
-𒄊</mapentry>
-<mapentry got="a1b2"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">jisz</transliteration>
-𒄑</mapentry>
-<mapentry got="a3b2c5d1"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">ka</transliteration>
-𒅗</mapentry>
-<mapentry got="a6b2c5d1"  MesZL="64" aBZL="328" LHA="35" HethZL="148"><transliteration valid="true">kab2</transliteration>
-𒅘</mapentry>
-<mapentry got="a2b6c1d1"  MesZL="568" aBZL="227a" LHA="354b" HethZL="68"><transliteration valid="true">kad4</transliteration>
-𒆒</mapentry>
-<mapentry got="a3b5c8d1"  MesZL="569" aBZL="227b" LHA="354bv" HethZL=""><transliteration valid="true">kad5</transliteration>
-𒆓</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kadra</transliteration>
-𒃻𒊮𒀀</mapentry>
-<mapentry got="a2b2c1d1"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">kal</transliteration>
-𒆗</mapentry>
-<mapentry got="a6b5c2d2"  MesZL="" aBZL="" LHA="" HethZL="197"><transliteration valid="true">kalam</transliteration>
-𒌦</mapentry>
-<mapentry got="a8b2c2d2"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">kan</transliteration>
-𒃶</mapentry>
-<mapentry got="a5b4c4"  MesZL="222" aBZL="175" LHA="133" HethZL="167"><transliteration valid="true">kan4</transliteration>
-𒆍</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kar</transliteration>
-𒋼𒀀</mapentry>
-<mapentry got="a5c2"  MesZL="175" aBZL="246" LHA="105" HethZL=""><transliteration valid="true">kar2</transliteration>
-𒃸</mapentry>
-<mapentry got="a5c2"  MesZL="175" aBZL="246" LHA="105" HethZL=""><transliteration valid="true">kar3</transliteration>
-𒃸</mapentry>
-<mapentry got="a1b2c6"  MesZL="352" aBZL="66" LHA="202" HethZL="129"><transliteration valid="true">kas4</transliteration>
-𒁽</mapentry>
-<mapentry got="a12b16"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kesz2</transliteration>
-𒆟</mapentry>
-<mapentry got="a12b16"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kesze2</transliteration>
-𒆟</mapentry>
-<mapentry got="b4c2d2"  MesZL="737" aBZL="432" LHA="461" HethZL="313"><transliteration valid="true">ki</transliteration>
-𒆠</mapentry>
-<mapentry got="b1c2d2"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">kim3</transliteration>
-𒁍</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kingal</transliteration>
-𒃲𒌺</mapentry>
-<mapentry got="a2b2c9"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">kiri6</transliteration>
-𒊬</mapentry>
-<mapentry got="a2b7c5d3"  MesZL="678" aBZL="291a" LHA="425" HethZL="273"><transliteration valid="true">kisz</transliteration>
-𒆧</mapentry>
-<mapentry got="a8b4"  MesZL="486" aBZL="112a" LHA="314" HethZL="112"><transliteration valid="true">kiszib</transliteration>
-𒈩</mapentry>
-<mapentry got="a2b3"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">ku</transliteration>
-𒆪</mapentry>
-<mapentry got="b8c1"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">ku10</transliteration>
-𒈪</mapentry>
-<mapentry got="c7d7"  MesZL="745" aBZL="428" LHA="468" HethZL="69"><transliteration valid="true">ku3</transliteration>
-𒆬</mapentry>
-<mapentry got="a4c2"  MesZL="856" aBZL="475" LHA="589" HethZL="367"><transliteration valid="true">ku6</transliteration>
-𒄩</mapentry>
-<mapentry got="a1c2"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">kud</transliteration>
-𒋻</mapentry>
-<mapentry got="c7d7"  MesZL="745" aBZL="428" LHA="468" HethZL="69"><transliteration valid="true">kug</transliteration>
-𒆬</mapentry>
-<mapentry got="a5b2c2d2"  MesZL="131" aBZL="32" LHA="77" HethZL="35"><transliteration valid="true">kun</transliteration>
-𒆲</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kun4</transliteration>
-𒄿𒇻</mapentry>
-<mapentry got="c3"  MesZL="578" aBZL="369" LHA="366" HethZL="329"><transliteration valid="true">kur</transliteration>
-𒆳</mapentry>
-<mapentry got="c1d1"  MesZL="92" aBZL="249" LHA="60" HethZL="256(1)"><transliteration valid="true">kur2</transliteration>
-𒉽</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kurku2</transliteration>
-𒅗𒀭𒉌𒋛</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">kurum7</transliteration>
-𒅆𒂟</mapentry>
-<mapentry got="c3d1"  MesZL="119" aBZL="361" LHA="465" HethZL="330"><transliteration valid="true">kurun2</transliteration>
-𒁷</mapentry>
-<mapentry got="a5b2c1d1"  MesZL="16" aBZL="305" LHA="7" HethZL="213"><transliteration valid="true">kusz</transliteration>
-𒋢</mapentry>
-<mapentry got="a6b2c1d1"  MesZL="512" aBZL="331" LHA="329" HethZL=""><transliteration valid="true">kusz2</transliteration>
-𒊨</mapentry>
-<mapentry got="a5b7"  MesZL="89" aBZL="177" LHA="55" HethZL="95"><transliteration valid="true">la</transliteration>
-𒆷</mapentry>
-<mapentry got="a1b1"  MesZL="750" aBZL="391" LHA="481" HethZL="358"><transliteration valid="true">la2</transliteration>
-𒇲</mapentry>
-<mapentry got="a3b5"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">lag</transliteration>
-𒋃</mapentry>
-<mapentry got="c2d2"  MesZL="612" aBZL="247" LHA="393" HethZL="327"><transliteration valid="true">lah2</transliteration>
-𒂟</mapentry>
-<mapentry got="a1b1"  MesZL="750" aBZL="391" LHA="481" HethZL="358"><transliteration valid="true">lal</transliteration>
-𒇲</mapentry>
-<mapentry got="a2b2c3d3"  MesZL="170" aBZL="124" LHA="109" HethZL="170"><transliteration valid="true">lal3</transliteration>
-𒋭</mapentry>
-<mapentry got="a5c2d2"  MesZL="693" aBZL="244" LHA="435" HethZL="306"><transliteration valid="true">lam</transliteration>
-𒇴</mapentry>
-<mapentry got="a2b4c11d1"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">li</transliteration>
-𒇷</mapentry>
-<mapentry got="a3c1d1"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">li2</transliteration>
-𒅕</mapentry>
-<mapentry got="b2c12d1"  MesZL="544" aBZL="91" LHA="336" HethZL="127"><transliteration valid="true">lil</transliteration>
-𒇸</mapentry>
-<mapentry got="a6b4"  MesZL="484" aBZL="163" LHA="313" HethZL="194"><transliteration valid="true">lil2</transliteration>
-𒆤</mapentry>
-<mapentry got="a1b1c1"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">lim</transliteration>
-𒅆</mapentry>
-<mapentry got="a4"  MesZL="860" aBZL="472" LHA="597" HethZL="370"><transliteration valid="true">limmu</transliteration>
-𒐼</mapentry>
-<mapentry got="c5d4"  MesZL="677" aBZL="353" LHA="424" HethZL=""><transliteration valid="true">lipisz</transliteration>
-𒀚</mapentry>
-<mapentry got="a3b3"  MesZL="812" aBZL="416" LHA="537" HethZL="210"><transliteration valid="true">lu</transliteration>
-𒇻</mapentry>
-<mapentry got="a4c3d1"  MesZL="514" aBZL="253" LHA="330" HethZL="78"><transliteration valid="true">lu2</transliteration>
-𒇽</mapentry>
-<mapentry got="a2c6d5"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lu5</transliteration>
-𒈜</mapentry>
-<mapentry got="a2c6d5"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lub</transliteration>
-𒈜</mapentry>
-<mapentry got="a8b2c1d1"  MesZL="499" aBZL="80" LHA="309" HethZL="162"><transliteration valid="true">lud</transliteration>
-𒂁</mapentry>
-<mapentry got="a5b4c4d1"  MesZL="266" aBZL="221a" LHA="151" HethZL="115"><transliteration valid="true">lugal</transliteration>
-𒈗</mapentry>
-<mapentry got="a4b4"  MesZL="494" aBZL="196" LHA="321" HethZL="198"><transliteration valid="true">luh</transliteration>
-𒈛</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">lukur</transliteration>
-𒊩𒈨</mapentry>
-<mapentry got="a2c6d5"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lul</transliteration>
-𒈜</mapentry>
-<mapentry got="a7b10c4d3"  MesZL="702" aBZL="" LHA="421a" HethZL=""><transliteration valid="true">lulim</transliteration>
-𒄎</mapentry>
-<mapentry got="c8d4"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">lum</transliteration>
-𒈝</mapentry>
-<mapentry got="a7b2c2d1"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">lunga</transliteration>
-𒋆</mapentry>
-<mapentry got="a2b3"  MesZL="552" aBZL="166" LHA="342" HethZL="208"><transliteration valid="true">ma</transliteration>
-𒈠</mapentry>
-<mapentry got="a3b2"  MesZL="201" aBZL="50" LHA="122" HethZL="87"><transliteration valid="true">ma2</transliteration>
-𒈣</mapentry>
-<mapentry got="a2b4c1d2"  MesZL="91" aBZL="6" LHA="57" HethZL="10"><transliteration valid="true">mah</transliteration>
-𒈤</mapentry>
-<mapentry got="a2b3"  MesZL="483" aBZL="144" LHA="307" HethZL="191"><transliteration valid="true">mar</transliteration>
-𒈥</mapentry>
-<mapentry got="a1b1"  MesZL="120" aBZL="29" LHA="74" HethZL="20"><transliteration valid="true">masz</transliteration>
-𒈦</mapentry>
-<mapentry got="a1b1c2d2"  MesZL="130" aBZL="31" LHA="76" HethZL="38"><transliteration valid="true">masz2</transliteration>
-𒈧</mapentry>
-<mapentry got="a1b1"  MesZL="753" aBZL="392" LHA="532" HethZL="357"><transliteration valid="true">me</transliteration>
-𒈨</mapentry>
-<mapentry MesZL="129" aBZL="53" LHA="98" HethZL="82"><transliteration valid="true">me3</transliteration>
-𒀞</mapentry>
-<mapentry got="a6b8c3"  MesZL="427" aBZL="102" LHA="270" HethZL=""><transliteration valid="true">men</transliteration>
-𒃞</mapentry>
-<mapentry got="b8c1"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">mi</transliteration>
-𒈪</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">mi2</transliteration>
-𒊩</mapentry>
-<mapentry got="a2"  MesZL="825" aBZL="465" LHA="570" HethZL="361"><transliteration valid="true">min</transliteration>
-𒈫</mapentry>
-<mapentry got="b1c6"  MesZL="98" aBZL="20" LHA="61" HethZL="17"><transliteration valid="true">mu</transliteration>
-𒈬</mapentry>
-<mapentry got="a2b2c9"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">mu2</transliteration>
-𒊬</mapentry>
-<mapentry got="a2b2c1d2"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">mud</transliteration>
-𒁶</mapentry>
-<mapentry got="a2c2d2"  MesZL="589" aBZL="289" LHA="376" HethZL="249"><transliteration valid="true">mul</transliteration>
-𒋼</mapentry>
-<mapentry got="a2b1c6d2"  MesZL="168" aBZL="15" LHA="95, 095v" HethZL="18"><transliteration valid="true">mun</transliteration>
-𒁵</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">munsub2</transliteration>
-𒋠𒇴𒋦</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">munu4</transliteration>
-𒉽𒉽</mapentry>
-<mapentry got="a1b4c2d2"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">mur</transliteration>
-𒄯</mapentry>
-<mapentry got="c6d4"  MesZL="905" aBZL="243" LHA="567" HethZL="311"><transliteration valid="true">murgu</transliteration>
-𒋞</mapentry>
-<mapentry got="c4d2"  MesZL="901" aBZL="242" LHA="565" HethZL="311"><transliteration valid="true">murgu2</transliteration>
-𒈱</mapentry>
-<mapentry got="a4b1c3d2"  MesZL="585" aBZL="267" LHA="374" HethZL="342"><transliteration valid="true">musz</transliteration>
-𒈲</mapentry>
-<mapentry got="a2b1c1"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">muszen</transliteration>
-𒄷</mapentry>
-<mapentry got="b4c3d2"  MesZL="110" aBZL="24" LHA="70" HethZL="15"><transliteration valid="true">na</transliteration>
-𒈾</mapentry>
-<mapentry got="a2b6c7d1"  MesZL="689" aBZL="364" LHA="431" HethZL="314"><transliteration valid="true">na2</transliteration>
-𒈿</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">na4</transliteration>
-𒉌𒌓</mapentry>
-<mapentry got="a2b2c2d2"  MesZL="246" aBZL="" LHA="129" HethZL="100"><transliteration valid="true">nab</transliteration>
-𒀮</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">nagga</transliteration>
-𒀭𒈾</mapentry>
-<mapentry got="a3b1c9"  MesZL="134" aBZL="42" LHA="79" HethZL="39"><transliteration valid="true">nam</transliteration>
-𒉆</mapentry>
-<mapentry got="a1b4c4"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">ne</transliteration>
-𒉈</mapentry>
-<mapentry got="a10b9c2d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ne3</transliteration>
-𒊊</mapentry>
-<mapentry got="a2c1d1"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">ni</transliteration>
-𒉌</mapentry>
-<mapentry got="a4b1c2d3"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ni2</transliteration>
-𒉎</mapentry>
-<mapentry got="a3d1"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">nig2</transliteration>
-𒃻</mapentry>
-<mapentry got="a3d1"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">nij2</transliteration>
-𒃻</mapentry>
-<mapentry got="c4"  MesZL="712" aBZL="374" LHA="473" HethZL="335"><transliteration valid="true">nimin</transliteration>
-𒐏</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">nin</transliteration>
-𒊩𒌆</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">nin9</transliteration>
-𒊩𒆪</mapentry>
-<mapentry got="b4c2"  MesZL="316" aBZL="135" LHA="176" HethZL="119"><transliteration valid="true">ninda</transliteration>
-𒉒</mapentry>
-<mapentry got="c5"  MesZL="714" aBZL="376" LHA="475" HethZL=""><transliteration valid="true">ninnu</transliteration>
-𒐐</mapentry>
-<mapentry got="a10b2"  MesZL="502" aBZL="148" LHA="325" HethZL="204"><transliteration valid="true">nir</transliteration>
-𒉪</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">nisz</transliteration>
-𒌋𒌋</mapentry>
-<mapentry got="a1b1d1"  MesZL="112" aBZL="19" LHA="75" HethZL="11"><transliteration valid="true">nu</transliteration>
-𒉡</mapentry>
-<mapentry got="b8c4d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">nu11</transliteration>
-𒉢</mapentry>
-<mapentry got="a1c3d1"  MesZL="690" aBZL="355" LHA="433" HethZL="74"><transliteration valid="true">num</transliteration>
-𒉏</mapentry>
-<mapentry got="c8d4"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">num2</transliteration>
-𒈝</mapentry>
-<mapentry got="b2c3"  MesZL="117" aBZL="26" LHA="72" HethZL="12"><transliteration valid="true">numun</transliteration>
-𒆰</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">numun2</transliteration>
-𒍤𒆸</mapentry>
-<mapentry got="a5b1"  MesZL="143" aBZL="47" LHA="87" HethZL="36"><transliteration valid="true">nun</transliteration>
-𒉣</mapentry>
-<mapentry got="a1b2"  MesZL="464" aBZL="143" LHA="295" HethZL="174"><transliteration valid="true">pa</transliteration>
-𒉺</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">pa5</transliteration>
-𒉽𒂊</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">pad3</transliteration>
-𒅆𒊒</mapentry>
-<mapentry got="a2b1c1"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">pag</transliteration>
-𒄷</mapentry>
-<mapentry got="a8b8c8d8"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">pagra3</transliteration>
-𒈔</mapentry>
-<mapentry got="a2c6d5"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">pah</transliteration>
-𒈜</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">palil</transliteration>
-𒅆𒁺</mapentry>
-<mapentry got="c1d1"  MesZL="92" aBZL="249" LHA="60" HethZL="256(1)"><transliteration valid="true">pap</transliteration>
-𒉽</mapentry>
-<mapentry got="a1b1c2"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pe</transliteration>
-𒉿</mapentry>
-<mapentry got="a4b4c2"  MesZL="558" aBZL="222" LHA="346" HethZL="244A"><transliteration valid="true">pesz</transliteration>
-𒄫</mapentry>
-<mapentry got="a1b1c2"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pi</transliteration>
-𒉿</mapentry>
-<mapentry got="b1c2d2"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">pu</transliteration>
-𒁍</mapentry>
-<mapentry got="a4b5"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">ra</transliteration>
-𒊏</mapentry>
-<mapentry got="a3b1c1"  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">ri</transliteration>
-𒊑</mapentry>
-<mapentry got="a3b3"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">ri2</transliteration>
-𒌷</mapentry>
-<mapentry got="a2b2c1d1"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">rib</transliteration>
-𒆗</mapentry>
-<mapentry got="a6b2c5d2"  MesZL="65" aBZL="329" LHA="36" HethZL="149"><transliteration valid="true">rig</transliteration>
-𒅥</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">rig7</transliteration>
-𒉺𒄸𒁺</mapentry>
-<mapentry got="a1b2c6"  MesZL="352" aBZL="66" LHA="202" HethZL="129"><transliteration valid="true">rim4</transliteration>
-𒁽</mapentry>
-<mapentry got="a2b2"  MesZL="755" aBZL="402" LHA="483" HethZL="179"><transliteration valid="true">rin</transliteration>
-𒆸</mapentry>
-<mapentry got="b2c2d2"  MesZL="111" aBZL="60" LHA="68" HethZL="43"><transliteration valid="true">ru</transliteration>
-𒊒</mapentry>
-<mapentry got="b1"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">rum</transliteration>
+<mapentry got="a3b1c2d1"  signName="ARAD"  MesZL="18" aBZL="16" LHA="50" HethZL="16"><transliteration valid="true">arad</transliteration>
+𒀴</mapentry>
+<mapentry><transliteration valid="true">asag</transliteration>
+𒆬𒀭</mapentry>
+<mapentry got="a4b4c1"  signName="ASARI (URU×IGI)"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">asal</transliteration>
+𒍂</mapentry>
+<mapentry got="a4b4c1"  signName="ASARI (URU×IGI)"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">asar</transliteration>
+𒍂</mapentry>
+<mapentry got="b1"  signName="AŠ"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">asz</transliteration>
 𒀸</mapentry>
-<mapentry got="a4b4"  MesZL="172" aBZL="147" LHA="104" HethZL="200"><transliteration valid="true">sa</transliteration>
-𒊓</mapentry>
-<mapentry got="b4c12"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sa10</transliteration>
-𒉚</mapentry>
-<mapentry got="b2c2d2"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">sa2</transliteration>
-𒁲</mapentry>
-<mapentry got="a4"  MesZL="851" aBZL="474" LHA="586" HethZL="366"><transliteration valid="true">sa3</transliteration>
-𒍝</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sa4</transliteration>
-𒄷𒈿</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sag2</transliteration>
-𒉺𒃶</mapentry>
-<mapentry got="a4b5"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">sag3</transliteration>
-𒊏</mapentry>
-<mapentry got="c2d2"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">sag9</transliteration>
-𒄭</mapentry>
-<mapentry got="a2b4c1"  MesZL="357" aBZL="162" LHA="212" HethZL="151"><transliteration valid="true">sahar</transliteration>
-𒅖</mapentry>
-<mapentry got="a3b2c1d1"  MesZL="184" aBZL="309" LHA="115" HethZL="192"><transliteration valid="true">saj</transliteration>
-𒊕</mapentry>
-<mapentry got="a1b1c1d1"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">sal</transliteration>
-𒊩</mapentry>
-<mapentry got="b4c12"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sam2</transliteration>
-𒉚</mapentry>
-<mapentry got="a2b2c9"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">sar</transliteration>
-𒊬</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sed4</transliteration>
-𒈹𒁲</mapentry>
-<mapentry got="a2b2"  MesZL="181" aBZL="164" LHA="112" HethZL="86"><transliteration valid="true">si</transliteration>
-𒋛</mapentry>
-<mapentry got="c2d2"  MesZL="881" aBZL="437" LHA="592" HethZL="255"><transliteration valid="true">sig</transliteration>
-𒋝</mapentry>
-<mapentry got="c10"  MesZL="292" aBZL="388" LHA="164" HethZL="350"><transliteration valid="true">sig10</transliteration>
-𒋧</mapentry>
-<mapentry got="a1b1c5d2"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">sig17</transliteration>
-𒄀</mapentry>
-<mapentry got="a1b5c1"  MesZL="564" aBZL="198" LHA="351" HethZL="239"><transliteration valid="true">sig7</transliteration>
-𒅊</mapentry>
-<mapentry got="a2b2"  MesZL="181" aBZL="164" LHA="112" HethZL="86"><transliteration valid="true">sig9</transliteration>
-𒋛</mapentry>
-<mapentry got="a3b7c1"  MesZL="816" aBZL="395" LHA="539" HethZL="65"><transliteration valid="true">siki</transliteration>
-𒋠</mapentry>
-<mapentry got="a3b3c1d1"  MesZL="899" aBZL="455" LHA="564" HethZL="307"><transliteration valid="true">sikil</transliteration>
-𒂖</mapentry>
-<mapentry got="a3b5"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">sila11</transliteration>
-𒋃</mapentry>
-<mapentry got="a1c1d1"  MesZL="99" aBZL="269" LHA="62" HethZL="21"><transliteration valid="true">sila3</transliteration>
-𒋡</mapentry>
-<mapentry got="a4b4"  MesZL="408" aBZL="97" LHA="252" HethZL="54"><transliteration valid="true">sila4</transliteration>
-𒃢</mapentry>
-<mapentry got="a4b4c1"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">silig</transliteration>
-𒍂</mapentry>
-<mapentry got="b2c2d2"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">silim</transliteration>
-𒁲</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">sipard</transliteration>
-𒋠𒇴𒋦</mapentry>
-<mapentry got="b1c2d2"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">sir2</transliteration>
+<mapentry got="a1b4"  signName="ÁŠ (ZÍZ)"  MesZL="548" aBZL="211" LHA="339" HethZL="241"><transliteration valid="true">asz2</transliteration>
+𒀾</mapentry>
+<mapentry got="a5b1c1"  signName="AŠGAB"  MesZL="173" aBZL="443" LHA="104_6" HethZL="80"><transliteration valid="true">aszgab</transliteration>
+𒀿</mapentry>
+<mapentry><transliteration valid="true">aszkud</transliteration>
+𒀉𒈽</mapentry>
+<mapentry got="a14b9c2d2"  signName="AZ (PIRIG×ZA)"  MesZL="297" aBZL="180" LHA="131" HethZL="92"><transliteration valid="true">az</transliteration>
+𒊍</mapentry>
+<mapentry got="a1b1c1d1"  signName="BA"  MesZL="14" aBZL="303" LHA="5" HethZL="205"><transliteration valid="true">ba</transliteration>
+𒁀</mapentry>
+<mapentry got="a3b2"  signName="GÁ (MAL)"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ba4</transliteration>
+𒂷</mapentry>
+<mapentry got="a3c1d1"  signName="PAD (ŠUK)"  MesZL="746" aBZL="362" LHA="469" HethZL="295"><transliteration valid="true">bad2</transliteration>
+𒉻</mapentry>
+<mapentry got="a10b9"  signName="BÀD (UG5 (EZEN×BAD))"  MesZL="275" aBZL="153" LHA="152_8" HethZL="114"><transliteration valid="true">bad3</transliteration>
+𒂦</mapentry>
+<mapentry got="a1b3c3"  signName="BAL"  MesZL="5" aBZL="3" LHA="9" HethZL="4"><transliteration valid="true">bal</transliteration>
+𒁄</mapentry>
+<mapentry got="a1b3c3"  signName="BAL"  MesZL="5" aBZL="3" LHA="9" HethZL="4"><transliteration valid="true">bala</transliteration>
+𒁄</mapentry>
+<mapentry><transliteration valid="true">balla</transliteration>
+𒃻𒊕𒅍𒂡𒍑</mapentry>
+<mapentry got="a1b2c2d2"  signName="TUR (DUMU)"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">banda3</transliteration>
+𒌉</mapentry>
+<mapentry got="a1b1"  signName="BAR"  MesZL="121" aBZL="57" LHA="74" HethZL="20"><transliteration valid="true">bar</transliteration>
+𒁇</mapentry>
+<mapentry got="a1b4c4"  signName="NE"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">bar7</transliteration>
+𒉈</mapentry>
+<mapentry got="a1b1"  signName="BAR"  MesZL="121" aBZL="57" LHA="74" HethZL="20"><transliteration valid="true">bara</transliteration>
+𒁇</mapentry>
+<mapentry got="a10b10c1d1"  signName="BÁRA"  MesZL="554" aBZL="217" LHA="344" HethZL="235"><transliteration valid="true">bara2</transliteration>
+𒁈</mapentry>
+<mapentry got="a10b10c1d1"  signName="BÁRA"  MesZL="554" aBZL="217" LHA="344" HethZL="235"><transliteration valid="true">barag</transliteration>
+𒁈</mapentry>
+<mapentry got="a4b2c1d1"  signName="BI"  MesZL="358" aBZL="79" LHA="214" HethZL="153"><transliteration valid="true">be2</transliteration>
+𒁉</mapentry>
+<mapentry got="a4b2c1d1"  signName="BI"  MesZL="358" aBZL="79" LHA="214" HethZL="153"><transliteration valid="true">bi</transliteration>
+𒁉</mapentry>
+<mapentry got="a1b4c4"  signName="NE"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">bi2</transliteration>
+𒉈</mapentry>
+<mapentry got="b1c1d1"  signName="BAD"  MesZL="113" aBZL="25" LHA="69" HethZL="13"><transliteration valid="true">bid2</transliteration>
+𒁁</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">bu</transliteration>
 𒁍</mapentry>
-<mapentry got="a5b2c1d1"  MesZL="16" aBZL="305" LHA="7" HethZL="213"><transliteration valid="true">su</transliteration>
-𒋢</mapentry>
-<mapentry got="a4b1c2d2"  MesZL="584" aBZL="266" LHA="373" HethZL="341"><transliteration valid="true">su3</transliteration>
-𒋤</mapentry>
-<mapentry got="a4b1c2d2"  MesZL="584" aBZL="266" LHA="373" HethZL="341"><transliteration valid="true">sud</transliteration>
-𒋤</mapentry>
-<mapentry got="a2b1c1d1"  MesZL="153" aBZL="44" LHA="103v" HethZL="41"><transliteration valid="true">suh</transliteration>
-𒈹</mapentry>
-<mapentry got="a2b1c1d1"  MesZL="153" aBZL="44" LHA="103v" HethZL="41"><transliteration valid="true">suh10</transliteration>
-𒈹</mapentry>
-<mapentry got="c11d5"  MesZL="892" aBZL="251" LHA="569" HethZL=""><transliteration valid="true">suh3</transliteration>
-𒄗</mapentry>
-<mapentry got="a8c6d2"  MesZL="646" aBZL="384" LHA="403" HethZL="349"><transliteration valid="true">suhur</transliteration>
-𒋦</mapentry>
-<mapentry got="a4b4"  MesZL="494" aBZL="196" LHA="321" HethZL="198"><transliteration valid="true">sukkal</transliteration>
-𒈛</mapentry>
-<mapentry got="c10"  MesZL="292" aBZL="388" LHA="164" HethZL="350"><transliteration valid="true">sum</transliteration>
-𒋧</mapentry>
-<mapentry got="a6b2c1d1"  MesZL="512" aBZL="331" LHA="329" HethZL=""><transliteration valid="true">sumur</transliteration>
-𒊨</mapentry>
-<mapentry got="a7b6c5d1"  MesZL="32" aBZL="316" LHA="18x" HethZL="136"><transliteration valid="true">sun4</transliteration>
-𒅾</mapentry>
-<mapentry got="a2b2c3d1"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">sun5</transliteration>
+<mapentry got="a8b2c7d1"  signName="PÙ (KA×KÁR)"  MesZL="33" aBZL="321" LHA="19" HethZL=""><transliteration valid="true">bum</transliteration>
+𒅤</mapentry>
+<mapentry got="a2b2c3d1"  signName="BÚR"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">bur2</transliteration>
 𒁔</mapentry>
-<mapentry got="a3b1d1"  MesZL="151" aBZL="56" LHA="101" HethZL="42"><transliteration valid="true">sur</transliteration>
-𒋩</mapentry>
-<mapentry got="a2b4c1d1"  MesZL="566" aBZL="203" LHA="353" HethZL="158"><transliteration valid="true">sza</transliteration>
-𒊭</mapentry>
-<mapentry got="a3d1"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">sza2</transliteration>
-𒃻</mapentry>
-<mapentry got="c3d3"  MesZL="599" aBZL="433" LHA="384" HethZL="294"><transliteration valid="true">sza3</transliteration>
-𒊮</mapentry>
-<mapentry got="c3d3"  MesZL="599" aBZL="433" LHA="384" HethZL="294"><transliteration valid="true">szag4</transliteration>
-𒊮</mapentry>
-<mapentry got="a5b2c3d2"  MesZL="744" aBZL="ŠUL:438" LHA="467" HethZL="46"><transliteration valid="true">szah2</transliteration>
-𒂄</mapentry>
-<mapentry got="a5b4c3d1"  MesZL="84" aBZL="185" LHA="46" HethZL=""><transliteration valid="true">szakir</transliteration>
-𒍀</mapentry>
-<mapentry got="b4c12"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">szam2</transliteration>
-𒉚</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">szamanur</transliteration>
-𒅖𒍏</mapentry>
-<mapentry got="c4"  MesZL="632" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">szar2</transliteration>
-𒊹</mapentry>
-<mapentry got="c10"  MesZL="579" aBZL="378" LHA="367" HethZL="338"><transliteration valid="true">sze</transliteration>
-𒊺</mapentry>
-<mapentry got="a2b7"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">sze3</transliteration>
-𒂠</mapentry>
-<mapentry got="a4b10c11d3"  MesZL="47" aBZL="317" LHA="25b" HethZL=""><transliteration valid="true">szeg11</transliteration>
-𒅝</mapentry>
-<mapentry got="c6d4"  MesZL="905" aBZL="243" LHA="567" HethZL="311"><transliteration valid="true">szeg12</transliteration>
-𒋞</mapentry>
-<mapentry got="a7b2c2d1"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">szembi2</transliteration>
-𒋆</mapentry>
-<mapentry got="a14b6"  MesZL="17" aBZL="306" LHA="8" HethZL="230"><transliteration valid="true">szen</transliteration>
-𒊿</mapentry>
-<mapentry got="b1c4d2"  MesZL="535" aBZL="21b" LHA="331" HethZL="79"><transliteration valid="true">szesz</transliteration>
-𒋀</mapentry>
-<mapentry got="a11b9"  MesZL="821" aBZL="" LHA="544" HethZL="63"><transliteration valid="true">szesz2</transliteration>
-𒋁</mapentry>
-<mapentry got="a3b5"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">szid</transliteration>
+<mapentry got="a2b2c3d1"  signName="BÚR"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">buru2</transliteration>
+𒁔</mapentry>
+<mapentry got="c1"  signName="U"  MesZL="661" aBZL="337" LHA="411" HethZL="261"><transliteration valid="true">buru3</transliteration>
+𒌋</mapentry>
+<mapentry got="a1b1c1d1"  signName="AN"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">d</transliteration>
+𒀭</mapentry>
+<mapentry got="a2b8c1"  signName="DA"  MesZL="561" aBZL="229" LHA="335" HethZL="214"><transliteration valid="true">da</transliteration>
+𒁕</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">dab5</transliteration>
+𒆪</mapentry>
+<mapentry><transliteration valid="true">dadag</transliteration>
+𒌓𒌓</mapentry>
+<mapentry got="a4b5c1d1"  signName="DAG (PÀR)"  MesZL="438" aBZL="168" LHA="280" HethZL="243"><transliteration valid="true">dag</transliteration>
+𒁖</mapentry>
+<mapentry got="a3b1c1"  signName="RI"  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">dal</transliteration>
+𒊑</mapentry>
+<mapentry got="a3b4c2d1"  signName="DAM"  MesZL="889" aBZL="454" LHA="557" HethZL="298"><transliteration valid="true">dam</transliteration>
+𒁮</mapentry>
+<mapentry><transliteration valid="true">danna</transliteration>
+𒆜𒁍</mapentry>
+<mapentry got="a6b2"  signName="IB"  MesZL="807" aBZL="394" LHA="535" HethZL="44"><transliteration valid="true">dara2</transliteration>
+𒅁</mapentry>
+<mapentry got="a2b6c4d4"  signName="UMUM×KASKAL"  MesZL="" aBZL="" LHA="338n1" HethZL=""><transliteration valid="true">de2</transliteration>
+𒌤</mapentry>
+<mapentry got="a1b4c4"  signName="NE"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">de3</transliteration>
+𒉈</mapentry>
+<mapentry got="b2c2d2"  signName="DI"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">di</transliteration>
+𒁲</mapentry>
+<mapentry got="a1b2c2d2"  signName="TUR (DUMU)"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">di4</transliteration>
+𒌉</mapentry>
+<mapentry got="a3b4"  signName="DIB (DAB)"  MesZL="813" aBZL="419" LHA="537" HethZL="210?"><transliteration valid="true">dib</transliteration>
+𒁳</mapentry>
+<mapentry><transliteration valid="true">didli</transliteration>
+𒀸𒀸</mapentry>
+<mapentry got="a1b1c1d1"  signName="AN"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">dijir</transliteration>
+𒀭</mapentry>
+<mapentry got="b1"  signName="AŠ"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">dili</transliteration>
+𒀸</mapentry>
+<mapentry got="a3b5"  signName="ŠID (LAG)"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">dilib</transliteration>
 𒋃</mapentry>
-<mapentry got="a4b4c1"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">szilig</transliteration>
-𒍂</mapentry>
-<mapentry got="a7b2c2d1"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">szim</transliteration>
-𒋆</mapentry>
-<mapentry got="a1b5"  MesZL="567" aBZL="225" LHA="354" HethZL="68"><transliteration valid="true">szu</transliteration>
-𒋗</mapentry>
-<mapentry got="a1c1"  MesZL="869" aBZL="422" LHA="545" HethZL="251"><transliteration valid="true">szu2</transliteration>
-𒋙</mapentry>
-<mapentry got="b2c2d2"  MesZL="111" aBZL="60" LHA="68" HethZL="43"><transliteration valid="true">szub</transliteration>
-𒊒</mapentry>
-<mapentry got="a4b8c5d1"  MesZL="49" aBZL="320" LHA="26" HethZL=""><transliteration valid="true">szudu3</transliteration>
-𒆃</mapentry>
-<mapentry got="a6b2c2d2"  MesZL="221" aBZL="122" LHA="126" HethZL="91"><transliteration valid="true">szum</transliteration>
-𒋳</mapentry>
-<mapentry got="a2b2c1d1"  MesZL="248" aBZL="123" LHA="139" HethZL="160"><transliteration valid="true">ta</transliteration>
-𒋫</mapentry>
-<mapentry got="b2"  MesZL="209" aBZL="109" LHA="124" HethZL="90"><transliteration valid="true">tab</transliteration>
-𒋰</mapentry>
-<mapentry got="a6b2c2d2"  MesZL="221" aBZL="122" LHA="126" HethZL="91"><transliteration valid="true">tag</transliteration>
-𒋳</mapentry>
-<mapentry got="a6b1c1"  MesZL="106" aBZL="58" LHA="63d" HethZL="227"><transliteration valid="true">tag4</transliteration>
-𒋺</mapentry>
-<mapentry got="b2c12"  MesZL="301" aBZL="142" LHA="169" HethZL="171"><transliteration valid="true">tah</transliteration>
-𒈭</mapentry>
-<mapentry got="a6b1c1"  MesZL="106" aBZL="58" LHA="63d" HethZL="227"><transliteration valid="true">taka4</transliteration>
-𒋺</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">tam</transliteration>
-𒌓</mapentry>
-<mapentry got="a1c2"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">tar</transliteration>
-𒋻</mapentry>
-<mapentry got="a2b5c7d5"  MesZL="166" aBZL="365" LHA="100; 063x" HethZL="71"><transliteration valid="true">tarah</transliteration>
-𒁰</mapentry>
-<mapentry got="a3b2"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">tasz</transliteration>
-𒌨</mapentry>
-<mapentry got="a2c2d2"  MesZL="589" aBZL="289" LHA="376" HethZL="249"><transliteration valid="true">te</transliteration>
-𒋼</mapentry>
-<mapentry got="c4d1"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tel</transliteration>
-𒌀</mapentry>
-<mapentry got="a3b2"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">tesz2</transliteration>
-𒌨</mapentry>
-<mapentry got="a1b2c2"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">ti</transliteration>
-𒋾</mapentry>
-<mapentry got="c4d1"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">til</transliteration>
-𒌀</mapentry>
-<mapentry got="a1b2c2"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">til3</transliteration>
-𒋾</mapentry>
-<mapentry MesZL="587" aBZL="380" LHA="375" HethZL="344"><transliteration valid="true">tir</transliteration>
-𒌁</mapentry>
-<mapentry got="a1c12d2"  MesZL="86" aBZL="382" LHA="58" HethZL="346"><transliteration valid="true">tu</transliteration>
-𒌅</mapentry>
-<mapentry got="a4b4c3d1"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tu2</transliteration>
-𒌈</mapentry>
-<mapentry got="a4b4c3d1"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tu4</transliteration>
-𒌈</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tu5</transliteration>
-𒋗𒉀</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tu6</transliteration>
-𒉆𒊒</mapentry>
-<mapentry got="b1c3d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tu7</transliteration>
-𒄰</mapentry>
-<mapentry got="a2b4"  MesZL="809" aBZL="417" LHA="536" HethZL="212"><transliteration valid="true">tug2</transliteration>
-𒌆</mapentry>
-<mapentry got="a2b1c1d1"  MesZL="827" aBZL="444" LHA="574" HethZL="53"><transliteration valid="true">tuku</transliteration>
-𒌇</mapentry>
-<mapentry got="a2b2c3"  MesZL="788" aBZL="411" LHA="515" HethZL=""><transliteration valid="true">tuku4</transliteration>
-𒇧</mapentry>
-<mapentry got="a2b2c1"  MesZL="786" aBZL="410" LHA="511" HethZL="180"><transliteration valid="true">tul2</transliteration>
-𒇥</mapentry>
-<mapentry got="a4b4c3d1"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tum</transliteration>
-𒌈</mapentry>
-<mapentry got="a1b2c2"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">tum2</transliteration>
+<mapentry got="a1c1"  signName="LIŠ"  MesZL="591" aBZL="232" LHA="377" HethZL="286"><transliteration valid="true">dilim2</transliteration>
+𒇺</mapentry>
+<mapentry got="a2b1c2d2"  signName="DIM"  MesZL="167" aBZL="14" LHA="94" HethZL="14"><transliteration valid="true">dim</transliteration>
+𒁴</mapentry>
+<mapentry got="a2b2c1d2"  signName="GIM (DÍM)"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">dim2</transliteration>
+𒁶</mapentry>
+<mapentry got="a4c7d1"  signName="LÚ-šeššig (LÚ.GAM)"  MesZL="516, 534" aBZL="" LHA="330_8n" HethZL=""><transliteration valid="true">dim3</transliteration>
+𒈕</mapentry>
+<mapentry><transliteration valid="true">dimgul</transliteration>
+𒈣𒈮</mapentry>
+<mapentry got="c3d1"  signName="DIN"  MesZL="119" aBZL="361" LHA="465" HethZL="330"><transliteration valid="true">din</transliteration>
+𒁷</mapentry>
+<mapentry><transliteration valid="true">dirig</transliteration>
+𒋛𒀀</mapentry>
+<mapentry got="a1"  signName="DIŠ (1)"  MesZL="748" aBZL="390" LHA="480" HethZL="356"><transliteration valid="true">disz</transliteration>
+𒁹</mapentry>
+<mapentry got="a1b2c2"  signName="DU"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">du</transliteration>
 𒁺</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tur3</transliteration>
-𒉣𒇬</mapentry>
-<mapentry got="a2b3"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">tusz</transliteration>
-𒆪</mapentry>
-<mapentry got="c1"  MesZL="" aBZL="" LHA="" HethZL="261"><transliteration valid="true">u</transliteration>
-𒌋</mapentry>
-<mapentry got="a4b2"  MesZL="490" aBZL="146" LHA="318" HethZL="195"><transliteration valid="true">u2</transliteration>
-𒌑</mapentry>
-<mapentry got="a4b5c1"  MesZL="731" aBZL="239b" LHA="455" HethZL="265"><transliteration valid="true">u3</transliteration>
-𒅇</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">u4</transliteration>
-𒌓</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">u6</transliteration>
-𒅆𒂍</mapentry>
-<mapentry got="a1c2d2"  MesZL="504" aBZL="288" LHA="306" HethZL="152"><transliteration valid="true">ub</transliteration>
-𒌒</mapentry>
-<mapentry got="a2b7"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">ub2</transliteration>
-𒂠</mapentry>
-<mapentry got="a10b12c5d3"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ubur</transliteration>
-𒁜</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">ud</transliteration>
-𒌓</mapentry>
-<mapentry got="a3b3"  MesZL="812" aBZL="416" LHA="537" HethZL="210"><transliteration valid="true">udu</transliteration>
-𒇻</mapentry>
-<mapentry got="a10b9c4d4"  MesZL="296" aBZL="179" LHA="130" HethZL="93"><transliteration valid="true">ug</transliteration>
-𒊌</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ugu</transliteration>
-𒌋𒅗</mapentry>
-<mapentry got="a2b3"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">ugu4</transliteration>
-𒆪</mapentry>
-<mapentry got="a5b1c2d2"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">uh</transliteration>
-𒄴</mapentry>
-<mapentry got="a1b2c2d1"  MesZL="698" aBZL="344" LHA="441" HethZL="275"><transliteration valid="true">ul</transliteration>
-𒌌</mapentry>
-<mapentry got="a4b1c2d2"  MesZL="7" aBZL="8" LHA="10" HethZL="6"><transliteration valid="true">ul4</transliteration>
-𒄉</mapentry>
-<mapentry got="a5b3"  MesZL="80" aBZL="189" LHA="49x" HethZL=""><transliteration valid="true">ulu3</transliteration>
-𒍇</mapentry>
-<mapentry got="a6b4"  MesZL="238" aBZL="113" LHA="134" HethZL="98"><transliteration valid="true">um</transliteration>
-𒌝</mapentry>
-<mapentry got="c1"  MesZL="" aBZL="" LHA="" HethZL="261"><transliteration valid="true">umun</transliteration>
-𒌋</mapentry>
-<mapentry got="a2b6c2d2"  MesZL="547" aBZL="215" LHA="338" HethZL="102"><transliteration valid="true">umun2</transliteration>
-𒌣</mapentry>
-<mapentry got="a6b5c2d2"  MesZL="" aBZL="" LHA="" HethZL="197"><transliteration valid="true">un</transliteration>
-𒌦</mapentry>
-<mapentry got="a4b4"  MesZL="73" aBZL="186" LHA="40" HethZL="134"><transliteration valid="true">unken</transliteration>
-𒌺</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">unu2</transliteration>
-𒋼𒀕</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">unu6</transliteration>
-𒋼𒀕</mapentry>
-<mapentry got="a1b2c4d1"  MesZL="232" aBZL="" LHA="" HethZL=""><transliteration valid="true">unug</transliteration>
-𒀔</mapentry>
-<mapentry got="a3b2"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">ur</transliteration>
-𒌨</mapentry>
-<mapentry got="a2b4c2"  MesZL="341" aBZL="72" LHA="203" HethZL="124"><transliteration valid="true">ur2</transliteration>
-𒌫</mapentry>
-<mapentry got="a13b4"  MesZL="411" aBZL="99" LHA="255" HethZL="58"><transliteration valid="true">ur3</transliteration>
-𒃡</mapentry>
-<mapentry got="a4c1d1"  MesZL="835" aBZL="448" LHA="594" HethZL=""><transliteration valid="true">ur4</transliteration>
-𒌴</mapentry>
-<mapentry got="a1b4c2d2"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">ur5</transliteration>
-𒄯</mapentry>
-<mapentry got="a4b6c9d1"  MesZL="35" aBZL="313" LHA="22x" HethZL=""><transliteration valid="true">urgu2</transliteration>
-𒅺</mapentry>
-<mapentry got="a6b8d2"  MesZL="574" aBZL="224" LHA="359n1" HethZL="246"><transliteration valid="true">uri</transliteration>
-𒌵</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">urim2</transliteration>
-𒋀𒀕</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">urim5</transliteration>
-𒋀𒀕</mapentry>
-<mapentry got="a2b4c2d2"  MesZL="88" aBZL="283" LHA="58" HethZL="315"><transliteration valid="true">uru5</transliteration>
-𒋽</mapentry>
-<mapentry got="a3b4"  MesZL="230" aBZL="111" LHA="132" HethZL="109"><transliteration valid="true">urud</transliteration>
-𒍏</mapentry>
-<mapentry got="b1c1"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">us2</transliteration>
-𒍗</mapentry>
-<mapentry got="a8"  MesZL="864" aBZL="479" LHA="598n2" HethZL="374"><transliteration valid="true">ussu</transliteration>
-𒐍</mapentry>
-<mapentry got="a3b2c1"  MesZL="381" aBZL="68" LHA="211" HethZL="132"><transliteration valid="true">usz</transliteration>
-𒍑</mapentry>
-<mapentry got="a3b3c5d2"  MesZL="29" aBZL="314" LHA="17" HethZL=""><transliteration valid="true">usz11</transliteration>
-𒅜</mapentry>
-<mapentry got="a5b6c16d2"  MesZL="26" aBZL="325" LHA="16" HethZL="146"><transliteration valid="true">usz7</transliteration>
-𒅲</mapentry>
-<mapentry got="a2b2c3d1"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">uszum</transliteration>
-𒁔</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">ut</transliteration>
-𒌓</mapentry>
-<mapentry got="a8b6c2d2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">uttu</transliteration>
-𒋸</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">uttuku</transliteration>
-𒃻𒋃</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">utu</transliteration>
-𒌓</mapentry>
-<mapentry got="a3b3"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">uzu</transliteration>
-𒌷</mapentry>
-<mapentry got="a1b1c2"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">wa</transliteration>
-𒉿</mapentry>
-<mapentry got="a4"  MesZL="851" aBZL="474" LHA="586" HethZL="366"><transliteration valid="true">za</transliteration>
-𒍝</mapentry>
-<mapentry got="a4b6c2d2"  MesZL="540" aBZL="206" LHA="332" HethZL="238"><transliteration valid="true">za3</transliteration>
-𒍠</mapentry>
-<mapentry got="c2d2"  MesZL="612" aBZL="247" LHA="393" HethZL="327"><transliteration valid="true">zab</transliteration>
-𒂟</mapentry>
-<mapentry MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">zabar</transliteration>
-𒌓𒅗𒁇</mapentry>
-<mapentry got="a4b6c2d2"  MesZL="540" aBZL="206" LHA="332" HethZL="238"><transliteration valid="true">zag</transliteration>
-𒍠</mapentry>
-<mapentry got="a7c2"  MesZL="846" aBZL="471" LHA="584; 587" HethZL=""><transliteration valid="true">zah3</transliteration>
-𒀄</mapentry>
-<mapentry got="a2c1d1"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">zal</transliteration>
-𒉌</mapentry>
-<mapentry got="c2d2"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">zalag</transliteration>
-𒌓</mapentry>
-<mapentry got="a9b8c3d1"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">zanabal</transliteration>
-𒈉</mapentry>
-<mapentry got="a4b4c1d1"  MesZL="259" aBZL="126" LHA="147" HethZL="108"><transliteration valid="true">ze2</transliteration>
-𒍢</mapentry>
-<mapentry got="a2b1c10"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zi</transliteration>
-𒍣</mapentry>
-<mapentry got="b4c4"  MesZL="336" aBZL="140" LHA="190" HethZL=""><transliteration valid="true">zib2</transliteration>
-𒍨</mapentry>
-<mapentry got="a2b1c10"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zid</transliteration>
-𒍣</mapentry>
-<mapentry got="a2b1c10"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zig3</transliteration>
-𒍣</mapentry>
-<mapentry got="a5b1c1d1"  MesZL="15" aBZL="304" LHA="6" HethZL="209"><transliteration valid="true">zu</transliteration>
-𒍪</mapentry>
-<mapentry got="a3b2c5d1"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">zu2</transliteration>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">du10</transliteration>
+𒄭</mapentry>
+<mapentry got="a3b2c5d1"  signName="KA"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">du11</transliteration>
 𒅗</mapentry>
-<mapentry got="a5b1c1d1"  MesZL="15" aBZL="304" LHA="6" HethZL="209"><transliteration valid="true">zuh</transliteration>
+<mapentry got="a5b4c6d1"  signName="LÚ×NE"  MesZL="522" aBZL="257" LHA="330_7a" HethZL=""><transliteration valid="true">du14</transliteration>
+𒈌</mapentry>
+<mapentry got="a1c1d1"  signName="GAG (KAK)"  MesZL="379" aBZL="260" LHA="230" HethZL="75"><transliteration valid="true">du3</transliteration>
+𒆕</mapentry>
+<mapentry got="a1b2c2d1"  signName="UL (DU7)"  MesZL="698" aBZL="344" LHA="441" HethZL="275"><transliteration valid="true">du7</transliteration>
+𒌌</mapentry>
+<mapentry got="b2c8"  signName="GABA"  MesZL="298" aBZL="141" LHA="167" HethZL="164"><transliteration valid="true">du8</transliteration>
+𒃮</mapentry>
+<mapentry got="a9b4"  signName="DUB"  MesZL="242" aBZL="112b" LHA="138" HethZL="99"><transliteration valid="true">dub</transliteration>
+𒁾</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">dub3</transliteration>
+𒄭</mapentry>
+<mapentry got="c12d2"  signName="BIR (ḪI×ŠE)"  MesZL="643" aBZL="287" LHA="400" HethZL="334"><transliteration valid="true">dubur</transliteration>
+𒄵</mapentry>
+<mapentry got="a8b2c1d1"  signName="DUG (BI×A)"  MesZL="499" aBZL="80" LHA="309" HethZL="162"><transliteration valid="true">dug</transliteration>
+𒂁</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">dug3</transliteration>
+𒄭</mapentry>
+<mapentry got="b9c1"  signName="DUGUD"  MesZL="704" aBZL="349" LHA="445" HethZL="268"><transliteration valid="true">dugud</transliteration>
+𒂂</mapentry>
+<mapentry><transliteration valid="true">dul</transliteration>
+𒌋𒌆</mapentry>
+<mapentry got="a4b4c3d1"  signName="TUM"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">dum</transliteration>
+𒌈</mapentry>
+<mapentry got="a1b2c2d2"  signName="TUR (DUMU)"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">dumu</transliteration>
+𒌉</mapentry>
+<mapentry got="a5b2c3d2"  signName="ŠUL (DUN)"  MesZL="744" aBZL="ŠUL:438" LHA="467" HethZL="46"><transliteration valid="true">dun</transliteration>
+𒂄</mapentry>
+<mapentry got="a3b3"  signName="GÍN (TÙN)"  MesZL="836" aBZL="TÙN:401a, GÍN:401b" LHA="595" HethZL="223; 209.2"><transliteration valid="true">dun3</transliteration>
+𒂅</mapentry>
+<mapentry got="a4b2c2d2"  signName="DUR (GÚxGAG, GÚ.GAG)"  MesZL="178" aBZL="88" LHA="108" HethZL="202"><transliteration valid="true">dur</transliteration>
+𒄙</mapentry>
+<mapentry got="a2b3"  signName="DUŔ"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">dur2</transliteration>
+𒂉</mapentry>
+<mapentry got="a3"  signName="A"  MesZL="839" aBZL="470" LHA="579" HethZL="364; 365"><transliteration valid="true">duru5</transliteration>
+𒀀</mapentry>
+<mapentry got="a2b3"  signName="DUŔ"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">durun</transliteration>
+𒂉</mapentry>
+<mapentry got="a3b4"  signName="E"  MesZL="498" aBZL="167" LHA="308" HethZL="187"><transliteration valid="true">e</transliteration>
+𒂊</mapentry>
+<mapentry got="a5b4"  signName="É"  MesZL="495" aBZL="107" LHA="324" HethZL="199"><transliteration valid="true">e2</transliteration>
+𒂍</mapentry>
+<mapentry><transliteration valid="true">ed3</transliteration>
+𒇯𒁺</mapentry>
+<mapentry got="a7b7c3d2"  signName="EDIN"  MesZL="300" aBZL="115" LHA="168" HethZL="(168)"><transliteration valid="true">eden</transliteration>
+𒂔</mapentry>
+<mapentry got="a7b7c3d2"  signName="EDIN"  MesZL="300" aBZL="115" LHA="168" HethZL="(168)"><transliteration valid="true">edin</transliteration>
+𒂔</mapentry>
+<mapentry got="a3b4"  signName="E"  MesZL="498" aBZL="167" LHA="308" HethZL="187"><transliteration valid="true">eg2</transliteration>
+𒂊</mapentry>
+<mapentry got="a2b7"  signName="ŠÈ (ÉŠ, GI7, ZÌ)"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">egir2</transliteration>
+𒂠</mapentry>
+<mapentry got="a5b1c2d2"  signName="AḪ (ḪI×NUN)"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">eh</transliteration>
+𒄴</mapentry>
+<mapentry got="a3b3c1d1"  signName="EL"  MesZL="899" aBZL="455" LHA="564" HethZL="307"><transliteration valid="true">el</transliteration>
+𒂖</mapentry>
+<mapentry got="a1b8c6"  signName="ÁG (NÍNDA×NE)"  MesZL="326" aBZL="136" LHA="183" HethZL="121"><transliteration valid="true">em3</transliteration>
+𒉘</mapentry>
+<mapentry got="a4b3c5d1"  signName="EME (KA×ME)"  MesZL="61" aBZL="326" LHA="32" HethZL="147"><transliteration valid="true">eme</transliteration>
+𒅴</mapentry>
+<mapentry got="a1b4c6d2"  signName="ÉMEŠ (NE×UD)"  MesZL="314" aBZL="" LHA="174" HethZL=""><transliteration valid="true">emesz2</transliteration>
+𒉊</mapentry>
+<mapentry got="a2b5c3"  signName="EN"  MesZL="164" aBZL="62" LHA="99" HethZL="40"><transliteration valid="true">en</transliteration>
+𒂗</mapentry>
+<mapentry got="a2b4c11d1"  signName="LI"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">en3</transliteration>
+𒇷</mapentry>
+<mapentry><transliteration valid="true">endib</transliteration>
+𒂗𒈨𒈬</mapentry>
+<mapentry><transliteration valid="true">endub</transliteration>
+𒂗𒈨𒈬</mapentry>
+<mapentry got="a2b3c1d1"  signName="ENGUR (LAGAB×ḪAL)"  MesZL="756" aBZL="404" LHA="484" HethZL="216"><transliteration valid="true">engur</transliteration>
+𒇉</mapentry>
+<mapentry got="a3c1d1"  signName="IR (GAG-gunû)"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">er</transliteration>
+𒅕</mapentry>
+<mapentry><transliteration valid="true">er2</transliteration>
+𒀀𒅆</mapentry>
+<mapentry got="a5b1"  signName="NUN"  MesZL="143" aBZL="47" LHA="87" HethZL="36"><transliteration valid="true">eridu</transliteration>
+𒉣</mapentry>
+<mapentry><transliteration valid="true">erim2</transliteration>
+𒉈𒊒</mapentry>
+<mapentry got="a2b2c1d1"  signName="KAL"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">esi</transliteration>
+𒆗</mapentry>
+<mapentry got="c3"  signName="EŠ (3×U)"  MesZL="711" aBZL="366" LHA="472" HethZL="331"><transliteration valid="true">esz</transliteration>
+𒌍</mapentry>
+<mapentry got="a7b5c5"  signName="EN×GAŃTENÛ"  MesZL="" aBZL="" LHA="054v" HethZL=""><transliteration valid="true">eszgiri2</transliteration>
+𒂙</mapentry>
+<mapentry got="a4b6"  signName="EZEN"  MesZL="271" aBZL="152a,b,c" LHA="152" HethZL="106"><transliteration valid="true">ezen</transliteration>
+𒂡</mapentry>
+<mapentry got="a5b6c1d1"  signName="GA"  MesZL="491" aBZL="201" LHA="319" HethZL="159"><transliteration valid="true">ga</transliteration>
+𒂵</mapentry>
+<mapentry got="a3b2"  signName="GÁ (MAL)"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ga2</transliteration>
+𒂷</mapentry>
+<mapentry got="a2b8c1"  signName="KAB"  MesZL="148" aBZL="226" LHA="88" HethZL="49"><transliteration valid="true">gab2</transliteration>
+𒆏</mapentry>
+<mapentry got="b2c8"  signName="GABA"  MesZL="298" aBZL="141" LHA="167" HethZL="164"><transliteration valid="true">gaba</transliteration>
+𒃮</mapentry>
+<mapentry got="a1b5"  signName="GAL"  MesZL="553" aBZL="213" LHA="343" HethZL="242"><transliteration valid="true">gal</transliteration>
+𒃲</mapentry>
+<mapentry got="a3b6c2"  signName="IG (GÁL)"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">gal2</transliteration>
+𒅅</mapentry>
+<mapentry got="a1b1c1d1"  signName="MUNUS (SAL)"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">gal4</transliteration>
+𒊩</mapentry>
+<mapentry got="a1b2c2d1"  signName="GALAM (SUKUD)"  MesZL="338" aBZL="210 and 133" LHA="190kv" HethZL=""><transliteration valid="true">galam</transliteration>
+𒃴</mapentry>
+<mapentry got="c2"  signName="GAM"  MesZL="576" aBZL="359" LHA="362" HethZL="247"><transliteration valid="true">gam</transliteration>
+𒃵</mapentry>
+<mapentry got="a8b2c2d2"  signName="GAN"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">gan</transliteration>
+𒃶</mapentry>
+<mapentry got="a6b2"  signName="GÁN"  MesZL="174" aBZL="106" LHA="105" HethZL="61"><transliteration valid="true">gan2</transliteration>
+𒃷</mapentry>
+<mapentry got="a6b2"  signName="GÁN"  MesZL="174" aBZL="106" LHA="105" HethZL="61"><transliteration valid="true">gana2</transliteration>
+𒃷</mapentry>
+<mapentry got="a3d1"  signName="NÍG (GAR, NINDA)"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">gar</transliteration>
+𒃻</mapentry>
+<mapentry got="b4c2d1"  signName="GÀR (QAR)"  MesZL="543" aBZL="209" LHA="333" HethZL="240"><transliteration valid="true">gar3</transliteration>
+𒃼</mapentry>
+<mapentry got="a9b6c1d1"  signName="GA-gunû"  MesZL="492" aBZL="202" LHA="319n" HethZL=""><transliteration valid="true">gara2</transliteration>
+𒂶</mapentry>
+<mapentry got="a2b4c14"  signName="GAZ (KUM×ŠE)"  MesZL="340" aBZL="139" LHA="192" HethZL="122"><transliteration valid="true">gaz</transliteration>
+𒄤</mapentry>
+<mapentry><transliteration valid="true">gazi</transliteration>
+𒓊</mapentry>
+<mapentry got="a1b1c5d2"  signName="GI"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">ge</transliteration>
+𒄀</mapentry>
+<mapentry got="a1b5c4d2"  signName="GI4 (GI-gunû)"  MesZL="507" aBZL="214" LHA="326" HethZL="234"><transliteration valid="true">ge4</transliteration>
+𒄄</mapentry>
+<mapentry got="a1b2c2"  signName="DU"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">gen</transliteration>
+𒁺</mapentry>
+<mapentry got="a1b1c5d2"  signName="GI"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">gen6</transliteration>
+𒄀</mapentry>
+<mapentry got="a1b2"  signName="GIŠ (GEŠ)"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">gesz</transliteration>
+𒄑</mapentry>
+<mapentry got="a1b1c5d2"  signName="GI"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">gi</transliteration>
+𒄀</mapentry>
+<mapentry got="a6b4"  signName="KID (LÍL)"  MesZL="484" aBZL="163" LHA="313" HethZL="194"><transliteration valid="true">gi2</transliteration>
+𒆤</mapentry>
+<mapentry got="a1b5c4d2"  signName="GI4 (GI-gunû)"  MesZL="507" aBZL="214" LHA="326" HethZL="234"><transliteration valid="true">gi4</transliteration>
+𒄄</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">gid2</transliteration>
+𒁍</mapentry>
+<mapentry><transliteration valid="true">gig</transliteration>
+𒈪𒉭</mapentry>
+<mapentry got="b8c1"  signName="MI"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">gig2</transliteration>
+𒈪</mapentry>
+<mapentry got="c9d9"  signName="GIL (GIoverGI parall. or crossing)"  MesZL="105" aBZL="250" LHA="67" HethZL="258"><transliteration valid="true">gil</transliteration>
+𒄃</mapentry>
+<mapentry got="c3"  signName="KUR"  MesZL="578" aBZL="369" LHA="366" HethZL="329"><transliteration valid="true">gin3</transliteration>
+𒆳</mapentry>
+<mapentry got="a2b2c1d2"  signName="GIM (DÍM)"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">gin7</transliteration>
+𒁶</mapentry>
+<mapentry got="a4b4c2"  signName="GIR (ḪA-gunû)"  MesZL="558" aBZL="222" LHA="346" HethZL="244A"><transliteration valid="true">gir</transliteration>
+𒄫</mapentry>
+<mapentry got="a1b1c2d2"  signName="GÍR"  MesZL="6" aBZL="8" LHA="10" HethZL="6"><transliteration valid="true">gir2</transliteration>
+𒄈</mapentry>
+<mapentry got="a1b6c3d3"  signName="GÌR"  MesZL="701" aBZL="291b" LHA="444" HethZL="301"><transliteration valid="true">gir3</transliteration>
+𒄊</mapentry>
+<mapentry got="a3b2c5d1"  signName="KA"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">giri17</transliteration>
+𒅗</mapentry>
+<mapentry got="a1b2"  signName="GIŠ (GEŠ)"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">gisz</transliteration>
+𒄑</mapentry>
+<mapentry got="a1"  signName="one GEŠ2"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">gisz2</transliteration>
+𒐕</mapentry>
+<mapentry got="a2b1c3d1"  signName="GU"  MesZL="891" aBZL="458" LHA="559" HethZL="304"><transliteration valid="true">gu</transliteration>
+𒄖</mapentry>
+<mapentry got="a3b2c2d2"  signName="GÚ (TIK)"  MesZL="176" aBZL="89" LHA="106" HethZL="201"><transliteration valid="true">gu2</transliteration>
+𒄘</mapentry>
+<mapentry got="a1b2c1d1"  signName="GU4"  MesZL="472" aBZL="118" LHA="297" HethZL="157"><transliteration valid="true">gu4</transliteration>
+𒄞</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">gu5</transliteration>
+𒆪</mapentry>
+<mapentry got="a6b2c5d2"  signName="GU7 (KA×NÍG)"  MesZL="65" aBZL="329" LHA="36" HethZL="149"><transliteration valid="true">gu7</transliteration>
+𒅥</mapentry>
+<mapentry got="a1b2c2"  signName="DU"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">gub</transliteration>
+𒁺</mapentry>
+<mapentry got="a2b4c11d1"  signName="LI"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">gub2</transliteration>
+𒇷</mapentry>
+<mapentry got="a1b2c1d1"  signName="GU4"  MesZL="472" aBZL="118" LHA="297" HethZL="157"><transliteration valid="true">gud</transliteration>
+𒄞</mapentry>
+<mapentry><transliteration valid="true">gud3</transliteration>
+𒌑𒆠𒋧𒂵</mapentry>
+<mapentry got="a2b10"  signName="GÚG (LÙ; ŠÈ-gunû)"  MesZL="555" aBZL="216" LHA="345" HethZL="220; 221"><transliteration valid="true">gug2</transliteration>
+𒈖</mapentry>
+<mapentry got="a2b4c2"  signName="GUL (SÚN)"  MesZL="682" aBZL="343" LHA="429" HethZL="271"><transliteration valid="true">gul</transliteration>
+𒄢</mapentry>
+<mapentry got="a3b2c2d2"  signName="GÚ (TIK)"  MesZL="176" aBZL="89" LHA="106" HethZL="201"><transliteration valid="true">gun2</transliteration>
+𒄘</mapentry>
+<mapentry got="a2b6c1"  signName="DAR (GÙN; ḪU-gunû, SI-gunû)"  MesZL="183" aBZL="37" LHA="113" HethZL="83"><transliteration valid="true">gun3</transliteration>
+𒁯</mapentry>
+<mapentry got="a2b2"  signName="GUR"  MesZL="180" aBZL="92" LHA="111" HethZL="185"><transliteration valid="true">gur</transliteration>
+𒄥</mapentry>
+<mapentry got="c2"  signName="GAM"  MesZL="576" aBZL="359" LHA="362" HethZL="247"><transliteration valid="true">gur2</transliteration>
+𒃵</mapentry>
+<mapentry got="a2b2"  signName="LAGAB"  MesZL="755" aBZL="402" LHA="483" HethZL="179"><transliteration valid="true">gur4</transliteration>
+𒆸</mapentry>
+<mapentry got="a2b2c4"  signName="GURUN"  MesZL="503" aBZL="145" LHA="310" HethZL="193"><transliteration valid="true">gurun</transliteration>
+𒄧</mapentry>
+<mapentry got="a4c2"  signName="ḪA (KU6)"  MesZL="856" aBZL="475" LHA="589" HethZL="367"><transliteration valid="true">ha</transliteration>
+𒄩</mapentry>
+<mapentry got="b1c1d1"  signName="ḪAL"  MesZL="3" aBZL="7" LHA="2" HethZL="2"><transliteration valid="true">hal</transliteration>
+𒄬</mapentry>
+<mapentry got="a1b1c3d3"  signName="ZUM"  MesZL="884" aBZL="456" LHA="555" HethZL="300"><transliteration valid="true">hal2</transliteration>
+𒍮</mapentry>
+<mapentry><transliteration valid="true">halba2</transliteration>
+𒍝𒈹𒁲</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">har</transliteration>
+𒄯</mapentry>
+<mapentry got="a6b2c3d1"  signName="LÚ×LAGAB"  MesZL="528" aBZL="" LHA="330_7b" HethZL=""><transliteration valid="true">hara3</transliteration>
+𒈊</mapentry>
+<mapentry got="a1c2"  signName="TAR"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">hasz</transliteration>
+𒋻</mapentry>
+<mapentry got="a1b2"  signName="PA"  MesZL="464" aBZL="143" LHA="295" HethZL="174"><transliteration valid="true">hat</transliteration>
+𒉺</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">he</transliteration>
+𒄭</mapentry>
+<mapentry got="a8b2c2d2"  signName="GAN"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">he2</transliteration>
+𒃶</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">hi</transliteration>
+𒄭</mapentry>
+<mapentry got="a2b1c1"  signName="ḪU"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">hu</transliteration>
+𒄷</mapentry>
+<mapentry got="a3b1c2d1"  signName="ḪÚB"  MesZL="149" aBZL="445" LHA="88" HethZL="49"><transliteration valid="true">hub2</transliteration>
+𒄸</mapentry>
+<mapentry><transliteration valid="true">hubur</transliteration>
+𒄠𒄠</mapentry>
+<mapentry got="a3b2"  signName="UR"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">hul</transliteration>
+𒌨</mapentry>
+<mapentry got="a2b5c1"  signName="ḪÚL"  MesZL="877" aBZL="425" LHA="550" HethZL="254"><transliteration valid="true">hul2</transliteration>
+𒄾</mapentry>
+<mapentry got="c8d4"  signName="LUM"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">hum</transliteration>
+𒈝</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">hur</transliteration>
+𒄯</mapentry>
+<mapentry><transliteration valid="true">husz</transliteration>
+𒄭𒄊</mapentry>
+<mapentry got="b5"  signName="I"  MesZL="252" aBZL="192" LHA="142" HethZL="217"><transliteration valid="true">i</transliteration>
+𒄿</mapentry>
+<mapentry got="a5"  signName="IÁ (5)"  MesZL="861" aBZL="476" LHA="598a" HethZL="371"><transliteration valid="true">i2</transliteration>
+𒐊</mapentry>
+<mapentry got="a2c1d1"  signName="NI"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">i3</transliteration>
+𒉌</mapentry>
+<mapentry got="a3b5"  signName="IA (I.A)"  MesZL="260" aBZL="193" LHA="142a" HethZL="218"><transliteration valid="true">ia</transliteration>
+𒅀</mapentry>
+<mapentry got="a4b5"  signName="RA"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">ia3</transliteration>
+𒊏</mapentry>
+<mapentry got="a6b2"  signName="IB"  MesZL="807" aBZL="394" LHA="535" HethZL="44"><transliteration valid="true">ib</transliteration>
+𒅁</mapentry>
+<mapentry got="a4b4c3d1"  signName="TUM"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">ib2</transliteration>
+𒌈</mapentry>
+<mapentry got="a6b2"  signName="IB"  MesZL="807" aBZL="394" LHA="535" HethZL="44"><transliteration valid="true">ibbi</transliteration>
+𒅁</mapentry>
+<mapentry><transliteration valid="true">id2</transliteration>
+𒀀𒇉</mapentry>
+<mapentry><transliteration valid="true">idigna</transliteration>
+𒄘𒃼</mapentry>
+<mapentry got="a3b6c2"  signName="IG (GÁL)"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">ig</transliteration>
+𒅅</mapentry>
+<mapentry got="a1b1c1"  signName="IGI (ŠI, LIM)"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">igi</transliteration>
+𒅆</mapentry>
+<mapentry got="a5b2c8d1"  signName="IL (AL×ŠE)"  MesZL="348" aBZL="78" LHA="205" HethZL="117"><transliteration valid="true">il</transliteration>
+𒅋</mapentry>
+<mapentry got="a9b7c1d1"  signName="ÍL (GA.GÍN)"  MesZL="493" aBZL="204" LHA="320" HethZL="161"><transliteration valid="true">il2</transliteration>
+𒅍</mapentry>
+<mapentry><transliteration valid="true">ildum</transliteration>
+𒅆𒂠𒁺𒂟</mapentry>
+<mapentry got="a9"  signName="ILIMMU (9)"  MesZL="868" aBZL="480" LHA="598e" HethZL="375"><transliteration valid="true">ilimmu</transliteration>
+𒑆</mapentry>
+<mapentry got="a2b1c10"  signName="ZI"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">im</transliteration>
+𒍣</mapentry>
+<mapentry><transliteration valid="true">imhur2</transliteration>
+𒅆𒁉</mapentry>
+<mapentry><transliteration valid="true">imhur3</transliteration>
+𒅆𒁉</mapentry>
+<mapentry><transliteration valid="true">imhur4</transliteration>
+𒅆𒁉</mapentry>
+<mapentry got="a7"  signName="IMIN (7)"  MesZL="863" aBZL="478" LHA="598n1" HethZL="373"><transliteration valid="true">imin</transliteration>
+𒅓</mapentry>
+<mapentry got="a2c10d1"  signName="IN"  MesZL="261" aBZL="386" LHA="148" HethZL="354"><transliteration valid="true">in</transliteration>
+𒅔</mapentry>
+<mapentry got="a8c6d2"  signName="LÚGEGENÜBERLU"  MesZL="" aBZL="255" LHA="330_60" HethZL=""><transliteration valid="true">inbir</transliteration>
+𒈓</mapentry>
+<mapentry got="a3b2c5d1"  signName="KA"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">inim</transliteration>
+𒅗</mapentry>
+<mapentry got="a3c1d1"  signName="IR (GAG-gunû)"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">ir</transliteration>
+𒅕</mapentry>
+<mapentry got="a3b3"  signName="URU (IRI)"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">iri</transliteration>
+𒌷</mapentry>
+<mapentry got="a1b2"  signName="GIŠ (GEŠ)"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">is</transliteration>
+𒄑</mapentry>
+<mapentry got="a2b4c1"  signName="IŠ"  MesZL="357" aBZL="162" LHA="212" HethZL="151"><transliteration valid="true">isz</transliteration>
+𒅖</mapentry>
+<mapentry got="a3c3d3"  signName="PEŠ4 (ŠÀ×A)"  MesZL="608" aBZL="436" LHA="390" HethZL=""><transliteration valid="true">iszkila</transliteration>
+𒊯</mapentry>
+<mapentry got="c5d2"  signName="ITI (UD×EŠ)"  MesZL="20" aBZL="334" LHA="52" HethZL="84"><transliteration valid="true">itid</transliteration>
+𒌗</mapentry>
+<mapentry got="c6d2"  signName="UDŠEŠIG"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">itu</transliteration>
+𒌚</mapentry>
+<mapentry got="a1b4c4"  signName="NE"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">izi</transliteration>
+𒉈</mapentry>
+<mapentry got="a3b2"  signName="GÁ (MAL)"  MesZL="387" aBZL="93" LHA="233" HethZL="56"><transliteration valid="true">ja2</transliteration>
+𒂷</mapentry>
+<mapentry got="a3b6c2"  signName="IG (GÁL)"  MesZL="136" aBZL="61" LHA="80" HethZL="67"><transliteration valid="true">jal2</transliteration>
+𒅅</mapentry>
+<mapentry got="a6b2d1"  signName="GALGA (GÁÉ×NÍG)"  MesZL="431" aBZL="105" LHA="278" HethZL="60"><transliteration valid="true">jalga</transliteration>
+𒃌</mapentry>
+<mapentry got="a3d1"  signName="NÍG (GAR, NINDA)"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">jar</transliteration>
+𒃻</mapentry>
+<mapentry got="a1b2c2"  signName="DU"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">jen</transliteration>
+𒁺</mapentry>
+<mapentry got="a1b2"  signName="GIŠ (GEŠ)"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">jesz</transliteration>
+𒄑</mapentry>
+<mapentry got="a2b2c3d1"  signName="GEŠTIN (GIŠ.DIN)"  MesZL="212" aBZL="77" LHA="210" HethZL="131"><transliteration valid="true">jesztin</transliteration>
+𒃾</mapentry>
+<mapentry got="b8c1"  signName="MI"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">ji6</transliteration>
+𒈪</mapentry>
+<mapentry got="a1b6c3d3"  signName="GÌR"  MesZL="701" aBZL="291b" LHA="444" HethZL="301"><transliteration valid="true">jiri3</transliteration>
+𒄊</mapentry>
+<mapentry got="a1b2"  signName="GIŠ (GEŠ)"  MesZL="469" aBZL="160" LHA="296" HethZL="178"><transliteration valid="true">jisz</transliteration>
+𒄑</mapentry>
+<mapentry got="a3b2c5d1"  signName="KA"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">ka</transliteration>
+𒅗</mapentry>
+<mapentry got="a6b2c5d1"  signName="NAG (KA×A)"  MesZL="64" aBZL="328" LHA="35" HethZL="148"><transliteration valid="true">kab2</transliteration>
+𒅘</mapentry>
+<mapentry got="a2b6c1d1"  signName="KAD4"  MesZL="568" aBZL="227a" LHA="354b" HethZL="68"><transliteration valid="true">kad4</transliteration>
+𒆒</mapentry>
+<mapentry got="a3b5c8d1"  signName="KAD5"  MesZL="569" aBZL="227b" LHA="354bv" HethZL=""><transliteration valid="true">kad5</transliteration>
+𒆓</mapentry>
+<mapentry><transliteration valid="true">kadra</transliteration>
+𒃻𒊮𒀀</mapentry>
+<mapentry got="a2b2c1d1"  signName="KAL"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">kal</transliteration>
+𒆗</mapentry>
+<mapentry got="a6b5c2d2"  signName="UN"  MesZL="501" aBZL="169" LHA="312" HethZL="197"><transliteration valid="true">kalam</transliteration>
+𒌦</mapentry>
+<mapentry got="a8b2c2d2"  signName="GAN"  MesZL="253" aBZL="120" LHA="143" HethZL="113"><transliteration valid="true">kan</transliteration>
+𒃶</mapentry>
+<mapentry got="a5b4c4"  signName="KÁ"  MesZL="222" aBZL="175" LHA="133" HethZL="167"><transliteration valid="true">kan4</transliteration>
+𒆍</mapentry>
+<mapentry><transliteration valid="true">kar</transliteration>
+𒋼𒀀</mapentry>
+<mapentry got="a5c2"  signName="KÁR (GÁN-tenû and ŠÈ-tenû)"  MesZL="175" aBZL="246" LHA="105" HethZL=""><transliteration valid="true">kar2</transliteration>
+𒃸</mapentry>
+<mapentry got="a5c2"  signName="KÁR (GÁN-tenû and ŠÈ-tenû)"  MesZL="175" aBZL="246" LHA="105" HethZL=""><transliteration valid="true">kar3</transliteration>
+𒃸</mapentry>
+<mapentry got="a1b2c6"  signName="KAŠ4 (DU-šeššig)"  MesZL="352" aBZL="66" LHA="202" HethZL="129"><transliteration valid="true">kas4</transliteration>
+𒁽</mapentry>
+<mapentry got="a12b16"  signName="KEŠ´"  MesZL="271" aBZL="152a,b,c" LHA="152" HethZL="106"><transliteration valid="true">kesz2</transliteration>
+𒆟</mapentry>
+<mapentry got="a12b16"  signName="KEŠ´"  MesZL="271" aBZL="152a,b,c" LHA="152" HethZL="106"><transliteration valid="true">kesze2</transliteration>
+𒆟</mapentry>
+<mapentry got="b4c2d2"  signName="KI"  MesZL="737" aBZL="432" LHA="461" HethZL="313"><transliteration valid="true">ki</transliteration>
+𒆠</mapentry>
+<mapentry got="a2b2c1d2"  signName="GIM (DÍM)"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">kim</transliteration>
+𒁶</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">kim3</transliteration>
+𒁍</mapentry>
+<mapentry got="a3b5c1d1"  signName="KIN"  MesZL="815" aBZL="447" LHA="538" HethZL="47"><transliteration valid="true">kin</transliteration>
+𒆥</mapentry>
+<mapentry><transliteration valid="true">kingal</transliteration>
+𒃲𒌺</mapentry>
+<mapentry got="a2b2c9"  signName="SAR"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">kiri6</transliteration>
+𒊬</mapentry>
+<mapentry got="a2b7c5d3"  signName="KIŠ"  MesZL="678" aBZL="291a" LHA="425" HethZL="273"><transliteration valid="true">kisz</transliteration>
+𒆧</mapentry>
+<mapentry got="a8b4"  signName="MES (RID)"  MesZL="486" aBZL="112a" LHA="314" HethZL="112"><transliteration valid="true">kiszib</transliteration>
+𒈩</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">ku</transliteration>
+𒆪</mapentry>
+<mapentry got="b8c1"  signName="MI"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">ku10</transliteration>
+𒈪</mapentry>
+<mapentry got="c7d7"  signName="KUG (KÙ)"  MesZL="745" aBZL="428" LHA="468" HethZL="69"><transliteration valid="true">ku3</transliteration>
+𒆬</mapentry>
+<mapentry got="a4c2"  signName="ḪA (KU6)"  MesZL="856" aBZL="475" LHA="589" HethZL="367"><transliteration valid="true">ku6</transliteration>
+𒄩</mapentry>
+<mapentry got="a1c2"  signName="TAR"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">kud</transliteration>
+𒋻</mapentry>
+<mapentry got="c7d7"  signName="KUG (KÙ)"  MesZL="745" aBZL="428" LHA="468" HethZL="69"><transliteration valid="true">kug</transliteration>
+𒆬</mapentry>
+<mapentry got="a5b2c2d2"  signName="KUN"  MesZL="131" aBZL="32" LHA="77" HethZL="35"><transliteration valid="true">kun</transliteration>
+𒆲</mapentry>
+<mapentry><transliteration valid="true">kun4</transliteration>
+𒄿𒇻</mapentry>
+<mapentry got="c3"  signName="KUR"  MesZL="578" aBZL="369" LHA="366" HethZL="329"><transliteration valid="true">kur</transliteration>
+𒆳</mapentry>
+<mapentry got="c1d1"  signName="PAB or PAP"  MesZL="92" aBZL="249" LHA="60" HethZL="256(1)"><transliteration valid="true">kur2</transliteration>
+𒉽</mapentry>
+<mapentry><transliteration valid="true">kurku2</transliteration>
+𒅗𒀭𒉌𒋛</mapentry>
+<mapentry><transliteration valid="true">kurum7</transliteration>
+𒅆𒂟</mapentry>
+<mapentry got="c3d1"  signName="DIN"  MesZL="119" aBZL="361" LHA="465" HethZL="330"><transliteration valid="true">kurun2</transliteration>
+𒁷</mapentry>
+<mapentry got="a5b2c1d1"  signName="SU"  MesZL="16" aBZL="305" LHA="7" HethZL="213"><transliteration valid="true">kusz</transliteration>
+𒋢</mapentry>
+<mapentry got="a6b2c1d1"  signName="DÙL (SAG-gunû)"  MesZL="512" aBZL="331" LHA="329" HethZL=""><transliteration valid="true">kusz2</transliteration>
+𒊨</mapentry>
+<mapentry got="a5b7"  signName="LA"  MesZL="89" aBZL="177" LHA="55" HethZL="95"><transliteration valid="true">la</transliteration>
+𒆷</mapentry>
+<mapentry got="a1b1"  signName="LAL (LÁ)"  MesZL="750" aBZL="391" LHA="481" HethZL="358"><transliteration valid="true">la2</transliteration>
+𒇲</mapentry>
+<mapentry got="a3b5"  signName="ŠID (LAG)"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">lag</transliteration>
+𒋃</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">lah</transliteration>
+𒌓</mapentry>
+<mapentry got="c2d2"  signName="ERIM (ZÁLAG)"  MesZL="612" aBZL="247" LHA="393" HethZL="327"><transliteration valid="true">lah2</transliteration>
+𒂟</mapentry>
+<mapentry got="a1b1"  signName="LAL (LÁ)"  MesZL="750" aBZL="391" LHA="481" HethZL="358"><transliteration valid="true">lal</transliteration>
+𒇲</mapentry>
+<mapentry got="a2b2c3d3"  signName="LÀL (TA×ḪI)"  MesZL="170" aBZL="124" LHA="109" HethZL="170"><transliteration valid="true">lal3</transliteration>
+𒋭</mapentry>
+<mapentry got="a5c2d2"  signName="LAM"  MesZL="693" aBZL="244" LHA="435" HethZL="306"><transliteration valid="true">lam</transliteration>
+𒇴</mapentry>
+<mapentry got="a2b4c11d1"  signName="LI"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">le</transliteration>
+𒇷</mapentry>
+<mapentry got="a1b1c1"  signName="IGI (ŠI, LIM)"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">lem</transliteration>
+𒅆</mapentry>
+<mapentry got="a2b4c11d1"  signName="LI"  MesZL="85" aBZL="381" LHA="59" HethZL="343"><transliteration valid="true">li</transliteration>
+𒇷</mapentry>
+<mapentry got="a3c1d1"  signName="IR (GAG-gunû)"  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">li2</transliteration>
+𒅕</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">lih</transliteration>
+𒌓</mapentry>
+<mapentry got="b2c12d1"  signName="LIL"  MesZL="544" aBZL="91" LHA="336" HethZL="127"><transliteration valid="true">lil</transliteration>
+𒇸</mapentry>
+<mapentry got="a6b4"  signName="KID (LÍL)"  MesZL="484" aBZL="163" LHA="313" HethZL="194"><transliteration valid="true">lil2</transliteration>
+𒆤</mapentry>
+<mapentry got="a1b1c1"  signName="IGI (ŠI, LIM)"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">lim</transliteration>
+𒅆</mapentry>
+<mapentry got="a4"  signName="LIMMU (NÍG, 4)"  MesZL="860" aBZL="472" LHA="597" HethZL="370"><transliteration valid="true">limmu</transliteration>
+𒐼</mapentry>
+<mapentry got="c5d4"  signName="LIBIŠ (ÁB×ŠÀ)"  MesZL="677" aBZL="353" LHA="424" HethZL=""><transliteration valid="true">lipisz</transliteration>
+𒀚</mapentry>
+<mapentry got="a1c1"  signName="LIŠ"  MesZL="591" aBZL="232" LHA="377" HethZL="286"><transliteration valid="true">lisz</transliteration>
+𒇺</mapentry>
+<mapentry got="a3b3"  signName="LU (UDU)"  MesZL="812" aBZL="416" LHA="537" HethZL="210"><transliteration valid="true">lu</transliteration>
+𒇻</mapentry>
+<mapentry got="a4c3d1"  signName="LÚ"  MesZL="514" aBZL="253" LHA="330" HethZL="78"><transliteration valid="true">lu2</transliteration>
+𒇽</mapentry>
+<mapentry got="a2c6d5"  signName="LUL (NAR)"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lu5</transliteration>
+𒈜</mapentry>
+<mapentry got="a2c6d5"  signName="LUL (NAR)"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lub</transliteration>
+𒈜</mapentry>
+<mapentry got="a8b2c1d1"  signName="DUG (BI×A)"  MesZL="499" aBZL="80" LHA="309" HethZL="162"><transliteration valid="true">lud</transliteration>
+𒂁</mapentry>
+<mapentry got="a5b4c4d1"  signName=""  MesZL="266" aBZL="221a" LHA="151" HethZL="115"><transliteration valid="true">lugal</transliteration>
+𒈗</mapentry>
+<mapentry got="a4b4"  signName="LUḪ"  MesZL="494" aBZL="196" LHA="321" HethZL="198"><transliteration valid="true">luh</transliteration>
+𒈛</mapentry>
+<mapentry><transliteration valid="true">lukur</transliteration>
+𒊩𒈨</mapentry>
+<mapentry got="a2c6d5"  signName="LUL (NAR)"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">lul</transliteration>
+𒈜</mapentry>
+<mapentry got="a7b10c4d3"  signName="LULIM (GÌR× LU.IGI)"  MesZL="702" aBZL="" LHA="421a" HethZL=""><transliteration valid="true">lulim</transliteration>
+𒄎</mapentry>
+<mapentry got="c8d4"  signName="LUM"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">lum</transliteration>
+𒈝</mapentry>
+<mapentry got="a7b2c2d1"  signName="ŠIM"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">lunga</transliteration>
+𒋆</mapentry>
+<mapentry got="a2b3"  signName="MA"  MesZL="552" aBZL="166" LHA="342" HethZL="208"><transliteration valid="true">ma</transliteration>
+𒈠</mapentry>
+<mapentry got="a3b2"  signName="MÁ"  MesZL="201" aBZL="50" LHA="122" HethZL="87"><transliteration valid="true">ma2</transliteration>
+𒈣</mapentry>
+<mapentry got="a2b4c1d2"  signName="MAḪ"  MesZL="91" aBZL="6" LHA="57" HethZL="10"><transliteration valid="true">mah</transliteration>
+𒈤</mapentry>
+<mapentry got="a2b3"  signName="MAR"  MesZL="483" aBZL="144" LHA="307" HethZL="191"><transliteration valid="true">mar</transliteration>
+𒈥</mapentry>
+<mapentry got="a1b1"  signName="MAŠ"  MesZL="120" aBZL="29" LHA="74" HethZL="20"><transliteration valid="true">masz</transliteration>
+𒈦</mapentry>
+<mapentry got="a1b1c2d2"  signName="MÁŠ"  MesZL="130" aBZL="31" LHA="76" HethZL="38"><transliteration valid="true">masz2</transliteration>
+𒈧</mapentry>
+<mapentry got="a1b1"  signName="ME"  MesZL="753" aBZL="392" LHA="532" HethZL="357"><transliteration valid="true">me</transliteration>
+𒈨</mapentry>
+<mapentry signName="MÈ (AG×ERIM)"  MesZL="129" aBZL="53" LHA="98" HethZL="82"><transliteration valid="true">me3</transliteration>
+𒀞</mapentry>
+<mapentry got="a6b8c3"  signName="MEN (GÁ× ME.EN)"  MesZL="427" aBZL="102" LHA="270" HethZL=""><transliteration valid="true">men</transliteration>
+𒃞</mapentry>
+<mapentry got="a1b1"  signName="ME"  MesZL="753" aBZL="392" LHA="532" HethZL="357"><transliteration valid="true">mesz2</transliteration>
+𒈨</mapentry>
+<mapentry got="b8c1"  signName="MI"  MesZL="681" aBZL="348" LHA="427" HethZL="267"><transliteration valid="true">mi</transliteration>
+𒈪</mapentry>
+<mapentry got="a1b1c1d1"  signName="MUNUS (SAL)"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">mi2</transliteration>
+𒊩</mapentry>
+<mapentry got="a2"  signName="MIN (2)"  MesZL="825" aBZL="465" LHA="570" HethZL="361"><transliteration valid="true">min</transliteration>
+𒈫</mapentry>
+<mapentry got="b1c6"  signName="MU"  MesZL="98" aBZL="20" LHA="61" HethZL="17"><transliteration valid="true">mu</transliteration>
+𒈬</mapentry>
+<mapentry got="a2b2c9"  signName="SAR"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">mu2</transliteration>
+𒊬</mapentry>
+<mapentry got="a2b2c1d2"  signName="GIM (DÍM)"  MesZL="686" aBZL="67" LHA="440" HethZL="165"><transliteration valid="true">mud</transliteration>
+𒁶</mapentry>
+<mapentry got="a2c2d2"  signName="TE"  MesZL="589" aBZL="289" LHA="376" HethZL="249"><transliteration valid="true">mul</transliteration>
+𒋼</mapentry>
+<mapentry got="a2b6c4d4"  signName="UMUM×KASKAL"  MesZL="" aBZL="" LHA="338n1" HethZL=""><transliteration valid="true">mum</transliteration>
+𒌤</mapentry>
+<mapentry got="a2b1c6d2"  signName="DIM×ŠE, later DIM×KUR"  MesZL="168" aBZL="15" LHA="95, 095v" HethZL="18"><transliteration valid="true">mun</transliteration>
+𒁵</mapentry>
+<mapentry><transliteration valid="true">munsub2</transliteration>
+𒋠𒇴𒋦</mapentry>
+<mapentry><transliteration valid="true">munu4</transliteration>
+𒉽𒉽</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">mur</transliteration>
+𒄯</mapentry>
+<mapentry got="c6d4"  signName="SIG4"  MesZL="905" aBZL="243" LHA="567" HethZL="311"><transliteration valid="true">murgu</transliteration>
+𒋞</mapentry>
+<mapentry got="c4d2"  signName="MÚRGU (LUM)"  MesZL="901" aBZL="242" LHA="565" HethZL="311"><transliteration valid="true">murgu2</transliteration>
+𒈱</mapentry>
+<mapentry got="a4b1c3d2"  signName="MUŠ"  MesZL="585" aBZL="267" LHA="374" HethZL="342"><transliteration valid="true">musz</transliteration>
+𒈲</mapentry>
+<mapentry got="a2b1c1"  signName="ḪU"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">muszen</transliteration>
+𒄷</mapentry>
+<mapentry got="b4c3d2"  signName="NA"  MesZL="110" aBZL="24" LHA="70" HethZL="15"><transliteration valid="true">na</transliteration>
+𒈾</mapentry>
+<mapentry got="a2b6c7d1"  signName="NÁ"  MesZL="689" aBZL="364" LHA="431" HethZL="314"><transliteration valid="true">na2</transliteration>
+𒈿</mapentry>
+<mapentry><transliteration valid="true">na4</transliteration>
+𒉌𒌓</mapentry>
+<mapentry got="a2b2c2d2"  signName="NAB (ANoverAN)"  MesZL="246" aBZL="" LHA="129" HethZL="100"><transliteration valid="true">nab</transliteration>
+𒀮</mapentry>
+<mapentry><transliteration valid="true">nagga</transliteration>
+𒀭𒈾</mapentry>
+<mapentry got="a3b1c9"  signName="NAM"  MesZL="134" aBZL="42" LHA="79" HethZL="39"><transliteration valid="true">nam</transliteration>
+𒉆</mapentry>
+<mapentry got="b1c4d2"  signName="ŠEŠ (ÙRI)"  MesZL="535" aBZL="21b" LHA="331" HethZL="79"><transliteration valid="true">nan</transliteration>
+𒋀</mapentry>
+<mapentry got="a1b4c4"  signName="NE"  MesZL="313" aBZL="116" LHA="172" HethZL="169"><transliteration valid="true">ne</transliteration>
+𒉈</mapentry>
+<mapentry got="a10b9c2d2"  signName="PIRIG"  MesZL="" aBZL="178" LHA="444" HethZL=""><transliteration valid="true">ne3</transliteration>
+𒊊</mapentry>
+<mapentry got="a2c1d1"  signName="NI"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">ni</transliteration>
+𒉌</mapentry>
+<mapentry got="a4b1c2d3"  signName="NÍ"  MesZL="641" aBZL="297" LHA="399" HethZL="337"><transliteration valid="true">ni2</transliteration>
+𒉎</mapentry>
+<mapentry got="a3d1"  signName="NÍG (GAR, NINDA)"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">nig2</transliteration>
+𒃻</mapentry>
+<mapentry got="a3d1"  signName="NÍG (GAR, NINDA)"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">nij2</transliteration>
+𒃻</mapentry>
+<mapentry got="a1c3d1"  signName="NIM"  MesZL="690" aBZL="355" LHA="433" HethZL="74"><transliteration valid="true">nim</transliteration>
+𒉏</mapentry>
+<mapentry got="c4"  signName="NIMIN (4×U)"  MesZL="712" aBZL="374" LHA="473" HethZL="335"><transliteration valid="true">nimin</transliteration>
+𒐏</mapentry>
+<mapentry><transliteration valid="true">nin</transliteration>
+𒊩𒌆</mapentry>
+<mapentry><transliteration valid="true">nin9</transliteration>
+𒊩𒆪</mapentry>
+<mapentry got="b4c2"  signName="NÍNDA"  MesZL="316" aBZL="135" LHA="176" HethZL="119"><transliteration valid="true">ninda</transliteration>
+𒉒</mapentry>
+<mapentry got="c5"  signName="NINNU (5×U)"  MesZL="714" aBZL="376" LHA="475" HethZL=""><transliteration valid="true">ninnu</transliteration>
+𒐐</mapentry>
+<mapentry got="a10b2"  signName="NIR (NUNoverNUN)"  MesZL="502" aBZL="148" LHA="325" HethZL="204"><transliteration valid="true">nir</transliteration>
+𒉪</mapentry>
+<mapentry><transliteration valid="true">nisz</transliteration>
+𒌋𒌋</mapentry>
+<mapentry got="a1b1d1"  signName="NU"  MesZL="112" aBZL="19" LHA="75" HethZL="11"><transliteration valid="true">nu</transliteration>
+𒉡</mapentry>
+<mapentry got="b8c4d2"  signName="NU11"  MesZL="115" aBZL="028" LHA="071" HethZL="5"><transliteration valid="true">nu11</transliteration>
+𒉢</mapentry>
+<mapentry got="a1c3d1"  signName="NIM"  MesZL="690" aBZL="355" LHA="433" HethZL="74"><transliteration valid="true">num</transliteration>
+𒉏</mapentry>
+<mapentry got="c8d4"  signName="LUM"  MesZL="900" aBZL="248" LHA="565" HethZL="310"><transliteration valid="true">num2</transliteration>
+𒈝</mapentry>
+<mapentry got="b2c3"  signName="NUMUN"  MesZL="117" aBZL="26" LHA="72" HethZL="12"><transliteration valid="true">numun</transliteration>
+𒆰</mapentry>
+<mapentry><transliteration valid="true">numun2</transliteration>
+𒍤𒆸</mapentry>
+<mapentry got="a5b1"  signName="NUN"  MesZL="143" aBZL="47" LHA="87" HethZL="36"><transliteration valid="true">nun</transliteration>
+𒉣</mapentry>
+<mapentry got="a5b1"  signName="NUN"  MesZL="143" aBZL="47" LHA="87" HethZL="36"><transliteration valid="true">nuna</transliteration>
+𒉣</mapentry>
+<mapentry got="a1b2"  signName="PA"  MesZL="464" aBZL="143" LHA="295" HethZL="174"><transliteration valid="true">pa</transliteration>
+𒉺</mapentry>
+<mapentry><transliteration valid="true">pa5</transliteration>
+𒉽𒂊</mapentry>
+<mapentry><transliteration valid="true">pad3</transliteration>
+𒅆𒊒</mapentry>
+<mapentry got="a2b1c1"  signName="ḪU"  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">pag</transliteration>
+𒄷</mapentry>
+<mapentry got="a8b8c8d8"  signName="LÚIMQUADRAT"  MesZL="" aBZL="" LHA="330_60n2" HethZL=""><transliteration valid="true">pagra3</transliteration>
+𒈔</mapentry>
+<mapentry got="a2c6d5"  signName="LUL (NAR)"  MesZL="570" aBZL="296" LHA="355" HethZL="19; 351"><transliteration valid="true">pah</transliteration>
+𒈜</mapentry>
+<mapentry><transliteration valid="true">palil</transliteration>
+𒅆𒁺</mapentry>
+<mapentry got="c1d1"  signName="PAB or PAP"  MesZL="92" aBZL="249" LHA="60" HethZL="256(1)"><transliteration valid="true">pap</transliteration>
+𒉽</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pe</transliteration>
+𒉿</mapentry>
+<mapentry got="a4b4c2"  signName="GIR (ḪA-gunû)"  MesZL="558" aBZL="222" LHA="346" HethZL="244A"><transliteration valid="true">pesz</transliteration>
+𒄫</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pi</transliteration>
+𒉿</mapentry>
+<mapentry got="a4b4c2"  signName="GIR (ḪA-gunû)"  MesZL="558" aBZL="222" LHA="346" HethZL="244A"><transliteration valid="true">pisz</transliteration>
+𒄫</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">pu</transliteration>
+𒁍</mapentry>
+<mapentry got="a1c1d1"  signName="SÌLA"  MesZL="99" aBZL="269" LHA="62" HethZL="21"><transliteration valid="true">qa</transliteration>
+𒋡</mapentry>
+<mapentry got="b4c2d1"  signName="GÀR (QAR)"  MesZL="543" aBZL="209" LHA="333" HethZL="240"><transliteration valid="true">qar</transliteration>
+𒃼</mapentry>
+<mapentry got="c3d3"  signName="GIŠKREUZTGIŠ"  MesZL="378" aBZL="274" LHA="296n2" HethZL="260"><transliteration valid="true">qip</transliteration>
+𒄒</mapentry>
+<mapentry got="a4b5"  signName="RA"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">ra</transliteration>
+𒊏</mapentry>
+<mapentry got="a3b1c1"  signName="RI"  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">ri</transliteration>
+𒊑</mapentry>
+<mapentry got="a3b3"  signName="URU (IRI)"  MesZL="71" aBZL="181" LHA="38" HethZL="229"><transliteration valid="true">ri2</transliteration>
+𒌷</mapentry>
+<mapentry got="a2b2c1d1"  signName="KAL"  MesZL="496" aBZL="176" LHA="322" HethZL="196"><transliteration valid="true">rib</transliteration>
+𒆗</mapentry>
+<mapentry got="a6b2c5d2"  signName="GU7 (KA×NÍG)"  MesZL="65" aBZL="329" LHA="36" HethZL="149"><transliteration valid="true">rig</transliteration>
+𒅥</mapentry>
+<mapentry><transliteration valid="true">rig7</transliteration>
+𒉺𒄸𒁺</mapentry>
+<mapentry got="a1b2c6"  signName="KAŠ4 (DU-šeššig)"  MesZL="352" aBZL="66" LHA="202" HethZL="129"><transliteration valid="true">rim4</transliteration>
+𒁽</mapentry>
+<mapentry got="a2b2"  signName="LAGAB"  MesZL="755" aBZL="402" LHA="483" HethZL="179"><transliteration valid="true">rin</transliteration>
+𒆸</mapentry>
+<mapentry got="c2d2"  signName="ERIM (ZÁLAG)"  MesZL="612" aBZL="247" LHA="393" HethZL="327"><transliteration valid="true">rin2</transliteration>
+𒂟</mapentry>
+<mapentry got="b2c2d2"  signName="RU"  MesZL="111" aBZL="60" LHA="68" HethZL="43"><transliteration valid="true">ru</transliteration>
+𒊒</mapentry>
+<mapentry got="b1"  signName="AŠ"  MesZL="1" aBZL="1" LHA="1" HethZL="1"><transliteration valid="true">rum</transliteration>
+𒀸</mapentry>
+<mapentry got="a4b4"  signName="SA"  MesZL="172" aBZL="147" LHA="104" HethZL="200"><transliteration valid="true">sa</transliteration>
+𒊓</mapentry>
+<mapentry got="b4c12"  signName="NINDÁ×ŠE"  MesZL="" aBZL="" LHA="187v5" HethZL=""><transliteration valid="true">sa10</transliteration>
+𒉚</mapentry>
+<mapentry got="b2c2d2"  signName="DI"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">sa2</transliteration>
+𒁲</mapentry>
+<mapentry got="a4"  signName="ZA"  MesZL="851" aBZL="474" LHA="586" HethZL="366"><transliteration valid="true">sa3</transliteration>
+𒍝</mapentry>
+<mapentry><transliteration valid="true">sa4</transliteration>
+𒄷𒈿</mapentry>
+<mapentry><transliteration valid="true">sag2</transliteration>
+𒉺𒃶</mapentry>
+<mapentry got="a4b5"  signName="RA"  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">sag3</transliteration>
+𒊏</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">sag9</transliteration>
+𒄭</mapentry>
+<mapentry got="a2b4c1"  signName="IŠ"  MesZL="357" aBZL="162" LHA="212" HethZL="151"><transliteration valid="true">sahar</transliteration>
+𒅖</mapentry>
+<mapentry got="a3b2c1d1"  signName="SAG"  MesZL="184" aBZL="309" LHA="115" HethZL="192"><transliteration valid="true">saj</transliteration>
+𒊕</mapentry>
+<mapentry got="a1b1c1d1"  signName="MUNUS (SAL)"  MesZL="883" aBZL="450" LHA="554" HethZL="297"><transliteration valid="true">sal</transliteration>
+𒊩</mapentry>
+<mapentry got="b4c12"  signName="NINDÁ×ŠE"  MesZL="" aBZL="" LHA="187v5" HethZL=""><transliteration valid="true">sam2</transliteration>
+𒉚</mapentry>
+<mapentry got="a2b2c9"  signName="SAR"  MesZL="541" aBZL="385" LHA="331e, 152iv" HethZL="353"><transliteration valid="true">sar</transliteration>
+𒊬</mapentry>
+<mapentry><transliteration valid="true">sed4</transliteration>
+𒈹𒁲</mapentry>
+<mapentry got="a2b2"  signName="SI"  MesZL="181" aBZL="164" LHA="112" HethZL="86"><transliteration valid="true">si</transliteration>
+𒋛</mapentry>
+<mapentry got="c2d2"  signName="SIG"  MesZL="881" aBZL="437" LHA="592" HethZL="255"><transliteration valid="true">sig</transliteration>
+𒋝</mapentry>
+<mapentry got="c10"  signName="SUM"  MesZL="292" aBZL="388" LHA="164" HethZL="350"><transliteration valid="true">sig10</transliteration>
+𒋧</mapentry>
+<mapentry got="a1b1c5d2"  signName="GI"  MesZL="141" aBZL="40" LHA="85" HethZL="30"><transliteration valid="true">sig17</transliteration>
+𒄀</mapentry>
+<mapentry got="a1b5c1"  signName="SIG7 (IGI-gunû)"  MesZL="564" aBZL="198" LHA="351" HethZL="239"><transliteration valid="true">sig7</transliteration>
+𒅊</mapentry>
+<mapentry got="a2b2"  signName="SI"  MesZL="181" aBZL="164" LHA="112" HethZL="86"><transliteration valid="true">sig9</transliteration>
+𒋛</mapentry>
+<mapentry got="a3b7c1"  signName="SÍG  SÍK"  MesZL="816" aBZL="395" LHA="539" HethZL="65"><transliteration valid="true">siki</transliteration>
+𒋠</mapentry>
+<mapentry got="a3b3c1d1"  signName="EL"  MesZL="899" aBZL="455" LHA="564" HethZL="307"><transliteration valid="true">sikil</transliteration>
+𒂖</mapentry>
+<mapentry got="a3b5"  signName="ŠID (LAG)"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">sila11</transliteration>
+𒋃</mapentry>
+<mapentry got="a1c1d1"  signName="SÌLA"  MesZL="99" aBZL="269" LHA="62" HethZL="21"><transliteration valid="true">sila3</transliteration>
+𒋡</mapentry>
+<mapentry got="a4b4"  signName="SILA4 (GÁ×PA)"  MesZL="408" aBZL="97" LHA="252" HethZL="54"><transliteration valid="true">sila4</transliteration>
+𒃢</mapentry>
+<mapentry got="a4b4c1"  signName="ASARI (URU×IGI)"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">silig</transliteration>
+𒍂</mapentry>
+<mapentry got="b2c2d2"  signName="DI"  MesZL="736" aBZL="431" LHA="457" HethZL="312"><transliteration valid="true">silim</transliteration>
+𒁲</mapentry>
+<mapentry got="c3"  signName="EŠ (3×U)"  MesZL="711" aBZL="366" LHA="472" HethZL="331"><transliteration valid="true">sin</transliteration>
+𒌍</mapentry>
+<mapentry><transliteration valid="true">sipard</transliteration>
+𒋠𒇴𒋦</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">sir2</transliteration>
+𒁍</mapentry>
+<mapentry got="a5b2c1d1"  signName="SU"  MesZL="16" aBZL="305" LHA="7" HethZL="213"><transliteration valid="true">su</transliteration>
+𒋢</mapentry>
+<mapentry got="a4b1c2d2"  signName="SUD (BU-gunû)"  MesZL="584" aBZL="266" LHA="373" HethZL="341"><transliteration valid="true">su3</transliteration>
+𒋤</mapentry>
+<mapentry got="a4b1c2d2"  signName="SUD (BU-gunû)"  MesZL="584" aBZL="266" LHA="373" HethZL="341"><transliteration valid="true">sud</transliteration>
+𒋤</mapentry>
+<mapentry got="a2b1c1d1"  signName="MÙŠ (INANNA)"  MesZL="153" aBZL="44" LHA="103v" HethZL="41"><transliteration valid="true">suh</transliteration>
+𒈹</mapentry>
+<mapentry got="a2b1c1d1"  signName="MÙŠ (INANNA)"  MesZL="153" aBZL="44" LHA="103v" HethZL="41"><transliteration valid="true">suh10</transliteration>
+𒈹</mapentry>
+<mapentry got="c11d5"  signName="SÙḪ (GUoverGUcrossed)"  MesZL="892" aBZL="251" LHA="569" HethZL=""><transliteration valid="true">suh3</transliteration>
+𒄗</mapentry>
+<mapentry got="a8c6d2"  signName="SUḪUR"  MesZL="646" aBZL="384" LHA="403" HethZL="349"><transliteration valid="true">suhur</transliteration>
+𒋦</mapentry>
+<mapentry got="a4b4"  signName="LUḪ"  MesZL="494" aBZL="196" LHA="321" HethZL="198"><transliteration valid="true">sukkal</transliteration>
+𒈛</mapentry>
+<mapentry got="c10"  signName="SUM"  MesZL="292" aBZL="388" LHA="164" HethZL="350"><transliteration valid="true">sum</transliteration>
+𒋧</mapentry>
+<mapentry got="a6b2c1d1"  signName="DÙL (SAG-gunû)"  MesZL="512" aBZL="331" LHA="329" HethZL=""><transliteration valid="true">sumur</transliteration>
+𒊨</mapentry>
+<mapentry got="a8c6d2"  signName="SUḪUR"  MesZL="646" aBZL="384" LHA="403" HethZL="349"><transliteration valid="true">sumur2</transliteration>
+𒋦</mapentry>
+<mapentry got="a7b6c5d1"  signName="SU6 (KA×SA)"  MesZL="32" aBZL="316" LHA="18x" HethZL="136"><transliteration valid="true">sun4</transliteration>
+𒅾</mapentry>
+<mapentry got="a2b2c3d1"  signName="BÚR"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">sun5</transliteration>
+𒁔</mapentry>
+<mapentry got="a3b1d1"  signName="SUR (ŠUR)"  MesZL="151" aBZL="56" LHA="101" HethZL="42"><transliteration valid="true">sur</transliteration>
+𒋩</mapentry>
+<mapentry got="a3b1d1"  signName="SUR (ŠUR)"  MesZL="151" aBZL="56" LHA="101" HethZL="42"><transliteration valid="true">sura</transliteration>
+𒋩</mapentry>
+<mapentry got="a2b4c1d1"  signName="ŠA"  MesZL="566" aBZL="203" LHA="353" HethZL="158"><transliteration valid="true">sza</transliteration>
+𒊭</mapentry>
+<mapentry got="a3d1"  signName="NÍG (GAR, NINDA)"  MesZL="859" aBZL="473" LHA="597" HethZL="369"><transliteration valid="true">sza2</transliteration>
+𒃻</mapentry>
+<mapentry got="c3d3"  signName="ŠÀ (ŠAG4)"  MesZL="599" aBZL="433" LHA="384" HethZL="294"><transliteration valid="true">sza3</transliteration>
+𒊮</mapentry>
+<mapentry got="a3b2c1d1"  signName="SAG"  MesZL="184" aBZL="309" LHA="115" HethZL="192"><transliteration valid="true">szag</transliteration>
+𒊕</mapentry>
+<mapentry got="c3d3"  signName="ŠÀ (ŠAG4)"  MesZL="599" aBZL="433" LHA="384" HethZL="294"><transliteration valid="true">szag4</transliteration>
+𒊮</mapentry>
+<mapentry got="a5b2c3d2"  signName="ŠUL (DUN)"  MesZL="744" aBZL="ŠUL:438" LHA="467" HethZL="46"><transliteration valid="true">szah2</transliteration>
+𒂄</mapentry>
+<mapentry got="a5b4c3d1"  signName="URU×GU (GUR5)"  MesZL="84" aBZL="185" LHA="46" HethZL=""><transliteration valid="true">szakir</transliteration>
+𒍀</mapentry>
+<mapentry got="a4b2"  signName="Ú"  MesZL="490" aBZL="146" LHA="318" HethZL="195"><transliteration valid="true">szam</transliteration>
+𒌑</mapentry>
+<mapentry got="b4c12"  signName="NINDÁ×ŠE"  MesZL="" aBZL="" LHA="187v5" HethZL=""><transliteration valid="true">szam2</transliteration>
+𒉚</mapentry>
+<mapentry><transliteration valid="true">szamanur</transliteration>
+𒅖𒍏</mapentry>
+<mapentry got="c4"  signName="ŠAR"  MesZL="632" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">szar2</transliteration>
+𒊹</mapentry>
+<mapentry got="c10"  signName="ŠE"  MesZL="579" aBZL="378" LHA="367" HethZL="338"><transliteration valid="true">sze</transliteration>
+𒊺</mapentry>
+<mapentry got="a2b7"  signName="ŠÈ (ÉŠ, GI7, ZÌ)"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">sze3</transliteration>
+𒂠</mapentry>
+<mapentry got="a4b10c11d3"  signName="KA×DÚBBALAG"  MesZL="47" aBZL="317" LHA="25b" HethZL=""><transliteration valid="true">szeg11</transliteration>
+𒅝</mapentry>
+<mapentry got="c6d4"  signName="SIG4"  MesZL="905" aBZL="243" LHA="567" HethZL="311"><transliteration valid="true">szeg12</transliteration>
+𒋞</mapentry>
+<mapentry got="a7b2c2d1"  signName="ŠIM"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">szembi2</transliteration>
+𒋆</mapentry>
+<mapentry got="a14b6"  signName="ŠEN (SU×A)"  MesZL="17" aBZL="306" LHA="8" HethZL="230"><transliteration valid="true">szen</transliteration>
+𒊿</mapentry>
+<mapentry got="b1c4d2"  signName="ŠEŠ (ÙRI)"  MesZL="535" aBZL="21b" LHA="331" HethZL="79"><transliteration valid="true">szesz</transliteration>
+𒋀</mapentry>
+<mapentry got="a11b9"  signName="ŠÉŠ (SÍG.LAM)"  MesZL="821" aBZL="" LHA="544" HethZL="63"><transliteration valid="true">szesz2</transliteration>
+𒋁</mapentry>
+<mapentry got="a1b1c1"  signName="IGI (ŠI, LIM)"  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">szi</transliteration>
+𒅆</mapentry>
+<mapentry got="a3b5"  signName="ŠID (LAG)"  MesZL="485" aBZL="212; 207a" LHA="314" HethZL="231"><transliteration valid="true">szid</transliteration>
+𒋃</mapentry>
+<mapentry got="a4b4c1"  signName="ASARI (URU×IGI)"  MesZL="79" aBZL="184" LHA="44" HethZL=""><transliteration valid="true">szilig</transliteration>
+𒍂</mapentry>
+<mapentry got="a7b2c2d1"  signName="ŠIM"  MesZL="362" aBZL="83" LHA="215" HethZL="154"><transliteration valid="true">szim</transliteration>
+𒋆</mapentry>
+<mapentry got="a1b5"  signName="ŠU"  MesZL="567" aBZL="225" LHA="354" HethZL="68"><transliteration valid="true">szu</transliteration>
+𒋗</mapentry>
+<mapentry><transliteration valid="true">szu...pesz</transliteration>
+𒋗𒄫</mapentry>
+<mapentry got="a1c1"  signName="ŠÚ"  MesZL="869" aBZL="422" LHA="545" HethZL="251"><transliteration valid="true">szu2</transliteration>
+𒋙</mapentry>
+<mapentry got="b2c2d2"  signName="RU"  MesZL="111" aBZL="60" LHA="68" HethZL="43"><transliteration valid="true">szub</transliteration>
+𒊒</mapentry>
+<mapentry got="a4b8c5d1"  signName="ŠÙDU (KA×ŠU)"  MesZL="49" aBZL="320" LHA="26" HethZL=""><transliteration valid="true">szudu3</transliteration>
+𒆃</mapentry>
+<mapentry got="a5b2c3d2"  signName="ŠUL (DUN)"  MesZL="744" aBZL="ŠUL:438" LHA="467" HethZL="46"><transliteration valid="true">szul</transliteration>
+𒂄</mapentry>
+<mapentry got="a6b2c2d2"  signName="TAG (ŠUM)"  MesZL="221" aBZL="122" LHA="126" HethZL="91"><transliteration valid="true">szum</transliteration>
+𒋳</mapentry>
+<mapentry got="b2c2d2"  signName="ŠIR"  MesZL="115" aBZL="28" LHA="71" HethZL="5"><transliteration valid="true">szur3</transliteration>
+𒋓</mapentry>
+<mapentry got="a2b2c1d1"  signName="TA"  MesZL="248" aBZL="123" LHA="139" HethZL="160"><transliteration valid="true">ta</transliteration>
+𒋫</mapentry>
+<mapentry got="b2"  signName="TAB"  MesZL="209" aBZL="109" LHA="124" HethZL="90"><transliteration valid="true">tab</transliteration>
+𒋰</mapentry>
+<mapentry got="a6b2c2d2"  signName="TAG (ŠUM)"  MesZL="221" aBZL="122" LHA="126" HethZL="91"><transliteration valid="true">tag</transliteration>
+𒋳</mapentry>
+<mapentry got="a6b1c1"  signName="KÍD (TAG4)"  MesZL="106" aBZL="58" LHA="63d" HethZL="227"><transliteration valid="true">tag4</transliteration>
+𒋺</mapentry>
+<mapentry got="b2c12"  signName="TAḪDAḪ (MUoverMU)"  MesZL="301" aBZL="142" LHA="169" HethZL="171"><transliteration valid="true">tah</transliteration>
+𒈭</mapentry>
+<mapentry got="a6b1c1"  signName="KÍD (TAG4)"  MesZL="106" aBZL="58" LHA="63d" HethZL="227"><transliteration valid="true">taka4</transliteration>
+𒋺</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">tam</transliteration>
+𒌓</mapentry>
+<mapentry got="a1c2"  signName="TAR"  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">tar</transliteration>
+𒋻</mapentry>
+<mapentry got="a2b5c7d5"  signName="DÀR"  MesZL="166" aBZL="365" LHA="100; 063x" HethZL="71"><transliteration valid="true">tarah</transliteration>
+𒁰</mapentry>
+<mapentry got="a3b2"  signName="UR"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">tasz</transliteration>
+𒌨</mapentry>
+<mapentry got="a2c2d2"  signName="TE"  MesZL="589" aBZL="289" LHA="376" HethZL="249"><transliteration valid="true">te</transliteration>
+𒋼</mapentry>
+<mapentry got="c4d1"  signName="TIL"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">tel</transliteration>
+𒌀</mapentry>
+<mapentry got="a3b2"  signName="UR"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">tesz2</transliteration>
+𒌨</mapentry>
+<mapentry got="a1b2c2"  signName="TI"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">ti</transliteration>
+𒋾</mapentry>
+<mapentry got="c4d1"  signName="TIL"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">til</transliteration>
+𒌀</mapentry>
+<mapentry got="a1b2c2"  signName="TI"  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">til3</transliteration>
+𒋾</mapentry>
+<mapentry got="a2b1c2d2"  signName="DIM"  MesZL="167" aBZL="14" LHA="94" HethZL="14"><transliteration valid="true">tim</transliteration>
+𒁴</mapentry>
+<mapentry signName="TIR"  MesZL="587" aBZL="380" LHA="375" HethZL="344"><transliteration valid="true">tir</transliteration>
+𒌁</mapentry>
+<mapentry got="a1"  signName="DIŠ (1)"  MesZL="748" aBZL="390" LHA="480" HethZL="356"><transliteration valid="true">tiz</transliteration>
+𒁹</mapentry>
+<mapentry got="a1c12d2"  signName="TU"  MesZL="86" aBZL="382" LHA="58" HethZL="346"><transliteration valid="true">tu</transliteration>
+𒌅</mapentry>
+<mapentry got="a4b4c3d1"  signName="TUM"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tu2</transliteration>
+𒌈</mapentry>
+<mapentry got="a4b4c3d1"  signName="TUM"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tu4</transliteration>
+𒌈</mapentry>
+<mapentry><transliteration valid="true">tu5</transliteration>
+𒋗𒉀</mapentry>
+<mapentry><transliteration valid="true">tu6</transliteration>
+𒉆𒊒</mapentry>
+<mapentry got="b1c3d2"  signName="ḪI×BAD"  MesZL="640" aBZL="279" LHA="406v1" HethZL="355"><transliteration valid="true">tu7</transliteration>
+𒄰</mapentry>
+<mapentry got="a2b4"  signName="TÚG (NÁM)"  MesZL="809" aBZL="417" LHA="536" HethZL="212"><transliteration valid="true">tug2</transliteration>
+𒌆</mapentry>
+<mapentry got="a2b1c1d1"  signName="TUK (TUG)"  MesZL="827" aBZL="444" LHA="574" HethZL="53"><transliteration valid="true">tuku</transliteration>
+𒌇</mapentry>
+<mapentry got="a2b2c3"  signName="BUL (LAGAB×EŠ)"  MesZL="788" aBZL="411" LHA="515" HethZL=""><transliteration valid="true">tuku4</transliteration>
+𒇧</mapentry>
+<mapentry got="a2b2c1"  signName="TÚL (LAGAB×U)"  MesZL="786" aBZL="410" LHA="511" HethZL="180"><transliteration valid="true">tul2</transliteration>
+𒇥</mapentry>
+<mapentry got="a4b4c3d1"  signName="TUM"  MesZL="354" aBZL="75" LHA="207" HethZL="125"><transliteration valid="true">tum</transliteration>
+𒌈</mapentry>
+<mapentry got="a1b2c2"  signName="DU"  MesZL="350" aBZL="64, 197" LHA="206" HethZL="128"><transliteration valid="true">tum2</transliteration>
+𒁺</mapentry>
+<mapentry got="a1b2c2d2"  signName="TUR (DUMU)"  MesZL="255" aBZL="393" LHA="144" HethZL="237"><transliteration valid="true">tur</transliteration>
+𒌉</mapentry>
+<mapentry><transliteration valid="true">tur3</transliteration>
+𒉣𒇬</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">tusz</transliteration>
+𒆪</mapentry>
+<mapentry got="c1"  signName="U"  MesZL="661" aBZL="337" LHA="411" HethZL="261"><transliteration valid="true">u</transliteration>
+𒌋</mapentry>
+<mapentry got="a4b2"  signName="Ú"  MesZL="490" aBZL="146" LHA="318" HethZL="195"><transliteration valid="true">u2</transliteration>
+𒌑</mapentry>
+<mapentry><transliteration valid="true">u2...la2</transliteration>
+𒌑𒇲</mapentry>
+<mapentry got="a4b5c1"  signName="Ù (IGI.DIB)"  MesZL="731" aBZL="239b" LHA="455" HethZL="265"><transliteration valid="true">u3</transliteration>
+𒅇</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">u4</transliteration>
+𒌓</mapentry>
+<mapentry><transliteration valid="true">u6</transliteration>
+𒅆𒂍</mapentry>
+<mapentry got="a1c2d2"  signName="UB"  MesZL="504" aBZL="288" LHA="306" HethZL="152"><transliteration valid="true">ub</transliteration>
+𒌒</mapentry>
+<mapentry got="a2b7"  signName="ŠÈ (ÉŠ, GI7, ZÌ)"  MesZL="810" aBZL="420" LHA="536" HethZL="212"><transliteration valid="true">ub2</transliteration>
+𒂠</mapentry>
+<mapentry got="a4b6c2d2"  signName="UBARA (EZEN×KASKAL)"  MesZL="277" aBZL="157" LHA="152_4" HethZL=""><transliteration valid="true">ubara</transliteration>
+𒂬</mapentry>
+<mapentry got="a10b12c5d3"  signName="DAGKISIM5×GA+MAŠ"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">ubur</transliteration>
+𒁜</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">ud</transliteration>
+𒌓</mapentry>
+<mapentry got="a3b3"  signName="LU (UDU)"  MesZL="812" aBZL="416" LHA="537" HethZL="210"><transliteration valid="true">udu</transliteration>
+𒇻</mapentry>
+<mapentry got="a10b9c4d4"  signName="UG (PIRIG×UD)"  MesZL="296" aBZL="179" LHA="130" HethZL="93"><transliteration valid="true">ug</transliteration>
+𒊌</mapentry>
+<mapentry><transliteration valid="true">ugu</transliteration>
+𒌋𒅗</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">ugu4</transliteration>
+𒆪</mapentry>
+<mapentry got="a5b1c2d2"  signName="AḪ (ḪI×NUN)"  MesZL="636" aBZL="280" LHA="398" HethZL="332"><transliteration valid="true">uh</transliteration>
+𒄴</mapentry>
+<mapentry got="a4b4"  signName="UKKIN (URU×MAŠBAR)"  MesZL="73" aBZL="186" LHA="40" HethZL="134"><transliteration valid="true">ukkin</transliteration>
+𒌺</mapentry>
+<mapentry got="a1b2c2d1"  signName="UL (DU7)"  MesZL="698" aBZL="344" LHA="441" HethZL="275"><transliteration valid="true">ul</transliteration>
+𒌌</mapentry>
+<mapentry got="a4b1c2d2"  signName="GÍR-gunû"  MesZL="7" aBZL="8" LHA="10" HethZL="6"><transliteration valid="true">ul4</transliteration>
+𒄉</mapentry>
+<mapentry got="a5b3"  signName="GIŠGAL (URU×MIN)"  MesZL="80" aBZL="189" LHA="49x" HethZL=""><transliteration valid="true">ulu3</transliteration>
+𒍇</mapentry>
+<mapentry got="a6b4"  signName="UM"  MesZL="238" aBZL="113" LHA="134" HethZL="98"><transliteration valid="true">um</transliteration>
+𒌝</mapentry>
+<mapentry><transliteration valid="true">umbin...kud</transliteration>
+𒌢𒋻</mapentry>
+<mapentry got="c1"  signName="U"  MesZL="661" aBZL="337" LHA="411" HethZL="261"><transliteration valid="true">umun</transliteration>
+𒌋</mapentry>
+<mapentry got="a2b6c2d2"  signName="DÉ (SIMUG)"  MesZL="547" aBZL="215" LHA="338" HethZL="102"><transliteration valid="true">umun2</transliteration>
+𒌣</mapentry>
+<mapentry got="a6b5c2d2"  signName="UN"  MesZL="501" aBZL="169" LHA="312" HethZL="197"><transliteration valid="true">un</transliteration>
+𒌦</mapentry>
+<mapentry got="a4b4"  signName="UKKIN (URU×MAŠBAR)"  MesZL="73" aBZL="186" LHA="40" HethZL="134"><transliteration valid="true">unken</transliteration>
+𒌺</mapentry>
+<mapentry><transliteration valid="true">unu2</transliteration>
+𒋼𒀕</mapentry>
+<mapentry><transliteration valid="true">unu6</transliteration>
+𒋼𒀕</mapentry>
+<mapentry got="a1b2c5d1"  signName="UNUG (AB-gunû andor AB×EŠ)"  MesZL="232" aBZL="129" LHA="195" HethZL="111"><transliteration valid="true">unug</transliteration>
+𒀕</mapentry>
+<mapentry got="a3b2"  signName="UR"  MesZL="828" aBZL="400" LHA="575" HethZL="51"><transliteration valid="true">ur</transliteration>
+𒌨</mapentry>
+<mapentry got="a2b4c2"  signName="ÚR"  MesZL="341" aBZL="72" LHA="203" HethZL="124"><transliteration valid="true">ur2</transliteration>
+𒌫</mapentry>
+<mapentry got="a13b4"  signName="ÙR (GÁ×NIR)"  MesZL="411" aBZL="99" LHA="255" HethZL="58"><transliteration valid="true">ur3</transliteration>
+𒃡</mapentry>
+<mapentry got="a4c1d1"  signName="UR4"  MesZL="835" aBZL="448" LHA="594" HethZL=""><transliteration valid="true">ur4</transliteration>
+𒌴</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">ur5</transliteration>
+𒄯</mapentry>
+<mapentry got="a4b6c9d1"  signName="KA×NE"  MesZL="35" aBZL="313" LHA="22x" HethZL=""><transliteration valid="true">urgu2</transliteration>
+𒅺</mapentry>
+<mapentry got="a6b8d2"  signName="URI (BURoverBUR)"  MesZL="574" aBZL="224" LHA="359n1" HethZL="246"><transliteration valid="true">uri</transliteration>
+𒌵</mapentry>
+<mapentry><transliteration valid="true">urim2</transliteration>
+𒋀𒀕</mapentry>
+<mapentry><transliteration valid="true">urim5</transliteration>
+𒋀𒀕</mapentry>
+<mapentry got="a2b4c2d2"  signName="GUR8 (TE-gunû)"  MesZL="88" aBZL="283" LHA="58" HethZL="315"><transliteration valid="true">uru5</transliteration>
+𒋽</mapentry>
+<mapentry got="a3b4"  signName="URUDU (URUDA)"  MesZL="230" aBZL="111" LHA="132" HethZL="109"><transliteration valid="true">urud</transliteration>
+𒍏</mapentry>
+<mapentry got="b1c1"  signName="UŠ´"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">us2</transliteration>
+𒍗</mapentry>
+<mapentry got="a8"  signName="USSU (8)"  MesZL="864" aBZL="479" LHA="598n2" HethZL="374"><transliteration valid="true">ussu</transliteration>
+𒐍</mapentry>
+<mapentry got="a3b2c1"  signName="UŠ (NITA)"  MesZL="381" aBZL="68" LHA="211" HethZL="132"><transliteration valid="true">usz</transliteration>
+𒍑</mapentry>
+<mapentry got="a3b3c5d2"  signName="UŠ11 (KA×BAD)"  MesZL="29" aBZL="314" LHA="17" HethZL=""><transliteration valid="true">usz11</transliteration>
+𒅜</mapentry>
+<mapentry got="a5b6c16d2"  signName="TU6 (KA×LI)"  MesZL="26" aBZL="325" LHA="16" HethZL="146"><transliteration valid="true">usz7</transliteration>
+𒅲</mapentry>
+<mapentry got="a2b2c3d1"  signName="BÚR"  MesZL="8" aBZL="13" LHA="11" HethZL=""><transliteration valid="true">uszum</transliteration>
+𒁔</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">ut</transliteration>
+𒌓</mapentry>
+<mapentry got="a8b6c2d2"  signName="TAG×TUǴ"  MesZL="" aBZL="122" LHA="126fv" HethZL="91"><transliteration valid="true">uttu</transliteration>
+𒋸</mapentry>
+<mapentry><transliteration valid="true">uttuku</transliteration>
+𒃻𒋃</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">utu</transliteration>
+𒌓</mapentry>
+<mapentry got="a4c14d4"  signName="UZU"  MesZL="311" aBZL="134" LHA="171" HethZL="203"><transliteration valid="true">uzu</transliteration>
+𒍜</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">wa</transliteration>
+𒉿</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">wi</transliteration>
+𒉿</mapentry>
+<mapentry got="a4"  signName="ZA"  MesZL="851" aBZL="474" LHA="586" HethZL="366"><transliteration valid="true">za</transliteration>
+𒍝</mapentry>
+<mapentry got="a4b6c2d2"  signName="ZAG"  MesZL="540" aBZL="206" LHA="332" HethZL="238"><transliteration valid="true">za3</transliteration>
+𒍠</mapentry>
+<mapentry got="c2d2"  signName="ERIM (ZÁLAG)"  MesZL="612" aBZL="247" LHA="393" HethZL="327"><transliteration valid="true">zab</transliteration>
+𒂟</mapentry>
+<mapentry><transliteration valid="true">zabala</transliteration>
+𒍝𒁀𒆷</mapentry>
+<mapentry><transliteration valid="true">zabar</transliteration>
+𒌓𒅗𒁇</mapentry>
+<mapentry got="a4b6c2d2"  signName="ZAG"  MesZL="540" aBZL="206" LHA="332" HethZL="238"><transliteration valid="true">zag</transliteration>
+𒍠</mapentry>
+<mapentry got="a7c2"  signName="ZÀḪ (A×ḪA)"  MesZL="846" aBZL="471" LHA="584; 587" HethZL=""><transliteration valid="true">zah3</transliteration>
+𒀄</mapentry>
+<mapentry got="a2c1d1"  signName="NI"  MesZL="380" aBZL="261" LHA="231" HethZL="72"><transliteration valid="true">zal</transliteration>
+𒉌</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">zalag</transliteration>
+𒌓</mapentry>
+<mapentry got="a9b8c3d1"  signName="LÚ×LA+AŠ"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">zanabal</transliteration>
+𒈉</mapentry>
+<mapentry got="a4b4c1d1"  signName="ZÍ( AB×PA)"  MesZL="259" aBZL="126" LHA="147" HethZL="108"><transliteration valid="true">ze2</transliteration>
+𒍢</mapentry>
+<mapentry got="a2b1c10"  signName="ZI"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zi</transliteration>
+𒍣</mapentry>
+<mapentry got="b4c4"  signName="ZIGZIK (NÍNDA×EŠ)"  MesZL="336" aBZL="140" LHA="190" HethZL=""><transliteration valid="true">zib2</transliteration>
+𒍨</mapentry>
+<mapentry got="a2b1c10"  signName="ZI"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zid</transliteration>
+𒍣</mapentry>
+<mapentry got="b7c2"  signName="ZÌ"  MesZL="" aBZL="" LHA="" HethZL=""><transliteration valid="true">zid2</transliteration>
+𒍥</mapentry>
+<mapentry got="a2b1c10"  signName="ZI"  MesZL="140" aBZL="41" LHA="84" HethZL="33"><transliteration valid="true">zig3</transliteration>
+𒍣</mapentry>
+<mapentry got="a5b1c1d1"  signName="ZU"  MesZL="15" aBZL="304" LHA="6" HethZL="209"><transliteration valid="true">zu</transliteration>
 𒍪</mapentry>
-<mapentry got="a1b1c3d3"  MesZL="884" aBZL="456" LHA="555" HethZL="300"><transliteration valid="true">zum</transliteration>
+<mapentry got="a3b2c5d1"  signName="KA"  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">zu2</transliteration>
+𒅗</mapentry>
+<mapentry got="a5b1c1d1"  signName="ZU"  MesZL="15" aBZL="304" LHA="6" HethZL="209"><transliteration valid="true">zuh</transliteration>
+𒍪</mapentry>
+<mapentry got="a1b1c3d3"  signName="ZUM"  MesZL="884" aBZL="456" LHA="555" HethZL="300"><transliteration valid="true">zum</transliteration>
 𒍮</mapentry>
 </mapentries>

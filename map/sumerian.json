@@ -2,6 +2,7 @@
     {
         "MesZL": 839,
         "HethZL": "364; 365",
+        "signName": "A",
         "LHA": 579,
         "got": "a3",
         "aBZL": 470,
@@ -14,6 +15,7 @@
     {
         "MesZL": 560,
         "HethZL": 215,
+        "signName": "A2",
         "LHA": 334,
         "got": "a2b8c7",
         "aBZL": 230,
@@ -26,6 +28,7 @@
     {
         "MesZL": 118,
         "HethZL": 37,
+        "signName": "TI",
         "LHA": 73,
         "got": "a1b2c2",
         "aBZL": 23,
@@ -36,20 +39,22 @@
         "content": "𒋾"
     },
     {
-        "MesZL": 223,
-        "HethZL": 97,
-        "LHA": 128,
-        "got": "a1b2c1d1",
-        "aBZL": 125,
+        "MesZL": 15,
+        "HethZL": 209,
+        "signName": "ZU",
+        "LHA": 6,
+        "got": "a5b1c1d1",
+        "aBZL": 304,
         "transliteration": {
             "valid": true,
             "content": "ab"
         },
-        "content": "𒀊"
+        "content": "𒍪"
     },
     {
         "MesZL": 672,
         "HethZL": 277,
+        "signName": "ÁB",
         "LHA": 420,
         "got": "c2d1",
         "aBZL": 352,
@@ -60,10 +65,6 @@
         "content": "𒀖"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "abgal"
@@ -71,10 +72,6 @@
         "content": "𒉣𒈨"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "abrig"
@@ -84,6 +81,7 @@
     {
         "MesZL": 258,
         "HethZL": 105,
+        "signName": "AD",
         "LHA": 145,
         "got": "a3b4c1d1",
         "aBZL": 132,
@@ -96,6 +94,7 @@
     {
         "MesZL": 814,
         "HethZL": "",
+        "signName": "ÀD (LU×BAD)",
         "LHA": "537_65c; 537x",
         "got": "a3b4c1d1",
         "aBZL": "",
@@ -108,6 +107,7 @@
     {
         "MesZL": 326,
         "HethZL": 121,
+        "signName": "ÁG (NÍNDA×NE)",
         "LHA": 183,
         "got": "a1b8c6",
         "aBZL": 136,
@@ -118,10 +118,6 @@
         "content": "𒉘"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "agarin4"
@@ -131,6 +127,7 @@
     {
         "MesZL": 636,
         "HethZL": 332,
+        "signName": "AḪ (ḪI×NUN)",
         "LHA": 398,
         "got": "a5b1c2d2",
         "aBZL": 280,
@@ -141,9 +138,23 @@
         "content": "𒄴"
     },
     {
+        "MesZL": 326,
+        "HethZL": 121,
+        "signName": "ÁG (NÍNDA×NE)",
+        "LHA": 183,
+        "got": "a1b8c6",
+        "aBZL": 136,
+        "transliteration": {
+            "valid": true,
+            "content": "aj2"
+        },
+        "content": "𒉘"
+    },
+    {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "IMKREUZTIM",
+        "LHA": "399xn",
         "got": "a5b5c6d5",
         "aBZL": "",
         "transliteration": {
@@ -153,10 +164,6 @@
         "content": "𒅐"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "ajrig"
@@ -166,6 +173,7 @@
     {
         "MesZL": 127,
         "HethZL": 81,
+        "signName": "AG",
         "LHA": 97,
         "got": "a1b10",
         "aBZL": 52,
@@ -176,10 +184,6 @@
         "content": "𒀝"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "akkil"
@@ -187,10 +191,6 @@
         "content": "𒃰𒋺𒋛"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "al"
@@ -198,8 +198,22 @@
         "content": "𒀠"
     },
     {
+        "MesZL": 489,
+        "HethZL": "",
+        "signName": "ÚMBISAG (ŠID×A)",
+        "LHA": 317,
+        "got": "a6b5",
+        "aBZL": 208,
+        "transliteration": {
+            "valid": true,
+            "content": "alal"
+        },
+        "content": "𒋄"
+    },
+    {
         "MesZL": 703,
         "HethZL": 303,
+        "signName": "ALIM (GÌR× A.IGI)",
         "LHA": 421,
         "got": "a6b7c3d3",
         "aBZL": 295,
@@ -212,6 +226,7 @@
     {
         "MesZL": 893,
         "HethZL": 308,
+        "signName": "NAGAR",
         "LHA": 560,
         "got": "a3b1c2d1",
         "aBZL": 449,
@@ -222,8 +237,22 @@
         "content": "𒉄"
     },
     {
+        "MesZL": 71,
+        "HethZL": 229,
+        "signName": "URU (IRI)",
+        "LHA": 38,
+        "got": "a3b3",
+        "aBZL": 181,
+        "transliteration": {
+            "valid": true,
+            "content": "alu"
+        },
+        "content": "𒌷"
+    },
+    {
         "MesZL": 309,
         "HethZL": 168,
+        "signName": "AM (GU4×KUR)",
         "LHA": 170,
         "got": "a1b2c4d1",
         "aBZL": 119,
@@ -236,6 +265,7 @@
     {
         "MesZL": 392,
         "HethZL": 57,
+        "signName": "AMA (GÁ×AN)",
         "LHA": 237,
         "got": "a4b3c1d1",
         "aBZL": 94,
@@ -248,6 +278,7 @@
     {
         "MesZL": 695,
         "HethZL": 155,
+        "signName": "AMAR (ZUR)",
         "LHA": 437,
         "got": "b2c4",
         "aBZL": 367,
@@ -260,6 +291,7 @@
     {
         "MesZL": 460,
         "HethZL": "",
+        "signName": "AMAŠ (DAG.KISIM5× LU.MÁŠ)",
         "LHA": 293,
         "got": "a8b9c5d4",
         "aBZL": 174,
@@ -272,6 +304,7 @@
     {
         "MesZL": 795,
         "HethZL": 182,
+        "signName": "SUG (LAGAB×A)",
         "LHA": 522,
         "got": "a5b2",
         "aBZL": 414,
@@ -284,6 +317,7 @@
     {
         "MesZL": 10,
         "HethZL": 8,
+        "signName": "AN",
         "LHA": 13,
         "got": "a1b1c1d1",
         "aBZL": 9,
@@ -294,8 +328,22 @@
         "content": "𒀭"
     },
     {
+        "MesZL": 748,
+        "HethZL": 356,
+        "signName": "DIŠ (1)",
+        "LHA": 480,
+        "got": "a1",
+        "aBZL": 390,
+        "transliteration": {
+            "valid": true,
+            "content": "ana"
+        },
+        "content": "𒁹"
+    },
+    {
         "MesZL": 353,
         "HethZL": 302,
+        "signName": "ANŠE (GÌR×PA or GÌR×TAB)",
         "LHA": 208,
         "got": "a2b7c6d4",
         "aBZL": 292,
@@ -308,6 +356,7 @@
     {
         "MesZL": 223,
         "HethZL": 97,
+        "signName": "AB",
         "LHA": 128,
         "got": "a1b2c1d1",
         "aBZL": 125,
@@ -320,6 +369,7 @@
     {
         "MesZL": 726,
         "HethZL": 289,
+        "signName": "AR (IGI.RI)",
         "LHA": 451,
         "got": "a4b2c2",
         "aBZL": 234,
@@ -332,6 +382,7 @@
     {
         "MesZL": 644,
         "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "LHA": 401,
         "got": "a1b4c2d2",
         "aBZL": 281,
@@ -344,6 +395,7 @@
     {
         "MesZL": 18,
         "HethZL": 16,
+        "signName": "ARAD",
         "LHA": 50,
         "got": "a3b1c2d1",
         "aBZL": 16,
@@ -354,8 +406,16 @@
         "content": "𒀴"
     },
     {
+        "transliteration": {
+            "valid": true,
+            "content": "asag"
+        },
+        "content": "𒆬𒀭"
+    },
+    {
         "MesZL": 79,
         "HethZL": "",
+        "signName": "ASARI (URU×IGI)",
         "LHA": 44,
         "got": "a4b4c1",
         "aBZL": 184,
@@ -368,6 +428,7 @@
     {
         "MesZL": 79,
         "HethZL": "",
+        "signName": "ASARI (URU×IGI)",
         "LHA": 44,
         "got": "a4b4c1",
         "aBZL": 184,
@@ -380,6 +441,7 @@
     {
         "MesZL": 1,
         "HethZL": 1,
+        "signName": "AŠ",
         "LHA": 1,
         "got": "b1",
         "aBZL": 1,
@@ -392,6 +454,7 @@
     {
         "MesZL": 548,
         "HethZL": 241,
+        "signName": "ÁŠ (ZÍZ)",
         "LHA": 339,
         "got": "a1b4",
         "aBZL": 211,
@@ -404,6 +467,7 @@
     {
         "MesZL": 173,
         "HethZL": 80,
+        "signName": "AŠGAB",
         "LHA": "104_6",
         "got": "a5b1c1",
         "aBZL": 443,
@@ -414,10 +478,6 @@
         "content": "𒀿"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "aszkud"
@@ -427,6 +487,7 @@
     {
         "MesZL": 297,
         "HethZL": 92,
+        "signName": "AZ (PIRIG×ZA)",
         "LHA": 131,
         "got": "a14b9c2d2",
         "aBZL": 180,
@@ -439,6 +500,7 @@
     {
         "MesZL": 14,
         "HethZL": 205,
+        "signName": "BA",
         "LHA": 5,
         "got": "a1b1c1d1",
         "aBZL": 303,
@@ -451,6 +513,7 @@
     {
         "MesZL": 387,
         "HethZL": 56,
+        "signName": "GÁ (MAL)",
         "LHA": 233,
         "got": "a3b2",
         "aBZL": 93,
@@ -463,6 +526,7 @@
     {
         "MesZL": 746,
         "HethZL": 295,
+        "signName": "PAD (ŠUK)",
         "LHA": 469,
         "got": "a3c1d1",
         "aBZL": 362,
@@ -475,6 +539,7 @@
     {
         "MesZL": 275,
         "HethZL": 114,
+        "signName": "BÀD (UG5 (EZEN×BAD))",
         "LHA": "152_8",
         "got": "a10b9",
         "aBZL": 153,
@@ -487,6 +552,7 @@
     {
         "MesZL": 5,
         "HethZL": 4,
+        "signName": "BAL",
         "LHA": 9,
         "got": "a1b3c3",
         "aBZL": 3,
@@ -499,6 +565,7 @@
     {
         "MesZL": 5,
         "HethZL": 4,
+        "signName": "BAL",
         "LHA": 9,
         "got": "a1b3c3",
         "aBZL": 3,
@@ -509,10 +576,6 @@
         "content": "𒁄"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "balla"
@@ -522,6 +585,7 @@
     {
         "MesZL": 255,
         "HethZL": 237,
+        "signName": "TUR (DUMU)",
         "LHA": 144,
         "got": "a1b2c2d2",
         "aBZL": 393,
@@ -534,6 +598,7 @@
     {
         "MesZL": 121,
         "HethZL": 20,
+        "signName": "BAR",
         "LHA": 74,
         "got": "a1b1",
         "aBZL": 57,
@@ -546,6 +611,7 @@
     {
         "MesZL": 313,
         "HethZL": 169,
+        "signName": "NE",
         "LHA": 172,
         "got": "a1b4c4",
         "aBZL": 116,
@@ -556,8 +622,22 @@
         "content": "𒉈"
     },
     {
+        "MesZL": 121,
+        "HethZL": 20,
+        "signName": "BAR",
+        "LHA": 74,
+        "got": "a1b1",
+        "aBZL": 57,
+        "transliteration": {
+            "valid": true,
+            "content": "bara"
+        },
+        "content": "𒁇"
+    },
+    {
         "MesZL": 554,
         "HethZL": 235,
+        "signName": "BÁRA",
         "LHA": 344,
         "got": "a10b10c1d1",
         "aBZL": 217,
@@ -570,6 +650,7 @@
     {
         "MesZL": 554,
         "HethZL": 235,
+        "signName": "BÁRA",
         "LHA": 344,
         "got": "a10b10c1d1",
         "aBZL": 217,
@@ -582,6 +663,7 @@
     {
         "MesZL": 358,
         "HethZL": 153,
+        "signName": "BI",
         "LHA": 214,
         "got": "a4b2c1d1",
         "aBZL": 79,
@@ -594,6 +676,7 @@
     {
         "MesZL": 358,
         "HethZL": 153,
+        "signName": "BI",
         "LHA": 214,
         "got": "a4b2c1d1",
         "aBZL": 79,
@@ -606,6 +689,7 @@
     {
         "MesZL": 313,
         "HethZL": 169,
+        "signName": "NE",
         "LHA": 172,
         "got": "a1b4c4",
         "aBZL": 116,
@@ -618,6 +702,7 @@
     {
         "MesZL": 113,
         "HethZL": 13,
+        "signName": "BAD",
         "LHA": 69,
         "got": "b1c1d1",
         "aBZL": 25,
@@ -630,6 +715,7 @@
     {
         "MesZL": 580,
         "HethZL": 339,
+        "signName": "BU (GÍD)",
         "LHA": 371,
         "got": "b1c2d2",
         "aBZL": 265,
@@ -640,8 +726,22 @@
         "content": "𒁍"
     },
     {
+        "MesZL": 33,
+        "HethZL": "",
+        "signName": "PÙ (KA×KÁR)",
+        "LHA": 19,
+        "got": "a8b2c7d1",
+        "aBZL": 321,
+        "transliteration": {
+            "valid": true,
+            "content": "bum"
+        },
+        "content": "𒅤"
+    },
+    {
         "MesZL": 8,
         "HethZL": "",
+        "signName": "BÚR",
         "LHA": 11,
         "got": "a2b2c3d1",
         "aBZL": 13,
@@ -654,6 +754,7 @@
     {
         "MesZL": 8,
         "HethZL": "",
+        "signName": "BÚR",
         "LHA": 11,
         "got": "a2b2c3d1",
         "aBZL": 13,
@@ -664,11 +765,12 @@
         "content": "𒁔"
     },
     {
-        "MesZL": "",
+        "MesZL": 661,
         "HethZL": 261,
-        "LHA": "",
+        "signName": "U",
+        "LHA": 411,
         "got": "c1",
-        "aBZL": "",
+        "aBZL": 337,
         "transliteration": {
             "valid": true,
             "content": "buru3"
@@ -678,6 +780,7 @@
     {
         "MesZL": 10,
         "HethZL": 8,
+        "signName": "AN",
         "LHA": 13,
         "got": "a1b1c1d1",
         "aBZL": 9,
@@ -690,6 +793,7 @@
     {
         "MesZL": 561,
         "HethZL": 214,
+        "signName": "DA",
         "LHA": 335,
         "got": "a2b8c1",
         "aBZL": 229,
@@ -702,6 +806,7 @@
     {
         "MesZL": 808,
         "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "LHA": 536,
         "got": "a2b3",
         "aBZL": 415,
@@ -712,10 +817,6 @@
         "content": "𒆪"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "dadag"
@@ -725,6 +826,7 @@
     {
         "MesZL": 438,
         "HethZL": 243,
+        "signName": "DAG (PÀR)",
         "LHA": 280,
         "got": "a4b5c1d1",
         "aBZL": 168,
@@ -737,6 +839,7 @@
     {
         "MesZL": 142,
         "HethZL": 32,
+        "signName": "RI",
         "LHA": 86,
         "got": "a3b1c1",
         "aBZL": 39,
@@ -749,6 +852,7 @@
     {
         "MesZL": 889,
         "HethZL": 298,
+        "signName": "DAM",
         "LHA": 557,
         "got": "a3b4c2d1",
         "aBZL": 454,
@@ -759,10 +863,6 @@
         "content": "𒁮"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "danna"
@@ -770,9 +870,23 @@
         "content": "𒆜𒁍"
     },
     {
+        "MesZL": 807,
+        "HethZL": 44,
+        "signName": "IB",
+        "LHA": 535,
+        "got": "a6b2",
+        "aBZL": 394,
+        "transliteration": {
+            "valid": true,
+            "content": "dara2"
+        },
+        "content": "𒅁"
+    },
+    {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "UMUM×KASKAL",
+        "LHA": "338n1",
         "got": "a2b6c4d4",
         "aBZL": "",
         "transliteration": {
@@ -784,6 +898,7 @@
     {
         "MesZL": 313,
         "HethZL": 169,
+        "signName": "NE",
         "LHA": 172,
         "got": "a1b4c4",
         "aBZL": 116,
@@ -796,6 +911,7 @@
     {
         "MesZL": 736,
         "HethZL": 312,
+        "signName": "DI",
         "LHA": 457,
         "got": "b2c2d2",
         "aBZL": 431,
@@ -808,6 +924,7 @@
     {
         "MesZL": 255,
         "HethZL": 237,
+        "signName": "TUR (DUMU)",
         "LHA": 144,
         "got": "a1b2c2d2",
         "aBZL": 393,
@@ -820,6 +937,7 @@
     {
         "MesZL": 813,
         "HethZL": "210?",
+        "signName": "DIB (DAB)",
         "LHA": 537,
         "got": "a3b4",
         "aBZL": 419,
@@ -830,10 +948,6 @@
         "content": "𒁳"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "didli"
@@ -843,6 +957,7 @@
     {
         "MesZL": 10,
         "HethZL": 8,
+        "signName": "AN",
         "LHA": 13,
         "got": "a1b1c1d1",
         "aBZL": 9,
@@ -855,6 +970,7 @@
     {
         "MesZL": 1,
         "HethZL": 1,
+        "signName": "AŠ",
         "LHA": 1,
         "got": "b1",
         "aBZL": 1,
@@ -867,6 +983,7 @@
     {
         "MesZL": 485,
         "HethZL": 231,
+        "signName": "ŠID (LAG)",
         "LHA": 314,
         "got": "a3b5",
         "aBZL": "212; 207a",
@@ -879,6 +996,7 @@
     {
         "MesZL": 591,
         "HethZL": 286,
+        "signName": "LIŠ",
         "LHA": 377,
         "got": "a1c1",
         "aBZL": 232,
@@ -891,6 +1009,7 @@
     {
         "MesZL": 167,
         "HethZL": 14,
+        "signName": "DIM",
         "LHA": 94,
         "got": "a2b1c2d2",
         "aBZL": 14,
@@ -903,6 +1022,7 @@
     {
         "MesZL": 686,
         "HethZL": 165,
+        "signName": "GIM (DÍM)",
         "LHA": 440,
         "got": "a2b2c1d2",
         "aBZL": 67,
@@ -913,10 +1033,19 @@
         "content": "𒁶"
     },
     {
-        "MesZL": "",
+        "MesZL": "516, 534",
         "HethZL": "",
-        "LHA": "",
+        "signName": "LÚ-šeššig (LÚ.GAM)",
+        "LHA": "330_8n",
+        "got": "a4c7d1",
         "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "dim3"
+        },
+        "content": "𒈕"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "dimgul"
@@ -926,6 +1055,7 @@
     {
         "MesZL": 119,
         "HethZL": 330,
+        "signName": "DIN",
         "LHA": 465,
         "got": "c3d1",
         "aBZL": 361,
@@ -936,10 +1066,6 @@
         "content": "𒁷"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "dirig"
@@ -949,7 +1075,9 @@
     {
         "MesZL": 748,
         "HethZL": 356,
+        "signName": "DIŠ (1)",
         "LHA": 480,
+        "got": "a1",
         "aBZL": 390,
         "transliteration": {
             "valid": true,
@@ -960,6 +1088,7 @@
     {
         "MesZL": 350,
         "HethZL": 128,
+        "signName": "DU",
         "LHA": 206,
         "got": "a1b2c2",
         "aBZL": "64, 197",
@@ -972,6 +1101,7 @@
     {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -984,6 +1114,7 @@
     {
         "MesZL": 24,
         "HethZL": 133,
+        "signName": "KA",
         "LHA": 15,
         "got": "a3b2c5d1",
         "aBZL": 312,
@@ -996,6 +1127,7 @@
     {
         "MesZL": 522,
         "HethZL": "",
+        "signName": "LÚ×NE",
         "LHA": "330_7a",
         "got": "a5b4c6d1",
         "aBZL": 257,
@@ -1008,6 +1140,7 @@
     {
         "MesZL": 379,
         "HethZL": 75,
+        "signName": "GAG (KAK)",
         "LHA": 230,
         "got": "a1c1d1",
         "aBZL": 260,
@@ -1020,6 +1153,7 @@
     {
         "MesZL": 698,
         "HethZL": 275,
+        "signName": "UL (DU7)",
         "LHA": 441,
         "got": "a1b2c2d1",
         "aBZL": 344,
@@ -1030,11 +1164,12 @@
         "content": "𒌌"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 298,
+        "HethZL": 164,
+        "signName": "GABA",
+        "LHA": 167,
         "got": "b2c8",
-        "aBZL": "",
+        "aBZL": 141,
         "transliteration": {
             "valid": true,
             "content": "du8"
@@ -1044,6 +1179,7 @@
     {
         "MesZL": 242,
         "HethZL": 99,
+        "signName": "DUB",
         "LHA": 138,
         "got": "a9b4",
         "aBZL": "112b",
@@ -1056,6 +1192,7 @@
     {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -1068,6 +1205,7 @@
     {
         "MesZL": 643,
         "HethZL": 334,
+        "signName": "BIR (ḪI×ŠE)",
         "LHA": 400,
         "got": "c12d2",
         "aBZL": 287,
@@ -1080,6 +1218,7 @@
     {
         "MesZL": 499,
         "HethZL": 162,
+        "signName": "DUG (BI×A)",
         "LHA": 309,
         "got": "a8b2c1d1",
         "aBZL": 80,
@@ -1092,6 +1231,7 @@
     {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -1104,6 +1244,7 @@
     {
         "MesZL": 704,
         "HethZL": 268,
+        "signName": "DUGUD",
         "LHA": 445,
         "got": "b9c1",
         "aBZL": 349,
@@ -1114,10 +1255,6 @@
         "content": "𒂂"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "dul"
@@ -1127,6 +1264,7 @@
     {
         "MesZL": 354,
         "HethZL": 125,
+        "signName": "TUM",
         "LHA": 207,
         "got": "a4b4c3d1",
         "aBZL": 75,
@@ -1139,6 +1277,7 @@
     {
         "MesZL": 255,
         "HethZL": 237,
+        "signName": "TUR (DUMU)",
         "LHA": 144,
         "got": "a1b2c2d2",
         "aBZL": 393,
@@ -1151,6 +1290,7 @@
     {
         "MesZL": 744,
         "HethZL": 46,
+        "signName": "ŠUL (DUN)",
         "LHA": 467,
         "got": "a5b2c3d2",
         "aBZL": "ŠUL:438",
@@ -1163,6 +1303,7 @@
     {
         "MesZL": 836,
         "HethZL": "223; 209.2",
+        "signName": "GÍN (TÙN)",
         "LHA": 595,
         "got": "a3b3",
         "aBZL": "TÙN:401a, GÍN:401b",
@@ -1173,11 +1314,25 @@
         "content": "𒂅"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 178,
+        "HethZL": 202,
+        "signName": "DUR (GÚxGAG, GÚ.GAG)",
+        "LHA": 108,
+        "got": "a4b2c2d2",
+        "aBZL": 88,
+        "transliteration": {
+            "valid": true,
+            "content": "dur"
+        },
+        "content": "𒄙"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "signName": "DUŔ",
+        "LHA": 536,
         "got": "a2b3",
-        "aBZL": "",
+        "aBZL": 415,
         "transliteration": {
             "valid": true,
             "content": "dur2"
@@ -1187,6 +1342,7 @@
     {
         "MesZL": 839,
         "HethZL": "364; 365",
+        "signName": "A",
         "LHA": 579,
         "got": "a3",
         "aBZL": 470,
@@ -1197,11 +1353,12 @@
         "content": "𒀀"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 808,
+        "HethZL": 206,
+        "signName": "DUŔ",
+        "LHA": 536,
         "got": "a2b3",
-        "aBZL": "",
+        "aBZL": 415,
         "transliteration": {
             "valid": true,
             "content": "durun"
@@ -1211,6 +1368,7 @@
     {
         "MesZL": 498,
         "HethZL": 187,
+        "signName": "E",
         "LHA": 308,
         "got": "a3b4",
         "aBZL": 167,
@@ -1223,6 +1381,7 @@
     {
         "MesZL": 495,
         "HethZL": 199,
+        "signName": "É",
         "LHA": 324,
         "got": "a5b4",
         "aBZL": 107,
@@ -1233,10 +1392,6 @@
         "content": "𒂍"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "ed3"
@@ -1246,6 +1401,7 @@
     {
         "MesZL": 300,
         "HethZL": "(168)",
+        "signName": "EDIN",
         "LHA": 168,
         "got": "a7b7c3d2",
         "aBZL": 115,
@@ -1258,6 +1414,7 @@
     {
         "MesZL": 300,
         "HethZL": "(168)",
+        "signName": "EDIN",
         "LHA": 168,
         "got": "a7b7c3d2",
         "aBZL": 115,
@@ -1270,6 +1427,7 @@
     {
         "MesZL": 498,
         "HethZL": 187,
+        "signName": "E",
         "LHA": 308,
         "got": "a3b4",
         "aBZL": 167,
@@ -1282,6 +1440,7 @@
     {
         "MesZL": 810,
         "HethZL": 212,
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "LHA": 536,
         "got": "a2b7",
         "aBZL": 420,
@@ -1294,6 +1453,7 @@
     {
         "MesZL": 636,
         "HethZL": 332,
+        "signName": "AḪ (ḪI×NUN)",
         "LHA": 398,
         "got": "a5b1c2d2",
         "aBZL": 280,
@@ -1306,6 +1466,7 @@
     {
         "MesZL": 899,
         "HethZL": 307,
+        "signName": "EL",
         "LHA": 564,
         "got": "a3b3c1d1",
         "aBZL": 455,
@@ -1316,8 +1477,22 @@
         "content": "𒂖"
     },
     {
+        "MesZL": 326,
+        "HethZL": 121,
+        "signName": "ÁG (NÍNDA×NE)",
+        "LHA": 183,
+        "got": "a1b8c6",
+        "aBZL": 136,
+        "transliteration": {
+            "valid": true,
+            "content": "em3"
+        },
+        "content": "𒉘"
+    },
+    {
         "MesZL": 61,
         "HethZL": 147,
+        "signName": "EME (KA×ME)",
         "LHA": 32,
         "got": "a4b3c5d1",
         "aBZL": 326,
@@ -1330,6 +1505,7 @@
     {
         "MesZL": 314,
         "HethZL": "",
+        "signName": "ÉMEŠ (NE×UD)",
         "LHA": 174,
         "got": "a1b4c6d2",
         "aBZL": "",
@@ -1340,20 +1516,22 @@
         "content": "𒉊"
     },
     {
-        "MesZL": 261,
-        "HethZL": 354,
-        "LHA": 148,
-        "got": "a2c10d1",
-        "aBZL": 386,
+        "MesZL": 164,
+        "HethZL": 40,
+        "signName": "EN",
+        "LHA": 99,
+        "got": "a2b5c3",
+        "aBZL": 62,
         "transliteration": {
             "valid": true,
             "content": "en"
         },
-        "content": "𒅔"
+        "content": "𒂗"
     },
     {
         "MesZL": 85,
         "HethZL": 343,
+        "signName": "LI",
         "LHA": 59,
         "got": "a2b4c11d1",
         "aBZL": 381,
@@ -1364,10 +1542,6 @@
         "content": "𒇷"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "endib"
@@ -1375,10 +1549,6 @@
         "content": "𒂗𒈨𒈬"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "endub"
@@ -1388,6 +1558,7 @@
     {
         "MesZL": 756,
         "HethZL": 216,
+        "signName": "ENGUR (LAGAB×ḪAL)",
         "LHA": 484,
         "got": "a2b3c1d1",
         "aBZL": 404,
@@ -1400,6 +1571,7 @@
     {
         "MesZL": 437,
         "HethZL": 77,
+        "signName": "IR (GAG-gunû)",
         "LHA": 232,
         "got": "a3c1d1",
         "aBZL": 263,
@@ -1410,10 +1582,6 @@
         "content": "𒅕"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "er2"
@@ -1423,6 +1591,7 @@
     {
         "MesZL": 143,
         "HethZL": 36,
+        "signName": "NUN",
         "LHA": 87,
         "got": "a5b1",
         "aBZL": 47,
@@ -1433,10 +1602,6 @@
         "content": "𒉣"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "erim2"
@@ -1446,6 +1611,7 @@
     {
         "MesZL": 496,
         "HethZL": 196,
+        "signName": "KAL",
         "LHA": 322,
         "got": "a2b2c1d1",
         "aBZL": 176,
@@ -1458,6 +1624,7 @@
     {
         "MesZL": 711,
         "HethZL": 331,
+        "signName": "EŠ (3×U)",
         "LHA": 472,
         "got": "c3",
         "aBZL": 366,
@@ -1470,7 +1637,8 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "EN×GAŃTENÛ",
+        "LHA": "054v",
         "got": "a7b5c5",
         "aBZL": "",
         "transliteration": {
@@ -1482,6 +1650,7 @@
     {
         "MesZL": 271,
         "HethZL": 106,
+        "signName": "EZEN",
         "LHA": 152,
         "got": "a4b6",
         "aBZL": "152a,b,c",
@@ -1492,20 +1661,22 @@
         "content": "𒂡"
     },
     {
-        "MesZL": 89,
-        "HethZL": 95,
-        "LHA": 55,
-        "got": "a5b7",
-        "aBZL": 177,
+        "MesZL": 491,
+        "HethZL": 159,
+        "signName": "GA",
+        "LHA": 319,
+        "got": "a5b6c1d1",
+        "aBZL": 201,
         "transliteration": {
             "valid": true,
             "content": "ga"
         },
-        "content": "𒆷"
+        "content": "𒂵"
     },
     {
         "MesZL": 387,
         "HethZL": 56,
+        "signName": "GÁ (MAL)",
         "LHA": 233,
         "got": "a3b2",
         "aBZL": 93,
@@ -1518,6 +1689,7 @@
     {
         "MesZL": 148,
         "HethZL": 49,
+        "signName": "KAB",
         "LHA": 88,
         "got": "a2b8c1",
         "aBZL": 226,
@@ -1528,11 +1700,12 @@
         "content": "𒆏"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 298,
+        "HethZL": 164,
+        "signName": "GABA",
+        "LHA": 167,
         "got": "b2c8",
-        "aBZL": "",
+        "aBZL": 141,
         "transliteration": {
             "valid": true,
             "content": "gaba"
@@ -1542,6 +1715,7 @@
     {
         "MesZL": 553,
         "HethZL": 242,
+        "signName": "GAL",
         "LHA": 343,
         "got": "a1b5",
         "aBZL": 213,
@@ -1554,6 +1728,7 @@
     {
         "MesZL": 136,
         "HethZL": 67,
+        "signName": "IG (GÁL)",
         "LHA": 80,
         "got": "a3b6c2",
         "aBZL": 61,
@@ -1566,6 +1741,7 @@
     {
         "MesZL": 883,
         "HethZL": 297,
+        "signName": "MUNUS (SAL)",
         "LHA": 554,
         "got": "a1b1c1d1",
         "aBZL": 450,
@@ -1578,6 +1754,7 @@
     {
         "MesZL": 338,
         "HethZL": "",
+        "signName": "GALAM (SUKUD)",
         "LHA": "190kv",
         "got": "a1b2c2d1",
         "aBZL": "210 and 133",
@@ -1590,6 +1767,7 @@
     {
         "MesZL": 576,
         "HethZL": 247,
+        "signName": "GAM",
         "LHA": 362,
         "got": "c2",
         "aBZL": 359,
@@ -1602,6 +1780,7 @@
     {
         "MesZL": 253,
         "HethZL": 113,
+        "signName": "GAN",
         "LHA": 143,
         "got": "a8b2c2d2",
         "aBZL": 120,
@@ -1614,6 +1793,7 @@
     {
         "MesZL": 174,
         "HethZL": 61,
+        "signName": "GÁN",
         "LHA": 105,
         "got": "a6b2",
         "aBZL": 106,
@@ -1626,6 +1806,7 @@
     {
         "MesZL": 174,
         "HethZL": 61,
+        "signName": "GÁN",
         "LHA": 105,
         "got": "a6b2",
         "aBZL": 106,
@@ -1638,6 +1819,7 @@
     {
         "MesZL": 859,
         "HethZL": 369,
+        "signName": "NÍG (GAR, NINDA)",
         "LHA": 597,
         "got": "a3d1",
         "aBZL": 473,
@@ -1650,6 +1832,7 @@
     {
         "MesZL": 543,
         "HethZL": 240,
+        "signName": "GÀR (QAR)",
         "LHA": 333,
         "got": "b4c2d1",
         "aBZL": 209,
@@ -1662,6 +1845,7 @@
     {
         "MesZL": 492,
         "HethZL": "",
+        "signName": "GA-gunû",
         "LHA": "319n",
         "got": "a9b6c1d1",
         "aBZL": 202,
@@ -1674,6 +1858,7 @@
     {
         "MesZL": 340,
         "HethZL": 122,
+        "signName": "GAZ (KUM×ŠE)",
         "LHA": 192,
         "got": "a2b4c14",
         "aBZL": 139,
@@ -1684,10 +1869,6 @@
         "content": "𒄤"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "gazi"
@@ -1695,8 +1876,35 @@
         "content": "𒓊"
     },
     {
+        "MesZL": 141,
+        "HethZL": 30,
+        "signName": "GI",
+        "LHA": 85,
+        "got": "a1b1c5d2",
+        "aBZL": 40,
+        "transliteration": {
+            "valid": true,
+            "content": "ge"
+        },
+        "content": "𒄀"
+    },
+    {
+        "MesZL": 507,
+        "HethZL": 234,
+        "signName": "GI4 (GI-gunû)",
+        "LHA": 326,
+        "got": "a1b5c4d2",
+        "aBZL": 214,
+        "transliteration": {
+            "valid": true,
+            "content": "ge4"
+        },
+        "content": "𒄄"
+    },
+    {
         "MesZL": 350,
         "HethZL": 128,
+        "signName": "DU",
         "LHA": 206,
         "got": "a1b2c2",
         "aBZL": "64, 197",
@@ -1709,6 +1917,7 @@
     {
         "MesZL": 141,
         "HethZL": 30,
+        "signName": "GI",
         "LHA": 85,
         "got": "a1b1c5d2",
         "aBZL": 40,
@@ -1721,6 +1930,7 @@
     {
         "MesZL": 469,
         "HethZL": 178,
+        "signName": "GIŠ (GEŠ)",
         "LHA": 296,
         "got": "a1b2",
         "aBZL": 160,
@@ -1733,6 +1943,7 @@
     {
         "MesZL": 141,
         "HethZL": 30,
+        "signName": "GI",
         "LHA": 85,
         "got": "a1b1c5d2",
         "aBZL": 40,
@@ -1745,6 +1956,7 @@
     {
         "MesZL": 484,
         "HethZL": 194,
+        "signName": "KID (LÍL)",
         "LHA": 313,
         "got": "a6b4",
         "aBZL": 163,
@@ -1757,6 +1969,7 @@
     {
         "MesZL": 507,
         "HethZL": 234,
+        "signName": "GI4 (GI-gunû)",
         "LHA": 326,
         "got": "a1b5c4d2",
         "aBZL": 214,
@@ -1769,6 +1982,7 @@
     {
         "MesZL": 580,
         "HethZL": 339,
+        "signName": "BU (GÍD)",
         "LHA": 371,
         "got": "b1c2d2",
         "aBZL": 265,
@@ -1779,10 +1993,6 @@
         "content": "𒁍"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "gig"
@@ -1792,6 +2002,7 @@
     {
         "MesZL": 681,
         "HethZL": 267,
+        "signName": "MI",
         "LHA": 427,
         "got": "b8c1",
         "aBZL": 348,
@@ -1802,8 +2013,22 @@
         "content": "𒈪"
     },
     {
+        "MesZL": 105,
+        "HethZL": 258,
+        "signName": "GIL (GIoverGI parall. or crossing)",
+        "LHA": 67,
+        "got": "c9d9",
+        "aBZL": 250,
+        "transliteration": {
+            "valid": true,
+            "content": "gil"
+        },
+        "content": "𒄃"
+    },
+    {
         "MesZL": 578,
         "HethZL": 329,
+        "signName": "KUR",
         "LHA": 366,
         "got": "c3",
         "aBZL": 369,
@@ -1814,8 +2039,22 @@
         "content": "𒆳"
     },
     {
+        "MesZL": 686,
+        "HethZL": 165,
+        "signName": "GIM (DÍM)",
+        "LHA": 440,
+        "got": "a2b2c1d2",
+        "aBZL": 67,
+        "transliteration": {
+            "valid": true,
+            "content": "gin7"
+        },
+        "content": "𒁶"
+    },
+    {
         "MesZL": 558,
         "HethZL": "244A",
+        "signName": "GIR (ḪA-gunû)",
         "LHA": 346,
         "got": "a4b4c2",
         "aBZL": 222,
@@ -1828,6 +2067,7 @@
     {
         "MesZL": 6,
         "HethZL": 6,
+        "signName": "GÍR",
         "LHA": 10,
         "got": "a1b1c2d2",
         "aBZL": 8,
@@ -1838,8 +2078,22 @@
         "content": "𒄈"
     },
     {
+        "MesZL": 701,
+        "HethZL": 301,
+        "signName": "GÌR",
+        "LHA": 444,
+        "got": "a1b6c3d3",
+        "aBZL": "291b",
+        "transliteration": {
+            "valid": true,
+            "content": "gir3"
+        },
+        "content": "𒄊"
+    },
+    {
         "MesZL": 24,
         "HethZL": 133,
+        "signName": "KA",
         "LHA": 15,
         "got": "a3b2c5d1",
         "aBZL": 312,
@@ -1852,6 +2106,7 @@
     {
         "MesZL": 469,
         "HethZL": 178,
+        "signName": "GIŠ (GEŠ)",
         "LHA": 296,
         "got": "a1b2",
         "aBZL": 160,
@@ -1864,6 +2119,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "one GEŠ2",
         "LHA": "",
         "got": "a1",
         "aBZL": "",
@@ -1876,6 +2132,7 @@
     {
         "MesZL": 891,
         "HethZL": 304,
+        "signName": "GU",
         "LHA": 559,
         "got": "a2b1c3d1",
         "aBZL": 458,
@@ -1888,6 +2145,7 @@
     {
         "MesZL": 176,
         "HethZL": 201,
+        "signName": "GÚ (TIK)",
         "LHA": 106,
         "got": "a3b2c2d2",
         "aBZL": 89,
@@ -1900,6 +2158,7 @@
     {
         "MesZL": 472,
         "HethZL": 157,
+        "signName": "GU4",
         "LHA": 297,
         "got": "a1b2c1d1",
         "aBZL": 118,
@@ -1912,6 +2171,7 @@
     {
         "MesZL": 808,
         "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "LHA": 536,
         "got": "a2b3",
         "aBZL": 415,
@@ -1924,6 +2184,7 @@
     {
         "MesZL": 65,
         "HethZL": 149,
+        "signName": "GU7 (KA×NÍG)",
         "LHA": 36,
         "got": "a6b2c5d2",
         "aBZL": 329,
@@ -1936,6 +2197,7 @@
     {
         "MesZL": 350,
         "HethZL": 128,
+        "signName": "DU",
         "LHA": 206,
         "got": "a1b2c2",
         "aBZL": "64, 197",
@@ -1948,6 +2210,7 @@
     {
         "MesZL": 85,
         "HethZL": 343,
+        "signName": "LI",
         "LHA": 59,
         "got": "a2b4c11d1",
         "aBZL": 381,
@@ -1960,6 +2223,7 @@
     {
         "MesZL": 472,
         "HethZL": 157,
+        "signName": "GU4",
         "LHA": 297,
         "got": "a1b2c1d1",
         "aBZL": 118,
@@ -1970,10 +2234,6 @@
         "content": "𒄞"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "gud3"
@@ -1983,6 +2243,7 @@
     {
         "MesZL": 555,
         "HethZL": "220; 221",
+        "signName": "GÚG (LÙ; ŠÈ-gunû)",
         "LHA": 345,
         "got": "a2b10",
         "aBZL": 216,
@@ -1995,6 +2256,7 @@
     {
         "MesZL": 682,
         "HethZL": 271,
+        "signName": "GUL (SÚN)",
         "LHA": 429,
         "got": "a2b4c2",
         "aBZL": 343,
@@ -2007,6 +2269,7 @@
     {
         "MesZL": 176,
         "HethZL": 201,
+        "signName": "GÚ (TIK)",
         "LHA": 106,
         "got": "a3b2c2d2",
         "aBZL": 89,
@@ -2019,6 +2282,7 @@
     {
         "MesZL": 183,
         "HethZL": 83,
+        "signName": "DAR (GÙN; ḪU-gunû, SI-gunû)",
         "LHA": 113,
         "got": "a2b6c1",
         "aBZL": 37,
@@ -2031,6 +2295,7 @@
     {
         "MesZL": 180,
         "HethZL": 185,
+        "signName": "GUR",
         "LHA": 111,
         "got": "a2b2",
         "aBZL": 92,
@@ -2043,6 +2308,7 @@
     {
         "MesZL": 576,
         "HethZL": 247,
+        "signName": "GAM",
         "LHA": 362,
         "got": "c2",
         "aBZL": 359,
@@ -2055,6 +2321,7 @@
     {
         "MesZL": 755,
         "HethZL": 179,
+        "signName": "LAGAB",
         "LHA": 483,
         "got": "a2b2",
         "aBZL": 402,
@@ -2067,6 +2334,7 @@
     {
         "MesZL": 503,
         "HethZL": 193,
+        "signName": "GURUN",
         "LHA": 310,
         "got": "a2b2c4",
         "aBZL": 145,
@@ -2079,6 +2347,7 @@
     {
         "MesZL": 856,
         "HethZL": 367,
+        "signName": "ḪA (KU6)",
         "LHA": 589,
         "got": "a4c2",
         "aBZL": 475,
@@ -2091,6 +2360,7 @@
     {
         "MesZL": 3,
         "HethZL": 2,
+        "signName": "ḪAL",
         "LHA": 2,
         "got": "b1c1d1",
         "aBZL": 7,
@@ -2103,6 +2373,7 @@
     {
         "MesZL": 884,
         "HethZL": 300,
+        "signName": "ZUM",
         "LHA": 555,
         "got": "a1b1c3d3",
         "aBZL": 456,
@@ -2113,10 +2384,6 @@
         "content": "𒍮"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "halba2"
@@ -2126,6 +2393,7 @@
     {
         "MesZL": 644,
         "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "LHA": 401,
         "got": "a1b4c2d2",
         "aBZL": 281,
@@ -2138,6 +2406,7 @@
     {
         "MesZL": 528,
         "HethZL": "",
+        "signName": "LÚ×LAGAB",
         "LHA": "330_7b",
         "got": "a6b2c3d1",
         "aBZL": "",
@@ -2150,6 +2419,7 @@
     {
         "MesZL": 9,
         "HethZL": 7,
+        "signName": "TAR",
         "LHA": 12,
         "got": "a1c2",
         "aBZL": 231,
@@ -2160,8 +2430,22 @@
         "content": "𒋻"
     },
     {
+        "MesZL": 464,
+        "HethZL": 174,
+        "signName": "PA",
+        "LHA": 295,
+        "got": "a1b2",
+        "aBZL": 143,
+        "transliteration": {
+            "valid": true,
+            "content": "hat"
+        },
+        "content": "𒉺"
+    },
+    {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -2174,6 +2458,7 @@
     {
         "MesZL": 253,
         "HethZL": 113,
+        "signName": "GAN",
         "LHA": 143,
         "got": "a8b2c2d2",
         "aBZL": 120,
@@ -2186,6 +2471,7 @@
     {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -2198,6 +2484,7 @@
     {
         "MesZL": 132,
         "HethZL": 24,
+        "signName": "ḪU",
         "LHA": 78,
         "got": "a2b1c1",
         "aBZL": 34,
@@ -2210,6 +2497,7 @@
     {
         "MesZL": 149,
         "HethZL": 49,
+        "signName": "ḪÚB",
         "LHA": 88,
         "got": "a3b1c2d1",
         "aBZL": 445,
@@ -2220,10 +2508,6 @@
         "content": "𒄸"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "hubur"
@@ -2233,6 +2517,7 @@
     {
         "MesZL": 828,
         "HethZL": 51,
+        "signName": "UR",
         "LHA": 575,
         "got": "a3b2",
         "aBZL": 400,
@@ -2245,6 +2530,7 @@
     {
         "MesZL": 877,
         "HethZL": 254,
+        "signName": "ḪÚL",
         "LHA": 550,
         "got": "a2b5c1",
         "aBZL": 425,
@@ -2257,6 +2543,7 @@
     {
         "MesZL": 900,
         "HethZL": 310,
+        "signName": "LUM",
         "LHA": 565,
         "got": "c8d4",
         "aBZL": 248,
@@ -2269,6 +2556,7 @@
     {
         "MesZL": 644,
         "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "LHA": 401,
         "got": "a1b4c2d2",
         "aBZL": 281,
@@ -2279,10 +2567,6 @@
         "content": "𒄯"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "husz"
@@ -2292,6 +2576,7 @@
     {
         "MesZL": 252,
         "HethZL": 217,
+        "signName": "I",
         "LHA": 142,
         "got": "b5",
         "aBZL": 192,
@@ -2304,6 +2589,7 @@
     {
         "MesZL": 861,
         "HethZL": 371,
+        "signName": "IÁ (5)",
         "LHA": "598a",
         "got": "a5",
         "aBZL": 476,
@@ -2316,6 +2602,7 @@
     {
         "MesZL": 380,
         "HethZL": 72,
+        "signName": "NI",
         "LHA": 231,
         "got": "a2c1d1",
         "aBZL": 261,
@@ -2328,6 +2615,7 @@
     {
         "MesZL": 260,
         "HethZL": 218,
+        "signName": "IA (I.A)",
         "LHA": "142a",
         "got": "a3b5",
         "aBZL": 193,
@@ -2340,6 +2628,7 @@
     {
         "MesZL": 511,
         "HethZL": 233,
+        "signName": "RA",
         "LHA": 328,
         "got": "a4b5",
         "aBZL": 192,
@@ -2352,6 +2641,7 @@
     {
         "MesZL": 807,
         "HethZL": 44,
+        "signName": "IB",
         "LHA": 535,
         "got": "a6b2",
         "aBZL": 394,
@@ -2364,6 +2654,7 @@
     {
         "MesZL": 354,
         "HethZL": 125,
+        "signName": "TUM",
         "LHA": 207,
         "got": "a4b4c3d1",
         "aBZL": 75,
@@ -2374,10 +2665,19 @@
         "content": "𒌈"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
+        "MesZL": 807,
+        "HethZL": 44,
+        "signName": "IB",
+        "LHA": 535,
+        "got": "a6b2",
+        "aBZL": 394,
+        "transliteration": {
+            "valid": true,
+            "content": "ibbi"
+        },
+        "content": "𒅁"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "id2"
@@ -2385,10 +2685,6 @@
         "content": "𒀀𒇉"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "idigna"
@@ -2398,6 +2694,7 @@
     {
         "MesZL": 136,
         "HethZL": 67,
+        "signName": "IG (GÁL)",
         "LHA": 80,
         "got": "a3b6c2",
         "aBZL": 61,
@@ -2410,6 +2707,7 @@
     {
         "MesZL": 724,
         "HethZL": 288,
+        "signName": "IGI (ŠI, LIM)",
         "LHA": 449,
         "got": "a1b1c1",
         "aBZL": 233,
@@ -2422,6 +2720,7 @@
     {
         "MesZL": 348,
         "HethZL": 117,
+        "signName": "IL (AL×ŠE)",
         "LHA": 205,
         "got": "a5b2c8d1",
         "aBZL": 78,
@@ -2434,6 +2733,7 @@
     {
         "MesZL": 493,
         "HethZL": 161,
+        "signName": "ÍL (GA.GÍN)",
         "LHA": 320,
         "got": "a9b7c1d1",
         "aBZL": 204,
@@ -2444,10 +2744,6 @@
         "content": "𒅍"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "ildum"
@@ -2457,6 +2753,7 @@
     {
         "MesZL": 868,
         "HethZL": 375,
+        "signName": "ILIMMU (9)",
         "LHA": "598e",
         "got": "a9",
         "aBZL": 480,
@@ -2469,6 +2766,7 @@
     {
         "MesZL": 140,
         "HethZL": 33,
+        "signName": "ZI",
         "LHA": 84,
         "got": "a2b1c10",
         "aBZL": 41,
@@ -2479,10 +2777,6 @@
         "content": "𒍣"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "imhur2"
@@ -2490,10 +2784,6 @@
         "content": "𒅆𒁉"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "imhur3"
@@ -2501,10 +2791,6 @@
         "content": "𒅆𒁉"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "imhur4"
@@ -2514,6 +2800,7 @@
     {
         "MesZL": 863,
         "HethZL": 373,
+        "signName": "IMIN (7)",
         "LHA": "598n1",
         "got": "a7",
         "aBZL": 478,
@@ -2526,6 +2813,7 @@
     {
         "MesZL": 261,
         "HethZL": 354,
+        "signName": "IN",
         "LHA": 148,
         "got": "a2c10d1",
         "aBZL": 386,
@@ -2538,9 +2826,10 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "LÚGEGENÜBERLU",
+        "LHA": "330_60",
         "got": "a8c6d2",
-        "aBZL": "",
+        "aBZL": 255,
         "transliteration": {
             "valid": true,
             "content": "inbir"
@@ -2550,6 +2839,7 @@
     {
         "MesZL": 24,
         "HethZL": 133,
+        "signName": "KA",
         "LHA": 15,
         "got": "a3b2c5d1",
         "aBZL": 312,
@@ -2562,6 +2852,7 @@
     {
         "MesZL": 437,
         "HethZL": 77,
+        "signName": "IR (GAG-gunû)",
         "LHA": 232,
         "got": "a3c1d1",
         "aBZL": 263,
@@ -2574,6 +2865,7 @@
     {
         "MesZL": 71,
         "HethZL": 229,
+        "signName": "URU (IRI)",
         "LHA": 38,
         "got": "a3b3",
         "aBZL": 181,
@@ -2586,6 +2878,7 @@
     {
         "MesZL": 469,
         "HethZL": 178,
+        "signName": "GIŠ (GEŠ)",
         "LHA": 296,
         "got": "a1b2",
         "aBZL": 160,
@@ -2598,6 +2891,7 @@
     {
         "MesZL": 357,
         "HethZL": 151,
+        "signName": "IŠ",
         "LHA": 212,
         "got": "a2b4c1",
         "aBZL": 162,
@@ -2610,6 +2904,7 @@
     {
         "MesZL": 608,
         "HethZL": "",
+        "signName": "PEŠ4 (ŠÀ×A)",
         "LHA": 390,
         "got": "a3c3d3",
         "aBZL": 436,
@@ -2622,6 +2917,7 @@
     {
         "MesZL": 20,
         "HethZL": 84,
+        "signName": "ITI (UD×EŠ)",
         "LHA": 52,
         "got": "c5d2",
         "aBZL": 334,
@@ -2634,6 +2930,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "UDŠEŠIG",
         "LHA": "",
         "got": "c6d2",
         "aBZL": "",
@@ -2646,6 +2943,7 @@
     {
         "MesZL": 313,
         "HethZL": 169,
+        "signName": "NE",
         "LHA": 172,
         "got": "a1b4c4",
         "aBZL": 116,
@@ -2658,6 +2956,7 @@
     {
         "MesZL": 387,
         "HethZL": 56,
+        "signName": "GÁ (MAL)",
         "LHA": 233,
         "got": "a3b2",
         "aBZL": 93,
@@ -2670,6 +2969,7 @@
     {
         "MesZL": 136,
         "HethZL": 67,
+        "signName": "IG (GÁL)",
         "LHA": 80,
         "got": "a3b6c2",
         "aBZL": 61,
@@ -2682,6 +2982,7 @@
     {
         "MesZL": 431,
         "HethZL": 60,
+        "signName": "GALGA (GÁÉ×NÍG)",
         "LHA": 278,
         "got": "a6b2d1",
         "aBZL": 105,
@@ -2694,6 +2995,7 @@
     {
         "MesZL": 859,
         "HethZL": 369,
+        "signName": "NÍG (GAR, NINDA)",
         "LHA": 597,
         "got": "a3d1",
         "aBZL": 473,
@@ -2706,6 +3008,7 @@
     {
         "MesZL": 350,
         "HethZL": 128,
+        "signName": "DU",
         "LHA": 206,
         "got": "a1b2c2",
         "aBZL": "64, 197",
@@ -2718,6 +3021,7 @@
     {
         "MesZL": 469,
         "HethZL": 178,
+        "signName": "GIŠ (GEŠ)",
         "LHA": 296,
         "got": "a1b2",
         "aBZL": 160,
@@ -2730,6 +3034,7 @@
     {
         "MesZL": 212,
         "HethZL": 131,
+        "signName": "GEŠTIN (GIŠ.DIN)",
         "LHA": 210,
         "got": "a2b2c3d1",
         "aBZL": 77,
@@ -2742,6 +3047,7 @@
     {
         "MesZL": 681,
         "HethZL": 267,
+        "signName": "MI",
         "LHA": 427,
         "got": "b8c1",
         "aBZL": 348,
@@ -2754,6 +3060,7 @@
     {
         "MesZL": 701,
         "HethZL": 301,
+        "signName": "GÌR",
         "LHA": 444,
         "got": "a1b6c3d3",
         "aBZL": "291b",
@@ -2766,6 +3073,7 @@
     {
         "MesZL": 469,
         "HethZL": 178,
+        "signName": "GIŠ (GEŠ)",
         "LHA": 296,
         "got": "a1b2",
         "aBZL": 160,
@@ -2778,6 +3086,7 @@
     {
         "MesZL": 24,
         "HethZL": 133,
+        "signName": "KA",
         "LHA": 15,
         "got": "a3b2c5d1",
         "aBZL": 312,
@@ -2790,6 +3099,7 @@
     {
         "MesZL": 64,
         "HethZL": 148,
+        "signName": "NAG (KA×A)",
         "LHA": 35,
         "got": "a6b2c5d1",
         "aBZL": 328,
@@ -2802,6 +3112,7 @@
     {
         "MesZL": 568,
         "HethZL": 68,
+        "signName": "KAD4",
         "LHA": "354b",
         "got": "a2b6c1d1",
         "aBZL": "227a",
@@ -2814,6 +3125,7 @@
     {
         "MesZL": 569,
         "HethZL": "",
+        "signName": "KAD5",
         "LHA": "354bv",
         "got": "a3b5c8d1",
         "aBZL": "227b",
@@ -2824,10 +3136,6 @@
         "content": "𒆓"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "kadra"
@@ -2837,6 +3145,7 @@
     {
         "MesZL": 496,
         "HethZL": 196,
+        "signName": "KAL",
         "LHA": 322,
         "got": "a2b2c1d1",
         "aBZL": 176,
@@ -2847,11 +3156,12 @@
         "content": "𒆗"
     },
     {
-        "MesZL": "",
+        "MesZL": 501,
         "HethZL": 197,
-        "LHA": "",
+        "signName": "UN",
+        "LHA": 312,
         "got": "a6b5c2d2",
-        "aBZL": "",
+        "aBZL": 169,
         "transliteration": {
             "valid": true,
             "content": "kalam"
@@ -2861,6 +3171,7 @@
     {
         "MesZL": 253,
         "HethZL": 113,
+        "signName": "GAN",
         "LHA": 143,
         "got": "a8b2c2d2",
         "aBZL": 120,
@@ -2873,6 +3184,7 @@
     {
         "MesZL": 222,
         "HethZL": 167,
+        "signName": "KÁ",
         "LHA": 133,
         "got": "a5b4c4",
         "aBZL": 175,
@@ -2883,10 +3195,6 @@
         "content": "𒆍"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "kar"
@@ -2896,6 +3204,7 @@
     {
         "MesZL": 175,
         "HethZL": "",
+        "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
         "LHA": 105,
         "got": "a5c2",
         "aBZL": 246,
@@ -2908,6 +3217,7 @@
     {
         "MesZL": 175,
         "HethZL": "",
+        "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
         "LHA": 105,
         "got": "a5c2",
         "aBZL": 246,
@@ -2920,6 +3230,7 @@
     {
         "MesZL": 352,
         "HethZL": 129,
+        "signName": "KAŠ4 (DU-šeššig)",
         "LHA": 202,
         "got": "a1b2c6",
         "aBZL": 66,
@@ -2930,11 +3241,12 @@
         "content": "𒁽"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 271,
+        "HethZL": 106,
+        "signName": "KEŠ´",
+        "LHA": 152,
         "got": "a12b16",
-        "aBZL": "",
+        "aBZL": "152a,b,c",
         "transliteration": {
             "valid": true,
             "content": "kesz2"
@@ -2942,11 +3254,12 @@
         "content": "𒆟"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 271,
+        "HethZL": 106,
+        "signName": "KEŠ´",
+        "LHA": 152,
         "got": "a12b16",
-        "aBZL": "",
+        "aBZL": "152a,b,c",
         "transliteration": {
             "valid": true,
             "content": "kesze2"
@@ -2956,6 +3269,7 @@
     {
         "MesZL": 737,
         "HethZL": 313,
+        "signName": "KI",
         "LHA": 461,
         "got": "b4c2d2",
         "aBZL": 432,
@@ -2966,8 +3280,22 @@
         "content": "𒆠"
     },
     {
+        "MesZL": 686,
+        "HethZL": 165,
+        "signName": "GIM (DÍM)",
+        "LHA": 440,
+        "got": "a2b2c1d2",
+        "aBZL": 67,
+        "transliteration": {
+            "valid": true,
+            "content": "kim"
+        },
+        "content": "𒁶"
+    },
+    {
         "MesZL": 580,
         "HethZL": 339,
+        "signName": "BU (GÍD)",
         "LHA": 371,
         "got": "b1c2d2",
         "aBZL": 265,
@@ -2978,10 +3306,19 @@
         "content": "𒁍"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
+        "MesZL": 815,
+        "HethZL": 47,
+        "signName": "KIN",
+        "LHA": 538,
+        "got": "a3b5c1d1",
+        "aBZL": 447,
+        "transliteration": {
+            "valid": true,
+            "content": "kin"
+        },
+        "content": "𒆥"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "kingal"
@@ -2991,6 +3328,7 @@
     {
         "MesZL": 541,
         "HethZL": 353,
+        "signName": "SAR",
         "LHA": "331e, 152iv",
         "got": "a2b2c9",
         "aBZL": 385,
@@ -3003,6 +3341,7 @@
     {
         "MesZL": 678,
         "HethZL": 273,
+        "signName": "KIŠ",
         "LHA": 425,
         "got": "a2b7c5d3",
         "aBZL": "291a",
@@ -3015,6 +3354,7 @@
     {
         "MesZL": 486,
         "HethZL": 112,
+        "signName": "MES (RID)",
         "LHA": 314,
         "got": "a8b4",
         "aBZL": "112a",
@@ -3027,6 +3367,7 @@
     {
         "MesZL": 808,
         "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "LHA": 536,
         "got": "a2b3",
         "aBZL": 415,
@@ -3039,6 +3380,7 @@
     {
         "MesZL": 681,
         "HethZL": 267,
+        "signName": "MI",
         "LHA": 427,
         "got": "b8c1",
         "aBZL": 348,
@@ -3051,6 +3393,7 @@
     {
         "MesZL": 745,
         "HethZL": 69,
+        "signName": "KUG (KÙ)",
         "LHA": 468,
         "got": "c7d7",
         "aBZL": 428,
@@ -3063,6 +3406,7 @@
     {
         "MesZL": 856,
         "HethZL": 367,
+        "signName": "ḪA (KU6)",
         "LHA": 589,
         "got": "a4c2",
         "aBZL": 475,
@@ -3075,6 +3419,7 @@
     {
         "MesZL": 9,
         "HethZL": 7,
+        "signName": "TAR",
         "LHA": 12,
         "got": "a1c2",
         "aBZL": 231,
@@ -3087,6 +3432,7 @@
     {
         "MesZL": 745,
         "HethZL": 69,
+        "signName": "KUG (KÙ)",
         "LHA": 468,
         "got": "c7d7",
         "aBZL": 428,
@@ -3099,6 +3445,7 @@
     {
         "MesZL": 131,
         "HethZL": 35,
+        "signName": "KUN",
         "LHA": 77,
         "got": "a5b2c2d2",
         "aBZL": 32,
@@ -3109,10 +3456,6 @@
         "content": "𒆲"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "kun4"
@@ -3122,6 +3465,7 @@
     {
         "MesZL": 578,
         "HethZL": 329,
+        "signName": "KUR",
         "LHA": 366,
         "got": "c3",
         "aBZL": 369,
@@ -3134,6 +3478,7 @@
     {
         "MesZL": 92,
         "HethZL": "256(1)",
+        "signName": "PAB or PAP",
         "LHA": 60,
         "got": "c1d1",
         "aBZL": 249,
@@ -3144,10 +3489,6 @@
         "content": "𒉽"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "kurku2"
@@ -3155,10 +3496,6 @@
         "content": "𒅗𒀭𒉌𒋛"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "kurum7"
@@ -3168,6 +3505,7 @@
     {
         "MesZL": 119,
         "HethZL": 330,
+        "signName": "DIN",
         "LHA": 465,
         "got": "c3d1",
         "aBZL": 361,
@@ -3180,6 +3518,7 @@
     {
         "MesZL": 16,
         "HethZL": 213,
+        "signName": "SU",
         "LHA": 7,
         "got": "a5b2c1d1",
         "aBZL": 305,
@@ -3192,6 +3531,7 @@
     {
         "MesZL": 512,
         "HethZL": "",
+        "signName": "DÙL (SAG-gunû)",
         "LHA": 329,
         "got": "a6b2c1d1",
         "aBZL": 331,
@@ -3204,6 +3544,7 @@
     {
         "MesZL": 89,
         "HethZL": 95,
+        "signName": "LA",
         "LHA": 55,
         "got": "a5b7",
         "aBZL": 177,
@@ -3216,6 +3557,7 @@
     {
         "MesZL": 750,
         "HethZL": 358,
+        "signName": "LAL (LÁ)",
         "LHA": 481,
         "got": "a1b1",
         "aBZL": 391,
@@ -3228,6 +3570,7 @@
     {
         "MesZL": 485,
         "HethZL": 231,
+        "signName": "ŠID (LAG)",
         "LHA": 314,
         "got": "a3b5",
         "aBZL": "212; 207a",
@@ -3238,8 +3581,22 @@
         "content": "𒋃"
     },
     {
+        "MesZL": 596,
+        "HethZL": 316,
+        "signName": "UD (BABBAR)",
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "lah"
+        },
+        "content": "𒌓"
+    },
+    {
         "MesZL": 612,
         "HethZL": 327,
+        "signName": "ERIM (ZÁLAG)",
         "LHA": 393,
         "got": "c2d2",
         "aBZL": 247,
@@ -3252,6 +3609,7 @@
     {
         "MesZL": 750,
         "HethZL": 358,
+        "signName": "LAL (LÁ)",
         "LHA": 481,
         "got": "a1b1",
         "aBZL": 391,
@@ -3264,6 +3622,7 @@
     {
         "MesZL": 170,
         "HethZL": 170,
+        "signName": "LÀL (TA×ḪI)",
         "LHA": 109,
         "got": "a2b2c3d3",
         "aBZL": 124,
@@ -3276,6 +3635,7 @@
     {
         "MesZL": 693,
         "HethZL": 306,
+        "signName": "LAM",
         "LHA": 435,
         "got": "a5c2d2",
         "aBZL": 244,
@@ -3288,6 +3648,33 @@
     {
         "MesZL": 85,
         "HethZL": 343,
+        "signName": "LI",
+        "LHA": 59,
+        "got": "a2b4c11d1",
+        "aBZL": 381,
+        "transliteration": {
+            "valid": true,
+            "content": "le"
+        },
+        "content": "𒇷"
+    },
+    {
+        "MesZL": 724,
+        "HethZL": 288,
+        "signName": "IGI (ŠI, LIM)",
+        "LHA": 449,
+        "got": "a1b1c1",
+        "aBZL": 233,
+        "transliteration": {
+            "valid": true,
+            "content": "lem"
+        },
+        "content": "𒅆"
+    },
+    {
+        "MesZL": 85,
+        "HethZL": 343,
+        "signName": "LI",
         "LHA": 59,
         "got": "a2b4c11d1",
         "aBZL": 381,
@@ -3300,6 +3687,7 @@
     {
         "MesZL": 437,
         "HethZL": 77,
+        "signName": "IR (GAG-gunû)",
         "LHA": 232,
         "got": "a3c1d1",
         "aBZL": 263,
@@ -3310,8 +3698,22 @@
         "content": "𒅕"
     },
     {
+        "MesZL": 596,
+        "HethZL": 316,
+        "signName": "UD (BABBAR)",
+        "LHA": 381,
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "lih"
+        },
+        "content": "𒌓"
+    },
+    {
         "MesZL": 544,
         "HethZL": 127,
+        "signName": "LIL",
         "LHA": 336,
         "got": "b2c12d1",
         "aBZL": 91,
@@ -3324,6 +3726,7 @@
     {
         "MesZL": 484,
         "HethZL": 194,
+        "signName": "KID (LÍL)",
         "LHA": 313,
         "got": "a6b4",
         "aBZL": 163,
@@ -3336,6 +3739,7 @@
     {
         "MesZL": 724,
         "HethZL": 288,
+        "signName": "IGI (ŠI, LIM)",
         "LHA": 449,
         "got": "a1b1c1",
         "aBZL": 233,
@@ -3348,6 +3752,7 @@
     {
         "MesZL": 860,
         "HethZL": 370,
+        "signName": "LIMMU (NÍG, 4)",
         "LHA": 597,
         "got": "a4",
         "aBZL": 472,
@@ -3360,6 +3765,7 @@
     {
         "MesZL": 677,
         "HethZL": "",
+        "signName": "LIBIŠ (ÁB×ŠÀ)",
         "LHA": 424,
         "got": "c5d4",
         "aBZL": 353,
@@ -3370,8 +3776,22 @@
         "content": "𒀚"
     },
     {
+        "MesZL": 591,
+        "HethZL": 286,
+        "signName": "LIŠ",
+        "LHA": 377,
+        "got": "a1c1",
+        "aBZL": 232,
+        "transliteration": {
+            "valid": true,
+            "content": "lisz"
+        },
+        "content": "𒇺"
+    },
+    {
         "MesZL": 812,
         "HethZL": 210,
+        "signName": "LU (UDU)",
         "LHA": 537,
         "got": "a3b3",
         "aBZL": 416,
@@ -3384,6 +3804,7 @@
     {
         "MesZL": 514,
         "HethZL": 78,
+        "signName": "LÚ",
         "LHA": 330,
         "got": "a4c3d1",
         "aBZL": 253,
@@ -3396,6 +3817,7 @@
     {
         "MesZL": 570,
         "HethZL": "19; 351",
+        "signName": "LUL (NAR)",
         "LHA": 355,
         "got": "a2c6d5",
         "aBZL": 296,
@@ -3408,6 +3830,7 @@
     {
         "MesZL": 570,
         "HethZL": "19; 351",
+        "signName": "LUL (NAR)",
         "LHA": 355,
         "got": "a2c6d5",
         "aBZL": 296,
@@ -3420,6 +3843,7 @@
     {
         "MesZL": 499,
         "HethZL": 162,
+        "signName": "DUG (BI×A)",
         "LHA": 309,
         "got": "a8b2c1d1",
         "aBZL": 80,
@@ -3432,6 +3856,7 @@
     {
         "MesZL": 266,
         "HethZL": 115,
+        "signName": "",
         "LHA": 151,
         "got": "a5b4c4d1",
         "aBZL": "221a",
@@ -3444,6 +3869,7 @@
     {
         "MesZL": 494,
         "HethZL": 198,
+        "signName": "LUḪ",
         "LHA": 321,
         "got": "a4b4",
         "aBZL": 196,
@@ -3454,10 +3880,6 @@
         "content": "𒈛"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "lukur"
@@ -3467,6 +3889,7 @@
     {
         "MesZL": 570,
         "HethZL": "19; 351",
+        "signName": "LUL (NAR)",
         "LHA": 355,
         "got": "a2c6d5",
         "aBZL": 296,
@@ -3479,6 +3902,7 @@
     {
         "MesZL": 702,
         "HethZL": "",
+        "signName": "LULIM (GÌR× LU.IGI)",
         "LHA": "421a",
         "got": "a7b10c4d3",
         "aBZL": "",
@@ -3491,6 +3915,7 @@
     {
         "MesZL": 900,
         "HethZL": 310,
+        "signName": "LUM",
         "LHA": 565,
         "got": "c8d4",
         "aBZL": 248,
@@ -3503,6 +3928,7 @@
     {
         "MesZL": 362,
         "HethZL": 154,
+        "signName": "ŠIM",
         "LHA": 215,
         "got": "a7b2c2d1",
         "aBZL": 83,
@@ -3515,6 +3941,7 @@
     {
         "MesZL": 552,
         "HethZL": 208,
+        "signName": "MA",
         "LHA": 342,
         "got": "a2b3",
         "aBZL": 166,
@@ -3527,6 +3954,7 @@
     {
         "MesZL": 201,
         "HethZL": 87,
+        "signName": "MÁ",
         "LHA": 122,
         "got": "a3b2",
         "aBZL": 50,
@@ -3539,6 +3967,7 @@
     {
         "MesZL": 91,
         "HethZL": 10,
+        "signName": "MAḪ",
         "LHA": 57,
         "got": "a2b4c1d2",
         "aBZL": 6,
@@ -3551,6 +3980,7 @@
     {
         "MesZL": 483,
         "HethZL": 191,
+        "signName": "MAR",
         "LHA": 307,
         "got": "a2b3",
         "aBZL": 144,
@@ -3563,6 +3993,7 @@
     {
         "MesZL": 120,
         "HethZL": 20,
+        "signName": "MAŠ",
         "LHA": 74,
         "got": "a1b1",
         "aBZL": 29,
@@ -3575,6 +4006,7 @@
     {
         "MesZL": 130,
         "HethZL": 38,
+        "signName": "MÁŠ",
         "LHA": 76,
         "got": "a1b1c2d2",
         "aBZL": 31,
@@ -3587,6 +4019,7 @@
     {
         "MesZL": 753,
         "HethZL": 357,
+        "signName": "ME",
         "LHA": 532,
         "got": "a1b1",
         "aBZL": 392,
@@ -3599,6 +4032,7 @@
     {
         "MesZL": 129,
         "HethZL": 82,
+        "signName": "MÈ (AG×ERIM)",
         "LHA": 98,
         "aBZL": 53,
         "transliteration": {
@@ -3610,6 +4044,7 @@
     {
         "MesZL": 427,
         "HethZL": "",
+        "signName": "MEN (GÁ× ME.EN)",
         "LHA": 270,
         "got": "a6b8c3",
         "aBZL": 102,
@@ -3620,8 +4055,22 @@
         "content": "𒃞"
     },
     {
+        "MesZL": 753,
+        "HethZL": 357,
+        "signName": "ME",
+        "LHA": 532,
+        "got": "a1b1",
+        "aBZL": 392,
+        "transliteration": {
+            "valid": true,
+            "content": "mesz2"
+        },
+        "content": "𒈨"
+    },
+    {
         "MesZL": 681,
         "HethZL": 267,
+        "signName": "MI",
         "LHA": 427,
         "got": "b8c1",
         "aBZL": 348,
@@ -3634,6 +4083,7 @@
     {
         "MesZL": 883,
         "HethZL": 297,
+        "signName": "MUNUS (SAL)",
         "LHA": 554,
         "got": "a1b1c1d1",
         "aBZL": 450,
@@ -3646,6 +4096,7 @@
     {
         "MesZL": 825,
         "HethZL": 361,
+        "signName": "MIN (2)",
         "LHA": 570,
         "got": "a2",
         "aBZL": 465,
@@ -3658,6 +4109,7 @@
     {
         "MesZL": 98,
         "HethZL": 17,
+        "signName": "MU",
         "LHA": 61,
         "got": "b1c6",
         "aBZL": 20,
@@ -3670,6 +4122,7 @@
     {
         "MesZL": 541,
         "HethZL": 353,
+        "signName": "SAR",
         "LHA": "331e, 152iv",
         "got": "a2b2c9",
         "aBZL": 385,
@@ -3682,6 +4135,7 @@
     {
         "MesZL": 686,
         "HethZL": 165,
+        "signName": "GIM (DÍM)",
         "LHA": 440,
         "got": "a2b2c1d2",
         "aBZL": 67,
@@ -3694,6 +4148,7 @@
     {
         "MesZL": 589,
         "HethZL": 249,
+        "signName": "TE",
         "LHA": 376,
         "got": "a2c2d2",
         "aBZL": 289,
@@ -3704,8 +4159,22 @@
         "content": "𒋼"
     },
     {
+        "MesZL": "",
+        "HethZL": "",
+        "signName": "UMUM×KASKAL",
+        "LHA": "338n1",
+        "got": "a2b6c4d4",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "mum"
+        },
+        "content": "𒌤"
+    },
+    {
         "MesZL": 168,
         "HethZL": 18,
+        "signName": "DIM×ŠE, later DIM×KUR",
         "LHA": "95, 095v",
         "got": "a2b1c6d2",
         "aBZL": 15,
@@ -3716,10 +4185,6 @@
         "content": "𒁵"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "munsub2"
@@ -3727,10 +4192,6 @@
         "content": "𒋠𒇴𒋦"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "munu4"
@@ -3740,6 +4201,7 @@
     {
         "MesZL": 644,
         "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "LHA": 401,
         "got": "a1b4c2d2",
         "aBZL": 281,
@@ -3752,6 +4214,7 @@
     {
         "MesZL": 905,
         "HethZL": 311,
+        "signName": "SIG4",
         "LHA": 567,
         "got": "c6d4",
         "aBZL": 243,
@@ -3764,6 +4227,7 @@
     {
         "MesZL": 901,
         "HethZL": 311,
+        "signName": "MÚRGU (LUM)",
         "LHA": 565,
         "got": "c4d2",
         "aBZL": 242,
@@ -3776,6 +4240,7 @@
     {
         "MesZL": 585,
         "HethZL": 342,
+        "signName": "MUŠ",
         "LHA": 374,
         "got": "a4b1c3d2",
         "aBZL": 267,
@@ -3788,6 +4253,7 @@
     {
         "MesZL": 132,
         "HethZL": 24,
+        "signName": "ḪU",
         "LHA": 78,
         "got": "a2b1c1",
         "aBZL": 34,
@@ -3800,6 +4266,7 @@
     {
         "MesZL": 110,
         "HethZL": 15,
+        "signName": "NA",
         "LHA": 70,
         "got": "b4c3d2",
         "aBZL": 24,
@@ -3812,6 +4279,7 @@
     {
         "MesZL": 689,
         "HethZL": 314,
+        "signName": "NÁ",
         "LHA": 431,
         "got": "a2b6c7d1",
         "aBZL": 364,
@@ -3822,10 +4290,6 @@
         "content": "𒈿"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "na4"
@@ -3835,6 +4299,7 @@
     {
         "MesZL": 246,
         "HethZL": 100,
+        "signName": "NAB (ANoverAN)",
         "LHA": 129,
         "got": "a2b2c2d2",
         "aBZL": "",
@@ -3845,10 +4310,6 @@
         "content": "𒀮"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "nagga"
@@ -3858,6 +4319,7 @@
     {
         "MesZL": 134,
         "HethZL": 39,
+        "signName": "NAM",
         "LHA": 79,
         "got": "a3b1c9",
         "aBZL": 42,
@@ -3868,8 +4330,22 @@
         "content": "𒉆"
     },
     {
+        "MesZL": 535,
+        "HethZL": 79,
+        "signName": "ŠEŠ (ÙRI)",
+        "LHA": 331,
+        "got": "b1c4d2",
+        "aBZL": "21b",
+        "transliteration": {
+            "valid": true,
+            "content": "nan"
+        },
+        "content": "𒋀"
+    },
+    {
         "MesZL": 313,
         "HethZL": 169,
+        "signName": "NE",
         "LHA": 172,
         "got": "a1b4c4",
         "aBZL": 116,
@@ -3882,9 +4358,10 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "PIRIG",
+        "LHA": 444,
         "got": "a10b9c2d2",
-        "aBZL": "",
+        "aBZL": 178,
         "transliteration": {
             "valid": true,
             "content": "ne3"
@@ -3894,6 +4371,7 @@
     {
         "MesZL": 380,
         "HethZL": 72,
+        "signName": "NI",
         "LHA": 231,
         "got": "a2c1d1",
         "aBZL": 261,
@@ -3904,11 +4382,12 @@
         "content": "𒉌"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 641,
+        "HethZL": 337,
+        "signName": "NÍ",
+        "LHA": 399,
         "got": "a4b1c2d3",
-        "aBZL": "",
+        "aBZL": 297,
         "transliteration": {
             "valid": true,
             "content": "ni2"
@@ -3918,6 +4397,7 @@
     {
         "MesZL": 859,
         "HethZL": 369,
+        "signName": "NÍG (GAR, NINDA)",
         "LHA": 597,
         "got": "a3d1",
         "aBZL": 473,
@@ -3930,6 +4410,7 @@
     {
         "MesZL": 859,
         "HethZL": 369,
+        "signName": "NÍG (GAR, NINDA)",
         "LHA": 597,
         "got": "a3d1",
         "aBZL": 473,
@@ -3940,8 +4421,22 @@
         "content": "𒃻"
     },
     {
+        "MesZL": 690,
+        "HethZL": 74,
+        "signName": "NIM",
+        "LHA": 433,
+        "got": "a1c3d1",
+        "aBZL": 355,
+        "transliteration": {
+            "valid": true,
+            "content": "nim"
+        },
+        "content": "𒉏"
+    },
+    {
         "MesZL": 712,
         "HethZL": 335,
+        "signName": "NIMIN (4×U)",
         "LHA": 473,
         "got": "c4",
         "aBZL": 374,
@@ -3952,10 +4447,6 @@
         "content": "𒐏"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "nin"
@@ -3963,10 +4454,6 @@
         "content": "𒊩𒌆"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "nin9"
@@ -3976,6 +4463,7 @@
     {
         "MesZL": 316,
         "HethZL": 119,
+        "signName": "NÍNDA",
         "LHA": 176,
         "got": "b4c2",
         "aBZL": 135,
@@ -3988,6 +4476,7 @@
     {
         "MesZL": 714,
         "HethZL": "",
+        "signName": "NINNU (5×U)",
         "LHA": 475,
         "got": "c5",
         "aBZL": 376,
@@ -4000,6 +4489,7 @@
     {
         "MesZL": 502,
         "HethZL": 204,
+        "signName": "NIR (NUNoverNUN)",
         "LHA": 325,
         "got": "a10b2",
         "aBZL": 148,
@@ -4010,10 +4500,6 @@
         "content": "𒉪"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "nisz"
@@ -4023,6 +4509,7 @@
     {
         "MesZL": 112,
         "HethZL": 11,
+        "signName": "NU",
         "LHA": 75,
         "got": "a1b1d1",
         "aBZL": 19,
@@ -4033,11 +4520,12 @@
         "content": "𒉡"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 115,
+        "HethZL": 5,
+        "signName": "NU11",
+        "LHA": "071",
         "got": "b8c4d2",
-        "aBZL": "",
+        "aBZL": "028",
         "transliteration": {
             "valid": true,
             "content": "nu11"
@@ -4047,6 +4535,7 @@
     {
         "MesZL": 690,
         "HethZL": 74,
+        "signName": "NIM",
         "LHA": 433,
         "got": "a1c3d1",
         "aBZL": 355,
@@ -4059,6 +4548,7 @@
     {
         "MesZL": 900,
         "HethZL": 310,
+        "signName": "LUM",
         "LHA": 565,
         "got": "c8d4",
         "aBZL": 248,
@@ -4071,6 +4561,7 @@
     {
         "MesZL": 117,
         "HethZL": 12,
+        "signName": "NUMUN",
         "LHA": 72,
         "got": "b2c3",
         "aBZL": 26,
@@ -4081,10 +4572,6 @@
         "content": "𒆰"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "numun2"
@@ -4094,6 +4581,7 @@
     {
         "MesZL": 143,
         "HethZL": 36,
+        "signName": "NUN",
         "LHA": 87,
         "got": "a5b1",
         "aBZL": 47,
@@ -4104,8 +4592,22 @@
         "content": "𒉣"
     },
     {
+        "MesZL": 143,
+        "HethZL": 36,
+        "signName": "NUN",
+        "LHA": 87,
+        "got": "a5b1",
+        "aBZL": 47,
+        "transliteration": {
+            "valid": true,
+            "content": "nuna"
+        },
+        "content": "𒉣"
+    },
+    {
         "MesZL": 464,
         "HethZL": 174,
+        "signName": "PA",
         "LHA": 295,
         "got": "a1b2",
         "aBZL": 143,
@@ -4116,10 +4618,6 @@
         "content": "𒉺"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "pa5"
@@ -4127,10 +4625,6 @@
         "content": "𒉽𒂊"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "pad3"
@@ -4140,6 +4634,7 @@
     {
         "MesZL": 132,
         "HethZL": 24,
+        "signName": "ḪU",
         "LHA": 78,
         "got": "a2b1c1",
         "aBZL": 34,
@@ -4152,7 +4647,8 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "LÚIMQUADRAT",
+        "LHA": "330_60n2",
         "got": "a8b8c8d8",
         "aBZL": "",
         "transliteration": {
@@ -4164,6 +4660,7 @@
     {
         "MesZL": 570,
         "HethZL": "19; 351",
+        "signName": "LUL (NAR)",
         "LHA": 355,
         "got": "a2c6d5",
         "aBZL": 296,
@@ -4174,10 +4671,6 @@
         "content": "𒈜"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "palil"
@@ -4187,6 +4680,7 @@
     {
         "MesZL": 92,
         "HethZL": "256(1)",
+        "signName": "PAB or PAP",
         "LHA": 60,
         "got": "c1d1",
         "aBZL": 249,
@@ -4199,6 +4693,7 @@
     {
         "MesZL": 598,
         "HethZL": 317,
+        "signName": "PI",
         "LHA": 383,
         "got": "a1b1c2",
         "aBZL": 370,
@@ -4211,6 +4706,7 @@
     {
         "MesZL": 558,
         "HethZL": "244A",
+        "signName": "GIR (ḪA-gunû)",
         "LHA": 346,
         "got": "a4b4c2",
         "aBZL": 222,
@@ -4223,6 +4719,7 @@
     {
         "MesZL": 598,
         "HethZL": 317,
+        "signName": "PI",
         "LHA": 383,
         "got": "a1b1c2",
         "aBZL": 370,
@@ -4233,8 +4730,22 @@
         "content": "𒉿"
     },
     {
+        "MesZL": 558,
+        "HethZL": "244A",
+        "signName": "GIR (ḪA-gunû)",
+        "LHA": 346,
+        "got": "a4b4c2",
+        "aBZL": 222,
+        "transliteration": {
+            "valid": true,
+            "content": "pisz"
+        },
+        "content": "𒄫"
+    },
+    {
         "MesZL": 580,
         "HethZL": 339,
+        "signName": "BU (GÍD)",
         "LHA": 371,
         "got": "b1c2d2",
         "aBZL": 265,
@@ -4245,8 +4756,48 @@
         "content": "𒁍"
     },
     {
+        "MesZL": 99,
+        "HethZL": 21,
+        "signName": "SÌLA",
+        "LHA": 62,
+        "got": "a1c1d1",
+        "aBZL": 269,
+        "transliteration": {
+            "valid": true,
+            "content": "qa"
+        },
+        "content": "𒋡"
+    },
+    {
+        "MesZL": 543,
+        "HethZL": 240,
+        "signName": "GÀR (QAR)",
+        "LHA": 333,
+        "got": "b4c2d1",
+        "aBZL": 209,
+        "transliteration": {
+            "valid": true,
+            "content": "qar"
+        },
+        "content": "𒃼"
+    },
+    {
+        "MesZL": 378,
+        "HethZL": 260,
+        "signName": "GIŠKREUZTGIŠ",
+        "LHA": "296n2",
+        "got": "c3d3",
+        "aBZL": 274,
+        "transliteration": {
+            "valid": true,
+            "content": "qip"
+        },
+        "content": "𒄒"
+    },
+    {
         "MesZL": 511,
         "HethZL": 233,
+        "signName": "RA",
         "LHA": 328,
         "got": "a4b5",
         "aBZL": 192,
@@ -4259,6 +4810,7 @@
     {
         "MesZL": 142,
         "HethZL": 32,
+        "signName": "RI",
         "LHA": 86,
         "got": "a3b1c1",
         "aBZL": 39,
@@ -4271,6 +4823,7 @@
     {
         "MesZL": 71,
         "HethZL": 229,
+        "signName": "URU (IRI)",
         "LHA": 38,
         "got": "a3b3",
         "aBZL": 181,
@@ -4283,6 +4836,7 @@
     {
         "MesZL": 496,
         "HethZL": 196,
+        "signName": "KAL",
         "LHA": 322,
         "got": "a2b2c1d1",
         "aBZL": 176,
@@ -4295,6 +4849,7 @@
     {
         "MesZL": 65,
         "HethZL": 149,
+        "signName": "GU7 (KA×NÍG)",
         "LHA": 36,
         "got": "a6b2c5d2",
         "aBZL": 329,
@@ -4305,10 +4860,6 @@
         "content": "𒅥"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "rig7"
@@ -4318,6 +4869,7 @@
     {
         "MesZL": 352,
         "HethZL": 129,
+        "signName": "KAŠ4 (DU-šeššig)",
         "LHA": 202,
         "got": "a1b2c6",
         "aBZL": 66,
@@ -4330,6 +4882,7 @@
     {
         "MesZL": 755,
         "HethZL": 179,
+        "signName": "LAGAB",
         "LHA": 483,
         "got": "a2b2",
         "aBZL": 402,
@@ -4340,8 +4893,22 @@
         "content": "𒆸"
     },
     {
+        "MesZL": 612,
+        "HethZL": 327,
+        "signName": "ERIM (ZÁLAG)",
+        "LHA": 393,
+        "got": "c2d2",
+        "aBZL": 247,
+        "transliteration": {
+            "valid": true,
+            "content": "rin2"
+        },
+        "content": "𒂟"
+    },
+    {
         "MesZL": 111,
         "HethZL": 43,
+        "signName": "RU",
         "LHA": 68,
         "got": "b2c2d2",
         "aBZL": 60,
@@ -4354,6 +4921,7 @@
     {
         "MesZL": 1,
         "HethZL": 1,
+        "signName": "AŠ",
         "LHA": 1,
         "got": "b1",
         "aBZL": 1,
@@ -4366,6 +4934,7 @@
     {
         "MesZL": 172,
         "HethZL": 200,
+        "signName": "SA",
         "LHA": 104,
         "got": "a4b4",
         "aBZL": 147,
@@ -4378,7 +4947,8 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "NINDÁ×ŠE",
+        "LHA": "187v5",
         "got": "b4c12",
         "aBZL": "",
         "transliteration": {
@@ -4390,6 +4960,7 @@
     {
         "MesZL": 736,
         "HethZL": 312,
+        "signName": "DI",
         "LHA": 457,
         "got": "b2c2d2",
         "aBZL": 431,
@@ -4402,6 +4973,7 @@
     {
         "MesZL": 851,
         "HethZL": 366,
+        "signName": "ZA",
         "LHA": 586,
         "got": "a4",
         "aBZL": 474,
@@ -4412,10 +4984,6 @@
         "content": "𒍝"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "sa4"
@@ -4423,10 +4991,6 @@
         "content": "𒄷𒈿"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "sag2"
@@ -4436,6 +5000,7 @@
     {
         "MesZL": 511,
         "HethZL": 233,
+        "signName": "RA",
         "LHA": 328,
         "got": "a4b5",
         "aBZL": 192,
@@ -4448,6 +5013,7 @@
     {
         "MesZL": 631,
         "HethZL": 335,
+        "signName": "ḪI (DÙG)",
         "LHA": 396,
         "got": "c2d2",
         "aBZL": 277,
@@ -4460,6 +5026,7 @@
     {
         "MesZL": 357,
         "HethZL": 151,
+        "signName": "IŠ",
         "LHA": 212,
         "got": "a2b4c1",
         "aBZL": 162,
@@ -4472,6 +5039,7 @@
     {
         "MesZL": 184,
         "HethZL": 192,
+        "signName": "SAG",
         "LHA": 115,
         "got": "a3b2c1d1",
         "aBZL": 309,
@@ -4484,6 +5052,7 @@
     {
         "MesZL": 883,
         "HethZL": 297,
+        "signName": "MUNUS (SAL)",
         "LHA": 554,
         "got": "a1b1c1d1",
         "aBZL": 450,
@@ -4496,7 +5065,8 @@
     {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "NINDÁ×ŠE",
+        "LHA": "187v5",
         "got": "b4c12",
         "aBZL": "",
         "transliteration": {
@@ -4508,6 +5078,7 @@
     {
         "MesZL": 541,
         "HethZL": 353,
+        "signName": "SAR",
         "LHA": "331e, 152iv",
         "got": "a2b2c9",
         "aBZL": 385,
@@ -4518,10 +5089,6 @@
         "content": "𒊬"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "sed4"
@@ -4531,6 +5098,7 @@
     {
         "MesZL": 181,
         "HethZL": 86,
+        "signName": "SI",
         "LHA": 112,
         "got": "a2b2",
         "aBZL": 164,
@@ -4543,6 +5111,7 @@
     {
         "MesZL": 881,
         "HethZL": 255,
+        "signName": "SIG",
         "LHA": 592,
         "got": "c2d2",
         "aBZL": 437,
@@ -4555,6 +5124,7 @@
     {
         "MesZL": 292,
         "HethZL": 350,
+        "signName": "SUM",
         "LHA": 164,
         "got": "c10",
         "aBZL": 388,
@@ -4567,6 +5137,7 @@
     {
         "MesZL": 141,
         "HethZL": 30,
+        "signName": "GI",
         "LHA": 85,
         "got": "a1b1c5d2",
         "aBZL": 40,
@@ -4579,6 +5150,7 @@
     {
         "MesZL": 564,
         "HethZL": 239,
+        "signName": "SIG7 (IGI-gunû)",
         "LHA": 351,
         "got": "a1b5c1",
         "aBZL": 198,
@@ -4591,6 +5163,7 @@
     {
         "MesZL": 181,
         "HethZL": 86,
+        "signName": "SI",
         "LHA": 112,
         "got": "a2b2",
         "aBZL": 164,
@@ -4603,6 +5176,7 @@
     {
         "MesZL": 816,
         "HethZL": 65,
+        "signName": "SÍG  SÍK",
         "LHA": 539,
         "got": "a3b7c1",
         "aBZL": 395,
@@ -4615,6 +5189,7 @@
     {
         "MesZL": 899,
         "HethZL": 307,
+        "signName": "EL",
         "LHA": 564,
         "got": "a3b3c1d1",
         "aBZL": 455,
@@ -4627,6 +5202,7 @@
     {
         "MesZL": 485,
         "HethZL": 231,
+        "signName": "ŠID (LAG)",
         "LHA": 314,
         "got": "a3b5",
         "aBZL": "212; 207a",
@@ -4639,6 +5215,7 @@
     {
         "MesZL": 99,
         "HethZL": 21,
+        "signName": "SÌLA",
         "LHA": 62,
         "got": "a1c1d1",
         "aBZL": 269,
@@ -4651,6 +5228,7 @@
     {
         "MesZL": 408,
         "HethZL": 54,
+        "signName": "SILA4 (GÁ×PA)",
         "LHA": 252,
         "got": "a4b4",
         "aBZL": 97,
@@ -4663,6 +5241,7 @@
     {
         "MesZL": 79,
         "HethZL": "",
+        "signName": "ASARI (URU×IGI)",
         "LHA": 44,
         "got": "a4b4c1",
         "aBZL": 184,
@@ -4675,6 +5254,7 @@
     {
         "MesZL": 736,
         "HethZL": 312,
+        "signName": "DI",
         "LHA": 457,
         "got": "b2c2d2",
         "aBZL": 431,
@@ -4685,10 +5265,19 @@
         "content": "𒁲"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
+        "MesZL": 711,
+        "HethZL": 331,
+        "signName": "EŠ (3×U)",
+        "LHA": 472,
+        "got": "c3",
+        "aBZL": 366,
+        "transliteration": {
+            "valid": true,
+            "content": "sin"
+        },
+        "content": "𒌍"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "sipard"
@@ -4698,6 +5287,7 @@
     {
         "MesZL": 580,
         "HethZL": 339,
+        "signName": "BU (GÍD)",
         "LHA": 371,
         "got": "b1c2d2",
         "aBZL": 265,
@@ -4710,6 +5300,7 @@
     {
         "MesZL": 16,
         "HethZL": 213,
+        "signName": "SU",
         "LHA": 7,
         "got": "a5b2c1d1",
         "aBZL": 305,
@@ -4722,6 +5313,7 @@
     {
         "MesZL": 584,
         "HethZL": 341,
+        "signName": "SUD (BU-gunû)",
         "LHA": 373,
         "got": "a4b1c2d2",
         "aBZL": 266,
@@ -4734,6 +5326,7 @@
     {
         "MesZL": 584,
         "HethZL": 341,
+        "signName": "SUD (BU-gunû)",
         "LHA": 373,
         "got": "a4b1c2d2",
         "aBZL": 266,
@@ -4746,6 +5339,7 @@
     {
         "MesZL": 153,
         "HethZL": 41,
+        "signName": "MÙŠ (INANNA)",
         "LHA": "103v",
         "got": "a2b1c1d1",
         "aBZL": 44,
@@ -4758,6 +5352,7 @@
     {
         "MesZL": 153,
         "HethZL": 41,
+        "signName": "MÙŠ (INANNA)",
         "LHA": "103v",
         "got": "a2b1c1d1",
         "aBZL": 44,
@@ -4770,6 +5365,7 @@
     {
         "MesZL": 892,
         "HethZL": "",
+        "signName": "SÙḪ (GUoverGUcrossed)",
         "LHA": 569,
         "got": "c11d5",
         "aBZL": 251,
@@ -4782,6 +5378,7 @@
     {
         "MesZL": 646,
         "HethZL": 349,
+        "signName": "SUḪUR",
         "LHA": 403,
         "got": "a8c6d2",
         "aBZL": 384,
@@ -4794,6 +5391,7 @@
     {
         "MesZL": 494,
         "HethZL": 198,
+        "signName": "LUḪ",
         "LHA": 321,
         "got": "a4b4",
         "aBZL": 196,
@@ -4806,6 +5404,7 @@
     {
         "MesZL": 292,
         "HethZL": 350,
+        "signName": "SUM",
         "LHA": 164,
         "got": "c10",
         "aBZL": 388,
@@ -4818,6 +5417,7 @@
     {
         "MesZL": 512,
         "HethZL": "",
+        "signName": "DÙL (SAG-gunû)",
         "LHA": 329,
         "got": "a6b2c1d1",
         "aBZL": 331,
@@ -4828,8 +5428,22 @@
         "content": "𒊨"
     },
     {
+        "MesZL": 646,
+        "HethZL": 349,
+        "signName": "SUḪUR",
+        "LHA": 403,
+        "got": "a8c6d2",
+        "aBZL": 384,
+        "transliteration": {
+            "valid": true,
+            "content": "sumur2"
+        },
+        "content": "𒋦"
+    },
+    {
         "MesZL": 32,
         "HethZL": 136,
+        "signName": "SU6 (KA×SA)",
         "LHA": "18x",
         "got": "a7b6c5d1",
         "aBZL": 316,
@@ -4842,6 +5456,7 @@
     {
         "MesZL": 8,
         "HethZL": "",
+        "signName": "BÚR",
         "LHA": 11,
         "got": "a2b2c3d1",
         "aBZL": 13,
@@ -4854,6 +5469,7 @@
     {
         "MesZL": 151,
         "HethZL": 42,
+        "signName": "SUR (ŠUR)",
         "LHA": 101,
         "got": "a3b1d1",
         "aBZL": 56,
@@ -4864,8 +5480,22 @@
         "content": "𒋩"
     },
     {
+        "MesZL": 151,
+        "HethZL": 42,
+        "signName": "SUR (ŠUR)",
+        "LHA": 101,
+        "got": "a3b1d1",
+        "aBZL": 56,
+        "transliteration": {
+            "valid": true,
+            "content": "sura"
+        },
+        "content": "𒋩"
+    },
+    {
         "MesZL": 566,
         "HethZL": 158,
+        "signName": "ŠA",
         "LHA": 353,
         "got": "a2b4c1d1",
         "aBZL": 203,
@@ -4878,6 +5508,7 @@
     {
         "MesZL": 859,
         "HethZL": 369,
+        "signName": "NÍG (GAR, NINDA)",
         "LHA": 597,
         "got": "a3d1",
         "aBZL": 473,
@@ -4890,6 +5521,7 @@
     {
         "MesZL": 599,
         "HethZL": 294,
+        "signName": "ŠÀ (ŠAG4)",
         "LHA": 384,
         "got": "c3d3",
         "aBZL": 433,
@@ -4900,8 +5532,22 @@
         "content": "𒊮"
     },
     {
+        "MesZL": 184,
+        "HethZL": 192,
+        "signName": "SAG",
+        "LHA": 115,
+        "got": "a3b2c1d1",
+        "aBZL": 309,
+        "transliteration": {
+            "valid": true,
+            "content": "szag"
+        },
+        "content": "𒊕"
+    },
+    {
         "MesZL": 599,
         "HethZL": 294,
+        "signName": "ŠÀ (ŠAG4)",
         "LHA": 384,
         "got": "c3d3",
         "aBZL": 433,
@@ -4914,6 +5560,7 @@
     {
         "MesZL": 744,
         "HethZL": 46,
+        "signName": "ŠUL (DUN)",
         "LHA": 467,
         "got": "a5b2c3d2",
         "aBZL": "ŠUL:438",
@@ -4926,6 +5573,7 @@
     {
         "MesZL": 84,
         "HethZL": "",
+        "signName": "URU×GU (GUR5)",
         "LHA": 46,
         "got": "a5b4c3d1",
         "aBZL": 185,
@@ -4936,9 +5584,23 @@
         "content": "𒍀"
     },
     {
+        "MesZL": 490,
+        "HethZL": 195,
+        "signName": "Ú",
+        "LHA": 318,
+        "got": "a4b2",
+        "aBZL": 146,
+        "transliteration": {
+            "valid": true,
+            "content": "szam"
+        },
+        "content": "𒌑"
+    },
+    {
         "MesZL": "",
         "HethZL": "",
-        "LHA": "",
+        "signName": "NINDÁ×ŠE",
+        "LHA": "187v5",
         "got": "b4c12",
         "aBZL": "",
         "transliteration": {
@@ -4948,10 +5610,6 @@
         "content": "𒉚"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "szamanur"
@@ -4961,6 +5619,7 @@
     {
         "MesZL": 632,
         "HethZL": 335,
+        "signName": "ŠAR",
         "LHA": 396,
         "got": "c4",
         "aBZL": 277,
@@ -4973,6 +5632,7 @@
     {
         "MesZL": 579,
         "HethZL": 338,
+        "signName": "ŠE",
         "LHA": 367,
         "got": "c10",
         "aBZL": 378,
@@ -4985,6 +5645,7 @@
     {
         "MesZL": 810,
         "HethZL": 212,
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "LHA": 536,
         "got": "a2b7",
         "aBZL": 420,
@@ -4997,6 +5658,7 @@
     {
         "MesZL": 47,
         "HethZL": "",
+        "signName": "KA×DÚBBALAG",
         "LHA": "25b",
         "got": "a4b10c11d3",
         "aBZL": 317,
@@ -5009,6 +5671,7 @@
     {
         "MesZL": 905,
         "HethZL": 311,
+        "signName": "SIG4",
         "LHA": 567,
         "got": "c6d4",
         "aBZL": 243,
@@ -5021,6 +5684,7 @@
     {
         "MesZL": 362,
         "HethZL": 154,
+        "signName": "ŠIM",
         "LHA": 215,
         "got": "a7b2c2d1",
         "aBZL": 83,
@@ -5033,6 +5697,7 @@
     {
         "MesZL": 17,
         "HethZL": 230,
+        "signName": "ŠEN (SU×A)",
         "LHA": 8,
         "got": "a14b6",
         "aBZL": 306,
@@ -5045,6 +5710,7 @@
     {
         "MesZL": 535,
         "HethZL": 79,
+        "signName": "ŠEŠ (ÙRI)",
         "LHA": 331,
         "got": "b1c4d2",
         "aBZL": "21b",
@@ -5057,6 +5723,7 @@
     {
         "MesZL": 821,
         "HethZL": 63,
+        "signName": "ŠÉŠ (SÍG.LAM)",
         "LHA": 544,
         "got": "a11b9",
         "aBZL": "",
@@ -5067,8 +5734,22 @@
         "content": "𒋁"
     },
     {
+        "MesZL": 724,
+        "HethZL": 288,
+        "signName": "IGI (ŠI, LIM)",
+        "LHA": 449,
+        "got": "a1b1c1",
+        "aBZL": 233,
+        "transliteration": {
+            "valid": true,
+            "content": "szi"
+        },
+        "content": "𒅆"
+    },
+    {
         "MesZL": 485,
         "HethZL": 231,
+        "signName": "ŠID (LAG)",
         "LHA": 314,
         "got": "a3b5",
         "aBZL": "212; 207a",
@@ -5081,6 +5762,7 @@
     {
         "MesZL": 79,
         "HethZL": "",
+        "signName": "ASARI (URU×IGI)",
         "LHA": 44,
         "got": "a4b4c1",
         "aBZL": 184,
@@ -5093,6 +5775,7 @@
     {
         "MesZL": 362,
         "HethZL": 154,
+        "signName": "ŠIM",
         "LHA": 215,
         "got": "a7b2c2d1",
         "aBZL": 83,
@@ -5105,6 +5788,7 @@
     {
         "MesZL": 567,
         "HethZL": 68,
+        "signName": "ŠU",
         "LHA": 354,
         "got": "a1b5",
         "aBZL": 225,
@@ -5115,8 +5799,16 @@
         "content": "𒋗"
     },
     {
+        "transliteration": {
+            "valid": true,
+            "content": "szu...pesz"
+        },
+        "content": "𒋗𒄫"
+    },
+    {
         "MesZL": 869,
         "HethZL": 251,
+        "signName": "ŠÚ",
         "LHA": 545,
         "got": "a1c1",
         "aBZL": 422,
@@ -5129,6 +5821,7 @@
     {
         "MesZL": 111,
         "HethZL": 43,
+        "signName": "RU",
         "LHA": 68,
         "got": "b2c2d2",
         "aBZL": 60,
@@ -5141,6 +5834,7 @@
     {
         "MesZL": 49,
         "HethZL": "",
+        "signName": "ŠÙDU (KA×ŠU)",
         "LHA": 26,
         "got": "a4b8c5d1",
         "aBZL": 320,
@@ -5151,8 +5845,22 @@
         "content": "𒆃"
     },
     {
+        "MesZL": 744,
+        "HethZL": 46,
+        "signName": "ŠUL (DUN)",
+        "LHA": 467,
+        "got": "a5b2c3d2",
+        "aBZL": "ŠUL:438",
+        "transliteration": {
+            "valid": true,
+            "content": "szul"
+        },
+        "content": "𒂄"
+    },
+    {
         "MesZL": 221,
         "HethZL": 91,
+        "signName": "TAG (ŠUM)",
         "LHA": 126,
         "got": "a6b2c2d2",
         "aBZL": 122,
@@ -5163,8 +5871,22 @@
         "content": "𒋳"
     },
     {
+        "MesZL": 115,
+        "HethZL": 5,
+        "signName": "ŠIR",
+        "LHA": 71,
+        "got": "b2c2d2",
+        "aBZL": 28,
+        "transliteration": {
+            "valid": true,
+            "content": "szur3"
+        },
+        "content": "𒋓"
+    },
+    {
         "MesZL": 248,
         "HethZL": 160,
+        "signName": "TA",
         "LHA": 139,
         "got": "a2b2c1d1",
         "aBZL": 123,
@@ -5177,6 +5899,7 @@
     {
         "MesZL": 209,
         "HethZL": 90,
+        "signName": "TAB",
         "LHA": 124,
         "got": "b2",
         "aBZL": 109,
@@ -5189,6 +5912,7 @@
     {
         "MesZL": 221,
         "HethZL": 91,
+        "signName": "TAG (ŠUM)",
         "LHA": 126,
         "got": "a6b2c2d2",
         "aBZL": 122,
@@ -5201,6 +5925,7 @@
     {
         "MesZL": 106,
         "HethZL": 227,
+        "signName": "KÍD (TAG4)",
         "LHA": "63d",
         "got": "a6b1c1",
         "aBZL": 58,
@@ -5213,6 +5938,7 @@
     {
         "MesZL": 301,
         "HethZL": 171,
+        "signName": "TAḪDAḪ (MUoverMU)",
         "LHA": 169,
         "got": "b2c12",
         "aBZL": 142,
@@ -5225,6 +5951,7 @@
     {
         "MesZL": 106,
         "HethZL": 227,
+        "signName": "KÍD (TAG4)",
         "LHA": "63d",
         "got": "a6b1c1",
         "aBZL": 58,
@@ -5237,6 +5964,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -5249,6 +5977,7 @@
     {
         "MesZL": 9,
         "HethZL": 7,
+        "signName": "TAR",
         "LHA": 12,
         "got": "a1c2",
         "aBZL": 231,
@@ -5261,6 +5990,7 @@
     {
         "MesZL": 166,
         "HethZL": 71,
+        "signName": "DÀR",
         "LHA": "100; 063x",
         "got": "a2b5c7d5",
         "aBZL": 365,
@@ -5273,6 +6003,7 @@
     {
         "MesZL": 828,
         "HethZL": 51,
+        "signName": "UR",
         "LHA": 575,
         "got": "a3b2",
         "aBZL": 400,
@@ -5285,6 +6016,7 @@
     {
         "MesZL": 589,
         "HethZL": 249,
+        "signName": "TE",
         "LHA": 376,
         "got": "a2c2d2",
         "aBZL": 289,
@@ -5297,6 +6029,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "TIL",
         "LHA": "",
         "got": "c4d1",
         "aBZL": "",
@@ -5309,6 +6042,7 @@
     {
         "MesZL": 828,
         "HethZL": 51,
+        "signName": "UR",
         "LHA": 575,
         "got": "a3b2",
         "aBZL": 400,
@@ -5321,6 +6055,7 @@
     {
         "MesZL": 118,
         "HethZL": 37,
+        "signName": "TI",
         "LHA": 73,
         "got": "a1b2c2",
         "aBZL": 23,
@@ -5333,6 +6068,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "TIL",
         "LHA": "",
         "got": "c4d1",
         "aBZL": "",
@@ -5345,6 +6081,7 @@
     {
         "MesZL": 118,
         "HethZL": 37,
+        "signName": "TI",
         "LHA": 73,
         "got": "a1b2c2",
         "aBZL": 23,
@@ -5355,8 +6092,22 @@
         "content": "𒋾"
     },
     {
+        "MesZL": 167,
+        "HethZL": 14,
+        "signName": "DIM",
+        "LHA": 94,
+        "got": "a2b1c2d2",
+        "aBZL": 14,
+        "transliteration": {
+            "valid": true,
+            "content": "tim"
+        },
+        "content": "𒁴"
+    },
+    {
         "MesZL": 587,
         "HethZL": 344,
+        "signName": "TIR",
         "LHA": 375,
         "aBZL": 380,
         "transliteration": {
@@ -5366,8 +6117,22 @@
         "content": "𒌁"
     },
     {
+        "MesZL": 748,
+        "HethZL": 356,
+        "signName": "DIŠ (1)",
+        "LHA": 480,
+        "got": "a1",
+        "aBZL": 390,
+        "transliteration": {
+            "valid": true,
+            "content": "tiz"
+        },
+        "content": "𒁹"
+    },
+    {
         "MesZL": 86,
         "HethZL": 346,
+        "signName": "TU",
         "LHA": 58,
         "got": "a1c12d2",
         "aBZL": 382,
@@ -5380,6 +6145,7 @@
     {
         "MesZL": 354,
         "HethZL": 125,
+        "signName": "TUM",
         "LHA": 207,
         "got": "a4b4c3d1",
         "aBZL": 75,
@@ -5392,6 +6158,7 @@
     {
         "MesZL": 354,
         "HethZL": 125,
+        "signName": "TUM",
         "LHA": 207,
         "got": "a4b4c3d1",
         "aBZL": 75,
@@ -5402,10 +6169,6 @@
         "content": "𒌈"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "tu5"
@@ -5413,10 +6176,6 @@
         "content": "𒋗𒉀"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "tu6"
@@ -5424,11 +6183,12 @@
         "content": "𒉆𒊒"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "MesZL": 640,
+        "HethZL": 355,
+        "signName": "ḪI×BAD",
+        "LHA": "406v1",
         "got": "b1c3d2",
-        "aBZL": "",
+        "aBZL": 279,
         "transliteration": {
             "valid": true,
             "content": "tu7"
@@ -5438,6 +6198,7 @@
     {
         "MesZL": 809,
         "HethZL": 212,
+        "signName": "TÚG (NÁM)",
         "LHA": 536,
         "got": "a2b4",
         "aBZL": 417,
@@ -5450,6 +6211,7 @@
     {
         "MesZL": 827,
         "HethZL": 53,
+        "signName": "TUK (TUG)",
         "LHA": 574,
         "got": "a2b1c1d1",
         "aBZL": 444,
@@ -5462,6 +6224,7 @@
     {
         "MesZL": 788,
         "HethZL": "",
+        "signName": "BUL (LAGAB×EŠ)",
         "LHA": 515,
         "got": "a2b2c3",
         "aBZL": 411,
@@ -5474,6 +6237,7 @@
     {
         "MesZL": 786,
         "HethZL": 180,
+        "signName": "TÚL (LAGAB×U)",
         "LHA": 511,
         "got": "a2b2c1",
         "aBZL": 410,
@@ -5486,6 +6250,7 @@
     {
         "MesZL": 354,
         "HethZL": 125,
+        "signName": "TUM",
         "LHA": 207,
         "got": "a4b4c3d1",
         "aBZL": 75,
@@ -5498,6 +6263,7 @@
     {
         "MesZL": 350,
         "HethZL": 128,
+        "signName": "DU",
         "LHA": 206,
         "got": "a1b2c2",
         "aBZL": "64, 197",
@@ -5508,10 +6274,19 @@
         "content": "𒁺"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
+        "MesZL": 255,
+        "HethZL": 237,
+        "signName": "TUR (DUMU)",
+        "LHA": 144,
+        "got": "a1b2c2d2",
+        "aBZL": 393,
+        "transliteration": {
+            "valid": true,
+            "content": "tur"
+        },
+        "content": "𒌉"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "tur3"
@@ -5521,6 +6296,7 @@
     {
         "MesZL": 808,
         "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "LHA": 536,
         "got": "a2b3",
         "aBZL": 415,
@@ -5531,11 +6307,12 @@
         "content": "𒆪"
     },
     {
-        "MesZL": "",
+        "MesZL": 661,
         "HethZL": 261,
-        "LHA": "",
+        "signName": "U",
+        "LHA": 411,
         "got": "c1",
-        "aBZL": "",
+        "aBZL": 337,
         "transliteration": {
             "valid": true,
             "content": "u"
@@ -5545,6 +6322,7 @@
     {
         "MesZL": 490,
         "HethZL": 195,
+        "signName": "Ú",
         "LHA": 318,
         "got": "a4b2",
         "aBZL": 146,
@@ -5555,8 +6333,16 @@
         "content": "𒌑"
     },
     {
+        "transliteration": {
+            "valid": true,
+            "content": "u2...la2"
+        },
+        "content": "𒌑𒇲"
+    },
+    {
         "MesZL": 731,
         "HethZL": 265,
+        "signName": "Ù (IGI.DIB)",
         "LHA": 455,
         "got": "a4b5c1",
         "aBZL": "239b",
@@ -5569,6 +6355,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -5579,10 +6366,6 @@
         "content": "𒌓"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "u6"
@@ -5592,6 +6375,7 @@
     {
         "MesZL": 504,
         "HethZL": 152,
+        "signName": "UB",
         "LHA": 306,
         "got": "a1c2d2",
         "aBZL": 288,
@@ -5604,6 +6388,7 @@
     {
         "MesZL": 810,
         "HethZL": 212,
+        "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
         "LHA": 536,
         "got": "a2b7",
         "aBZL": 420,
@@ -5614,8 +6399,22 @@
         "content": "𒂠"
     },
     {
+        "MesZL": 277,
+        "HethZL": "",
+        "signName": "UBARA (EZEN×KASKAL)",
+        "LHA": "152_4",
+        "got": "a4b6c2d2",
+        "aBZL": 157,
+        "transliteration": {
+            "valid": true,
+            "content": "ubara"
+        },
+        "content": "𒂬"
+    },
+    {
         "MesZL": "",
         "HethZL": "",
+        "signName": "DAGKISIM5×GA+MAŠ",
         "LHA": "",
         "got": "a10b12c5d3",
         "aBZL": "",
@@ -5628,6 +6427,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -5640,6 +6440,7 @@
     {
         "MesZL": 812,
         "HethZL": 210,
+        "signName": "LU (UDU)",
         "LHA": 537,
         "got": "a3b3",
         "aBZL": 416,
@@ -5652,6 +6453,7 @@
     {
         "MesZL": 296,
         "HethZL": 93,
+        "signName": "UG (PIRIG×UD)",
         "LHA": 130,
         "got": "a10b9c4d4",
         "aBZL": 179,
@@ -5662,10 +6464,6 @@
         "content": "𒊌"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "ugu"
@@ -5675,6 +6473,7 @@
     {
         "MesZL": 808,
         "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
         "LHA": 536,
         "got": "a2b3",
         "aBZL": 415,
@@ -5687,6 +6486,7 @@
     {
         "MesZL": 636,
         "HethZL": 332,
+        "signName": "AḪ (ḪI×NUN)",
         "LHA": 398,
         "got": "a5b1c2d2",
         "aBZL": 280,
@@ -5697,8 +6497,22 @@
         "content": "𒄴"
     },
     {
+        "MesZL": 73,
+        "HethZL": 134,
+        "signName": "UKKIN (URU×MAŠBAR)",
+        "LHA": 40,
+        "got": "a4b4",
+        "aBZL": 186,
+        "transliteration": {
+            "valid": true,
+            "content": "ukkin"
+        },
+        "content": "𒌺"
+    },
+    {
         "MesZL": 698,
         "HethZL": 275,
+        "signName": "UL (DU7)",
         "LHA": 441,
         "got": "a1b2c2d1",
         "aBZL": 344,
@@ -5711,6 +6525,7 @@
     {
         "MesZL": 7,
         "HethZL": 6,
+        "signName": "GÍR-gunû",
         "LHA": 10,
         "got": "a4b1c2d2",
         "aBZL": 8,
@@ -5723,6 +6538,7 @@
     {
         "MesZL": 80,
         "HethZL": "",
+        "signName": "GIŠGAL (URU×MIN)",
         "LHA": "49x",
         "got": "a5b3",
         "aBZL": 189,
@@ -5735,6 +6551,7 @@
     {
         "MesZL": 238,
         "HethZL": 98,
+        "signName": "UM",
         "LHA": 134,
         "got": "a6b4",
         "aBZL": 113,
@@ -5745,11 +6562,19 @@
         "content": "𒌝"
     },
     {
-        "MesZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "umbin...kud"
+        },
+        "content": "𒌢𒋻"
+    },
+    {
+        "MesZL": 661,
         "HethZL": 261,
-        "LHA": "",
+        "signName": "U",
+        "LHA": 411,
         "got": "c1",
-        "aBZL": "",
+        "aBZL": 337,
         "transliteration": {
             "valid": true,
             "content": "umun"
@@ -5759,6 +6584,7 @@
     {
         "MesZL": 547,
         "HethZL": 102,
+        "signName": "DÉ (SIMUG)",
         "LHA": 338,
         "got": "a2b6c2d2",
         "aBZL": 215,
@@ -5769,11 +6595,12 @@
         "content": "𒌣"
     },
     {
-        "MesZL": "",
+        "MesZL": 501,
         "HethZL": 197,
-        "LHA": "",
+        "signName": "UN",
+        "LHA": 312,
         "got": "a6b5c2d2",
-        "aBZL": "",
+        "aBZL": 169,
         "transliteration": {
             "valid": true,
             "content": "un"
@@ -5783,6 +6610,7 @@
     {
         "MesZL": 73,
         "HethZL": 134,
+        "signName": "UKKIN (URU×MAŠBAR)",
         "LHA": 40,
         "got": "a4b4",
         "aBZL": 186,
@@ -5793,10 +6621,6 @@
         "content": "𒌺"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "unu2"
@@ -5804,10 +6628,6 @@
         "content": "𒋼𒀕"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "unu6"
@@ -5816,19 +6636,21 @@
     },
     {
         "MesZL": 232,
-        "HethZL": "",
-        "LHA": "",
-        "got": "a1b2c4d1",
-        "aBZL": "",
+        "HethZL": 111,
+        "signName": "UNUG (AB-gunû andor AB×EŠ)",
+        "LHA": 195,
+        "got": "a1b2c5d1",
+        "aBZL": 129,
         "transliteration": {
             "valid": true,
             "content": "unug"
         },
-        "content": "𒀔"
+        "content": "𒀕"
     },
     {
         "MesZL": 828,
         "HethZL": 51,
+        "signName": "UR",
         "LHA": 575,
         "got": "a3b2",
         "aBZL": 400,
@@ -5841,6 +6663,7 @@
     {
         "MesZL": 341,
         "HethZL": 124,
+        "signName": "ÚR",
         "LHA": 203,
         "got": "a2b4c2",
         "aBZL": 72,
@@ -5853,6 +6676,7 @@
     {
         "MesZL": 411,
         "HethZL": 58,
+        "signName": "ÙR (GÁ×NIR)",
         "LHA": 255,
         "got": "a13b4",
         "aBZL": 99,
@@ -5865,6 +6689,7 @@
     {
         "MesZL": 835,
         "HethZL": "",
+        "signName": "UR4",
         "LHA": 594,
         "got": "a4c1d1",
         "aBZL": 448,
@@ -5877,6 +6702,7 @@
     {
         "MesZL": 644,
         "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
         "LHA": 401,
         "got": "a1b4c2d2",
         "aBZL": 281,
@@ -5889,6 +6715,7 @@
     {
         "MesZL": 35,
         "HethZL": "",
+        "signName": "KA×NE",
         "LHA": "22x",
         "got": "a4b6c9d1",
         "aBZL": 313,
@@ -5901,6 +6728,7 @@
     {
         "MesZL": 574,
         "HethZL": 246,
+        "signName": "URI (BURoverBUR)",
         "LHA": "359n1",
         "got": "a6b8d2",
         "aBZL": 224,
@@ -5911,10 +6739,6 @@
         "content": "𒌵"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "urim2"
@@ -5922,10 +6746,6 @@
         "content": "𒋀𒀕"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "urim5"
@@ -5935,6 +6755,7 @@
     {
         "MesZL": 88,
         "HethZL": 315,
+        "signName": "GUR8 (TE-gunû)",
         "LHA": 58,
         "got": "a2b4c2d2",
         "aBZL": 283,
@@ -5947,6 +6768,7 @@
     {
         "MesZL": 230,
         "HethZL": 109,
+        "signName": "URUDU (URUDA)",
         "LHA": 132,
         "got": "a3b4",
         "aBZL": 111,
@@ -5959,6 +6781,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "UŠ´",
         "LHA": "",
         "got": "b1c1",
         "aBZL": "",
@@ -5971,6 +6794,7 @@
     {
         "MesZL": 864,
         "HethZL": 374,
+        "signName": "USSU (8)",
         "LHA": "598n2",
         "got": "a8",
         "aBZL": 479,
@@ -5983,6 +6807,7 @@
     {
         "MesZL": 381,
         "HethZL": 132,
+        "signName": "UŠ (NITA)",
         "LHA": 211,
         "got": "a3b2c1",
         "aBZL": 68,
@@ -5995,6 +6820,7 @@
     {
         "MesZL": 29,
         "HethZL": "",
+        "signName": "UŠ11 (KA×BAD)",
         "LHA": 17,
         "got": "a3b3c5d2",
         "aBZL": 314,
@@ -6007,6 +6833,7 @@
     {
         "MesZL": 26,
         "HethZL": 146,
+        "signName": "TU6 (KA×LI)",
         "LHA": 16,
         "got": "a5b6c16d2",
         "aBZL": 325,
@@ -6019,6 +6846,7 @@
     {
         "MesZL": 8,
         "HethZL": "",
+        "signName": "BÚR",
         "LHA": 11,
         "got": "a2b2c3d1",
         "aBZL": 13,
@@ -6031,6 +6859,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -6042,10 +6871,11 @@
     },
     {
         "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
+        "HethZL": 91,
+        "signName": "TAG×TUǴ",
+        "LHA": "126fv",
         "got": "a8b6c2d2",
-        "aBZL": "",
+        "aBZL": 122,
         "transliteration": {
             "valid": true,
             "content": "uttu"
@@ -6053,10 +6883,6 @@
         "content": "𒋸"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
         "transliteration": {
             "valid": true,
             "content": "uttuku"
@@ -6066,6 +6892,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -6076,20 +6903,22 @@
         "content": "𒌓"
     },
     {
-        "MesZL": 71,
-        "HethZL": 229,
-        "LHA": 38,
-        "got": "a3b3",
-        "aBZL": 181,
+        "MesZL": 311,
+        "HethZL": 203,
+        "signName": "UZU",
+        "LHA": 171,
+        "got": "a4c14d4",
+        "aBZL": 134,
         "transliteration": {
             "valid": true,
             "content": "uzu"
         },
-        "content": "𒌷"
+        "content": "𒍜"
     },
     {
         "MesZL": 598,
         "HethZL": 317,
+        "signName": "PI",
         "LHA": 383,
         "got": "a1b1c2",
         "aBZL": 370,
@@ -6100,8 +6929,22 @@
         "content": "𒉿"
     },
     {
+        "MesZL": 598,
+        "HethZL": 317,
+        "signName": "PI",
+        "LHA": 383,
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "wi"
+        },
+        "content": "𒉿"
+    },
+    {
         "MesZL": 851,
         "HethZL": 366,
+        "signName": "ZA",
         "LHA": 586,
         "got": "a4",
         "aBZL": 474,
@@ -6114,6 +6957,7 @@
     {
         "MesZL": 540,
         "HethZL": 238,
+        "signName": "ZAG",
         "LHA": 332,
         "got": "a4b6c2d2",
         "aBZL": 206,
@@ -6126,6 +6970,7 @@
     {
         "MesZL": 612,
         "HethZL": 327,
+        "signName": "ERIM (ZÁLAG)",
         "LHA": 393,
         "got": "c2d2",
         "aBZL": 247,
@@ -6136,10 +6981,13 @@
         "content": "𒂟"
     },
     {
-        "MesZL": "",
-        "HethZL": "",
-        "LHA": "",
-        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "zabala"
+        },
+        "content": "𒍝𒁀𒆷"
+    },
+    {
         "transliteration": {
             "valid": true,
             "content": "zabar"
@@ -6149,6 +6997,7 @@
     {
         "MesZL": 540,
         "HethZL": 238,
+        "signName": "ZAG",
         "LHA": 332,
         "got": "a4b6c2d2",
         "aBZL": 206,
@@ -6161,6 +7010,7 @@
     {
         "MesZL": 846,
         "HethZL": "",
+        "signName": "ZÀḪ (A×ḪA)",
         "LHA": "584; 587",
         "got": "a7c2",
         "aBZL": 471,
@@ -6173,6 +7023,7 @@
     {
         "MesZL": 380,
         "HethZL": 72,
+        "signName": "NI",
         "LHA": 231,
         "got": "a2c1d1",
         "aBZL": 261,
@@ -6185,6 +7036,7 @@
     {
         "MesZL": 596,
         "HethZL": 316,
+        "signName": "UD (BABBAR)",
         "LHA": 381,
         "got": "c2d2",
         "aBZL": 332,
@@ -6197,6 +7049,7 @@
     {
         "MesZL": "",
         "HethZL": "",
+        "signName": "LÚ×LA+AŠ",
         "LHA": "",
         "got": "a9b8c3d1",
         "aBZL": "",
@@ -6209,6 +7062,7 @@
     {
         "MesZL": 259,
         "HethZL": 108,
+        "signName": "ZÍ( AB×PA)",
         "LHA": 147,
         "got": "a4b4c1d1",
         "aBZL": 126,
@@ -6221,6 +7075,7 @@
     {
         "MesZL": 140,
         "HethZL": 33,
+        "signName": "ZI",
         "LHA": 84,
         "got": "a2b1c10",
         "aBZL": 41,
@@ -6233,6 +7088,7 @@
     {
         "MesZL": 336,
         "HethZL": "",
+        "signName": "ZIGZIK (NÍNDA×EŠ)",
         "LHA": 190,
         "got": "b4c4",
         "aBZL": 140,
@@ -6245,6 +7101,7 @@
     {
         "MesZL": 140,
         "HethZL": 33,
+        "signName": "ZI",
         "LHA": 84,
         "got": "a2b1c10",
         "aBZL": 41,
@@ -6255,8 +7112,22 @@
         "content": "𒍣"
     },
     {
+        "MesZL": "",
+        "HethZL": "",
+        "signName": "ZÌ",
+        "LHA": "",
+        "got": "b7c2",
+        "aBZL": "",
+        "transliteration": {
+            "valid": true,
+            "content": "zid2"
+        },
+        "content": "𒍥"
+    },
+    {
         "MesZL": 140,
         "HethZL": 33,
+        "signName": "ZI",
         "LHA": 84,
         "got": "a2b1c10",
         "aBZL": 41,
@@ -6269,6 +7140,7 @@
     {
         "MesZL": 15,
         "HethZL": 209,
+        "signName": "ZU",
         "LHA": 6,
         "got": "a5b1c1d1",
         "aBZL": 304,
@@ -6281,6 +7153,7 @@
     {
         "MesZL": 24,
         "HethZL": 133,
+        "signName": "KA",
         "LHA": 15,
         "got": "a3b2c5d1",
         "aBZL": 312,
@@ -6293,6 +7166,7 @@
     {
         "MesZL": 15,
         "HethZL": 209,
+        "signName": "ZU",
         "LHA": 6,
         "got": "a5b1c1d1",
         "aBZL": 304,
@@ -6305,6 +7179,7 @@
     {
         "MesZL": 884,
         "HethZL": 300,
+        "signName": "ZUM",
         "LHA": 555,
         "got": "a1b1c3d3",
         "aBZL": 456,
