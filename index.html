@@ -36,6 +36,7 @@ function isArray(what) {
     return Object.prototype.toString.call(what) === '[object Array]';
 }
     var resulttext=""
+    var firstload=true;
     var togglecharlist=true;
     var translationToObj={}
     var posTagMap={}
@@ -142,13 +143,30 @@ function isArray(what) {
         }
                             $('#amountconcepts').text(", "+numconcepts+" concepts")
                 maptableheader+="</tr>"
-                $("#resulthead").html(maptableheader)
-                callback = function(){
-          // do something after the updateAll method has completed
-        };
+                //$("#resulthead").html(maptableheader)
+if(firstload){
+                $("#resultbody").html(result)
+    $("#result").tablesorter({
+  widgets : ['uitheme', 'filter', 'zebra'],
+  theme:"blue",
+  ignoreCase : false,
+  sortList: [[2,0]] });
+firstload=false;
+  }
+else{
+    $("#result").trigger("destroy", [false, function(){
+  // callback after the destroy method
+                        $('#resulthead').html(maptableheader);
+                $("#resultbody").html(result)
+                $("#result").tablesorter({
+  widgets : ['uitheme', 'filter', 'zebra'],
+  theme:"blue",
+  ignoreCase : false,
+  sortList: [[2,0]] });
+    }]);
+    }
 
-        $("#resultbody").html(result)
-        $("#tablesorter").trigger('updateAll', [true,callback]);
+        //$("#tablesorter").trigger('updateAll', [true,callback]);
         postags="<table border=1 width=100%><tr>"
         for(tag in posTagMap){
             postags+="<th>"+tag+"</th>"
@@ -315,6 +333,7 @@ function isArray(what) {
         buildDict(this.value);
     });
     $(function(){
+        buildDict("sumerian");
     var dialog = document.getElementById('window');  
     $('#show').click(function() {  
         dialog.showModal();  
@@ -334,20 +353,6 @@ function isArray(what) {
     $('#exit').click(function() {  
         dialog.close();  
     });  
-    buildDict("sumerian");
-    setupSearch();
-  $("#result").tablesorter({
-  widgets : ['uitheme', 'filter', 'zebra'],
-  theme:"blue",
-  ignoreCase : false,
-  sortList: [[2,0]] ,
-  headers  : {
-      0 : { sorter : 'text' },
-      1 : { sorter : 'text' },
-            2 : { sorter : 'text' },
-                  3 : { sorter : 'text' }
-    }
-  });
   $( "#dialog" ).dialog({
       autoOpen: true,
       show: {
