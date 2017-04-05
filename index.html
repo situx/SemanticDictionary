@@ -42,12 +42,20 @@ function isArray(what) {
     var strToMap={}
     var dictMap={}
     var numconcepts=0;
+    var dicttableheader="<tr class=\"tablesorter-headerRow\"><th bgcolor=\"white\"   class=\"tablesorter-header\">Script</th><th bgcolor=\"white\"   class=\"tablesorter-header\">Transliteration</th><th bgcolor=\"white\" id=\"transtd\"   class=\"tablesorter-header\">Translation</th><th bgcolor=\"white\" id=\"reftd\"   class=\"tablesorter-header\">POSTag</th></tr>"
     var currentsearch="translationToObj";
     function printNewPage(value,mapordict){
         result=""//<thead><th>.</th><th>.</th><th>.</th><th>.</th></thead><tbody>";
         map={}
         keylist=[]
         map=dictMap;
+        first=true
+        maptableheader=""
+        if(mapordict){
+            maptableheader="<tr class=\"tablesorter-headerRow\"><th  class=\"tablesorter-header\">Script</th><th   class=\"tablesorter-header\">Transliteration</th><th   class=\"tablesorter-header\">SignName</th>"
+        }else{
+            maptableheader=dicttableheader
+        }
         numconcepts=0;
         for(obj in map){
                     result+="<tr>"
@@ -73,6 +81,9 @@ function isArray(what) {
                     if(map[obj]["concept"]!=undefined){
                             numconcepts+=1;
                     }
+                    if(mapordict){
+                            result+="<td>"+(map[obj]["signName"]!=undefined?map[obj]["signName"]:"")+"</td>"
+                    }else{
                     result+="<td>"+(map[obj]["concept"]!=undefined?"<a href='"+map[obj]["concept"]+"' target='_blank' title='"+map[obj]["concept"]+"'>":"")
                     if(isArray(map[obj]["translation"])){
                         for(translit in map[obj]["translation"]){
@@ -93,30 +104,51 @@ function isArray(what) {
                                         result+=map[obj]["translation"]["content"]
                                 }
                     }
-                    result+=(map[obj]["concept"]!=undefined?"</a>":"")+"</td><td>"
+                    }
+                    result+=(map[obj]["concept"]!=undefined?"</a>":"")+"</td>"
                     if(mapordict){
+                            if(first){
+                                maptableheader+="<th class=\"tablesorter-header\"><a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">Gottstein Number</a></th>"
+                           }
                             if(map[obj]["paint"]!=undefined){
-                                result+="<a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">Gottstein: "+map[obj]["paint"]+"</a>; "                                
+                                result+="<td><a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">"+map[obj]["paint"]+"</a></td> "                                
+                            }else{
+                                result+="<td></td>"
                             }
                             if(map[obj]["reference"]!=undefined && isArray(map[obj]["reference"]==false)){
-                                result+="<a href=\""+map[obj]["reference"]["ref"]+"\" title=\""+map[obj]["reference"]["title"]+"\">"+map[obj]["reference"]["short"]+": "+map[obj]["reference"]["content"]+"</a>; "
+                                    if(first){
+                                            maptableheader+="<th class=\"tablesorter-header\"><a href=\""+map[obj]["reference"][ref]["ref"]+"\" title=\""+map[obj]["reference"][ref]["title"]+"\">"+map[obj]["reference"][ref]["title"]+"</a></th>"
+                                    }
+                                result+="<a href=\""+map[obj]["reference"]["ref"]+"\" title=\""+map[obj]["reference"]["title"]+"\">"+map[obj]["reference"]["content"]+"</a>; "
                             }else{
                                 for(ref in map[obj]["reference"]){
-                                        result+="<a href=\""+map[obj]["reference"][ref]["ref"]+"\" title=\""+map[obj]["reference"][ref]["title"]+"\">"+map[obj]["reference"][ref]["short"]+": "+map[obj]["reference"][ref]["content"]+"</a>; "
+                                        if(first){
+                                            maptableheader+="<th class=\"tablesorter-header\"><a href=\""+map[obj]["reference"][ref]["ref"]+"\" title=\""+map[obj]["reference"][ref]["title"]+"\">"+map[obj]["reference"][ref]["title"]+"</a></th>"
+                                        }
+                                        result+="<td><a href=\""+map[obj]["reference"][ref]["ref"]+"\" title=\""+map[obj]["reference"][ref]["title"]+"\">"+map[obj]["reference"][ref]["content"]+"</a></td>"
                                 }
                             }
-                            
                     }else{
-                    result+=(map[obj]["postag"]!=undefined?"<a href='"+map[obj]["postag"]["uri"]+"' target='_blank' title='"+map[obj]["postag"]["uri"]+"'>":"")
+                    result+="<td>"+(map[obj]["postag"]!=undefined?"<a href='"+map[obj]["postag"]["uri"]+"' target='_blank' title='"+map[obj]["postag"]["uri"]+"'>":"")
                     result+=(map[obj]["postag"]!=undefined?map[obj]["postag"]["content"]:"")
                     result+=(map[obj]["postag"]!=undefined?"</a>":"")
                     }
 
                     result+="</td></tr>"
-                    $('#amountconcepts').text(", "+numconcepts+" concepts")
+
+                    if(first){
+                        first=false;
+                    }
         }
-        
-        $("#resultbody").html(result).trigger('update', [true]);
+                            $('#amountconcepts').text(", "+numconcepts+" concepts")
+                maptableheader+="</tr>"
+                $("#resulthead").html(maptableheader)
+                callback = function(){
+          // do something after the updateAll method has completed
+        };
+
+        $("#resultbody").html(result)
+        $("#tablesorter").trigger('updateAll', [true,callback]);
         postags="<table border=1 width=100%><tr>"
         for(tag in posTagMap){
             postags+="<th>"+tag+"</th>"
@@ -138,6 +170,7 @@ function isArray(what) {
         $('#refjson').attr("href","map/"+value+".json")
         $('#refxml').attr("href","map/"+value+".xml")
         $('#reflemon').attr("href","map/"+value+".ttl")
+        $('#transtd').text("Sign Name")
         $('#reftd').text("References")
          jQuery.each(window[value]["mapentries"]["mapentry"], function() {
         if(this["transliteration"]!=undefined){
@@ -169,6 +202,7 @@ function isArray(what) {
         $('#refjson').attr("href","dict/"+value+".json")
         $('#refxml').attr("href","dict/"+value+".xml")
         $('#reflemon').attr("href","dict/"+value+".ttl")
+        $('#transtd').text("Translation")
         $('#reftd').text("POSTag")
         if("about" in window[value]["dictentries"] && "author" in window[value]["dictentries"]["about"]){$('#author').html("<a href=\""+window[value]["dictentries"]["about"]["author"]["uri"]+"\">"+window[value]["dictentries"]["about"]["author"]["content"]+"</a>")}
         if("about" in window[value]["dictentries"] && "license" in window[value]["dictentries"]["about"]){$('#license').html("<a href=\""+window[value]["dictentries"]["about"]["license"]["val"]+"\">"+window[value]["dictentries"]["about"]["license"]["content"]+"</a>")}
@@ -272,8 +306,8 @@ function isArray(what) {
 </dialog><span id="amount"></span><span id="amountconcepts"></span><button id="charlist" style="color:black">Charlist</button><button id="show" style="color:black">About...</button></td></tr>
   </table>
   <div style="overflow: auto;height: 78%; width: 100%;">
-  <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"  id="result" class="tablesorter"><thead><tr>
-  <th bgcolor="white">Script</th><th bgcolor="white">Transliteration</th><th bgcolor="white">Translation</th><th bgcolor="white" id="reftd">POSTag</th></tr></thead><tbody id="resultbody"></tbody>
+  <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0"  id="result" class="tablesorter"><thead id="resulthead"><tr>
+  <th bgcolor="white">Script</th><th bgcolor="white">Transliteration</th><th bgcolor="white" id="transtd">Translation</th><th bgcolor="white" id="reftd">POSTag</th></tr></thead><tbody id="resultbody"></tbody>
   </table>
 </div>
     <script>
