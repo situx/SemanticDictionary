@@ -64,7 +64,12 @@ function isArray(what) {
                     if("img" in map[obj]){
                             result+="<img src=\""+map[obj]["img"]["src"]+"\" title=\""+map[obj]["img"]["title"]+"\" width=\""+map[obj]["img"]["width"]+"\" height=\""+map[obj]["img"]["height"]+"\"/>"
                     }else{
-                            result+=map[obj]["content"]
+                            if(mapordict && [obj]["concept"]!=undefined && map[obj]["concept"]!=""){
+                                        result+="<a href=\""+map[obj]["concept"]+"\">"+map[obj]["content"]+"</a>"
+                            }else{
+                            result+=map[obj]["content"]                            
+                            }
+
                     }
                     result+="</td>"
                     logogram=(map[obj]["transliteration"]!=undefined  && map[obj]["transliteration"]["logogram"]!=undefined && map[obj]["transliteration"]["logogram"]=="true");
@@ -109,8 +114,13 @@ function isArray(what) {
                     result+=(map[obj]["concept"]!=undefined?"</a>":"")+"</td>"
                     if(mapordict){
                             if(first){
-                                maptableheader+="<th class=\"tablesorter-header\"><a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">Gottstein Number</a></th>"
+                                maptableheader+="<th class=\"tablesorter-header\" title=\"Selection of Single Meanings\">Meaning (Selection)</th><th class=\"tablesorter-header\"><a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">Gottstein Number</a></th>"
                            }
+                            if(map[obj]["meaning"]!=undefined){
+                                    result+="<td><a href=\""+map[obj]["meaning"]["concept"]+"\" title=\"Gottstein Number\">"+map[obj]["meaning"]["content"]+"</a></td> " 
+                            }else{
+                                    result+="<td></td>"
+                            }
                             if(map[obj]["paint"]!=undefined){
                                 result+="<td><a href=\"http://cdli.ucla.edu/pubs/cdln/php/single.php?id=70\" title=\"Gottstein Number\">"+map[obj]["paint"]+"</a></td> "                                
                             }else{

@@ -27,6 +27,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "A",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q283",
+            "content": "water"
+        },
+        "concept": "",
         "paint": "a3",
         "transliteration": {
             "valid": true,
@@ -62,6 +67,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "A2",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q24517852",
+            "content": "arm"
+        },
+        "concept": "",
         "paint": "a2b8c7",
         "transliteration": {
             "valid": true,
@@ -97,6 +107,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TI",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -132,6 +143,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZU",
+        "concept": "",
         "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
@@ -167,6 +179,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÁB",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q11748378",
+            "content": "cow"
+        },
+        "concept": "",
         "paint": "c2d1",
         "transliteration": {
             "valid": true,
@@ -175,6 +192,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀖"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2624172",
+            "content": "sage"
+        },
         "transliteration": {
             "valid": true,
             "content": "abgal"
@@ -182,6 +203,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉣𒈨"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q42603",
+            "content": "priest"
+        },
         "transliteration": {
             "valid": true,
             "content": "abrig"
@@ -216,6 +241,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AD",
+        "concept": "",
         "paint": "a3b4c1d1",
         "transliteration": {
             "valid": true,
@@ -239,6 +265,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÀD (LU×BAD)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q48422",
+            "content": "corpse"
+        },
+        "concept": "",
         "paint": "a3b4c1d1",
         "transliteration": {
             "valid": true,
@@ -274,6 +305,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÁG (NÍNDA×NE)",
+        "concept": "",
         "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
@@ -282,6 +314,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉘"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q44337",
+            "content": "matrix"
+        },
         "transliteration": {
             "valid": true,
             "content": "agarin4"
@@ -316,6 +352,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AḪ (ḪI×NUN)",
+        "concept": "",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -351,6 +388,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÁG (NÍNDA×NE)",
+        "concept": "",
         "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
@@ -366,6 +404,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "399xn"
         },
         "signName": "IMKREUZTIM",
+        "meaning": {
+            "concept": null,
+            "content": "downpour"
+        },
+        "concept": "",
         "paint": "a5b5c6d5",
         "transliteration": {
             "valid": true,
@@ -374,6 +417,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅐"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2596569",
+            "content": "housekeeper"
+        },
         "transliteration": {
             "valid": true,
             "content": "ajrig"
@@ -408,6 +455,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AG",
+        "meaning": {
+            "concept": null,
+            "content": "do"
+        },
+        "concept": "",
         "paint": "a1b10",
         "transliteration": {
             "valid": true,
@@ -416,6 +468,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀝"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3383",
+            "content": "cry"
+        },
         "transliteration": {
             "valid": true,
             "content": "akkil"
@@ -423,6 +479,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒃰𒋺𒋛"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q775842",
+            "content": "desire"
+        },
         "transliteration": {
             "valid": true,
             "content": "al"
@@ -451,6 +511,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÚMBISAG (ŠID×A)",
+        "concept": "",
         "paint": "a6b5",
         "transliteration": {
             "valid": true,
@@ -486,47 +547,13 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ALIM (GÌR× A.IGI)",
+        "concept": "",
         "paint": "a6b7c3d3",
         "transliteration": {
             "valid": true,
             "content": "alim"
         },
         "content": "𒄋"
-    },
-    {
-        "reference": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 893
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 449
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 560
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon",
-                "content": 308
-            }
-        ],
-        "signName": "NAGAR",
-        "paint": "a3b1c2d1",
-        "transliteration": {
-            "valid": true,
-            "content": "alla"
-        },
-        "content": "𒉄"
     },
     {
         "reference": [
@@ -556,6 +583,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URU (IRI)",
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -591,6 +619,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AM (GU4×KUR)",
+        "concept": "",
         "paint": "a1b2c4d1",
         "transliteration": {
             "valid": true,
@@ -626,6 +655,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AMA (GÁ×AN)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q7560",
+            "content": "mother; Mutter"
+        },
+        "concept": "",
         "paint": "a4b3c1d1",
         "transliteration": {
             "valid": true,
@@ -661,6 +695,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AMAR (ZUR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2935",
+            "content": "calf"
+        },
+        "concept": "",
         "paint": "b2c4",
         "transliteration": {
             "valid": true,
@@ -690,6 +729,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AMAŠ (DAG.KISIM5× LU.MÁŠ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1871110",
+            "content": "sheepfold"
+        },
+        "concept": "",
         "paint": "a8b9c5d4",
         "transliteration": {
             "valid": true,
@@ -725,6 +769,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUG (LAGAB×A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q30198",
+            "content": "marsh"
+        },
+        "concept": "",
         "paint": "a5b2",
         "transliteration": {
             "valid": true,
@@ -760,6 +809,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AN",
+        "concept": "https://en.wikipedia.org/wiki/Dingir",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -795,6 +845,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIŠ (1)",
+        "concept": "",
         "paint": "a1",
         "transliteration": {
             "valid": true,
@@ -830,6 +881,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ANŠE (GÌR×PA or GÌR×TAB)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q19707",
+            "content": "donkey"
+        },
+        "concept": "",
         "paint": "a2b7c6d4",
         "transliteration": {
             "valid": true,
@@ -865,6 +921,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AB",
+        "concept": "",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -900,6 +957,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AR (IGI.RI)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1208425",
+            "content": "praise"
+        },
+        "concept": "",
         "paint": "a4b2c2",
         "transliteration": {
             "valid": true,
@@ -935,6 +997,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAR (ḪI×ÁŠ)",
+        "concept": "",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -970,6 +1033,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ARAD",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q12773225",
+            "content": "slave"
+        },
+        "concept": "",
         "paint": "a3b1c2d1",
         "transliteration": {
             "valid": true,
@@ -978,6 +1046,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀴"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q720380",
+            "content": "Asag"
+        },
         "transliteration": {
             "valid": true,
             "content": "asag"
@@ -1006,6 +1078,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ASARI (URU×IGI)",
+        "concept": "",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -1035,6 +1108,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ASARI (URU×IGI)",
+        "concept": "",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -1070,6 +1144,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AŠ",
+        "concept": "",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -1105,6 +1180,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÁŠ (ZÍZ)",
+        "concept": "",
         "paint": "a1b4",
         "transliteration": {
             "valid": true,
@@ -1140,6 +1216,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AŠGAB",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1760988",
+            "content": "leatherworker"
+        },
+        "concept": "",
         "paint": "a5b1c1",
         "transliteration": {
             "valid": true,
@@ -1148,6 +1229,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀿"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q131408",
+            "content": "wedge"
+        },
         "transliteration": {
             "valid": true,
             "content": "aszkud"
@@ -1182,6 +1267,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AZ (PIRIG×ZA)",
+        "concept": "",
         "paint": "a14b9c2d2",
         "transliteration": {
             "valid": true,
@@ -1217,6 +1303,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BA",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3002",
+            "content": "allot"
+        },
+        "concept": "",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1252,6 +1343,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÁ (MAL)",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -1287,6 +1379,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAD",
+        "concept": "",
         "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1322,6 +1415,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PAD (ŠUK)",
+        "concept": "",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -1357,6 +1451,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÀD (UG5 (EZEN×BAD))",
+        "concept": "",
         "paint": "a10b9",
         "transliteration": {
             "valid": true,
@@ -1392,6 +1487,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAL",
+        "meaning": {
+            "concept": null,
+            "content": "turn over"
+        },
+        "concept": "",
         "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
@@ -1427,6 +1527,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAL",
+        "concept": "",
         "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
@@ -1435,6 +1536,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁄"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q105507",
+            "content": "wig"
+        },
         "transliteration": {
             "valid": true,
             "content": "balla"
@@ -1469,6 +1574,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUR (DUMU)",
+        "meaning": {
+            "concept": "hhttps://www.wikidata.org/entity/Q16868599",
+            "content": "sagacity"
+        },
+        "concept": "",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -1504,6 +1614,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAR",
+        "meaning": {
+            "concept": null,
+            "content": "set aside"
+        },
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -1539,6 +1654,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NE",
+        "concept": "",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -1574,6 +1690,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAR",
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -1609,6 +1726,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÁRA",
+        "concept": "",
         "paint": "a10b10c1d1",
         "transliteration": {
             "valid": true,
@@ -1644,6 +1762,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÁRA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1097498",
+            "content": "ruler"
+        },
+        "concept": "",
         "paint": "a10b10c1d1",
         "transliteration": {
             "valid": true,
@@ -1679,6 +1802,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BI",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021",
+            "content": "speak"
+        },
+        "concept": "",
         "paint": "a4b2c1d1",
         "transliteration": {
             "valid": true,
@@ -1714,6 +1842,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BI",
+        "concept": "",
         "paint": "a4b2c1d1",
         "transliteration": {
             "valid": true,
@@ -1749,6 +1878,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NE",
+        "concept": "",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -1784,6 +1914,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BAD",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q497",
+            "content": "anus"
+        },
+        "concept": "",
         "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
@@ -1819,6 +1954,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BU (GÍD)",
+        "concept": "",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -1848,6 +1984,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PÙ (KA×KÁR)",
+        "concept": "",
         "paint": "a8b2c7d1",
         "transliteration": {
             "valid": true,
@@ -1877,6 +2014,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÚR",
+        "concept": "",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -1906,6 +2044,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÚR",
+        "concept": "",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -1941,6 +2080,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "U",
+        "meaning": {
+            "concept": null,
+            "content": "penetrate"
+        },
+        "concept": "",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -1976,6 +2120,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AN",
+        "concept": "https://en.wikipedia.org/wiki/Dingir",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -2011,6 +2156,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DA",
+        "concept": "",
         "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
@@ -2046,6 +2192,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2248",
+            "content": "hire"
+        },
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -2054,6 +2205,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆪"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "be bright"
+        },
         "transliteration": {
             "valid": true,
             "content": "dadag"
@@ -2088,6 +2243,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DAG (PÀR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q27150063",
+            "content": "residence"
+        },
+        "concept": "",
         "paint": "a4b5c1d1",
         "transliteration": {
             "valid": true,
@@ -2123,6 +2283,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RI",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2988",
+            "content": "fly"
+        },
+        "concept": "",
         "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
@@ -2158,6 +2323,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DAM",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1196129",
+            "content": "spouse"
+        },
+        "concept": "",
         "paint": "a3b4c2d1",
         "transliteration": {
             "valid": true,
@@ -2166,6 +2336,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁮"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "danna"
+        },
         "transliteration": {
             "valid": true,
             "content": "danna"
@@ -2200,6 +2374,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IB",
+        "concept": "",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -2215,6 +2390,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "338n1"
         },
         "signName": "UMUM×KASKAL",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3400",
+            "content": "pour"
+        },
+        "concept": "",
         "paint": "a2b6c4d4",
         "transliteration": {
             "valid": true,
@@ -2250,6 +2430,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NE",
+        "concept": "",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -2285,6 +2466,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DI",
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -2320,6 +2502,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUR (DUMU)",
+        "concept": "",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -2355,6 +2538,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIB (DAB)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1292",
+            "content": "pass"
+        },
+        "concept": "",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -2363,6 +2551,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "several"
+        },
         "transliteration": {
             "valid": true,
             "content": "didli"
@@ -2397,6 +2589,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q190",
+            "content": "god"
+        },
+        "concept": "https://en.wikipedia.org/wiki/Dingir",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -2432,6 +2629,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AŠ",
+        "meaning": {
+            "concept": null,
+            "content": "single"
+        },
+        "concept": "",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -2467,6 +2669,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠID (LAG)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q28472",
+            "content": "hair"
+        },
+        "concept": "",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -2502,6 +2709,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LIŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q81895",
+            "content": "spoon"
+        },
+        "concept": "",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -2537,6 +2749,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIM",
+        "concept": "",
         "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
@@ -2572,6 +2785,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIM (DÍM)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2922",
+            "content": "create"
+        },
+        "concept": "",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -2595,6 +2813,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÚ-šeššig (LÚ.GAM)",
+        "concept": "",
         "paint": "a4c7d1",
         "transliteration": {
             "valid": true,
@@ -2603,6 +2822,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒈕"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1165588",
+            "content": "pole"
+        },
         "transliteration": {
             "valid": true,
             "content": "dimgul"
@@ -2637,6 +2860,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIN",
+        "concept": "",
         "paint": "c3d1",
         "transliteration": {
             "valid": true,
@@ -2645,6 +2869,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁷"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "be superior"
+        },
         "transliteration": {
             "valid": true,
             "content": "dirig"
@@ -2679,6 +2907,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIŠ (1)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q199",
+            "content": "one"
+        },
+        "concept": "",
         "paint": "a1",
         "transliteration": {
             "valid": true,
@@ -2714,6 +2947,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DU",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -2749,6 +2983,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -2784,6 +3019,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -2813,6 +3049,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÚ×NE",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q21142351",
+            "content": "discord"
+        },
+        "concept": "",
         "paint": "a5b4c6d1",
         "transliteration": {
             "valid": true,
@@ -2848,6 +3089,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAG (KAK)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_826",
+            "content": "erect"
+        },
+        "concept": "",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -2883,6 +3129,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UL (DU7)",
+        "concept": "",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -2918,6 +3165,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GABA",
+        "concept": "",
         "paint": "b2c8",
         "transliteration": {
             "valid": true,
@@ -2953,6 +3201,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUB",
+        "meaning": {
+            "concept": null,
+            "content": "heap up"
+        },
+        "concept": "",
         "paint": "a9b4",
         "transliteration": {
             "valid": true,
@@ -2988,6 +3241,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -3023,6 +3277,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BIR (ḪI×ŠE)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q9384",
+            "content": "testicles"
+        },
+        "concept": "",
         "paint": "c12d2",
         "transliteration": {
             "valid": true,
@@ -3058,6 +3317,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUG (BI×A)",
+        "concept": "",
         "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
@@ -3093,6 +3353,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "meaning": {
+            "concept": null,
+            "content": "be good"
+        },
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -3128,6 +3393,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -3163,6 +3429,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUGUD",
+        "meaning": {
+            "concept": null,
+            "content": "be heavy"
+        },
+        "concept": "",
         "paint": "b9c1",
         "transliteration": {
             "valid": true,
@@ -3171,6 +3442,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂂"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909",
+            "content": "cover"
+        },
         "transliteration": {
             "valid": true,
             "content": "dul"
@@ -3205,6 +3480,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TÚG (NÁM)",
+        "concept": "",
         "paint": "a2b4",
         "transliteration": {
             "valid": true,
@@ -3240,6 +3516,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUM",
+        "concept": "",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -3275,6 +3552,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUR (DUMU)",
+        "concept": "",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -3310,6 +3588,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠUL (DUN)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3943",
+            "content": "dig"
+        },
+        "concept": "",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -3345,6 +3628,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÍN (TÙN)",
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -3380,6 +3664,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUR (GÚxGAG, GÚ.GAG)",
+        "concept": "",
         "paint": "a4b2c2d2",
         "transliteration": {
             "valid": true,
@@ -3415,6 +3700,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUŔ",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -3450,6 +3736,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "A",
+        "concept": "",
         "paint": "a3",
         "transliteration": {
             "valid": true,
@@ -3485,6 +3772,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUŔ",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -3520,6 +3808,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "E",
+        "concept": "",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -3555,6 +3844,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "É",
+        "concept": "",
         "paint": "a5b4",
         "transliteration": {
             "valid": true,
@@ -3563,6 +3853,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂍"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929",
+            "content": "to go up or down"
+        },
         "transliteration": {
             "valid": true,
             "content": "ed3"
@@ -3597,6 +3891,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EDIN",
+        "concept": "",
         "paint": "a7b7c3d2",
         "transliteration": {
             "valid": true,
@@ -3632,6 +3927,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EDIN",
+        "concept": "",
         "paint": "a7b7c3d2",
         "transliteration": {
             "valid": true,
@@ -3667,6 +3963,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "E",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q105190",
+            "content": "levee"
+        },
+        "concept": "",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -3702,6 +4003,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q863048",
+            "content": "princess"
+        },
+        "concept": "",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -3737,6 +4043,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AḪ (ḪI×NUN)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1390",
+            "content": "insect"
+        },
+        "concept": "",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -3772,6 +4083,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EL",
+        "concept": "",
         "paint": "a3b3c1d1",
         "transliteration": {
             "valid": true,
@@ -3807,6 +4119,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÁG (NÍNDA×NE)",
+        "concept": "",
         "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
@@ -3842,6 +4155,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EME (KA×ME)",
+        "concept": "",
         "paint": "a4b3c5d1",
         "transliteration": {
             "valid": true,
@@ -3865,6 +4179,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÉMEŠ (NE×UD)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1313",
+            "content": "summer"
+        },
+        "concept": "",
         "paint": "a1b4c6d2",
         "transliteration": {
             "valid": true,
@@ -3900,6 +4219,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q332209",
+            "content": "lord"
+        },
+        "concept": "",
         "paint": "a2b5c3",
         "transliteration": {
             "valid": true,
@@ -3935,6 +4259,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LI",
+        "concept": "",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -3943,6 +4268,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒇷"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q156839",
+            "content": "cook"
+        },
         "transliteration": {
             "valid": true,
             "content": "endib"
@@ -3950,6 +4279,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂗𒈨𒈬"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q156839",
+            "content": "cook"
+        },
         "transliteration": {
             "valid": true,
             "content": "endub"
@@ -3984,6 +4317,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ENGUR (LAGAB×ḪAL)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q21504956",
+            "content": "subterranean water"
+        },
+        "concept": "",
         "paint": "a2b3c1d1",
         "transliteration": {
             "valid": true,
@@ -4019,6 +4357,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IR (GAG-gunû)",
+        "concept": "",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -4027,6 +4366,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅕"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q76469",
+            "content": "tear"
+        },
         "transliteration": {
             "valid": true,
             "content": "er2"
@@ -4061,6 +4404,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NUN",
+        "concept": "",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -4069,6 +4413,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉣"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q289891",
+            "content": "enemy"
+        },
         "transliteration": {
             "valid": true,
             "content": "erim2"
@@ -4103,6 +4451,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAL",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q187408",
+            "content": "diorite"
+        },
+        "concept": "",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -4138,6 +4491,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EŠ (3×U)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q201",
+            "content": 3
+        },
+        "concept": "",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -4153,6 +4511,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "054v"
         },
         "signName": "EN×GAŃTENÛ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1347864",
+            "content": "staff"
+        },
+        "concept": "",
         "paint": "a7b5c5",
         "transliteration": {
             "valid": true,
@@ -4188,6 +4551,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EZEN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q132241",
+            "content": "festival"
+        },
+        "concept": "",
         "paint": "a4b6",
         "transliteration": {
             "valid": true,
@@ -4223,6 +4591,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q8495",
+            "content": "milk"
+        },
+        "concept": "",
         "paint": "a5b6c1d1",
         "transliteration": {
             "valid": true,
@@ -4258,6 +4631,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÁ (MAL)",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -4293,6 +4667,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAB",
+        "concept": "",
         "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
@@ -4328,6 +4703,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GABA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q592177",
+            "content": "chest"
+        },
+        "concept": "",
         "paint": "b2c8",
         "transliteration": {
             "valid": true,
@@ -4363,6 +4743,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAL",
+        "meaning": {
+            "concept": null,
+            "content": "big"
+        },
+        "concept": "",
         "paint": "a1b5",
         "transliteration": {
             "valid": true,
@@ -4398,6 +4783,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IG (GÁL)",
+        "concept": "",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -4433,6 +4819,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MUNUS (SAL)",
+        "concept": "",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -4462,6 +4849,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GALAM (SUKUD)",
+        "meaning": {
+            "concept": null,
+            "content": "be skillful"
+        },
+        "concept": "",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -4497,6 +4889,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAM",
+        "concept": "",
         "paint": "c2",
         "transliteration": {
             "valid": true,
@@ -4532,6 +4925,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAN",
+        "concept": "",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -4567,6 +4961,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÁN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q188869",
+            "content": "field"
+        },
+        "concept": "",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -4602,6 +5001,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÁN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q188869",
+            "content": "field"
+        },
+        "concept": "",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -4637,6 +5041,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍG (GAR, NINDA)",
+        "concept": "",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -4672,6 +5077,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÀR (QAR)",
+        "concept": "",
         "paint": "b4c2d1",
         "transliteration": {
             "valid": true,
@@ -4701,6 +5107,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GA-gunû",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q13228",
+            "content": "cream"
+        },
+        "concept": "",
         "paint": "a9b6c1d1",
         "transliteration": {
             "valid": true,
@@ -4736,6 +5147,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAZ (KUM×ŠE)",
+        "concept": "",
         "paint": "a2b4c14",
         "transliteration": {
             "valid": true,
@@ -4778,6 +5190,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GI",
+        "concept": "",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -4813,6 +5226,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GI4 (GI-gunû)",
+        "concept": "",
         "paint": "a1b5c4d2",
         "transliteration": {
             "valid": true,
@@ -4848,6 +5262,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DU",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590",
+            "content": "go"
+        },
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -4883,6 +5302,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠ (GEŠ)",
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -4918,6 +5338,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GI",
+        "concept": "",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -4953,6 +5374,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KID (LÍL)",
+        "concept": "",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -4988,6 +5410,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GI4 (GI-gunû)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3441",
+            "content": "return"
+        },
+        "concept": "",
         "paint": "a1b5c4d2",
         "transliteration": {
             "valid": true,
@@ -5023,6 +5450,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BU (GÍD)",
+        "concept": "",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -5031,6 +5459,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁍"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "be ill"
+        },
         "transliteration": {
             "valid": true,
             "content": "gig"
@@ -5065,6 +5497,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MI",
+        "meaning": {
+            "concept": null,
+            "content": "be black"
+        },
+        "concept": "",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -5100,6 +5537,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIL (GIoverGI parall. or crossing)",
+        "concept": "",
         "paint": "c9d9",
         "transliteration": {
             "valid": true,
@@ -5135,6 +5573,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KUR",
+        "concept": "",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -5170,6 +5609,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIM (DÍM)",
+        "concept": "",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -5205,6 +5645,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIR (ḪA-gunû)",
+        "concept": "",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -5240,6 +5681,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÍR",
+        "concept": "",
         "paint": "a1b1c2d2",
         "transliteration": {
             "valid": true,
@@ -5275,6 +5717,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÌR",
+        "concept": "",
         "paint": "a1b6c3d3",
         "transliteration": {
             "valid": true,
@@ -5310,6 +5753,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -5345,6 +5789,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠ (GEŠ)",
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -5354,6 +5799,7 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "one GEŠ2",
+        "concept": "",
         "paint": "a1",
         "transliteration": {
             "valid": true,
@@ -5389,6 +5835,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GU",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2897058",
+            "content": "riverbank"
+        },
+        "concept": "",
         "paint": "a2b1c3d1",
         "transliteration": {
             "valid": true,
@@ -5424,6 +5875,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÚ (TIK)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q9633",
+            "content": "neck"
+        },
+        "concept": "",
         "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
@@ -5459,6 +5915,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -5494,6 +5951,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GU4",
+        "concept": "",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -5529,6 +5987,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -5564,6 +6023,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GU7 (KA×NÍG)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3529",
+            "content": "eat"
+        },
+        "concept": "",
         "paint": "a6b2c5d2",
         "transliteration": {
             "valid": true,
@@ -5599,6 +6063,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DU",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -5634,6 +6099,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LI",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_444",
+            "content": "bathe"
+        },
+        "concept": "",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -5669,6 +6139,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GU4",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q693690",
+            "content": "bull"
+        },
+        "concept": "",
         "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
@@ -5677,6 +6152,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄞"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q4785",
+            "content": "nest"
+        },
         "transliteration": {
             "valid": true,
             "content": "gud3"
@@ -5711,6 +6190,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÚG (LÙ; ŠÈ-gunû)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q13276",
+            "content": "cake"
+        },
+        "concept": "",
         "paint": "a2b10",
         "transliteration": {
             "valid": true,
@@ -5746,6 +6230,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GUL (SÚN)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819",
+            "content": "destroy"
+        },
+        "concept": "",
         "paint": "a2b4c2",
         "transliteration": {
             "valid": true,
@@ -5781,6 +6270,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÚ (TIK)",
+        "concept": "",
         "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
@@ -5816,6 +6306,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DAR (GÙN; ḪU-gunû, SI-gunû)",
+        "meaning": {
+            "concept": null,
+            "content": "be multicoloured"
+        },
+        "concept": "",
         "paint": "a2b6c1",
         "transliteration": {
             "valid": true,
@@ -5851,6 +6346,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GUR",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_795",
+            "content": "turn"
+        },
+        "concept": "",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -5886,6 +6386,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAM",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q512604",
+            "content": "loop"
+        },
+        "concept": "",
         "paint": "c2",
         "transliteration": {
             "valid": true,
@@ -5921,6 +6426,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LAGAB",
+        "concept": "",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -5950,6 +6456,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GUR7 (SÍG.AḪ.ME.U)",
+        "concept": "",
         "paint": "a10b9c2d1",
         "transliteration": {
             "valid": true,
@@ -5985,6 +6492,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GURUN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q3314483",
+            "content": "fruit"
+        },
+        "concept": "",
         "paint": "a2b2c4",
         "transliteration": {
             "valid": true,
@@ -6020,6 +6532,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪA (KU6)",
+        "concept": "",
         "paint": "a4c2",
         "transliteration": {
             "valid": true,
@@ -6055,6 +6568,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAL",
+        "meaning": {
+            "concept": null,
+            "content": "stick"
+        },
+        "concept": "",
         "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
@@ -6090,6 +6608,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZUM",
+        "meaning": {
+            "concept": null,
+            "content": "divide out"
+        },
+        "concept": "",
         "paint": "a1b1c3d3",
         "transliteration": {
             "valid": true,
@@ -6098,6 +6621,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍮"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q4590598",
+            "content": "frost"
+        },
         "transliteration": {
             "valid": true,
             "content": "halba2"
@@ -6132,6 +6659,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAR (ḪI×ÁŠ)",
+        "concept": "",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -6155,6 +6683,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÚ×LAGAB",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q290691",
+            "content": "scoundrel"
+        },
+        "concept": "",
         "paint": "a6b2c3d1",
         "transliteration": {
             "valid": true,
@@ -6190,6 +6723,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q129757",
+            "content": "thigh"
+        },
+        "concept": "",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -6225,6 +6763,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PA",
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -6260,6 +6799,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -6295,6 +6835,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAN",
+        "concept": "",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -6330,6 +6871,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -6365,6 +6907,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪU",
+        "meaning": {
+            "concept": null,
+            "content": "scrape off"
+        },
+        "concept": "",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -6400,6 +6947,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪÚB",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q15807",
+            "content": "foot"
+        },
+        "concept": "",
         "paint": "a3b1c2d1",
         "transliteration": {
             "valid": true,
@@ -6408,6 +6960,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄸"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q766983",
+            "content": "jar"
+        },
         "transliteration": {
             "valid": true,
             "content": "hubur"
@@ -6442,6 +6998,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UR",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -6477,6 +7034,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪÚL",
+        "meaning": {
+            "concept": null,
+            "content": "be happy"
+        },
+        "concept": "",
         "paint": "a2b5c1",
         "transliteration": {
             "valid": true,
@@ -6512,6 +7074,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUM",
+        "concept": "",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -6547,6 +7110,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAR (ḪI×ÁŠ)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1873",
+            "content": "scratch"
+        },
+        "concept": "",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -6555,6 +7123,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄯"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "be reddish"
+        },
         "transliteration": {
             "valid": true,
             "content": "husz"
@@ -6589,6 +7161,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "I",
+        "meaning": {
+            "concept": null,
+            "content": "be"
+        },
+        "concept": "",
         "paint": "b5",
         "transliteration": {
             "valid": true,
@@ -6624,6 +7201,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IÁ (5)",
+        "concept": "",
         "paint": "a5",
         "transliteration": {
             "valid": true,
@@ -6659,6 +7237,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NI",
+        "concept": "",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -6667,6 +7246,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q355304",
+            "content": "watercourse"
+        },
         "transliteration": {
             "valid": true,
             "content": "i7"
@@ -6701,6 +7284,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IA (I.A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q203",
+            "content": 5
+        },
+        "concept": "",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -6736,6 +7324,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RA",
+        "concept": "",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -6771,6 +7360,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IB",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q11352",
+            "content": "corner"
+        },
+        "concept": "",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -6806,6 +7400,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUM",
+        "meaning": {
+            "concept": null,
+            "content": "be furious"
+        },
+        "concept": "",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -6841,6 +7440,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IB",
+        "concept": "",
         "paint": "a6b2",
         "transliteration": {
             "valid": true,
@@ -6849,6 +7449,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q355304",
+            "content": "watercourse"
+        },
         "transliteration": {
             "valid": true,
             "content": "id2"
@@ -6856,6 +7460,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀀𒇉"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q35591",
+            "content": "Tigris"
+        },
         "transliteration": {
             "valid": true,
             "content": "idigna"
@@ -6890,6 +7498,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IG (GÁL)",
+        "concept": "",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -6925,6 +7534,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IGI (ŠI, LIM)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q7364",
+            "content": "eye"
+        },
+        "concept": "",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -6960,6 +7574,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IL (AL×ŠE)",
+        "concept": "",
         "paint": "a5b2c8d1",
         "transliteration": {
             "valid": true,
@@ -6995,6 +7610,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÍL (GA.GÍN)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1595",
+            "content": "raise"
+        },
+        "concept": "",
         "paint": "a9b7c1d1",
         "transliteration": {
             "valid": true,
@@ -7003,6 +7623,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅍"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q133311",
+            "content": "clan"
+        },
         "transliteration": {
             "valid": true,
             "content": "ildum"
@@ -7037,6 +7661,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ILIMMU (9)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q19108",
+            "content": 9
+        },
+        "concept": "",
         "paint": "a9",
         "transliteration": {
             "valid": true,
@@ -7072,6 +7701,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZI",
+        "concept": "",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -7080,6 +7710,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍣"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q215414",
+            "content": "foam"
+        },
         "transliteration": {
             "valid": true,
             "content": "imhur2"
@@ -7087,6 +7721,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅆𒁉"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q215414",
+            "content": "foam"
+        },
         "transliteration": {
             "valid": true,
             "content": "imhur3"
@@ -7094,6 +7732,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅆𒁉"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q215414",
+            "content": "foam"
+        },
         "transliteration": {
             "valid": true,
             "content": "imhur4"
@@ -7128,6 +7770,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IMIN (7)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q23350",
+            "content": 7
+        },
+        "concept": "",
         "paint": "a7",
         "transliteration": {
             "valid": true,
@@ -7163,6 +7810,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q160066",
+            "content": "straw"
+        },
+        "concept": "",
         "paint": "a2c10d1",
         "transliteration": {
             "valid": true,
@@ -7186,6 +7838,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÚGEGENÜBERLU",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q180684",
+            "content": "conflict"
+        },
+        "concept": "",
         "paint": "a8c6d2",
         "transliteration": {
             "valid": true,
@@ -7221,6 +7878,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2684591",
+            "content": "statement"
+        },
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -7256,6 +7918,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IR (GAG-gunû)",
+        "concept": "",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -7291,6 +7954,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URU (IRI)",
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -7326,6 +7990,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠ (GEŠ)",
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -7361,6 +8026,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IŠ",
+        "concept": "",
         "paint": "a2b4c1",
         "transliteration": {
             "valid": true,
@@ -7390,6 +8056,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PEŠ4 (ŠÀ×A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q14673",
+            "content": "pebble"
+        },
+        "concept": "",
         "paint": "a3c3d3",
         "transliteration": {
             "valid": true,
@@ -7425,6 +8096,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ITI (UD×EŠ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q405",
+            "content": "moon"
+        },
+        "concept": "",
         "paint": "c5d2",
         "transliteration": {
             "valid": true,
@@ -7434,6 +8110,11 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "UDŠEŠIG",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q5151",
+            "content": "month"
+        },
+        "concept": "",
         "paint": "c6d2",
         "transliteration": {
             "valid": true,
@@ -7469,6 +8150,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NE",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q3196",
+            "content": "fire"
+        },
+        "concept": "",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -7504,6 +8190,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÁ (MAL)",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -7539,6 +8226,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IG (GÁL)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1969",
+            "content": "open"
+        },
+        "concept": "",
         "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
@@ -7574,6 +8266,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GALGA (GÁÉ×NÍG)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1710397",
+            "content": "reason"
+        },
+        "concept": "",
         "paint": "a6b2d1",
         "transliteration": {
             "valid": true,
@@ -7609,6 +8306,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍG (GAR, NINDA)",
+        "concept": "",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -7644,6 +8342,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DU",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -7679,6 +8378,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠ (GEŠ)",
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -7714,6 +8414,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GEŠTIN (GIŠ.DIN)",
+        "concept": "",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -7749,6 +8450,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MI",
+        "concept": "",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -7784,6 +8486,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÌR",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_903",
+            "content": "rush"
+        },
+        "concept": "",
         "paint": "a1b6c3d3",
         "transliteration": {
             "valid": true,
@@ -7819,6 +8526,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠ (GEŠ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q10884",
+            "content": "tree"
+        },
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -7854,6 +8566,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -7889,6 +8602,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAB",
+        "concept": "",
         "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
@@ -7924,6 +8638,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NAG (KA×A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q914462",
+            "content": "gauge"
+        },
+        "concept": "",
         "paint": "a6b2c5d1",
         "transliteration": {
             "valid": true,
@@ -7959,6 +8678,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAD4",
+        "meaning": {
+            "concept": null,
+            "content": "bind together"
+        },
+        "concept": "",
         "paint": "a2b6c1d1",
         "transliteration": {
             "valid": true,
@@ -7988,6 +8712,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAD5",
+        "concept": "",
         "paint": "a3b5c8d1",
         "transliteration": {
             "valid": true,
@@ -7996,6 +8721,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆓"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q184303",
+            "content": "gift"
+        },
         "transliteration": {
             "valid": true,
             "content": "kadra"
@@ -8030,6 +8759,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -8065,6 +8795,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAG (KAK)",
+        "concept": "",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -8100,6 +8831,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAL",
+        "concept": "",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -8135,6 +8867,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q11081619",
+            "content": "land"
+        },
+        "concept": "",
         "paint": "a6b5c2d2",
         "transliteration": {
             "valid": true,
@@ -8170,6 +8907,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GAN",
+        "concept": "",
         "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
@@ -8205,6 +8943,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KÁ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q53060",
+            "content": "gate"
+        },
+        "concept": "",
         "paint": "a5b4c4",
         "transliteration": {
             "valid": true,
@@ -8213,6 +8956,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆍"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q828909",
+            "content": "quay"
+        },
         "transliteration": {
             "valid": true,
             "content": "kar"
@@ -8241,6 +8988,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
+        "concept": "",
         "paint": "a5c2",
         "transliteration": {
             "valid": true,
@@ -8270,6 +9018,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KÁR (GÁN-tenû and ŠÈ-tenû)",
+        "concept": "",
         "paint": "a5c2",
         "transliteration": {
             "valid": true,
@@ -8305,6 +9054,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAŠ4 (DU-šeššig)",
+        "concept": "",
         "paint": "a1b2c6",
         "transliteration": {
             "valid": true,
@@ -8340,6 +9090,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KEŠ´",
+        "concept": "",
         "paint": "a12b16",
         "transliteration": {
             "valid": true,
@@ -8375,6 +9126,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KEŠ´",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171",
+            "content": "bind"
+        },
+        "concept": "",
         "paint": "a12b16",
         "transliteration": {
             "valid": true,
@@ -8410,6 +9166,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KI",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2221906",
+            "content": "place"
+        },
+        "concept": "",
         "paint": "b4c2d2",
         "transliteration": {
             "valid": true,
@@ -8445,6 +9206,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIM (DÍM)",
+        "concept": "",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -8480,6 +9242,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BU (GÍD)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1897380",
+            "content": "willow"
+        },
+        "concept": "",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -8515,6 +9282,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KIN",
+        "concept": "",
         "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
@@ -8523,6 +9291,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1251441",
+            "content": "leader"
+        },
         "transliteration": {
             "valid": true,
             "content": "kingal"
@@ -8557,6 +9329,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SAR",
+        "concept": "",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -8592,6 +9365,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KIŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q132272",
+            "content": "Kish"
+        },
+        "concept": "",
         "paint": "a2b7c5d3",
         "transliteration": {
             "valid": true,
@@ -8627,6 +9405,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MES (RID)",
+        "concept": "",
         "paint": "a8b4",
         "transliteration": {
             "valid": true,
@@ -8662,6 +9441,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -8697,6 +9477,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MI",
+        "concept": "",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -8732,6 +9513,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KUG (KÙ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1368",
+            "content": "money"
+        },
+        "concept": "",
         "paint": "c7d7",
         "transliteration": {
             "valid": true,
@@ -8761,6 +9547,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU4",
+        "concept": "",
         "paint": "a1b5c10",
         "transliteration": {
             "valid": true,
@@ -8796,6 +9583,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪA (KU6)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q152",
+            "content": "fish"
+        },
+        "concept": "",
         "paint": "a4c2",
         "transliteration": {
             "valid": true,
@@ -8831,6 +9623,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAR",
+        "concept": "",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -8866,6 +9659,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KUG (KÙ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1368",
+            "content": "money"
+        },
+        "concept": "",
         "paint": "c7d7",
         "transliteration": {
             "valid": true,
@@ -8901,6 +9699,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KUN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q60960",
+            "content": "tail"
+        },
+        "concept": "",
         "paint": "a5b2c2d2",
         "transliteration": {
             "valid": true,
@@ -8909,6 +9712,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆲"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q12511",
+            "content": "stair"
+        },
         "transliteration": {
             "valid": true,
             "content": "kun4"
@@ -8943,6 +9750,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KUR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q6256",
+            "content": "land"
+        },
+        "concept": "",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -8978,6 +9790,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PAB or PAP",
+        "meaning": {
+            "concept": null,
+            "content": "be different"
+        },
+        "concept": "",
         "paint": "c1d1",
         "transliteration": {
             "valid": true,
@@ -8986,6 +9803,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉽"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2053390",
+            "content": "inspection"
+        },
         "transliteration": {
             "valid": true,
             "content": "kurum7"
@@ -9020,6 +9841,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIN",
+        "meaning": {
+            "concept": null,
+            "content": "kurun beer"
+        },
+        "concept": "",
         "paint": "c3d1",
         "transliteration": {
             "valid": true,
@@ -9055,6 +9881,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SU",
+        "meaning": {
+            "concept": null,
+            "content": "be tired"
+        },
+        "concept": "",
         "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
@@ -9084,6 +9915,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DÙL (SAG-gunû)",
+        "concept": "",
         "paint": "a6b2c1d1",
         "transliteration": {
             "valid": true,
@@ -9119,6 +9951,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LA",
+        "concept": "",
         "paint": "a5b7",
         "transliteration": {
             "valid": true,
@@ -9154,6 +9987,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LAL (LÁ)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1932",
+            "content": "hang"
+        },
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -9189,6 +10027,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠID (LAG)",
+        "concept": "",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -9224,6 +10063,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -9259,6 +10099,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ERIM (ZÁLAG)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3827",
+            "content": "dry"
+        },
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -9294,6 +10139,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LAL (LÁ)",
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -9329,6 +10175,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÀL (TA×ḪI)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q10987",
+            "content": "honey"
+        },
+        "concept": "",
         "paint": "a2b2c3d3",
         "transliteration": {
             "valid": true,
@@ -9364,6 +10215,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LAM",
+        "concept": "",
         "paint": "a5c2d2",
         "transliteration": {
             "valid": true,
@@ -9399,6 +10251,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LI",
+        "concept": "",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -9434,6 +10287,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IGI (ŠI, LIM)",
+        "concept": "",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -9469,6 +10323,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LI",
+        "concept": "",
         "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
@@ -9504,6 +10359,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IR (GAG-gunû)",
+        "concept": "",
         "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
@@ -9539,6 +10395,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -9574,6 +10431,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LIL",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2620524",
+            "content": "fool"
+        },
+        "concept": "",
         "paint": "b2c12d1",
         "transliteration": {
             "valid": true,
@@ -9609,6 +10471,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KID (LÍL)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q8094",
+            "content": "wind; breath"
+        },
+        "concept": "",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -9644,6 +10511,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IGI (ŠI, LIM)",
+        "concept": "",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -9679,6 +10547,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LIMMU (NÍG, 4)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q202",
+            "content": 4
+        },
+        "concept": "",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -9708,6 +10581,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LIBIŠ (ÁB×ŠÀ)",
+        "meaning": {
+            "concept": null,
+            "content": "inner body"
+        },
+        "concept": "",
         "paint": "c5d4",
         "transliteration": {
             "valid": true,
@@ -9743,6 +10621,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LIŠ",
+        "concept": "",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -9778,6 +10657,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LU (UDU)",
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -9813,6 +10693,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LÚ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q5",
+            "content": "man; person"
+        },
+        "concept": "",
         "paint": "a4c3d1",
         "transliteration": {
             "valid": true,
@@ -9848,6 +10733,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUL (NAR)",
+        "concept": "",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -9883,6 +10769,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUL (NAR)",
+        "concept": "",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -9918,6 +10805,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DUG (BI×A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q950375",
+            "content": "pestle"
+        },
+        "concept": "",
         "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
@@ -9953,6 +10845,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q12097",
+            "content": "king"
+        },
+        "concept": "",
         "paint": "a5b4c4d1",
         "transliteration": {
             "valid": true,
@@ -9988,6 +10885,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUḪ",
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -9996,6 +10894,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q42603",
+            "content": "priest"
+        },
         "transliteration": {
             "valid": true,
             "content": "lukur"
@@ -10030,6 +10932,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUL (NAR)",
+        "meaning": {
+            "concept": null,
+            "content": "be false"
+        },
+        "concept": "",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -10053,6 +10960,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LULIM (GÌR× LU.IGI)",
+        "concept": "",
         "paint": "a7b10c4d3",
         "transliteration": {
             "valid": true,
@@ -10088,6 +10996,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUM",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1659",
+            "content": "thrive"
+        },
+        "concept": "",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -10123,6 +11036,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠIM",
+        "concept": "",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -10158,6 +11072,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MA",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -10193,6 +11108,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÁ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q35872",
+            "content": "boat"
+        },
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -10228,6 +11148,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MAḪ",
+        "meaning": {
+            "concept": null,
+            "content": "be majestic"
+        },
+        "concept": "",
         "paint": "a2b4c1d2",
         "transliteration": {
             "valid": true,
@@ -10263,6 +11188,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MAR",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -10298,6 +11224,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MAŠ",
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -10333,6 +11260,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÁŠ",
+        "concept": "",
         "paint": "a1b1c2d2",
         "transliteration": {
             "valid": true,
@@ -10368,6 +11296,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ME",
+        "meaning": {
+            "concept": null,
+            "content": "be"
+        },
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -10403,6 +11336,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÈ (AG×ERIM)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q178561",
+            "content": "battle"
+        },
+        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "me3"
@@ -10431,6 +11369,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MEN (GÁ× ME.EN)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q746591",
+            "content": "diadem"
+        },
+        "concept": "",
         "paint": "a6b8c3",
         "transliteration": {
             "valid": true,
@@ -10466,6 +11409,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ME",
+        "concept": "",
         "paint": "a1b1",
         "transliteration": {
             "valid": true,
@@ -10501,6 +11445,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MI",
+        "concept": "",
         "paint": "b8c1",
         "transliteration": {
             "valid": true,
@@ -10536,6 +11481,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MUNUS (SAL)",
+        "meaning": {
+            "concept": null,
+            "content": "care"
+        },
+        "concept": "",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -10571,6 +11521,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MIN (2)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q200",
+            "content": 2
+        },
+        "concept": "",
         "paint": "a2",
         "transliteration": {
             "valid": true,
@@ -10606,6 +11561,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MU",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q577",
+            "content": "year"
+        },
+        "concept": "",
         "paint": "b1c6",
         "transliteration": {
             "valid": true,
@@ -10641,6 +11601,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SAR",
+        "concept": "",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -10676,6 +11637,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIM (DÍM)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2922",
+            "content": "create"
+        },
+        "concept": "",
         "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
@@ -10711,6 +11677,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TE",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849",
+            "content": "shine"
+        },
+        "concept": "",
         "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
@@ -10726,6 +11697,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "338n1"
         },
         "signName": "UMUM×KASKAL",
+        "concept": "",
         "paint": "a2b6c4d4",
         "transliteration": {
             "valid": true,
@@ -10761,6 +11733,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIM×ŠE, later DIM×KUR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q11254",
+            "content": "salt"
+        },
+        "concept": "",
         "paint": "a2b1c6d2",
         "transliteration": {
             "valid": true,
@@ -10769,6 +11746,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒁵"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q81710",
+            "content": "shepherd"
+        },
         "transliteration": {
             "valid": true,
             "content": "munsub2"
@@ -10776,6 +11757,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋠𒇴𒋦"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q152024",
+            "content": "malt"
+        },
         "transliteration": {
             "valid": true,
             "content": "munu4"
@@ -10810,6 +11795,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAR (ḪI×ÁŠ)",
+        "concept": "",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -10845,6 +11831,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SIG4",
+        "concept": "",
         "paint": "c6d4",
         "transliteration": {
             "valid": true,
@@ -10880,6 +11867,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÚRGU (LUM)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q133279",
+            "content": "back"
+        },
+        "concept": "",
         "paint": "c4d2",
         "transliteration": {
             "valid": true,
@@ -10915,6 +11907,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MUŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2102",
+            "content": "snake"
+        },
+        "concept": "",
         "paint": "a4b1c3d2",
         "transliteration": {
             "valid": true,
@@ -10950,6 +11947,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪU",
+        "concept": "",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -10985,6 +11983,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2132873",
+            "content": "advice"
+        },
+        "concept": "",
         "paint": "b4c3d2",
         "transliteration": {
             "valid": true,
@@ -11020,6 +12023,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÁ",
+        "concept": "",
         "paint": "a2b6c7d1",
         "transliteration": {
             "valid": true,
@@ -11028,6 +12032,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒈿"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q22731",
+            "content": "stone"
+        },
         "transliteration": {
             "valid": true,
             "content": "na4"
@@ -11056,6 +12064,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NAB (ANoverAN)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q9430",
+            "content": "ocean"
+        },
+        "concept": "",
         "paint": "a2b2c2d2",
         "transliteration": {
             "valid": true,
@@ -11064,11 +12077,95 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒀮"
     },
     {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 893
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 449
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 560
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 308
+            }
+        ],
+        "signName": "NAGAR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q154549",
+            "content": "carpenter"
+        },
+        "concept": "",
+        "paint": "a3b1c2d1",
+        "transliteration": {
+            "valid": true,
+            "content": "nagar"
+        },
+        "content": "𒉄"
+    },
+    {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1096",
+            "content": "tin"
+        },
         "transliteration": {
             "valid": true,
             "content": "nagga"
         },
         "content": "𒀭𒈾"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 293
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 377
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 165
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": "352; (345)"
+            }
+        ],
+        "signName": "NAGA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q14975330",
+            "content": "potash"
+        },
+        "concept": "",
+        "paint": "c14d1",
+        "transliteration": {
+            "valid": true,
+            "content": "naja"
+        },
+        "content": "𒉀"
     },
     {
         "reference": [
@@ -11098,6 +12195,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NAM",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q216774",
+            "content": "destiny"
+        },
+        "concept": "",
         "paint": "a3b1c9",
         "transliteration": {
             "valid": true,
@@ -11133,6 +12235,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠEŠ (ÙRI)",
+        "concept": "",
         "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
@@ -11168,6 +12271,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NE",
+        "concept": "",
         "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
@@ -11203,6 +12307,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NI",
+        "concept": "",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -11226,6 +12331,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PIRIG",
+        "meaning": {
+            "concept": null,
+            "content": "strength"
+        },
+        "concept": "",
         "paint": "a10b9c2d2",
         "transliteration": {
             "valid": true,
@@ -11261,6 +12371,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NI",
+        "concept": "",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -11296,6 +12407,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q44619",
+            "content": "fear"
+        },
+        "concept": "",
         "paint": "a4b1c2d3",
         "transliteration": {
             "valid": true,
@@ -11304,6 +12420,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉎"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q878767",
+            "content": "bitch"
+        },
         "transliteration": {
             "valid": true,
             "content": "nig"
@@ -11338,6 +12458,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍG (GAR, NINDA)",
+        "concept": "",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -11373,6 +12494,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍG (GAR, NINDA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q35120",
+            "content": "thing"
+        },
+        "concept": "",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -11408,6 +12534,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NIM",
+        "concept": "",
         "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
@@ -11443,6 +12570,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NIMIN (4×U)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q42317",
+            "content": 40
+        },
+        "concept": "",
         "paint": "c4",
         "transliteration": {
             "valid": true,
@@ -11451,6 +12583,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒐏"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q116",
+            "content": "queen"
+        },
         "transliteration": {
             "valid": true,
             "content": "nin"
@@ -11458,6 +12594,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒊩𒌆"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q595094",
+            "content": "sister"
+        },
         "transliteration": {
             "valid": true,
             "content": "nin9"
@@ -11492,6 +12632,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍNDA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q7802",
+            "content": "bread"
+        },
+        "concept": "",
         "paint": "b4c2",
         "transliteration": {
             "valid": true,
@@ -11521,6 +12666,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NINNU (5×U)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q712519",
+            "content": 50
+        },
+        "concept": "",
         "paint": "c5",
         "transliteration": {
             "valid": true,
@@ -11556,6 +12706,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NIR (NUNoverNUN)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q174834",
+            "content": "authority"
+        },
+        "concept": "",
         "paint": "a10b2",
         "transliteration": {
             "valid": true,
@@ -11564,6 +12719,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉪"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q40292",
+            "content": 20
+        },
         "transliteration": {
             "valid": true,
             "content": "nisz"
@@ -11598,6 +12757,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NU",
+        "concept": "",
         "paint": "a1b1d1",
         "transliteration": {
             "valid": true,
@@ -11633,6 +12793,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NU11",
+        "concept": "",
         "paint": "b8c4d2",
         "transliteration": {
             "valid": true,
@@ -11668,6 +12829,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NIM",
+        "concept": "",
         "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
@@ -11703,6 +12865,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUM",
+        "concept": "",
         "paint": "c8d4",
         "transliteration": {
             "valid": true,
@@ -11738,6 +12901,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NUMUN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q40763",
+            "content": "seed"
+        },
+        "concept": "",
         "paint": "b2c3",
         "transliteration": {
             "valid": true,
@@ -11746,6 +12914,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒆰"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q156106",
+            "content": "alfalfa"
+        },
         "transliteration": {
             "valid": true,
             "content": "numun2"
@@ -11780,6 +12952,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NUN",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2747456",
+            "content": "prince"
+        },
+        "concept": "",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -11815,6 +12992,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NUN",
+        "concept": "",
         "paint": "a5b1",
         "transliteration": {
             "valid": true,
@@ -11850,6 +13028,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PA",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2923673",
+            "content": "branch"
+        },
+        "concept": "",
         "paint": "a1b2",
         "transliteration": {
             "valid": true,
@@ -11858,6 +13041,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q12284",
+            "content": "canal"
+        },
         "transliteration": {
             "valid": true,
             "content": "pa5"
@@ -11865,6 +13052,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉽𒂊"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3016",
+            "content": "find"
+        },
         "transliteration": {
             "valid": true,
             "content": "pad3"
@@ -11899,6 +13090,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪU",
+        "concept": "",
         "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
@@ -11914,6 +13106,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "330_60n2"
         },
         "signName": "LÚIMQUADRAT",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q3839081",
+            "content": "disaster"
+        },
+        "concept": "",
         "paint": "a8b8c8d8",
         "transliteration": {
             "valid": true,
@@ -11949,6 +13146,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUL (NAR)",
+        "concept": "",
         "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
@@ -11957,6 +13155,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "foremost"
+        },
         "transliteration": {
             "valid": true,
             "content": "palil"
@@ -11991,6 +13193,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PAB or PAP",
+        "concept": "",
         "paint": "c1d1",
         "transliteration": {
             "valid": true,
@@ -12026,6 +13229,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PI",
+        "concept": "",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -12061,6 +13265,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIR (ḪA-gunû)",
+        "meaning": {
+            "concept": null,
+            "content": "be thick"
+        },
+        "concept": "",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -12090,6 +13299,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAD5",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1893",
+            "content": "slice"
+        },
+        "concept": "",
         "paint": "a3b5c8d1",
         "transliteration": {
             "valid": true,
@@ -12125,6 +13339,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PI",
+        "concept": "",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -12160,6 +13375,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIR (ḪA-gunû)",
+        "concept": "",
         "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
@@ -12195,6 +13411,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BU (GÍD)",
+        "concept": "",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -12230,6 +13447,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SÌLA",
+        "concept": "",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -12265,6 +13483,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÀR (QAR)",
+        "concept": "",
         "paint": "b4c2d1",
         "transliteration": {
             "valid": true,
@@ -12300,6 +13519,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠKREUZTGIŠ",
+        "concept": "",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -12335,6 +13555,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RA",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618",
+            "content": "beat"
+        },
+        "concept": "",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -12370,6 +13595,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RI",
+        "concept": "",
         "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
@@ -12405,6 +13631,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URU (IRI)",
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -12440,6 +13667,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAL",
+        "concept": "",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -12475,6 +13703,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GU7 (KA×NÍG)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3529",
+            "content": "eat"
+        },
+        "concept": "",
         "paint": "a6b2c5d2",
         "transliteration": {
             "valid": true,
@@ -12483,6 +13716,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒅥"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "bestow"
+        },
         "transliteration": {
             "valid": true,
             "content": "rig7"
@@ -12517,6 +13754,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KAŠ4 (DU-šeššig)",
+        "concept": "",
         "paint": "a1b2c6",
         "transliteration": {
             "valid": true,
@@ -12552,6 +13790,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LAGAB",
+        "concept": "",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -12587,6 +13826,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ERIM (ZÁLAG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -12622,12 +13862,49 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RU",
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "ru"
         },
         "content": "𒊒"
+    },
+    {
+        "reference": [
+            {
+                "ref": "https://openlibrary.org/works/OL15890317W",
+                "short": "MeZl",
+                "title": "Mesopotamisches Zeichenlexikon",
+                "content": 379
+            },
+            {
+                "ref": "https://openlibrary.org/works/OL9899303W",
+                "short": "AbZl",
+                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
+                "content": 260
+            },
+            {
+                "ref": "lha",
+                "short": "LHA",
+                "title": "The Deimel Numbers",
+                "content": 230
+            },
+            {
+                "ref": "hethzl",
+                "short": "HethZl",
+                "title": "Hethitisches Zeichenlexikon",
+                "content": 75
+            }
+        ],
+        "signName": "GAG (KAK)",
+        "concept": "",
+        "paint": "a1c1d1",
+        "transliteration": {
+            "valid": true,
+            "content": "ru2"
+        },
+        "content": "𒆕"
     },
     {
         "reference": [
@@ -12657,6 +13934,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AŠ",
+        "concept": "",
         "paint": "b1",
         "transliteration": {
             "valid": true,
@@ -12692,6 +13970,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SA",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2638",
+            "content": "roast"
+        },
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -12707,6 +13990,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "187v5"
         },
         "signName": "NINDÁ×ŠE",
+        "concept": "",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -12742,6 +14026,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DI",
+        "meaning": {
+            "concept": null,
+            "content": "equal"
+        },
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -12777,6 +14066,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZA",
+        "concept": "",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -12785,6 +14075,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍝"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_512",
+            "content": "call"
+        },
         "transliteration": {
             "valid": true,
             "content": "sa4"
@@ -12792,6 +14086,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒄷𒈿"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2025",
+            "content": "scatter"
+        },
         "transliteration": {
             "valid": true,
             "content": "sag2"
@@ -12826,6 +14124,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RA",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618",
+            "content": "beat"
+        },
+        "concept": "",
         "paint": "a4b5",
         "transliteration": {
             "valid": true,
@@ -12861,6 +14164,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI (DÙG)",
+        "meaning": {
+            "concept": null,
+            "content": "be good"
+        },
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -12896,6 +14204,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2",
+            "content": "earth"
+        },
+        "concept": "",
         "paint": "a2b4c1",
         "transliteration": {
             "valid": true,
@@ -12931,6 +14244,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SAG",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q23640",
+            "content": "head"
+        },
+        "concept": "",
         "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
@@ -12966,6 +14284,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MUNUS (SAL)",
+        "concept": "",
         "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
@@ -12981,6 +14300,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "187v5"
         },
         "signName": "NINDÁ×ŠE",
+        "concept": "",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -13016,6 +14336,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SAR",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_314",
+            "content": "run"
+        },
+        "concept": "",
         "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
@@ -13024,6 +14349,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒊬"
     },
     {
+        "meaning": {
+            "concept": null,
+            "content": "be cold"
+        },
         "transliteration": {
             "valid": true,
             "content": "sed4"
@@ -13058,6 +14387,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SI",
+        "concept": "",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -13093,6 +14423,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SIG",
+        "meaning": {
+            "concept": null,
+            "content": "be low"
+        },
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -13128,6 +14463,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUM",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1826",
+            "content": "place"
+        },
+        "concept": "",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -13163,6 +14503,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GI",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q943",
+            "content": "yellow"
+        },
+        "concept": "",
         "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
@@ -13198,6 +14543,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SIG7 (IGI-gunû)",
+        "meaning": {
+            "concept": null,
+            "content": "be green"
+        },
+        "concept": "",
         "paint": "a1b5c1",
         "transliteration": {
             "valid": true,
@@ -13233,6 +14583,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SI",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464",
+            "content": "put"
+        },
+        "concept": "",
         "paint": "a2b2",
         "transliteration": {
             "valid": true,
@@ -13268,6 +14623,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SÍG  SÍK",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q28472",
+            "content": "hair"
+        },
+        "concept": "",
         "paint": "a3b7c1",
         "transliteration": {
             "valid": true,
@@ -13303,6 +14663,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EL",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3213",
+            "content": "clean"
+        },
+        "concept": "",
         "paint": "a3b3c1d1",
         "transliteration": {
             "valid": true,
@@ -13338,6 +14703,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠID (LAG)",
+        "concept": "",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -13373,6 +14739,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SÌLA",
+        "concept": "",
         "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
@@ -13408,6 +14775,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SILA4 (GÁ×PA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q4575936",
+            "content": "lamb"
+        },
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -13437,6 +14809,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ASARI (URU×IGI)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904",
+            "content": "cease"
+        },
+        "concept": "",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -13472,6 +14849,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DI",
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -13507,6 +14885,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "EŠ (3×U)",
+        "concept": "",
         "paint": "c3",
         "transliteration": {
             "valid": true,
@@ -13515,6 +14894,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌍"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q81710",
+            "content": "shepherd"
+        },
         "transliteration": {
             "valid": true,
             "content": "sipard"
@@ -13549,6 +14932,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BU (GÍD)",
+        "concept": "",
         "paint": "b1c2d2",
         "transliteration": {
             "valid": true,
@@ -13584,6 +14968,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SU",
+        "concept": "",
         "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
@@ -13619,6 +15004,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUD (BU-gunû)",
+        "concept": "",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -13654,6 +15040,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUD (BU-gunû)",
+        "meaning": {
+            "concept": null,
+            "content": "be distant"
+        },
+        "concept": "",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -13689,6 +15080,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÙŠ (INANNA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q170984",
+            "content": "crown"
+        },
+        "concept": "",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -13724,6 +15120,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "MÙŠ (INANNA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q170984",
+            "content": "crown"
+        },
+        "concept": "",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -13753,6 +15154,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SÙḪ (GUoverGUcrossed)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1788",
+            "content": "blur"
+        },
+        "concept": "",
         "paint": "c11d5",
         "transliteration": {
             "valid": true,
@@ -13788,6 +15194,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUḪUR",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3339",
+            "content": "comb"
+        },
+        "concept": "",
         "paint": "a8c6d2",
         "transliteration": {
             "valid": true,
@@ -13823,6 +15234,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LUḪ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q83307",
+            "content": "minister"
+        },
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -13858,6 +15274,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUM",
+        "concept": "",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -13887,6 +15304,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DÙL (SAG-gunû)",
+        "meaning": {
+            "concept": null,
+            "content": "be angry"
+        },
+        "concept": "",
         "paint": "a6b2c1d1",
         "transliteration": {
             "valid": true,
@@ -13922,6 +15344,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUḪUR",
+        "concept": "",
         "paint": "a8c6d2",
         "transliteration": {
             "valid": true,
@@ -13957,6 +15380,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SU6 (KA×SA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q42804",
+            "content": "beard"
+        },
+        "concept": "",
         "paint": "a7b6c5d1",
         "transliteration": {
             "valid": true,
@@ -13986,6 +15414,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÚR",
+        "concept": "",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -14021,6 +15450,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUR (ŠUR)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_41",
+            "content": "drip"
+        },
+        "concept": "",
         "paint": "a3b1d1",
         "transliteration": {
             "valid": true,
@@ -14056,6 +15490,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SUR (ŠUR)",
+        "concept": "",
         "paint": "a3b1d1",
         "transliteration": {
             "valid": true,
@@ -14091,6 +15526,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠA",
+        "concept": "",
         "paint": "a2b4c1d1",
         "transliteration": {
             "valid": true,
@@ -14126,6 +15562,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NÍG (GAR, NINDA)",
+        "concept": "",
         "paint": "a3d1",
         "transliteration": {
             "valid": true,
@@ -14161,6 +15598,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÀ (ŠAG4)",
+        "concept": "",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -14196,6 +15634,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SAG",
+        "concept": "",
         "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
@@ -14231,6 +15670,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÀ (ŠAG4)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1072",
+            "content": "heart"
+        },
+        "concept": "",
         "paint": "c3d3",
         "transliteration": {
             "valid": true,
@@ -14266,6 +15710,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠUL (DUN)",
+        "concept": "",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -14295,6 +15740,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URU×GU (GUR5)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2962",
+            "content": "churn"
+        },
+        "concept": "",
         "paint": "a5b4c3d1",
         "transliteration": {
             "valid": true,
@@ -14330,6 +15780,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "Ú",
+        "concept": "",
         "paint": "a4b2",
         "transliteration": {
             "valid": true,
@@ -14345,6 +15796,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             "content": "187v5"
         },
         "signName": "NINDÁ×ŠE",
+        "concept": "",
         "paint": "b4c12",
         "transliteration": {
             "valid": true,
@@ -14353,6 +15805,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒉚"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2351119",
+            "content": "verdigris"
+        },
         "transliteration": {
             "valid": true,
             "content": "szamanur"
@@ -14387,6 +15843,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠAR",
+        "meaning": {
+            "concept": null,
+            "content": "be numerous"
+        },
+        "concept": "",
         "paint": "c4",
         "transliteration": {
             "valid": true,
@@ -14422,6 +15883,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠE",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2834",
+            "content": "agree"
+        },
+        "concept": "",
         "paint": "c10",
         "transliteration": {
             "valid": true,
@@ -14457,6 +15923,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
+        "concept": "",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -14486,6 +15953,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA×DÚBBALAG",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q179448",
+            "content": "noise"
+        },
+        "concept": "",
         "paint": "a4b10c11d3",
         "transliteration": {
             "valid": true,
@@ -14521,6 +15993,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "SIG4",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q40089",
+            "content": "brick"
+        },
+        "concept": "",
         "paint": "c6d4",
         "transliteration": {
             "valid": true,
@@ -14529,6 +16006,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋞"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2882",
+            "content": "rain"
+        },
         "transliteration": {
             "valid": true,
             "content": "szej3"
@@ -14563,6 +16044,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠIM",
+        "concept": "",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -14598,6 +16080,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠEN (SU×A)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q650711",
+            "content": "combat"
+        },
+        "concept": "",
         "paint": "a14b6",
         "transliteration": {
             "valid": true,
@@ -14633,6 +16120,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠEŠ (ÙRI)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q10861465",
+            "content": "brother"
+        },
+        "concept": "",
         "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
@@ -14662,6 +16154,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÉŠ (SÍG.LAM)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1371",
+            "content": "weep"
+        },
+        "concept": "",
         "paint": "a11b9",
         "transliteration": {
             "valid": true,
@@ -14697,6 +16194,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "IGI (ŠI, LIM)",
+        "concept": "",
         "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
@@ -14732,6 +16230,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠID (LAG)",
+        "concept": "",
         "paint": "a3b5",
         "transliteration": {
             "valid": true,
@@ -14761,6 +16260,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ASARI (URU×IGI)",
+        "concept": "",
         "paint": "a4b4c1",
         "transliteration": {
             "valid": true,
@@ -14796,6 +16296,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠIM",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q145205",
+            "content": "resin"
+        },
+        "concept": "",
         "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
@@ -14831,6 +16336,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠU",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q33767",
+            "content": "hand"
+        },
+        "concept": "",
         "paint": "a1b5",
         "transliteration": {
             "valid": true,
@@ -14873,6 +16383,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÚ",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909",
+            "content": "cover"
+        },
+        "concept": "",
         "paint": "a1c1",
         "transliteration": {
             "valid": true,
@@ -14908,6 +16423,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "RU",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2954",
+            "content": "fall"
+        },
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -14937,6 +16457,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÙDU (KA×ŠU)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q40953",
+            "content": "prayer"
+        },
+        "concept": "",
         "paint": "a4b8c5d1",
         "transliteration": {
             "valid": true,
@@ -14972,6 +16497,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠUL (DUN)",
+        "concept": "",
         "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
@@ -15007,6 +16533,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAG (ŠUM)",
+        "concept": "",
         "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
@@ -15042,6 +16569,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠIR",
+        "concept": "",
         "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
@@ -15077,6 +16605,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TA",
+        "concept": "",
         "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
@@ -15112,6 +16641,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAB",
+        "meaning": {
+            "concept": null,
+            "content": "be parallel"
+        },
+        "concept": "",
         "paint": "b2",
         "transliteration": {
             "valid": true,
@@ -15147,6 +16681,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAG (ŠUM)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2098",
+            "content": "touch"
+        },
+        "concept": "",
         "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
@@ -15182,6 +16721,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KÍD (TAG4)",
+        "concept": "",
         "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
@@ -15217,6 +16757,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAḪDAḪ (MUoverMU)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1789",
+            "content": "add"
+        },
+        "concept": "",
         "paint": "b2c12",
         "transliteration": {
             "valid": true,
@@ -15252,6 +16797,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KÍD (TAG4)",
+        "meaning": {
+            "concept": null,
+            "content": "leave behind"
+        },
+        "concept": "",
         "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
@@ -15287,6 +16837,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -15322,6 +16873,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAR",
+        "concept": "",
         "paint": "a1c2",
         "transliteration": {
             "valid": true,
@@ -15357,6 +16909,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DÀR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q178228",
+            "content": "wild goat"
+        },
+        "concept": "",
         "paint": "a2b5c7d5",
         "transliteration": {
             "valid": true,
@@ -15392,6 +16949,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UR",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -15427,6 +16985,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TE",
+        "concept": "",
         "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
@@ -15436,6 +16995,11 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "TIL",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1695",
+            "content": "approach"
+        },
+        "concept": "",
         "paint": "c4d1",
         "transliteration": {
             "valid": true,
@@ -15471,6 +17035,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q21083885",
+            "content": "unity"
+        },
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -15506,6 +17075,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TI",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -15515,6 +17085,7 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "TIL",
+        "concept": "",
         "paint": "c4d1",
         "transliteration": {
             "valid": true,
@@ -15550,6 +17121,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TI",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3678",
+            "content": "live"
+        },
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -15585,6 +17161,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIM",
+        "concept": "",
         "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
@@ -15620,6 +17197,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TIR",
+        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "tir"
@@ -15654,6 +17232,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DIŠ (1)",
+        "concept": "",
         "paint": "a1",
         "transliteration": {
             "valid": true,
@@ -15689,6 +17268,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TU",
+        "concept": "",
         "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
@@ -15724,6 +17304,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUM",
+        "concept": "",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -15759,6 +17340,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUM",
+        "concept": "",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -15767,6 +17349,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌈"
     },
     {
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1045",
+            "content": "wash"
+        },
         "transliteration": {
             "valid": true,
             "content": "tu5"
@@ -15774,6 +17360,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋗𒉀"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1999796",
+            "content": "incantation"
+        },
         "transliteration": {
             "valid": true,
             "content": "tu6"
@@ -15808,6 +17398,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪI×BAD",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q41415",
+            "content": "soup"
+        },
+        "concept": "",
         "paint": "b1c3d2",
         "transliteration": {
             "valid": true,
@@ -15843,6 +17438,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TÚG (NÁM)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q11460",
+            "content": "garment"
+        },
+        "concept": "",
         "paint": "a2b4",
         "transliteration": {
             "valid": true,
@@ -15878,6 +17478,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUK (TUG)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2055",
+            "content": "have"
+        },
+        "concept": "",
         "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
@@ -15907,6 +17512,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BUL (LAGAB×EŠ)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845",
+            "content": "shake"
+        },
+        "concept": "",
         "paint": "a2b2c3",
         "transliteration": {
             "valid": true,
@@ -15942,6 +17552,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TÚL (LAGAB×U)",
+        "meaning": {
+            "concept": null,
+            "content": "well"
+        },
+        "concept": "",
         "paint": "a2b2c1",
         "transliteration": {
             "valid": true,
@@ -15977,6 +17592,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUM",
+        "concept": "",
         "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
@@ -16012,6 +17628,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DU",
+        "concept": "",
         "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
@@ -16047,6 +17664,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TUR (DUMU)",
+        "concept": "",
         "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
@@ -16055,6 +17673,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌉"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1207909",
+            "content": "animal stall"
+        },
         "transliteration": {
             "valid": true,
             "content": "tur3"
@@ -16089,6 +17711,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -16124,6 +17747,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "U",
+        "concept": "",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -16159,6 +17783,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "Ú",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q756",
+            "content": "plant"
+        },
+        "concept": "",
         "paint": "a4b2",
         "transliteration": {
             "valid": true,
@@ -16201,6 +17830,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "Ù (IGI.DIB)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q35831",
+            "content": "sleep"
+        },
+        "concept": "",
         "paint": "a4b5c1",
         "transliteration": {
             "valid": true,
@@ -16236,6 +17870,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -16244,6 +17879,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q333173",
+            "content": "wonder"
+        },
         "transliteration": {
             "valid": true,
             "content": "u6"
@@ -16278,6 +17917,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UB",
+        "concept": "",
         "paint": "a1c2d2",
         "transliteration": {
             "valid": true,
@@ -16313,6 +17953,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ŠÈ (ÉŠ, GI7, ZÌ)",
+        "concept": "",
         "paint": "a2b7",
         "transliteration": {
             "valid": true,
@@ -16342,6 +17983,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UBARA (EZEN×KASKAL)",
+        "concept": "",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -16351,6 +17993,11 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "DAGKISIM5×GA+MAŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q9103",
+            "content": "breast"
+        },
+        "concept": "",
         "paint": "a10b12c5d3",
         "transliteration": {
             "valid": true,
@@ -16386,6 +18033,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q573",
+            "content": "day; Tag"
+        },
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -16421,6 +18073,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "LU (UDU)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q22724",
+            "content": "sheep"
+        },
+        "concept": "",
         "paint": "a3b3",
         "transliteration": {
             "valid": true,
@@ -16456,6 +18113,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UG (PIRIG×UD)",
+        "concept": "",
         "paint": "a10b9c4d4",
         "transliteration": {
             "valid": true,
@@ -16464,6 +18122,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒊌"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q13147",
+            "content": "skull"
+        },
         "transliteration": {
             "valid": true,
             "content": "ugu"
@@ -16498,6 +18160,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "concept": "",
         "paint": "a2b3",
         "transliteration": {
             "valid": true,
@@ -16533,6 +18196,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "AḪ (ḪI×NUN)",
+        "concept": "",
         "paint": "a5b1c2d2",
         "transliteration": {
             "valid": true,
@@ -16568,6 +18232,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UKKIN (URU×MAŠBAR)",
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -16603,6 +18268,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UL (DU7)",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3458",
+            "content": "swell"
+        },
+        "concept": "",
         "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
@@ -16638,6 +18308,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GÍR-gunû",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1509",
+            "content": "hurry"
+        },
+        "concept": "",
         "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
@@ -16667,6 +18342,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GIŠGAL (URU×MIN)",
+        "concept": "",
         "paint": "a5b3",
         "transliteration": {
             "valid": true,
@@ -16702,6 +18378,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UM",
+        "concept": "",
         "paint": "a6b4",
         "transliteration": {
             "valid": true,
@@ -16744,6 +18421,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "U",
+        "concept": "",
         "paint": "c1",
         "transliteration": {
             "valid": true,
@@ -16779,6 +18457,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "DÉ (SIMUG)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q9081",
+            "content": "knowledge"
+        },
+        "concept": "",
         "paint": "a2b6c2d2",
         "transliteration": {
             "valid": true,
@@ -16814,6 +18497,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UN",
+        "concept": "",
         "paint": "a6b5c2d2",
         "transliteration": {
             "valid": true,
@@ -16849,6 +18533,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UKKIN (URU×MAŠBAR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1752346",
+            "content": "assembly"
+        },
+        "concept": "",
         "paint": "a4b4",
         "transliteration": {
             "valid": true,
@@ -16857,6 +18546,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌺"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q240854",
+            "content": "hall"
+        },
         "transliteration": {
             "valid": true,
             "content": "unu2"
@@ -16864,6 +18557,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋼𒀕"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q240854",
+            "content": "hall"
+        },
         "transliteration": {
             "valid": true,
             "content": "unu6"
@@ -16898,6 +18595,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UNUG (AB-gunû andor AB×EŠ)",
+        "concept": "",
         "paint": "a1b2c5d1",
         "transliteration": {
             "valid": true,
@@ -16933,6 +18631,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UR",
+        "concept": "",
         "paint": "a3b2",
         "transliteration": {
             "valid": true,
@@ -16968,6 +18667,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÚR",
+        "concept": "",
         "paint": "a2b4c2",
         "transliteration": {
             "valid": true,
@@ -17003,6 +18703,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ÙR (GÁ×NIR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q83180",
+            "content": "roof"
+        },
+        "concept": "",
         "paint": "a13b4",
         "transliteration": {
             "valid": true,
@@ -17032,6 +18737,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UR4",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1664",
+            "content": "collect"
+        },
+        "concept": "",
         "paint": "a4c1d1",
         "transliteration": {
             "valid": true,
@@ -17067,6 +18777,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ḪAR (ḪI×ÁŠ)",
+        "concept": "",
         "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
@@ -17096,6 +18807,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA×NE",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q153641",
+            "content": "rage"
+        },
+        "concept": "",
         "paint": "a4b6c9d1",
         "transliteration": {
             "valid": true,
@@ -17131,6 +18847,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URI (BURoverBUR)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q16391167",
+            "content": "vessel"
+        },
+        "concept": "",
         "paint": "a6b8d2",
         "transliteration": {
             "valid": true,
@@ -17139,6 +18860,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒌵"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q5699",
+            "content": "Ur"
+        },
         "transliteration": {
             "valid": true,
             "content": "urim2"
@@ -17146,6 +18871,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋀𒀕"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q5699",
+            "content": "Ur"
+        },
         "transliteration": {
             "valid": true,
             "content": "urim5"
@@ -17180,6 +18909,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "GUR8 (TE-gunû)",
+        "concept": "",
         "paint": "a2b4c2d2",
         "transliteration": {
             "valid": true,
@@ -17215,6 +18945,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "URUDU (URUDA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q753",
+            "content": "copper; Kupfer"
+        },
+        "concept": "",
         "paint": "a3b4",
         "transliteration": {
             "valid": true,
@@ -17224,6 +18959,11 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "UŠ´",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3798",
+            "content": "follow"
+        },
+        "concept": "",
         "paint": "b1c1",
         "transliteration": {
             "valid": true,
@@ -17259,6 +18999,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "USSU (8)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q23355",
+            "content": 8
+        },
+        "concept": "",
         "paint": "a8",
         "transliteration": {
             "valid": true,
@@ -17294,6 +19039,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UŠ (NITA)",
+        "concept": "",
         "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
@@ -17323,6 +19069,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UŠ11 (KA×BAD)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q40867",
+            "content": "poison"
+        },
+        "concept": "",
         "paint": "a3b3c5d2",
         "transliteration": {
             "valid": true,
@@ -17358,6 +19109,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TU6 (KA×LI)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q155925",
+            "content": "saliva"
+        },
+        "concept": "",
         "paint": "a5b6c16d2",
         "transliteration": {
             "valid": true,
@@ -17387,6 +19143,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "BÚR",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2102",
+            "content": "snake"
+        },
+        "concept": "",
         "paint": "a2b2c3d1",
         "transliteration": {
             "valid": true,
@@ -17422,6 +19183,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -17451,6 +19213,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "TAG×TUǴ",
+        "concept": "",
         "paint": "a8b6c2d2",
         "transliteration": {
             "valid": true,
@@ -17459,6 +19222,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒋸"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q12806",
+            "content": "abacus"
+        },
         "transliteration": {
             "valid": true,
             "content": "uttuku"
@@ -17493,6 +19260,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -17528,6 +19296,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UZU",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q13119823",
+            "content": "flesh"
+        },
+        "concept": "",
         "paint": "a4c14d4",
         "transliteration": {
             "valid": true,
@@ -17563,6 +19336,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PI",
+        "concept": "",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -17598,6 +19372,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "PI",
+        "concept": "",
         "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
@@ -17633,6 +19408,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZA",
+        "concept": "",
         "paint": "a4",
         "transliteration": {
             "valid": true,
@@ -17668,6 +19444,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZAG",
+        "concept": "",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -17703,6 +19480,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ERIM (ZÁLAG)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -17711,6 +19489,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒂟"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1074177",
+            "content": "Zabala"
+        },
         "transliteration": {
             "valid": true,
             "content": "zabala"
@@ -17718,6 +19500,10 @@ var sumerian_map={"mapentries": {"mapentry": [
         "content": "𒍝𒁀𒆷"
     },
     {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q34095",
+            "content": "bronze"
+        },
         "transliteration": {
             "valid": true,
             "content": "zabar"
@@ -17752,6 +19538,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZAG",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q26382",
+            "content": "side"
+        },
+        "concept": "",
         "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
@@ -17781,6 +19572,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZÀḪ (A×ḪA)",
+        "concept": "",
         "paint": "a7c2",
         "transliteration": {
             "valid": true,
@@ -17816,6 +19608,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "NI",
+        "concept": "",
         "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
@@ -17851,6 +19644,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "UD (BABBAR)",
+        "concept": "",
         "paint": "c2d2",
         "transliteration": {
             "valid": true,
@@ -17860,6 +19654,11 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "LÚ×LA+AŠ",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q81825",
+            "content": "caterpillar"
+        },
+        "concept": "",
         "paint": "a9b8c3d1",
         "transliteration": {
             "valid": true,
@@ -17895,6 +19694,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZÍ( AB×PA)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q65979",
+            "content": "bile"
+        },
+        "concept": "",
         "paint": "a4b4c1d1",
         "transliteration": {
             "valid": true,
@@ -17930,6 +19734,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZI",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q3",
+            "content": "life"
+        },
+        "concept": "",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -17959,6 +19768,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZIGZIK (NÍNDA×EŠ)",
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q2196000",
+            "content": "rein"
+        },
+        "concept": "",
         "paint": "b4c4",
         "transliteration": {
             "valid": true,
@@ -17994,6 +19808,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZI",
+        "concept": "",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -18003,6 +19818,7 @@ var sumerian_map={"mapentries": {"mapentry": [
     },
     {
         "signName": "ZÌ",
+        "concept": "",
         "paint": "b7c2",
         "transliteration": {
             "valid": true,
@@ -18038,6 +19854,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZI",
+        "concept": "",
         "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
@@ -18073,6 +19890,11 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZU",
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1802",
+            "content": "know"
+        },
+        "concept": "",
         "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
@@ -18108,6 +19930,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "KA",
+        "concept": "",
         "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
@@ -18143,6 +19966,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZU",
+        "concept": "",
         "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
@@ -18178,6 +20002,7 @@ var sumerian_map={"mapentries": {"mapentry": [
             }
         ],
         "signName": "ZUM",
+        "concept": "",
         "paint": "a1b1c3d3",
         "transliteration": {
             "valid": true,
