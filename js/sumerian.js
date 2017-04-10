@@ -450,7 +450,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1428918",
+            "concept": "https://www.wikidata.org/entity/Q1428918",
             "translation": {
                 "locale": "en",
                 "content": "lameness"
@@ -483,7 +483,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q5868822",
+            "concept": "https://www.wikidata.org/entity/Q5868822",
             "translation": {
                 "locale": "en",
                 "content": "brotherhood"
@@ -686,7 +686,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q36633",
+            "concept": "https://www.wikidata.org/entity/Q36633",
             "translation": {
                 "locale": "en",
                 "content": "prostitution"
@@ -1182,7 +1182,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2048319",
+            "concept": "https://www.wikidata.org/entity/Q2048319",
             "translation": {
                 "locale": "en",
                 "content": "ditch"
@@ -1199,7 +1199,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q14616728",
+            "concept": "https://www.wikidata.org/entity/Q14616728",
             "translation": {
                 "locale": "en",
                 "content": "runner"
@@ -1529,6 +1529,24 @@ var sumerian={"dictentries": {
                 "content": "ni-is-ku"
             },
             "content": "𒉌𒄑𒆪"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#PersonalPronoun",
+                "content": "PPRO"
+            },
+            "concept": "https://www.wikidata.org/entity/Q49404",
+            "translation": {
+                "locale": "en",
+                "content": "I"
+            },
+            "transliteration": {
+                "transcription": "je26",
+                "cunei": "𒂷",
+                "content": "je26"
+            },
+            "content": "𒂷"
         },
         {
             "ref": "epsd",
@@ -2516,7 +2534,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q899035",
+            "concept": "https://www.wikidata.org/entity/Q899035",
             "translation": {
                 "locale": "en",
                 "content": "brazier"
@@ -2550,7 +2568,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q190007",
+            "concept": "https://www.wikidata.org/entity/Q190007",
             "translation": {
                 "locale": "en",
                 "content": "youth"
@@ -3004,6 +3022,23 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q1426327",
+            "translation": {
+                "locale": "en",
+                "content": "linen"
+            },
+            "transliteration": {
+                "transcription": "gada",
+                "content": "gada"
+            },
+            "content": "𒃰"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "translation": {
                 "locale": "en",
                 "content": "measuring line"
@@ -3046,6 +3081,122 @@ var sumerian={"dictentries": {
                 "content": "d-en-ki"
             },
             "content": "𒀭𒂗𒆠"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Ezina"
+            },
+            "transliteration": {
+                "transcription": "ezina2",
+                "content": "d-ezina2"
+            },
+            "content": "𒀭𒊺𒊺𒉪"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q458160",
+            "translation": {
+                "locale": "en",
+                "content": "Pabilsag"
+            },
+            "transliteration": {
+                "transcription": "dpabil2saj",
+                "content": "d-pa-bil2-saj"
+            },
+            "content": "𒀭𒉺𒉋𒊕"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Surungal"
+            },
+            "transliteration": {
+                "transcription": "id2surungala",
+                "content": "id2-surungal-la"
+            },
+            "content": "𒀀𒇉𒌓𒉣𒆷"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q2397815",
+            "translation": {
+                "locale": "en",
+                "content": "Nibiru"
+            },
+            "transliteration": {
+                "transcription": "nibruki",
+                "content": "nibru-ki"
+            },
+            "content": "𒂗𒆤𒆠"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Aszimbabbar"
+            },
+            "transliteration": {
+                "transcription": "enki",
+                "content": "d-asz-im2-babbar-e"
+            },
+            "content": "𒀭𒀸𒁽𒌓𒂊"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q25662",
+            "translation": {
+                "locale": "en",
+                "content": "juniper"
+            },
+            "transliteration": {
+                "transcription": "jeszli",
+                "content": "jesz-li"
+            },
+            "content": "𒄑𒇷"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q158703",
+            "translation": {
+                "locale": "en",
+                "content": "box tree"
+            },
+            "transliteration": {
+                "transcription": "jisztaszkarin",
+                "content": "jisz-taszkarin"
+            },
+            "content": "𒄑𒌆"
         },
         {
             "ref": "epsd",
@@ -4016,7 +4167,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q193358",
+            "concept": "https://www.wikidata.org/entity/Q193358",
             "translation": {
                 "locale": "en",
                 "content": "ladle"
@@ -5550,7 +5701,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q179723",
+            "concept": "https://www.wikidata.org/entity/Q179723",
             "translation": {
                 "locale": "en",
                 "content": "sacrifice"
@@ -5609,6 +5760,23 @@ var sumerian={"dictentries": {
                 "content": "u2-lum"
             },
             "content": "𒌑𒈝"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "concept": "https://www.wikidata.org/entity/Q23444",
+            "translation": {
+                "locale": "en",
+                "content": "white"
+            },
+            "transliteration": {
+                "transcription": "babbar",
+                "content": "babbar"
+            },
+            "content": "𒌓"
         },
         {
             "ref": "epsd",
@@ -6237,7 +6405,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q42165",
+            "concept": "https://www.wikidata.org/entity/Q42165",
             "translation": {
                 "locale": "en",
                 "content": "booty"
@@ -6849,6 +7017,23 @@ var sumerian={"dictentries": {
                 "content": "e2-bar-ra"
             },
             "content": "𒂍𒁇𒊏"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7362",
+            "translation": {
+                "locale": "en",
+                "content": "ear"
+            },
+            "transliteration": {
+                "transcription": "jesztug",
+                "content": "jesztug"
+            },
+            "content": "𒉿"
         },
         {
             "ref": "epsd",
@@ -9062,7 +9247,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
             },
-            "concept": "https://www.wikidata.org/wiki/Q39275",
+            "concept": "https://www.wikidata.org/entity/Q39275",
             "translation": {
                 "locale": "en",
                 "content": "mouse"
@@ -9956,7 +10141,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q2751223",
+            "concept": "https://www.wikidata.org/entity/Q2751223",
             "translation": {
                 "locale": "en",
                 "content": "carp"
@@ -10007,7 +10192,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q273395",
+            "concept": "https://www.wikidata.org/entity/Q273395",
             "translation": {
                 "locale": "en",
                 "content": "privilege"
@@ -11078,7 +11263,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q253567",
+            "concept": "https://www.wikidata.org/entity/Q253567",
             "translation": {
                 "locale": "en",
                 "content": "apprentice"
@@ -11374,6 +11559,23 @@ var sumerian={"dictentries": {
                 "content": "ezen"
             },
             "content": "𒂡"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q913609",
+            "translation": {
+                "locale": "en",
+                "content": "colocynth"
+            },
+            "transliteration": {
+                "transcription": "ukusztikil",
+                "content": "ukusz2-ti-ki-il"
+            },
+            "content": "𒄾𒋾𒆠𒅋"
         },
         {
             "ref": "epsd",
@@ -12431,7 +12633,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q866081",
+            "concept": "https://www.wikidata.org/entity/Q866081",
             "translation": {
                 "locale": "en",
                 "content": "femininity"
@@ -12448,7 +12650,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q188790",
+            "concept": "https://www.wikidata.org/entity/Q188790",
             "translation": {
                 "locale": "en",
                 "content": "concubinage"
@@ -12465,7 +12667,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q5370025",
+            "concept": "https://www.wikidata.org/entity/Q5370025",
             "translation": {
                 "locale": "en",
                 "content": "embellishment"
@@ -13695,6 +13897,23 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q7777019",
+            "translation": {
+                "locale": "en",
+                "content": "meadow"
+            },
+            "transliteration": {
+                "transcription": "szagdum",
+                "content": "szag4-dum2"
+            },
+            "content": "𒊮dum2"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q743144",
             "translation": {
                 "locale": "en",
@@ -13795,6 +14014,23 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_730",
+            "translation": {
+                "locale": "en",
+                "content": "release"
+            },
+            "transliteration": {
+                "transcription": "bur2",
+                "content": "bur2"
+            },
+            "content": "𒁔"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
             "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2641",
             "translation": {
                 "locale": "en",
@@ -13855,6 +14091,23 @@ var sumerian={"dictentries": {
                 "content": "u4-za-hal"
             },
             "content": "𒌓𒍝𒄬"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q17334923",
+            "translation": {
+                "locale": "en",
+                "content": "location"
+            },
+            "transliteration": {
+                "transcription": "kigub",
+                "content": "ki-gub"
+            },
+            "content": "𒆠𒁺"
         },
         {
             "ref": "epsd",
@@ -16265,6 +16518,23 @@ var sumerian={"dictentries": {
             "content": "𒄑𒍢𒈾"
         },
         {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q128550",
+            "translation": {
+                "locale": "en",
+                "content": "cedar"
+            },
+            "transliteration": {
+                "transcription": "erin",
+                "content": "erin"
+            },
+            "content": "𒂞"
+        },
+        {
             "ref": "sumdict",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -17015,6 +17285,23 @@ var sumerian={"dictentries": {
         {
             "ref": "epsd",
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_461",
+            "translation": {
+                "locale": "en",
+                "content": "drag"
+            },
+            "transliteration": {
+                "transcription": "ur3",
+                "content": "ur3"
+            },
+            "content": "𒃡"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
@@ -17752,6 +18039,23 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q25222",
+            "translation": {
+                "locale": "en",
+                "content": "owl"
+            },
+            "transliteration": {
+                "transcription": "lalarimuszen",
+                "content": "la-la-ri-muszen"
+            },
+            "content": "𒆷𒆷𒊑𒄷"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q1188507",
             "translation": {
                 "locale": "en",
@@ -18167,6 +18471,40 @@ var sumerian={"dictentries": {
                 "content": "sig10"
             },
             "content": "𒋧"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712",
+            "translation": {
+                "locale": "en",
+                "content": "gather"
+            },
+            "transliteration": {
+                "transcription": "dul",
+                "content": "du6-ul"
+            },
+            "content": "𒇯𒌌"
+        },
+        {
+            "ref": "epsd",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_62",
+            "translation": {
+                "locale": "en",
+                "content": "suspend"
+            },
+            "transliteration": {
+                "transcription": "usur4",
+                "content": "usur4"
+            },
+            "content": "𒇲𒆸"
         },
         {
             "ref": "epsd",
@@ -19030,7 +19368,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q72827",
+            "concept": "https://www.wikidata.org/entity/Q72827",
             "translation": {
                 "locale": "en",
                 "content": "lard"
@@ -19089,7 +19427,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q17084917",
+            "concept": "https://www.wikidata.org/entity/Q17084917",
             "translation": {
                 "locale": "en",
                 "content": "crotch"
@@ -19106,7 +19444,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q272990",
+            "concept": "https://www.wikidata.org/entity/Q272990",
             "translation": {
                 "locale": "en",
                 "content": "mace"
@@ -19434,7 +19772,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q10419088",
+            "concept": "https://www.wikidata.org/entity/Q10419088",
             "translation": {
                 "locale": "en",
                 "content": "asafoetida"
@@ -19950,7 +20288,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
                 "content": "VV"
             },
-            "concept": "https://www.wikidata.org/wiki/Q37477",
+            "concept": "https://www.wikidata.org/entity/Q37477",
             "translation": {
                 "locale": "en",
                 "content": "fog"
@@ -20589,7 +20927,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q25108490",
+            "concept": "https://www.wikidata.org/entity/Q25108490",
             "translation": {
                 "locale": "en",
                 "content": "tooth worm"
@@ -20606,7 +20944,7 @@ var sumerian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q5338825",
+            "concept": "https://www.wikidata.org/entity/Q5338825",
             "translation": {
                 "locale": "en",
                 "content": "contempt"
