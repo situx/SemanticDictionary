@@ -39,6 +39,7 @@ function isArray(what) {
     var firstload=true;
     var togglecharlist=true;
     var translationToObj={}
+    var transliterationToObjMap={}
     var posTagMap={}
     var strToMap={}
     var dictMap={}
@@ -52,6 +53,8 @@ function isArray(what) {
         map=dictMap;
         first=true
         maptableheader=""
+        $('#amount').text(Object.keys(dictMap).length+" words")
+        //alert(JSON.stringify(transliterationToObjMap))
         if(mapordict){
             maptableheader="<tr class=\"tablesorter-headerRow\"><th  class=\"tablesorter-header\">Script</th><th   class=\"tablesorter-header\">Transliteration</th><th   class=\"tablesorter-header\">SignName</th>"
         }else{
@@ -73,6 +76,7 @@ function isArray(what) {
                     }
                     result+="</td>"
                     logogram=(map[obj]["transliteration"]!=undefined  && map[obj]["transliteration"]["logogram"]!=undefined && map[obj]["transliteration"]["logogram"]=="true");
+                    chartranslation=""
                     if("transliteration" in map[obj] && isArray(map[obj]["transliteration"])){
                         result+="<td>"
                         for(translit in map[obj]["transliteration"]){
@@ -95,9 +99,15 @@ function isArray(what) {
                         for(translit in map[obj]["translation"]){
                                 if("translation" in map[obj] && "locale" in map[obj]["translation"][translit]){
                                         result+=map[obj]["translation"][translit]["locale"]+":"+map[obj]["translation"][translit]["content"]+"; "
+                                        if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
+                                                result+=" ("+map[obj]["meaning"]+")"
+                                        }
                                 }
                                 else if("translation" in map[obj]){
                                         result+=map[obj]["translation"][translit]["content"]+"; "
+                                        if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
+                                                result+=" ("+map[obj]["meaning"]+")"
+                                        }
                                 }
                         }
                         result = result.substring(0, result.length - 2);
@@ -105,10 +115,17 @@ function isArray(what) {
                                 if("translation" in map[obj] && "locale" in map[obj]["translation"]){
                                         //result+=map[obj]["translation"]["locale"]+":"+map[obj]["translation"]["content"]
                                          result+=map[obj]["translation"]["content"]
+                                        if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
+                                                result+=" ("+map[obj]["meaning"]+")"
+                                        }
                                 }
                                 else if("translation" in map[obj]){
                                         result+=map[obj]["translation"]["content"]
+                                        if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
+                                                result+=" ("+map[obj]["meaning"]+")"
+                                        }
                                 }
+                                
                     }
                     }
                     result+=(map[obj]["concept"]!=undefined?"</a>":"")+"</td>"
@@ -192,6 +209,7 @@ else{
     }
         function buildMap(value){
                 translationToObj={}
+                transliterationToObjMap={}
                 dictMap={}
                 posTagMap={}
                 strToMap={}
@@ -212,15 +230,16 @@ else{
 
                // translationToObj[resstr]=this
                 dictMap[resstr]=this
+                transliterationToObjMap[resstr]=this
                 strToMap[resstr]=this
             }else{
             dictMap[this["transliteration"]["content"]]=this
+            transliterationToObjMap[this["transliteration"]["content"]]=this
                // translationToObj[this["transliteration"]["content"]]=this
                             strToMap[this["transliteration"]["content"]]=this
             }
             }
-        });            
-        setupSearch();
+        }); 
             printNewPage(value.substring(0,value.length-4),true)
             }
             function buildDict(value){
@@ -287,41 +306,21 @@ else{
                     posTagMap[this["postag"]["content"]]=1                
                 }
             }
-            if(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:"") in dictMap){
-                    console.log(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:""))
-            }
+           /* if(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:"") in dictMap){
+                    //console.log(this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:""))
+            }*/
             dictMap[this["content"]+"_"+this["transliteration"]["content"]+"_"+this["translation"]["content"]+"_"+(this["postag"]!=undefined && this["postag"]["content"]!=undefined?this["postag"]["content"]:"")]=this
         }); 
-                    setupSearch();
         printNewPage(value,false)
         
         }
-    
-        function setupSearch(){
-        currentsearch= $("input[name='search']:checked").val();
-          $('#amount').text(Object.keys(dictMap).length+" words")
-        $("#inputenglish").autocomplete({source: []});
-        $( "#inputenglish" ).autocomplete({
-      source: Object.keys(window[currentsearch]),
-      select: function (event, ui) {
-    var label = ui.item.label;
-    var value = ui.item.value;
-    var result="<tr><td>"+window[currentsearch][value]["content"]+"</td><td>"+window[currentsearch][value]["transliteration"]["content"]+"</td><td><a href='"+window[currentsearch][value]["concept"]+"' target='_blank' title='"+window[currentsearch][value]["concept"]+"'>"+value+"</a></td><td><a href='"+window[currentsearch][value]["postag"]["uri"]+"' target='_blank' title='"+window[currentsearch][value]["postag"]["uri"]+"'>"+window[currentsearch][value]["postag"]["content"]+"</a></td></tr>";
-    html=jQuery.parseHTML(result);
-    $("#resultbody").html(html);
-}
-});
-}
-        $( ".rd" ).change(function() {
-            setupSearch();
-     });
      
     </script>
   </head>
   <body>
   <h1>Semantic Dictionary for Ancient Languages</h1>
-  <table width="100%"><tr><th>POSTags</th><th>Dictionary Search</th><th>Language Selection</th></tr>
-  <tr><td align="left" id="postagview"></td><td align="center"><form><br/>Search: <input type="text" id="inputenglish" name="search"/><br/><input type="radio" name="search" class="rd" id="translation" value="translationToObj" checked="checked">English <input type="radio"  class="rd"  id="transliteration" name="search" value="translationToObj">Transliteration<input type="radio"  class="rd"  id="script" name="search" value="wordToObj">Script<input type="radio" id="checkall"  class="rd"  value="strToMap" name="search"/>All</form></td><td align="right">
+  <table width="100%"><tr><th>POSTags</th><th align="right">Language Selection</th></tr>
+  <tr><td align="left" id="postagview"></td><td align="right">
   Select Language:<select id="dictselect" style="color: black">
   <option value="akkadian">Akkadian</option>
   <option value="egyptian">Egyptian</option>
@@ -345,7 +344,9 @@ else{
         buildDict(this.value);
     });
     $(function(){
+        buildMap("sumerian_map")
         buildDict("sumerian");
+        //alert(JSON.stringify(transliterationToObjMap));
     var dialog = document.getElementById('window');  
     $('#show').click(function() {  
         dialog.showModal();  
