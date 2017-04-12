@@ -1,0 +1,1151 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋻𒍝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋻𒍝"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋻𒍝_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋻𒍝" ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫaz-za" .
+
+<https://github.com/situx/ontology/cuneiform/word#Q1347367>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q1347367_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q1347367> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q1165897>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q1165897_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q1165897> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1899>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1899> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫu-sa"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q10884> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1857> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3538>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3538> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "maš-kar-ni"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q42586> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_208>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_208> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2773>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_2773_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2773> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀭𒌋𒊏𒈦𒁕"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀭𒌋𒊏𒈦𒁕" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#NamedEntity> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "d-u-ra-mas-da" .
+
+<http://purl.org/olia/ubyCat.owl#has_partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "tu-ru"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_430> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "u"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q49404> .
+
+<http://lemon-model.net/lemon#OntologyReference>
+        a       owl:Class .
+
+<http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "nuku"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q7478101> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q133346>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q133346_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q133346> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋻𒍝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫaz-za"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋻𒍝_form> .
+
+<https://www.wikidata.org/entity/Q49404>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q49404> .
+
+<http://www.linkedmodel.org/schema/vaem#owner>
+        a       owl:DatatypeProperty .
+
+<http://lemon-model.net/lemon#isSenseOf>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3185>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_3185_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉿𒇷"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉿𒇷" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "pe-li" .
+
+<http://lemon-model.net/lemon#representation>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄯𒈦𒌓"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄯𒈦𒌓" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫar-maš-tam" .
+
+<https://www.wikidata.org/entity/Q44619>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q44619> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄩𒁀𒁕𒈾"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄩𒁀𒁕𒈾" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫa-ba-da-na" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄤𒍝"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄤𒍝" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "kaz-za" .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2214>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2214> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉡"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉡" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#PersonalPronoun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "nu" .
+
+<https://github.com/situx/ontology/cuneiform#isIncludedIn>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄩𒁍"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄩𒁍" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫa-pu" .
+
+<https://www.wikidata.org/entity/Q17162845>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q17162845> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆪𒅆"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆪𒅆" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ku-ši" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ku-ti"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3185> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q3>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q3_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q3> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_745>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_745> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q179575>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q179575_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q179575> .
+
+<http://purl.org/dc/terms/created>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q54128>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q54128_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q54128> .
+
+<http://lemon-model.net/lemon#Word>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "pe-li"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2773> .
+
+<https://github.com/situx/ontology/cuneiform#Tablet>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫar-maš-tam"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q1347367> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫa-ba-da-na"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q641406> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "kaz-za"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1161> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉿𒊏"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉿𒊏" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "pe-ra" .
+
+<http://lemon-model.net/lemon#isFormOf>
+        a       owl:ObjectProperty .
+
+<http://www.linkedmodel.org/schema/vaem#description>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "nu"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q1165897> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1899>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1899_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1899> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1857>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1857_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_208>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_208_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_208> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ku-ši"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2214> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3538>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_3538_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3538> .
+
+<https://www.wikidata.org/entity/Q1347367>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q1347367> .
+
+<https://www.wikidata.org/entity/Q42586>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q42586> .
+
+<https://www.wikidata.org/entity/Q10884>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q10884> .
+
+<http://lemon-model.net/lemon#LexicalForm>
+        a       owl:Class .
+
+<http://lemon-model.net/lemon#LexicalSense>
+        a       owl:Class .
+
+<http://purl.org/olia/olia.owl#Noun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇷𒉺"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇷𒉺" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "li-pa" .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1161>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1161> .
+
+<http://purl.org/olia/ubyCat.owl#partOfSpeech>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q7478101>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q7478101_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q7478101> .
+
+<http://purl.org/olia/olia.owl#Verb>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈠𒁕𒁁"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈠𒁕𒁁" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ma-da-be" .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3894>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3894> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆰𒆷"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆰𒆷" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "kul-la" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "pe-ra"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_745> .
+
+<https://www.wikidata.org/wiki/Q344>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q344> .
+
+<https://github.com/situx/ontology/cuneiform#epoch>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <http://lemon-model.net/lemon#Word> , <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <https://github.com/situx/ontology/cuneiform#Tablet> , xsd:string .
+
+<http://lemon-model.net/lemon#prefRef>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#Q4421>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q4421_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q4421> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_430>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_430> .
+
+<http://lemon-model.net/lemon#reference>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2214>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_2214_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2214> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅕𒉿_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ir-pi"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒅕𒉿_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒀝𒋡"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒀝𒋡" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#RelativePronoun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ak-ka₄" .
+
+<https://www.wikidata.org/entity/Q641406>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q641406> .
+
+<http://purl.org/olia/ubyCat.owl#PartOfSpeech>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_745>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_745_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_745> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1214>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1214> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "li-pa"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q54128> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "li"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1857> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ma-da-be"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q44619> .
+
+<http://purl.org/dc/terms/title>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈦𒊭"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈦𒊭" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "maš-ša" .
+
+<https://github.com/situx/ontology/cuneiform/word#Q17162845>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q17162845_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q17162845> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "kul-la"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_208> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆪𒋾"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆪𒋾" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ku-ti" .
+
+<https://github.com/situx/ontology/cuneiform/word#Q344>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q344_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/wiki/Q344> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆠𒋾"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆠𒋾" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ki-ti" .
+
+<http://www.isocat.org/datcat/transliteration>
+        a                   owl:DatatypeProperty ;
+        rdfs:subPropertyOf  <http://lemon-model.net/lemon#representation> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒆠𒆷"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒆠𒆷" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ke-la" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄭𒁕𒅗_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄭𒁕𒅗"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄭𒁕𒅗_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄭𒁕𒅗" ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫi-da-ka" .
+
+<http://purl.org/olia/olia.owl#NamedEntity>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1464> .
+
+<https://github.com/situx/ontology/cuneiform#contains>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#Word> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ak-ka₄"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q17162845> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒊑𒇻"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒊑𒇻" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "tal-lu" .
+
+<https://www.wikidata.org/entity/Q54128>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q54128> .
+
+<http://purl.org/olia/ubyCat.owl#Character>
+        a       owl:Class .
+
+<https://github.com/situx/ontology/cuneiform/ela>
+        a           <http://lemon-model.net/lemon#Lexicon> ;
+        rdfs:label  "Elamite Semantic Dictionary"@ela ;
+        <http://lemon-model.net/lemon#entry>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_word> , <https://github.com/situx/ontology/cuneiform/word#𒇷𒉺_word> , <https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_word> , <https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_word> , <https://github.com/situx/ontology/cuneiform/word#𒉡_word> , <https://github.com/situx/ontology/cuneiform/word#𒄯𒈦𒌓_word> , <https://github.com/situx/ontology/cuneiform/word#𒌋_word> , <https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_word> , <https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_word> , <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_word> , <https://github.com/situx/ontology/cuneiform/word#𒆰𒆷_word> , <https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_word> , <https://github.com/situx/ontology/cuneiform/word#𒄭𒁕𒅗_word> , <https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_word> , <https://github.com/situx/ontology/cuneiform/word#𒋫_word> , <https://github.com/situx/ontology/cuneiform/word#𒀝𒋡_word> , <https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_word> , <https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_word> , <https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_word> , <https://github.com/situx/ontology/cuneiform/word#𒉿𒊏_word> , <https://github.com/situx/ontology/cuneiform/word#𒆪𒅆_word> , <https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_word> , <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_word> , <https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_word> , <https://github.com/situx/ontology/cuneiform/word#𒋻𒍝_word> , <https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_word> , <https://github.com/situx/ontology/cuneiform/word#𒉿𒇷_word> , <https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_word> , <https://github.com/situx/ontology/cuneiform/word#𒆪𒋾_word> , <https://github.com/situx/ontology/cuneiform/word#𒅕𒉿_word> , <https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_word> , <https://github.com/situx/ontology/cuneiform/word#𒇷_word> ;
+        <http://lemon-model.net/lemon#language>
+                "ela" ;
+        <http://purl.org/dc/terms/created>
+                "Wed Apr 12 18:06:13 CEST 2017"^^xsd:dateTime ;
+        <http://purl.org/dc/terms/title>
+                "Elamite Semantic Dictionary"^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#description>
+                ""^^xsd:string ;
+        <http://www.linkedmodel.org/schema/vaem#hasLicenseType>
+                <https://www.wikidata.org/wiki/Q10513445> ;
+        <http://www.linkedmodel.org/schema/vaem#owner>
+                "Timo Homburg"^^xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "maš-ša"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒊭_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q344> .
+
+<http://lemon-model.net/lemon#writtenRep>
+        a       owl:DatatypeProperty .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1409> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋳𒆠"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋳𒆠" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "tak-ki" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒁕𒆷𒊑"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒁕𒆷𒊑" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "da-la-ri" .
+
+<http://lemon-model.net/lemon#language>
+        a       owl:DatatypeProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ki-ti"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒋾_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1899> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1161>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1161_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄤𒍝_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1161> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ke-la"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3894> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄭𒁕𒅗_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫi-da-ka"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄭𒁕𒅗_form> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3894>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_3894_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒆠𒆷_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3894> .
+
+<https://github.com/situx/ontology/cuneiform#dialect>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://www.wikidata.org/entity/Q4421>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q4421> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "d-u-ra-mas-da"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒀭𒌋𒊏𒈦𒁕_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q179575> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇷𒈠"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇷𒈠" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "li-ma" .
+
+<https://www.wikidata.org/entity/Q7478101>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q7478101> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋫_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒋫"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋫_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒋫" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ta" .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2773>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_2773> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_430>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_430_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_430> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q49404>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q49404_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q49404> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "tal-lu"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒊑𒇻_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3538> .
+
+<https://github.com/situx/ontology/cuneiform#tabletnumber>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<http://purl.org/olia/olia.owl#PersonalPronoun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q44619>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q44619_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈠𒁕𒁁_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q44619> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "tak-ki"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋳𒆠_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q3> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q641406>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q641406_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁀𒁕𒈾_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q641406> .
+
+<https://github.com/situx/ontology/cuneiform#language>
+        a            owl:DatatypeProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   xsd:string .
+
+<https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "da-la-ri"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒁕𒆷𒊑_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q133346> .
+
+<https://www.wikidata.org/entity/Q133346>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q133346> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒅕𒉿_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒅕𒉿"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒅕𒉿_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒅕𒉿" ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ir-pi" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄷𒊓𒈨"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄷𒊓𒈨" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫu-sa-me" .
+
+<http://lemon-model.net/lemon#sense>
+        a            owl:ObjectProperty ;
+        rdfs:domain  <https://github.com/situx/ontology/cuneiform#Tablet> ;
+        rdfs:range   <http://lemon-model.net/lemon#LexicalSense> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1214>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1214_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1214> .
+
+<http://lemon-model.net/lemon#entry>
+        a       owl:ObjectProperty .
+
+<http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_3185> .
+
+<http://purl.org/olia/olia.owl#RelativePronoun>
+        a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒇷"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒇷" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "li" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "li-ma"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1409> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒋫_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ta"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒋫_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1464> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫa-pu"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄩𒁍_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1214> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒄷𒊓"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒄷𒊓" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "ḫu-sa" .
+
+<http://lemon-model.net/lemon#Lexicon>
+        a       owl:Class .
+
+<https://www.wikidata.org/entity/Q1165897>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q1165897> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1464>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1464_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒋫_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒈦𒋼𒀀𒉌"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒈦𒋼𒀀𒉌" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Noun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "maš-kar-ni" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_word>
+        a           <http://lemon-model.net/lemon#Word> ;
+        rdfs:label  "ḫu-sa-me"@ela ;
+        <http://lemon-model.net/lemon#form>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓𒈨_form> ;
+        <http://lemon-model.net/lemon#sense>
+                <https://github.com/situx/ontology/cuneiform/word#Q4421> .
+
+<https://www.wikidata.org/entity/Q179575>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q179575> .
+
+<http://lemon-model.net/lemon#form>
+        a       owl:ObjectProperty .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌅𒊒"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌅𒊒_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌅𒊒" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#Verb> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "tu-ru" .
+
+<https://github.com/situx/ontology/cuneiform/word#𒌋_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒌋"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒌋_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒌋" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#PersonalPronoun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "u" .
+
+<https://www.wikidata.org/entity/Q3>
+        a       <http://lemon-model.net/lemon#OntologyReference> ;
+        <http://lemon-model.net/lemon#prefRef>
+                <https://github.com/situx/ontology/cuneiform/word#Q3> .
+
+<https://github.com/situx/ontology/cuneiform/word#VN_LexicalEntry_1409>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "VN_LexicalEntry_1409_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒇷𒈠_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q42586>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q42586_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒈦𒋼𒀀𒉌_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q42586> .
+
+<https://github.com/situx/ontology/cuneiform/word#Q10884>
+        a           <http://lemon-model.net/lemon#LexicalSense> ;
+        rdfs:label  "Q10884_sense"@ela ;
+        <http://lemon-model.net/lemon#isSenseOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒄷𒊓_word> ;
+        <http://lemon-model.net/lemon#reference>
+                <https://www.wikidata.org/entity/Q10884> .
+
+<https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_form>
+        a           <http://lemon-model.net/lemon#LexicalForm> ;
+        rdfs:label  "𒉡𒆪"@ela ;
+        <http://lemon-model.net/lemon#isFormOf>
+                <https://github.com/situx/ontology/cuneiform/word#𒉡𒆪_word> ;
+        <http://lemon-model.net/lemon#writtenRep>
+                "𒉡𒆪" ;
+        <http://purl.org/olia/ubyCat.owl#partOfSpeech>
+                <http://purl.org/olia/olia.owl#PersonalPronoun> ;
+        <http://www.isocat.org/datcat/transliteration>
+                "nuku" .

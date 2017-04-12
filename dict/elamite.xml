@@ -1,0 +1,177 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<dictentries>
+        <about>
+        <author uri="https://www.wikidata.org/entity/Q482980">Timo Homburg</author>
+        <license uri="https://www.wikidata.org/entity/Q79719" val="https://www.wikidata.org/entity/Q27016754">GPLv3</license>
+        <comment uri="http://www.w3.org/2000/01/rdf-schema#comment">Elamite Unicode Dictionary. This dictionary contains Sumerian base forms of words and shall be a basis for Natural Language Processing on the Elamite language.</comment>
+        <references uri="https://www.wikidata.org/entity/Q134995" val="gloelam"><reference uri="https://www.wikidata.org/entity/Q121769"><a href="https://www.um.es/cepoat/elamita/?p=30621">Glossario Elamita</a></reference>
+        </references>
+        <references uri="https://www.wikidata.org/entity/Q134995" val="elgi"><reference uri="https://www.wikidata.org/entity/Q121769"><a href="http://homepages.fh-giessen.de/kausen/wordtexte/Elamisch.doc">Elamisch Gießen University</a></reference>
+        </references>
+    </about>
+<dictentry ref="gloelam" concept="https://www.wikidata.org/entity/Q1347367">
+<transliteration transcription="harmasztam">har-masz-tam</transliteration>
+<translation locale="en">ability</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄯𒈦𒌓</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q179575">
+<transliteration transcription="harmasztam">d-u-ra-mas-da</transliteration>
+<translation locale="en">Ahura Mazda</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒌋𒊏𒈦𒁕</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q17162845">
+<transliteration transcription="aka">ak-ka4</transliteration>
+<translation locale="en">who</translation>
+<postag uri="http://purl.org/olia/olia.owl#RelativePronoun">RELPRO</postag>
+𒀝𒋡</dictentry>
+<dictentry ref="gloelam">
+<transliteration transcription="hazza">haz-za</transliteration>
+<translation locale="en">from</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒋻𒍝</dictentry>
+<dictentry ref="gloelam">
+<transliteration transcription="irpi">ir-pi</transliteration>
+<translation locale="en">previous</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒅕𒉿</dictentry>
+<dictentry ref="gloelam">
+<transliteration transcription="hidaka">hi-da-ka</transliteration>
+<translation locale="en">along with</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒄭𒁕𒅗</dictentry>
+<dictentry ref="gloelam">
+<transliteration transcription="hazza">haz-za</transliteration>
+<translation locale="en">make great</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒋻𒍝</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q49404">
+<transliteration transcription="u">u</transliteration>
+<translation locale="en">I</translation>
+<postag uri="http://purl.org/olia/olia.owl#PersonalPronoun">PPRO</postag>
+𒌋</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q1165897">
+<transliteration transcription="nu">nu</transliteration>
+<translation locale="en">you</translation>
+<postag uri="http://purl.org/olia/olia.owl#PersonalPronoun">PPRO</postag>
+𒉡</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q7478101">
+<transliteration transcription="nuku">nuku</transliteration>
+<translation locale="en">we</translation>
+<postag uri="http://purl.org/olia/olia.owl#PersonalPronoun">PPRO</postag>
+𒉡𒆪</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q54128">
+<transliteration transcription="lipa">li-pa</transliteration>
+<translation locale="en">servant</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒇷𒉺</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q10884">
+<transliteration transcription="husa">hu-sa</transliteration>
+<translation locale="en">tree</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄷𒊓</dictentry>
+<dictentry ref="gloelam" concept="https://www.wikidata.org/entity/Q42586">
+<transliteration transcription="maszkarni">masz-kar-ni</transliteration>
+<translation locale="en">elbow</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒈦𒋼𒀀𒉌</dictentry>
+<dictentry ref="gloelam" concept="https://www.wikidata.org/wiki/Q344">
+<transliteration transcription="maszsza">masz-sza</transliteration>
+<translation locale="en">future</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒈦𒊭</dictentry>
+<dictentry ref="gloelam" concept="https://www.wikidata.org/entity/Q44619">
+<transliteration transcription="madabe">ma-da-be</transliteration>
+<translation locale="en">fear</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒈠𒁕𒁁</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q4421">
+<transliteration transcription="husame">hu-sa-me</transliteration>
+<translation locale="en">forest</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄷𒊓𒈨</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q641406">
+<transliteration transcription="habadana">ha-ba-da-na</transliteration>
+<translation locale="en">terrace</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄩𒁀𒁕𒈾</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q133346">
+<transliteration transcription="dalari">da-la-ri</transliteration>
+<translation locale="en">border</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒁕𒆷𒊑</dictentry>
+<dictentry ref="elgi" concept="https://www.wikidata.org/entity/Q3">
+<transliteration transcription="takki">tak-ki</transliteration>
+<translation locale="en">life</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒋳𒆠</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857">
+<transliteration transcription="li">li</transliteration>
+<translation locale="en">give</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒇷</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464">
+<transliteration transcription="ta">ta</transliteration>
+<translation locale="en">put</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒋫</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1214">
+<transliteration transcription="hapu">ha-pu</transliteration>
+<translation locale="en">listen</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒄩𒁍</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1161">
+<transliteration transcription="kaza">kaz-za</transliteration>
+<translation locale="en">forge</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒄤𒍝</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3894">
+<transliteration transcription="kela">ke-la</transliteration>
+<translation locale="en">command</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒆠𒆷</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185">
+<transliteration transcription="kuti">ku-ti</transliteration>
+<translation locale="en">carry</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒆪𒋾</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2214">
+<transliteration transcription="kuszi">ku-szi</transliteration>
+<translation locale="en">build</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒆪𒅆</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2773">
+<transliteration transcription="peli">pe-li</transliteration>
+<translation locale="en">found</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒉿𒇷</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_745">
+<transliteration transcription="pera">pe-ra</transliteration>
+<translation locale="en">read</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒉿𒊏</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_430">
+<transliteration transcription="turu">tu-ru</transliteration>
+<translation locale="en">say</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒌅𒊒</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3538">
+<transliteration transcription="tal-lu">tal-lu</transliteration>
+<translation locale="en">write</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒊑𒇻</dictentry>
+<dictentry ref="gloelam" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1899">
+<transliteration transcription="kiti">ki-ti</transliteration>
+<translation locale="en">keep</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒆠𒋾</dictentry>
+<dictentry ref="gloelam" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409">
+<transliteration transcription="lima">li-ma</transliteration>
+<translation locale="en">burn</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒇷𒈠</dictentry>
+<dictentry ref="elgi" concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_208">
+<transliteration transcription="kulla">kul-la</transliteration>
+<translation locale="en">pray</translation>
+<postag uri="http://purl.org/olia/olia.owl#Verb">VV</postag>
+𒆰𒆷</dictentry>
+</dictentries>

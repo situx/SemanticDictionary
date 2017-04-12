@@ -1,0 +1,94 @@
+<?xml version="1.1"?>
+<mapentries><mapentry got="a1b10"  signName="AG"  concept=""  MesZL="127" aBZL="52" LHA="97" HethZL="81"><transliteration valid="true">ak</transliteration>
+𒀝</mapentry>
+<mapentry got="a1b1c1d1"  signName="BA"  concept=""  MesZL="14" aBZL="303" LHA="5" HethZL="205"><transliteration valid="true">ba</transliteration>
+𒁀</mapentry>
+<mapentry got="b1c1d1"  signName="BAD"  concept=""  MesZL="113" aBZL="25" LHA="69" HethZL="13"><transliteration valid="true">be</transliteration>
+𒁁</mapentry>
+<mapentry got="a1b1c1d1"  signName="AN"  concept="https://en.wikipedia.org/wiki/Dingir"  MesZL="10" aBZL="9" LHA="13" HethZL="8"><transliteration valid="true">d</transliteration>
+𒀭</mapentry>
+<mapentry got="a2b8c1"  signName="DA"  concept=""  MesZL="561" aBZL="229" LHA="335" HethZL="214"><transliteration valid="true">da</transliteration>
+𒁕</mapentry>
+<mapentry got="a4c2"  signName="ḪA (KU6)"  concept=""  MesZL="856" aBZL="475" LHA="589" HethZL="367"><transliteration valid="true">ha</transliteration>
+𒄩</mapentry>
+<mapentry got="a1b4c2d2"  signName="ḪAR (ḪI×ÁŠ)"  concept=""  MesZL="644" aBZL="281" LHA="401" HethZL="333"><transliteration valid="true">har</transliteration>
+𒄯</mapentry>
+<mapentry got="a1c2"  signName="TAR"  concept=""  MesZL="9" aBZL="231" LHA="12" HethZL="7"><transliteration valid="true">haz</transliteration>
+𒋻</mapentry>
+<mapentry got="c2d2"  signName="ḪI (DÙG)"  concept=""  MesZL="631" aBZL="277" LHA="396" HethZL="335"><transliteration valid="true">hi</transliteration>
+𒄭</mapentry>
+<mapentry got="a2b1c1"  signName="ḪU"  concept=""  MesZL="132" aBZL="34" LHA="78" HethZL="24"><transliteration valid="true">hu</transliteration>
+𒄷</mapentry>
+<mapentry got="a3c1d1"  signName="IR (GAG-gunû)"  concept=""  MesZL="437" aBZL="263" LHA="232" HethZL="77"><transliteration valid="true">ir</transliteration>
+𒅕</mapentry>
+<mapentry got="a3b2c5d1"  signName="KA"  concept=""  MesZL="24" aBZL="312" LHA="15" HethZL="133"><transliteration valid="true">ka</transliteration>
+𒅗</mapentry>
+<mapentry got="a1c1d1"  signName="SÌLA"  concept=""  MesZL="99" aBZL="269" LHA="62" HethZL="21"><transliteration valid="true">ka4</transliteration>
+𒋡</mapentry>
+<mapentry got="a2b4c14"  signName="GAZ (KUM×ŠE)"  concept=""  MesZL="340" aBZL="139" LHA="192" HethZL="122"><transliteration valid="true">kaz</transliteration>
+𒄤</mapentry>
+<mapentry got="b4c2d2"  signName="KI"  concept=""  MesZL="737" aBZL="432" LHA="461" HethZL="313"><transliteration valid="true">ke</transliteration>
+𒆠</mapentry>
+<mapentry got="b4c2d2"  signName="KI"  concept=""  MesZL="737" aBZL="432" LHA="461" HethZL="313"><transliteration valid="true">ki</transliteration>
+𒆠</mapentry>
+<mapentry got="a2b3"  signName="KU (DÚR, TUKUL, TUŠ)"  concept=""  MesZL="808" aBZL="415" LHA="536" HethZL="206"><transliteration valid="true">ku</transliteration>
+𒆪</mapentry>
+<mapentry got="b2c3"  signName="NUMUN"  concept=""  MesZL="117" aBZL="26" LHA="72" HethZL="12"><transliteration valid="true">kul</transliteration>
+𒆰</mapentry>
+<mapentry got="a5b7"  signName="LA"  concept=""  MesZL="89" aBZL="177" LHA="55" HethZL="95"><transliteration valid="true">la</transliteration>
+𒆷</mapentry>
+<mapentry got="a2b4c11d1"  signName="LI"  concept=""  MesZL="85" aBZL="381" LHA="59" HethZL="343"><meaning concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857">give</meaning><transliteration valid="true">li</transliteration>
+𒇷</mapentry>
+<mapentry got="a3b3"  signName="LU (UDU)"  concept=""  MesZL="812" aBZL="416" LHA="537" HethZL="210"><transliteration valid="true">lu</transliteration>
+𒇻</mapentry>
+<mapentry got="a2b3"  signName="MA"  concept=""  MesZL="552" aBZL="166" LHA="342" HethZL="208"><transliteration valid="true">ma</transliteration>
+𒈠</mapentry>
+<mapentry got="a1b1"  signName="MAŠ"  concept=""  MesZL="120" aBZL="29" LHA="74" HethZL="20"><transliteration valid="true">mas</transliteration>
+𒈦</mapentry>
+<mapentry got="a1b1"  signName="MAŠ"  concept=""  MesZL="120" aBZL="29" LHA="74" HethZL="20"><transliteration valid="true">masz</transliteration>
+𒈦</mapentry>
+<mapentry got="a1b1"  signName="ME"  concept=""  MesZL="753" aBZL="392" LHA="532" HethZL="357"><transliteration valid="true">me</transliteration>
+𒈨</mapentry>
+<mapentry got="b4c3d2"  signName="NA"  concept=""  MesZL="110" aBZL="24" LHA="70" HethZL="15"><transliteration valid="true">na</transliteration>
+𒈾</mapentry>
+<mapentry got="a1b1d1"  signName="NU"  concept=""  MesZL="112" aBZL="19" LHA="75" HethZL="11"><meaning concept="https://www.wikidata.org/entity/Q1165897">you</meaning><transliteration valid="true">nu</transliteration>
+𒉡</mapentry>
+<mapentry><meaning concept="https://www.wikidata.org/entity/Q7478101">we</meaning><transliteration valid="true">nuku</transliteration>
+𒉡𒆪</mapentry>
+<mapentry got="a1b2"  signName="PA"  concept=""  MesZL="464" aBZL="143" LHA="295" HethZL="174"><transliteration valid="true">pa</transliteration>
+𒉺</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  concept=""  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pe</transliteration>
+𒉿</mapentry>
+<mapentry got="a1b1c2"  signName="PI"  concept=""  MesZL="598" aBZL="370" LHA="383" HethZL="317"><transliteration valid="true">pi</transliteration>
+𒉿</mapentry>
+<mapentry got="b1c2d2"  signName="BU (GÍD)"  concept=""  MesZL="580" aBZL="265" LHA="371" HethZL="339"><transliteration valid="true">pu</transliteration>
+𒁍</mapentry>
+<mapentry got="a4b5"  signName="RA"  concept=""  MesZL="511" aBZL="192" LHA="328" HethZL="233"><transliteration valid="true">ra</transliteration>
+𒊏</mapentry>
+<mapentry got="a3b1c1"  signName="RI"  concept=""  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">ri</transliteration>
+𒊑</mapentry>
+<mapentry got="b2c2d2"  signName="RU"  concept=""  MesZL="111" aBZL="60" LHA="68" HethZL="43"><transliteration valid="true">ru</transliteration>
+𒊒</mapentry>
+<mapentry got="a4b4"  signName="SA"  concept=""  MesZL="172" aBZL="147" LHA="104" HethZL="200"><transliteration valid="true">sa</transliteration>
+𒊓</mapentry>
+<mapentry got="a2b4c1d1"  signName="ŠA"  concept=""  MesZL="566" aBZL="203" LHA="353" HethZL="158"><transliteration valid="true">sza</transliteration>
+𒊭</mapentry>
+<mapentry got="a1b1c1"  signName="IGI (ŠI, LIM)"  concept=""  MesZL="724" aBZL="233" LHA="449" HethZL="288"><transliteration valid="true">szi</transliteration>
+𒅆</mapentry>
+<mapentry got="a2b2c1d1"  signName="TA"  concept=""  MesZL="248" aBZL="123" LHA="139" HethZL="160"><meaning concept="http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464">put</meaning><transliteration valid="true">ta</transliteration>
+𒋫</mapentry>
+<mapentry got="a6b2c2d2"  signName="TAG (ŠUM)"  concept=""  MesZL="221" aBZL="122" LHA="126" HethZL="91"><transliteration valid="true">tak</transliteration>
+𒋳</mapentry>
+<mapentry got="a3b1c1"  signName="RI"  concept=""  MesZL="142" aBZL="39" LHA="86" HethZL="32"><transliteration valid="true">tal</transliteration>
+𒊑</mapentry>
+<mapentry got="c2d2"  signName="UD (BABBAR)"  concept=""  MesZL="596" aBZL="332" LHA="381" HethZL="316"><transliteration valid="true">tam</transliteration>
+𒌓</mapentry>
+<mapentry got="a1b2c2"  signName="TI"  concept=""  MesZL="118" aBZL="23" LHA="73" HethZL="37"><transliteration valid="true">ti</transliteration>
+𒋾</mapentry>
+<mapentry got="a1c12d2"  signName="TU"  concept=""  MesZL="86" aBZL="382" LHA="58" HethZL="346"><transliteration valid="true">tu</transliteration>
+𒌅</mapentry>
+<mapentry got="c1"  signName="U"  concept=""  MesZL="661" aBZL="337" LHA="411" HethZL="261"><meaning concept="https://www.wikidata.org/entity/Q49404">I</meaning><transliteration valid="true">u</transliteration>
+𒌋</mapentry>
+<mapentry got="a4"  signName="ZA"  concept=""  MesZL="851" aBZL="474" LHA="586" HethZL="366"><transliteration valid="true">za</transliteration>
+𒍝</mapentry>
+</mapentries>

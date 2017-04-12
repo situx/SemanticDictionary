@@ -1,0 +1,659 @@
+{"mapentries": {"mapentry": [
+    {
+        "MesZL": 127,
+        "HethZL": 81,
+        "signName": "AG",
+        "LHA": 97,
+        "concept": "",
+        "got": "a1b10",
+        "aBZL": 52,
+        "transliteration": {
+            "valid": true,
+            "content": "ak"
+        },
+        "content": "𒀝"
+    },
+    {
+        "MesZL": 14,
+        "HethZL": 205,
+        "signName": "BA",
+        "LHA": 5,
+        "concept": "",
+        "got": "a1b1c1d1",
+        "aBZL": 303,
+        "transliteration": {
+            "valid": true,
+            "content": "ba"
+        },
+        "content": "𒁀"
+    },
+    {
+        "MesZL": 113,
+        "HethZL": 13,
+        "signName": "BAD",
+        "LHA": 69,
+        "concept": "",
+        "got": "b1c1d1",
+        "aBZL": 25,
+        "transliteration": {
+            "valid": true,
+            "content": "be"
+        },
+        "content": "𒁁"
+    },
+    {
+        "MesZL": 10,
+        "HethZL": 8,
+        "signName": "AN",
+        "LHA": 13,
+        "concept": "https://en.wikipedia.org/wiki/Dingir",
+        "got": "a1b1c1d1",
+        "aBZL": 9,
+        "transliteration": {
+            "valid": true,
+            "content": "d"
+        },
+        "content": "𒀭"
+    },
+    {
+        "MesZL": 561,
+        "HethZL": 214,
+        "signName": "DA",
+        "LHA": 335,
+        "concept": "",
+        "got": "a2b8c1",
+        "aBZL": 229,
+        "transliteration": {
+            "valid": true,
+            "content": "da"
+        },
+        "content": "𒁕"
+    },
+    {
+        "MesZL": 856,
+        "HethZL": 367,
+        "signName": "ḪA (KU6)",
+        "LHA": 589,
+        "concept": "",
+        "got": "a4c2",
+        "aBZL": 475,
+        "transliteration": {
+            "valid": true,
+            "content": "ha"
+        },
+        "content": "𒄩"
+    },
+    {
+        "MesZL": 644,
+        "HethZL": 333,
+        "signName": "ḪAR (ḪI×ÁŠ)",
+        "LHA": 401,
+        "concept": "",
+        "got": "a1b4c2d2",
+        "aBZL": 281,
+        "transliteration": {
+            "valid": true,
+            "content": "har"
+        },
+        "content": "𒄯"
+    },
+    {
+        "MesZL": 9,
+        "HethZL": 7,
+        "signName": "TAR",
+        "LHA": 12,
+        "concept": "",
+        "got": "a1c2",
+        "aBZL": 231,
+        "transliteration": {
+            "valid": true,
+            "content": "haz"
+        },
+        "content": "𒋻"
+    },
+    {
+        "MesZL": 631,
+        "HethZL": 335,
+        "signName": "ḪI (DÙG)",
+        "LHA": 396,
+        "concept": "",
+        "got": "c2d2",
+        "aBZL": 277,
+        "transliteration": {
+            "valid": true,
+            "content": "hi"
+        },
+        "content": "𒄭"
+    },
+    {
+        "MesZL": 132,
+        "HethZL": 24,
+        "signName": "ḪU",
+        "LHA": 78,
+        "concept": "",
+        "got": "a2b1c1",
+        "aBZL": 34,
+        "transliteration": {
+            "valid": true,
+            "content": "hu"
+        },
+        "content": "𒄷"
+    },
+    {
+        "MesZL": 437,
+        "HethZL": 77,
+        "signName": "IR (GAG-gunû)",
+        "LHA": 232,
+        "concept": "",
+        "got": "a3c1d1",
+        "aBZL": 263,
+        "transliteration": {
+            "valid": true,
+            "content": "ir"
+        },
+        "content": "𒅕"
+    },
+    {
+        "MesZL": 24,
+        "HethZL": 133,
+        "signName": "KA",
+        "LHA": 15,
+        "concept": "",
+        "got": "a3b2c5d1",
+        "aBZL": 312,
+        "transliteration": {
+            "valid": true,
+            "content": "ka"
+        },
+        "content": "𒅗"
+    },
+    {
+        "MesZL": 99,
+        "HethZL": 21,
+        "signName": "SÌLA",
+        "LHA": 62,
+        "concept": "",
+        "got": "a1c1d1",
+        "aBZL": 269,
+        "transliteration": {
+            "valid": true,
+            "content": "ka4"
+        },
+        "content": "𒋡"
+    },
+    {
+        "MesZL": 340,
+        "HethZL": 122,
+        "signName": "GAZ (KUM×ŠE)",
+        "LHA": 192,
+        "concept": "",
+        "got": "a2b4c14",
+        "aBZL": 139,
+        "transliteration": {
+            "valid": true,
+            "content": "kaz"
+        },
+        "content": "𒄤"
+    },
+    {
+        "MesZL": 737,
+        "HethZL": 313,
+        "signName": "KI",
+        "LHA": 461,
+        "concept": "",
+        "got": "b4c2d2",
+        "aBZL": 432,
+        "transliteration": {
+            "valid": true,
+            "content": "ke"
+        },
+        "content": "𒆠"
+    },
+    {
+        "MesZL": 737,
+        "HethZL": 313,
+        "signName": "KI",
+        "LHA": 461,
+        "concept": "",
+        "got": "b4c2d2",
+        "aBZL": 432,
+        "transliteration": {
+            "valid": true,
+            "content": "ki"
+        },
+        "content": "𒆠"
+    },
+    {
+        "MesZL": 808,
+        "HethZL": 206,
+        "signName": "KU (DÚR, TUKUL, TUŠ)",
+        "LHA": 536,
+        "concept": "",
+        "got": "a2b3",
+        "aBZL": 415,
+        "transliteration": {
+            "valid": true,
+            "content": "ku"
+        },
+        "content": "𒆪"
+    },
+    {
+        "MesZL": 117,
+        "HethZL": 12,
+        "signName": "NUMUN",
+        "LHA": 72,
+        "concept": "",
+        "got": "b2c3",
+        "aBZL": 26,
+        "transliteration": {
+            "valid": true,
+            "content": "kul"
+        },
+        "content": "𒆰"
+    },
+    {
+        "MesZL": 89,
+        "HethZL": 95,
+        "signName": "LA",
+        "LHA": 55,
+        "concept": "",
+        "got": "a5b7",
+        "aBZL": 177,
+        "transliteration": {
+            "valid": true,
+            "content": "la"
+        },
+        "content": "𒆷"
+    },
+    {
+        "MesZL": 85,
+        "HethZL": 343,
+        "signName": "LI",
+        "LHA": 59,
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857",
+            "content": "give"
+        },
+        "concept": "",
+        "got": "a2b4c11d1",
+        "aBZL": 381,
+        "transliteration": {
+            "valid": true,
+            "content": "li"
+        },
+        "content": "𒇷"
+    },
+    {
+        "MesZL": 812,
+        "HethZL": 210,
+        "signName": "LU (UDU)",
+        "LHA": 537,
+        "concept": "",
+        "got": "a3b3",
+        "aBZL": 416,
+        "transliteration": {
+            "valid": true,
+            "content": "lu"
+        },
+        "content": "𒇻"
+    },
+    {
+        "MesZL": 552,
+        "HethZL": 208,
+        "signName": "MA",
+        "LHA": 342,
+        "concept": "",
+        "got": "a2b3",
+        "aBZL": 166,
+        "transliteration": {
+            "valid": true,
+            "content": "ma"
+        },
+        "content": "𒈠"
+    },
+    {
+        "MesZL": 120,
+        "HethZL": 20,
+        "signName": "MAŠ",
+        "LHA": 74,
+        "concept": "",
+        "got": "a1b1",
+        "aBZL": 29,
+        "transliteration": {
+            "valid": true,
+            "content": "mas"
+        },
+        "content": "𒈦"
+    },
+    {
+        "MesZL": 120,
+        "HethZL": 20,
+        "signName": "MAŠ",
+        "LHA": 74,
+        "concept": "",
+        "got": "a1b1",
+        "aBZL": 29,
+        "transliteration": {
+            "valid": true,
+            "content": "masz"
+        },
+        "content": "𒈦"
+    },
+    {
+        "MesZL": 753,
+        "HethZL": 357,
+        "signName": "ME",
+        "LHA": 532,
+        "concept": "",
+        "got": "a1b1",
+        "aBZL": 392,
+        "transliteration": {
+            "valid": true,
+            "content": "me"
+        },
+        "content": "𒈨"
+    },
+    {
+        "MesZL": 110,
+        "HethZL": 15,
+        "signName": "NA",
+        "LHA": 70,
+        "concept": "",
+        "got": "b4c3d2",
+        "aBZL": 24,
+        "transliteration": {
+            "valid": true,
+            "content": "na"
+        },
+        "content": "𒈾"
+    },
+    {
+        "MesZL": 112,
+        "HethZL": 11,
+        "signName": "NU",
+        "LHA": 75,
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q1165897",
+            "content": "you"
+        },
+        "concept": "",
+        "got": "a1b1d1",
+        "aBZL": 19,
+        "transliteration": {
+            "valid": true,
+            "content": "nu"
+        },
+        "content": "𒉡"
+    },
+    {
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q7478101",
+            "content": "we"
+        },
+        "transliteration": {
+            "valid": true,
+            "content": "nuku"
+        },
+        "content": "𒉡𒆪"
+    },
+    {
+        "MesZL": 464,
+        "HethZL": 174,
+        "signName": "PA",
+        "LHA": 295,
+        "concept": "",
+        "got": "a1b2",
+        "aBZL": 143,
+        "transliteration": {
+            "valid": true,
+            "content": "pa"
+        },
+        "content": "𒉺"
+    },
+    {
+        "MesZL": 598,
+        "HethZL": 317,
+        "signName": "PI",
+        "LHA": 383,
+        "concept": "",
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "pe"
+        },
+        "content": "𒉿"
+    },
+    {
+        "MesZL": 598,
+        "HethZL": 317,
+        "signName": "PI",
+        "LHA": 383,
+        "concept": "",
+        "got": "a1b1c2",
+        "aBZL": 370,
+        "transliteration": {
+            "valid": true,
+            "content": "pi"
+        },
+        "content": "𒉿"
+    },
+    {
+        "MesZL": 580,
+        "HethZL": 339,
+        "signName": "BU (GÍD)",
+        "LHA": 371,
+        "concept": "",
+        "got": "b1c2d2",
+        "aBZL": 265,
+        "transliteration": {
+            "valid": true,
+            "content": "pu"
+        },
+        "content": "𒁍"
+    },
+    {
+        "MesZL": 511,
+        "HethZL": 233,
+        "signName": "RA",
+        "LHA": 328,
+        "concept": "",
+        "got": "a4b5",
+        "aBZL": 192,
+        "transliteration": {
+            "valid": true,
+            "content": "ra"
+        },
+        "content": "𒊏"
+    },
+    {
+        "MesZL": 142,
+        "HethZL": 32,
+        "signName": "RI",
+        "LHA": 86,
+        "concept": "",
+        "got": "a3b1c1",
+        "aBZL": 39,
+        "transliteration": {
+            "valid": true,
+            "content": "ri"
+        },
+        "content": "𒊑"
+    },
+    {
+        "MesZL": 111,
+        "HethZL": 43,
+        "signName": "RU",
+        "LHA": 68,
+        "concept": "",
+        "got": "b2c2d2",
+        "aBZL": 60,
+        "transliteration": {
+            "valid": true,
+            "content": "ru"
+        },
+        "content": "𒊒"
+    },
+    {
+        "MesZL": 172,
+        "HethZL": 200,
+        "signName": "SA",
+        "LHA": 104,
+        "concept": "",
+        "got": "a4b4",
+        "aBZL": 147,
+        "transliteration": {
+            "valid": true,
+            "content": "sa"
+        },
+        "content": "𒊓"
+    },
+    {
+        "MesZL": 566,
+        "HethZL": 158,
+        "signName": "ŠA",
+        "LHA": 353,
+        "concept": "",
+        "got": "a2b4c1d1",
+        "aBZL": 203,
+        "transliteration": {
+            "valid": true,
+            "content": "sza"
+        },
+        "content": "𒊭"
+    },
+    {
+        "MesZL": 724,
+        "HethZL": 288,
+        "signName": "IGI (ŠI, LIM)",
+        "LHA": 449,
+        "concept": "",
+        "got": "a1b1c1",
+        "aBZL": 233,
+        "transliteration": {
+            "valid": true,
+            "content": "szi"
+        },
+        "content": "𒅆"
+    },
+    {
+        "MesZL": 248,
+        "HethZL": 160,
+        "signName": "TA",
+        "LHA": 139,
+        "meaning": {
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464",
+            "content": "put"
+        },
+        "concept": "",
+        "got": "a2b2c1d1",
+        "aBZL": 123,
+        "transliteration": {
+            "valid": true,
+            "content": "ta"
+        },
+        "content": "𒋫"
+    },
+    {
+        "MesZL": 221,
+        "HethZL": 91,
+        "signName": "TAG (ŠUM)",
+        "LHA": 126,
+        "concept": "",
+        "got": "a6b2c2d2",
+        "aBZL": 122,
+        "transliteration": {
+            "valid": true,
+            "content": "tak"
+        },
+        "content": "𒋳"
+    },
+    {
+        "MesZL": 142,
+        "HethZL": 32,
+        "signName": "RI",
+        "LHA": 86,
+        "concept": "",
+        "got": "a3b1c1",
+        "aBZL": 39,
+        "transliteration": {
+            "valid": true,
+            "content": "tal"
+        },
+        "content": "𒊑"
+    },
+    {
+        "MesZL": 596,
+        "HethZL": 316,
+        "signName": "UD (BABBAR)",
+        "LHA": 381,
+        "concept": "",
+        "got": "c2d2",
+        "aBZL": 332,
+        "transliteration": {
+            "valid": true,
+            "content": "tam"
+        },
+        "content": "𒌓"
+    },
+    {
+        "MesZL": 118,
+        "HethZL": 37,
+        "signName": "TI",
+        "LHA": 73,
+        "concept": "",
+        "got": "a1b2c2",
+        "aBZL": 23,
+        "transliteration": {
+            "valid": true,
+            "content": "ti"
+        },
+        "content": "𒋾"
+    },
+    {
+        "MesZL": 86,
+        "HethZL": 346,
+        "signName": "TU",
+        "LHA": 58,
+        "concept": "",
+        "got": "a1c12d2",
+        "aBZL": 382,
+        "transliteration": {
+            "valid": true,
+            "content": "tu"
+        },
+        "content": "𒌅"
+    },
+    {
+        "MesZL": 661,
+        "HethZL": 261,
+        "signName": "U",
+        "LHA": 411,
+        "meaning": {
+            "concept": "https://www.wikidata.org/entity/Q49404",
+            "content": "I"
+        },
+        "concept": "",
+        "got": "c1",
+        "aBZL": 337,
+        "transliteration": {
+            "valid": true,
+            "content": "u"
+        },
+        "content": "𒌋"
+    },
+    {
+        "MesZL": 851,
+        "HethZL": 366,
+        "signName": "ZA",
+        "LHA": 586,
+        "concept": "",
+        "got": "a4",
+        "aBZL": 474,
+        "transliteration": {
+            "valid": true,
+            "content": "za"
+        },
+        "content": "𒍝"
+    }
+]}}
