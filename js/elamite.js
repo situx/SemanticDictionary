@@ -93,6 +93,38 @@ var elamite={"dictentries": {
         {
             "ref": "gloelam",
             "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": true
+            },
+            "transliteration": {
+                "transcription": "siri",
+                "content": "si-ri"
+            },
+            "content": "𒋛𒊑"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "happy"
+            },
+            "transliteration": {
+                "transcription": "szada",
+                "content": "sza-da"
+            },
+            "content": "𒊭𒁕"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Preposition",
                 "content": "PREP"
             },
@@ -262,7 +294,7 @@ var elamite={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q344",
+            "concept": "https://www.wikidata.org/entity/Q344",
             "translation": {
                 "locale": "en",
                 "content": "future"
@@ -272,6 +304,74 @@ var elamite={"dictentries": {
                 "content": "masz-sza"
             },
             "content": "𒈦𒊭"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q637703",
+            "translation": {
+                "locale": "en",
+                "content": "debris"
+            },
+            "transliteration": {
+                "transcription": "siut",
+                "content": "si-ut"
+            },
+            "content": "𒋛𒌓"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q178885",
+            "translation": {
+                "locale": "en",
+                "content": "god"
+            },
+            "transliteration": {
+                "transcription": "nap",
+                "content": "nap"
+            },
+            "content": "𒀮"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8441",
+            "translation": {
+                "locale": "en",
+                "content": "man"
+            },
+            "transliteration": {
+                "transcription": "ruh",
+                "content": "ruh"
+            },
+            "content": "𒈛"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q35059",
+            "translation": {
+                "locale": "en",
+                "content": "width"
+            },
+            "transliteration": {
+                "transcription": "szadanika",
+                "content": "sza-da-ni-ka"
+            },
+            "content": "𒊭𒁕𒉌𒅗"
         },
         {
             "ref": "gloelam",
@@ -495,6 +595,39 @@ var elamite={"dictentries": {
             "content": "𒉿𒇷"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "mistreat"
+            },
+            "transliteration": {
+                "transcription": "sura",
+                "content": "su-ra"
+            },
+            "content": "𒋢𒊏"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2089",
+            "translation": {
+                "locale": "en",
+                "content": "inquire"
+            },
+            "transliteration": {
+                "transcription": "sudama",
+                "content": "su-da-ma"
+            },
+            "content": "𒋢𒁕𒈠"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -527,6 +660,40 @@ var elamite={"dictentries": {
                 "content": "tu-ru"
             },
             "content": "𒌅𒊒"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819",
+            "translation": {
+                "locale": "en",
+                "content": "destroy"
+            },
+            "transliteration": {
+                "transcription": "sari",
+                "content": "sa-ri"
+            },
+            "content": "𒊓𒊑"
+        },
+        {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2258",
+            "translation": {
+                "locale": "en",
+                "content": "restore"
+            },
+            "transliteration": {
+                "transcription": "pili",
+                "content": "pi-li"
+            },
+            "content": "𒉿𒇷"
         },
         {
             "ref": "elgi",
