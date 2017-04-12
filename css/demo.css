@@ -24,6 +24,18 @@ textarea.chinese {width: 410px; height: 200px; border: 5px solid #aaa; padding: 
   src: url('../fonts/Akkadian.ttf');
 }
 @font-face {
+  font-family: 'elamite';
+  font-style: italic;
+  font-weight: normal; /* or 400 */
+  src: url('../fonts/Akkadian.ttf');
+}
+@font-face {
+  font-family: 'luwiancunei';
+  font-style: italic;
+  font-weight: normal; /* or 400 */
+  src: url('../fonts/Akkadian.ttf');
+}
+@font-face {
   font-family: 'sumerian';
   font-style: italic;
   font-weight: normal; /* or 400 */
