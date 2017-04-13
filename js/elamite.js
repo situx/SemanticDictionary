@@ -27,6 +27,17 @@ var elamite={"dictentries": {
                     "uri": "https://www.wikidata.org/entity/Q121769"
                 },
                 "uri": "https://www.wikidata.org/entity/Q134995"
+            },
+            {
+                "val": "stolel",
+                "reference": {
+                    "a": {
+                        "href": "https://ia600905.us.archive.org/31/items/Elamite2004/Stolper2004Elamite.pdf",
+                        "content": "Stolper Elamite 2004"
+                    },
+                    "uri": "https://www.wikidata.org/entity/Q121769"
+                },
+                "uri": "https://www.wikidata.org/entity/Q134995"
             }
         ],
         "author": {
@@ -74,6 +85,86 @@ var elamite={"dictentries": {
             "content": "𒀭𒌋𒊏𒈦𒁕"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Ashbazana"
+            },
+            "transliteration": {
+                "transcription": "aszbazana",
+                "content": "asz-ba-za-na"
+            },
+            "content": "𒀸𒁀𒍝𒈾"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Akkamen"
+            },
+            "transliteration": {
+                "transcription": "akkamen",
+                "content": "ak-ka4-me-en"
+            },
+            "content": "𒀝𒋡𒈨𒂗"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Aksher Inshush"
+            },
+            "transliteration": {
+                "transcription": "akszeirgaminszusz",
+                "content": "ak-sze-ir-gam-in-szu-usz"
+            },
+            "content": "𒀝𒊺𒅕𒃵𒅔𒋗𒍑"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Bakabuksza"
+            },
+            "transliteration": {
+                "transcription": "bakabuksza",
+                "content": "ba-ka-buk-sza"
+            },
+            "content": "𒁀𒅗𒈮𒊭"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Bakapikna"
+            },
+            "transliteration": {
+                "transcription": "bakabuksza",
+                "content": "ba-ka-pik-na"
+            },
+            "content": "𒁀𒅗𒋝𒈾"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#RelativePronoun",
@@ -91,11 +182,79 @@ var elamite={"dictentries": {
             "content": "𒀝𒋡"
         },
         {
+            "ref": "stolel",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#RelativePronoun",
+                "content": "RELPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "which"
+            },
+            "transliteration": {
+                "transcription": "appa",
+                "content": "ap-pa"
+            },
+            "content": "𒀊𒉺"
+        },
+        {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Cardinal",
+                "content": "CARD"
+            },
+            "concept": "https://www.wikidata.org/entity/Q37413",
+            "translation": {
+                "locale": "en",
+                "content": 100
+            },
+            "transliteration": {
+                "transcription": "me",
+                "content": "me"
+            },
+            "content": "𒈨"
+        },
+        {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Cardinal",
+                "content": "CARD"
+            },
+            "concept": "https://www.wikidata.org/entity/Q43016",
+            "translation": {
+                "locale": "en",
+                "content": 1000
+            },
+            "transliteration": {
+                "transcription": "lim",
+                "content": "lim"
+            },
+            "content": "𒅆"
+        },
+        {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Cardinal",
+                "content": "CARD"
+            },
+            "concept": "https://www.wikidata.org/entity/Q427923",
+            "translation": {
+                "locale": "en",
+                "content": 10000
+            },
+            "transliteration": {
+                "transcription": "pi",
+                "content": "pi"
+            },
+            "content": "𒉿"
+        },
+        {
             "ref": "gloelam",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Adjective",
                 "content": "ADJ"
             },
+            "concept": "https://www.wikidata.org/entity/Q16751793",
             "translation": {
                 "locale": "en",
                 "content": true
@@ -105,6 +264,70 @@ var elamite={"dictentries": {
                 "content": "si-ri"
             },
             "content": "𒋛𒊑"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "great"
+            },
+            "transliteration": {
+                "transcription": "risza",
+                "content": "ri-sza"
+            },
+            "content": "𒊑𒊭"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adverb",
+                "content": "ADV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "now"
+            },
+            "transliteration": {
+                "transcription": "am",
+                "content": "am"
+            },
+            "content": "𒄠"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Pronoun",
+                "content": "PRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "this"
+            },
+            "transliteration": {
+                "transcription": "annu",
+                "content": "an-nu"
+            },
+            "content": "𒀭𒉡"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "just"
+            },
+            "transliteration": {
+                "transcription": "szutur",
+                "content": "szu-tur"
+            },
+            "content": "𒋗𒌉"
         },
         {
             "ref": "gloelam",
@@ -277,6 +500,23 @@ var elamite={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q26382",
+            "translation": {
+                "locale": "en",
+                "content": "edge"
+            },
+            "transliteration": {
+                "transcription": "li-mi-tum4",
+                "content": "li-mi-tum4"
+            },
+            "content": "𒇷𒈪𒉏"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q42586",
             "translation": {
                 "locale": "en",
@@ -287,6 +527,210 @@ var elamite={"dictentries": {
                 "content": "masz-kar-ni"
             },
             "content": "𒈦𒋼𒀀𒉌"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q4",
+            "translation": {
+                "locale": "en",
+                "content": "death"
+            },
+            "transliteration": {
+                "transcription": "halpi",
+                "content": "hal-pi"
+            },
+            "content": "𒄬𒉿"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q15807",
+            "translation": {
+                "locale": "en",
+                "content": "foot"
+            },
+            "transliteration": {
+                "transcription": "bat",
+                "content": "ba-at"
+            },
+            "content": "𒁀𒀜"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q481609",
+            "translation": {
+                "locale": "en",
+                "content": "damage"
+            },
+            "transliteration": {
+                "transcription": "haluma",
+                "content": "ha-lu-ma"
+            },
+            "content": "𒄩𒇻𒈠"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3736439",
+            "translation": {
+                "locale": "en",
+                "content": "duck"
+            },
+            "transliteration": {
+                "transcription": "basbas",
+                "content": "ba-as-ba-as"
+            },
+            "content": "𒁀𒊍𒁀𒊍"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q18498",
+            "translation": {
+                "locale": "en",
+                "content": "wolf"
+            },
+            "transliteration": {
+                "transcription": "barbarum",
+                "content": "ba-ar-ba-ar-ru-um"
+            },
+            "content": "𒁀𒅈𒁀𒅈𒊒𒌝"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q12097",
+            "translation": {
+                "locale": "en",
+                "content": "king"
+            },
+            "transliteration": {
+                "transcription": "sunki",
+                "content": "sun-ki"
+            },
+            "content": "𒌀𒆠"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q219423",
+            "translation": {
+                "locale": "en",
+                "content": "mural"
+            },
+            "transliteration": {
+                "transcription": "kupumya",
+                "content": "ku-pu-um-ya"
+            },
+            "content": "𒆪𒁍𒌝𒉿"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q82025",
+            "translation": {
+                "locale": "en",
+                "content": "horn"
+            },
+            "transliteration": {
+                "transcription": "kasu",
+                "content": "ka4-as-su"
+            },
+            "content": "𒋡𒊍𒋢"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q25294",
+            "translation": {
+                "locale": "en",
+                "content": "hammer"
+            },
+            "transliteration": {
+                "transcription": "kasite",
+                "content": "ka4-si-te"
+            },
+            "content": "𒋡𒋛𒋼"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q36794",
+            "translation": {
+                "locale": "en",
+                "content": "door"
+            },
+            "transliteration": {
+                "transcription": "ikku",
+                "content": "ik-ku"
+            },
+            "content": "𒅅𒆪"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1096",
+            "translation": {
+                "locale": "en",
+                "content": "tin"
+            },
+            "transliteration": {
+                "transcription": "anaku",
+                "content": "a-na-ku"
+            },
+            "content": "𒀀𒈾𒆪"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q170984",
+            "translation": {
+                "locale": "en",
+                "content": "crown"
+            },
+            "transliteration": {
+                "transcription": "men",
+                "content": "men"
+            },
+            "content": "𒃞"
         },
         {
             "ref": "gloelam",
@@ -328,6 +772,23 @@ var elamite={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/entity/Q32489",
+            "translation": {
+                "locale": "en",
+                "content": "knife"
+            },
+            "transliteration": {
+                "transcription": "duszumya",
+                "content": "du-szu-um-ya"
+            },
+            "content": "𒁺𒋗𒌝𒉿"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
             "concept": "https://www.wikidata.org/entity/Q178885",
             "translation": {
                 "locale": "en",
@@ -355,6 +816,23 @@ var elamite={"dictentries": {
                 "content": "ruh"
             },
             "content": "𒈛"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q188830",
+            "translation": {
+                "locale": "en",
+                "content": "wife"
+            },
+            "transliteration": {
+                "transcription": "ru-tu",
+                "content": "ru-tu"
+            },
+            "content": "𒊒𒌅"
         },
         {
             "ref": "gloelam",
@@ -391,6 +869,23 @@ var elamite={"dictentries": {
             "content": "𒈠𒁕𒁁"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q128904",
+            "translation": {
+                "locale": "en",
+                "content": "Elamite"
+            },
+            "transliteration": {
+                "transcription": "haltamti",
+                "content": "hal-tam-ti"
+            },
+            "content": "𒄬𒌓𒋾"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
@@ -408,7 +903,7 @@ var elamite={"dictentries": {
             "content": "𒄷𒊓𒈨"
         },
         {
-            "ref": "elgi",
+            "ref": "gloelam",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -425,7 +920,41 @@ var elamite={"dictentries": {
             "content": "𒄩𒁀𒁕𒈾"
         },
         {
-            "ref": "elgi",
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3947",
+            "translation": {
+                "locale": "en",
+                "content": "house"
+            },
+            "transliteration": {
+                "transcription": "ulhi",
+                "content": "ul-hi"
+            },
+            "content": "𒌌𒄭"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q11634",
+            "translation": {
+                "locale": "en",
+                "content": "sculpture"
+            },
+            "transliteration": {
+                "transcription": "zalman",
+                "content": "zal-man"
+            },
+            "content": "𒉌𒌋𒌋"
+        },
+        {
+            "ref": "gloelam",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
@@ -510,6 +1039,23 @@ var elamite={"dictentries": {
             "content": "𒄩𒁍"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912",
+            "translation": {
+                "locale": "en",
+                "content": "kill"
+            },
+            "transliteration": {
+                "transcription": "halpi",
+                "content": "hal-pi"
+            },
+            "content": "𒄬𒉿"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -527,6 +1073,39 @@ var elamite={"dictentries": {
             "content": "𒄤𒍝"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756",
+            "translation": {
+                "locale": "en",
+                "content": "receive"
+            },
+            "transliteration": {
+                "transcription": "du",
+                "content": "du"
+            },
+            "content": "𒁺"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "trample"
+            },
+            "transliteration": {
+                "transcription": "duba",
+                "content": "du-ub-ba"
+            },
+            "content": "𒁺𒌒𒁀"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -542,6 +1121,23 @@ var elamite={"dictentries": {
                 "content": "ke-la"
             },
             "content": "𒆠𒆷"
+        },
+        {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1109",
+            "translation": {
+                "locale": "en",
+                "content": "drown"
+            },
+            "transliteration": {
+                "transcription": "szasa",
+                "content": "sza-sa"
+            },
+            "content": "𒊭𒊓"
         },
         {
             "ref": "elgi",
@@ -595,6 +1191,23 @@ var elamite={"dictentries": {
             "content": "𒉿𒇷"
         },
         {
+            "ref": "elgi",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2695",
+            "translation": {
+                "locale": "en",
+                "content": "decorate"
+            },
+            "transliteration": {
+                "transcription": "hali",
+                "content": "ha-li"
+            },
+            "content": "𒄩𒇷"
+        },
+        {
             "ref": "gloelam",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -609,6 +1222,23 @@ var elamite={"dictentries": {
                 "content": "su-ra"
             },
             "content": "𒋢𒊏"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2922",
+            "translation": {
+                "locale": "en",
+                "content": "create"
+            },
+            "transliteration": {
+                "transcription": "be",
+                "content": "be"
+            },
+            "content": "𒁁"
         },
         {
             "ref": "gloelam",
@@ -679,6 +1309,57 @@ var elamite={"dictentries": {
             "content": "𒊓𒊑"
         },
         {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3450",
+            "translation": {
+                "locale": "en",
+                "content": "send"
+            },
+            "transliteration": {
+                "transcription": "hutla",
+                "content": "hu-ut-la"
+            },
+            "content": "𒄷𒌓𒆷"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3167",
+            "translation": {
+                "locale": "en",
+                "content": "take"
+            },
+            "transliteration": {
+                "transcription": "huma",
+                "content": "hu-ma"
+            },
+            "content": "𒄷𒈠"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1765",
+            "translation": {
+                "locale": "en",
+                "content": "love"
+            },
+            "transliteration": {
+                "transcription": "hani",
+                "content": "ha-ni"
+            },
+            "content": "𒄩𒉌"
+        },
+        {
             "ref": "elgi",
             "postag": {
                 "uri": "http://purl.org/olia/olia.owl#Verb",
@@ -728,6 +1409,23 @@ var elamite={"dictentries": {
                 "content": "ki-ti"
             },
             "content": "𒆠𒋾"
+        },
+        {
+            "ref": "gloelam",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Verb",
+                "content": "VV"
+            },
+            "concept": "http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_546",
+            "translation": {
+                "locale": "en",
+                "content": "wait"
+            },
+            "transliteration": {
+                "transcription": "zati",
+                "content": "za-ti"
+            },
+            "content": "𒍝𒋾"
         },
         {
             "ref": "gloelam",
