@@ -17,6 +17,7 @@
     <script src="js/egyptian.js"></script>
     <script src="js/hittite.js"></script>
     <script src="js/luwian.js"></script>
+    <script src="js/luwiancn.js"></script>
     <script src="js/maya.js"></script>
     <script src="js/sumerian.js"></script>
       <script src="js/akkadian_map.js"></script>
@@ -24,6 +25,7 @@
       <script src="js/egyptian_map.js"></script>
     <script src="js/hittite_map.js"></script>
     <script src="js/luwian_map.js"></script>
+    <script src="js/luwiancn_map.js"></script>
     <script src="js/maya_map.js"></script>
     <script src="js/sumerian_map.js"></script>
   <style>dialog {  
@@ -251,6 +253,7 @@ else{
         $('#inputenglish').val("")
         $('#resultbody').html("").trigger('update', [true]);
         $('#refjson').attr("href","dict/"+value+".json")
+        $('#refanki').attr("href","anki/"+value+".anki")
         $('#refxml').attr("href","dict/"+value+".xml")
         $('#reflemon').attr("href","dict/"+value+".ttl")
         $('#transtd').text("Translation")
@@ -329,9 +332,10 @@ else{
   <option value="elamite">Elamite</option>
   <option value="hittite">Hittite</option>
   <option value="luwian">Luwian</option>
+  <option value="luwiancn">Luwian (Cuneiform)</option>
   <option value="maya">Maya (coming soon)</option>
   <option value="sumerian" selected="selected">Sumerian</option>
-  </select><br/><table border="2" style="background:white;color:black"><tr><td>Download as:</td><td><a href="dict/sumerian.js" id="refjson">&nbsp;JSON&nbsp;</a></td><td><a href="dict/sumerian.xml" id="refxml">&nbsp;XML&nbsp;</a></td><td><a href="dict/sumerian.rdf" id="reflemon">&nbsp;Lemon-RDF&nbsp;</a></td></tr></table><dialog id="window">  
+  </select><br/><table border="2" style="background:white;color:black"><tr><td>Download as:</td><td><a href="anki/sumerian.anki" id="refanki">&nbsp;Anki CSV&nbsp;</a></td><td><a href="dict/sumerian.js" id="refjson">&nbsp;JSON&nbsp;</a></td><td><a href="dict/sumerian.xml" id="refxml">&nbsp;XML&nbsp;</a></td><td><a href="dict/sumerian.rdf" id="reflemon">&nbsp;Lemon-RDF&nbsp;</a></td></tr></table><dialog id="window">  
     <h3>About...</h3>  
     <table style="color:black" border="1"><tr><td>Author:</td><td><span id="author"></span></td></tr><tr><td>License:</td><td><span id="license"></span></td></tr><tr><td>Description:</td><td><span id="comment"></span></td></tr><tr><td>References:</td><td><span id="references"></span></td></tr></table>  
     <button id="exit">Close Dialog</button>  

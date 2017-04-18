@@ -1,0 +1,145 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<dictentries>
+        <about>
+        <author uri="https://www.wikidata.org/entity/Q482980">Timo Homburg</author>
+        <license uri="https://www.wikidata.org/entity/Q79719" val="https://www.wikidata.org/entity/Q27016754">GPLv3</license>
+        <comment uri="http://www.w3.org/2000/01/rdf-schema#comment">Cuneiform Luwian Unicode Dictionary. This dictionary contains Sumerian base forms of words and shall be a basis for Natural Language Processing on the Luwian language.</comment>
+        <references uri="https://www.wikidata.org/entity/Q134995" val="luvlex"><reference uri="https://www.wikidata.org/entity/Q121769"><a href="http://www.linguistics.ucla.edu/people/Melchert/webpage/LUVLEX.pdf">Luwian Lexicon by Melchert</a></reference>
+        </references>
+    </about>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q178885">
+<transliteration transcription="D">D</transliteration>
+<translation locale="en">god</translation>
+<postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
+𒀭</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="alauwaima">D-A-la-u-wa-i-ma</transliteration>
+<translation locale="en">Alauwaima</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒀀𒆷𒌋𒉿𒄿𒈠</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="ataliya">D-A-ta-li-ya</transliteration>
+<translation locale="en">Antaliya</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒀀𒋫𒇷𒉿</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q676297">
+<transliteration transcription="Arma">D-Ar-ma</transliteration>
+<translation locale="en">Arma</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒅈𒈠</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Gulza">D-Gul-za</transliteration>
+<translation locale="en">Gulza</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒄢𒍝</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Gurnuwala">D-Gur-nu-u-wa-la</transliteration>
+<translation locale="en">Gurnuwala</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒄥𒉡𒌋𒉿𒆷</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q774158">
+<transliteration transcription="Kamruszepa">D-Kam-ru-sze-pa</transliteration>
+<translation locale="en">Kamrushepa</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒄰𒊒𒊺𒉺</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q21996165">
+<transliteration transcription="D-Im-mar-ni">D-Im-mar-ni</transliteration>
+<translation locale="en">Immarni</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒀭𒅎𒈥𒉌</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q181007">
+<transliteration transcription="Hadusza">URU-Ha-ad-du-sza</transliteration>
+<translation locale="en">Hattusa</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒄩𒀜𒁺𒊭</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q557517">
+<transliteration transcription="Ankuwa">URU-A-an-ku-wa</transliteration>
+<translation locale="en">Ankuwa</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒀀𒀭𒆪𒉿</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Imrala">URU-Im-ra-al-la</transliteration>
+<translation locale="en">Imrala</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒅎𒊏𒀠𒆷</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Takuszna">URU-Ta-ku-usz-na</transliteration>
+<translation locale="en">Takushna</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒋫𒆪𒍑𒈾</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Ziplanda">URU-Zi-ip-pa-la-an-da</transliteration>
+<translation locale="en">Ziplanda</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒍣𒅁𒉺𒆷𒀭𒁕</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Taurisziza">URU-Ta-u2-ri-szi-iz-za</transliteration>
+<translation locale="en">Taurisa</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒋫𒌑𒊑𒅆𒄑𒍝</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Szapiduwa">URU-Sza-pi2-id-du-wa</transliteration>
+<translation locale="en">Shapiduwa</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒊭𒁉𒀉𒁺𒉿</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Kaplawiya">URU-Kap-la-u2-i-ya</transliteration>
+<translation locale="en">Kaplawiya</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒆏𒆷𒌑𒄿𒉿</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Gurszamaszsza">URU-Gur-sza-masz-sza</transliteration>
+<translation locale="en">Gursha Masha</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒄥𒊭𒈦𒊭</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="Anzura">URU-An-zu-ra</transliteration>
+<translation locale="en">Anzura</translation>
+<postag uri="http://purl.org/olia/olia.owl#NamedEntity">NE</postag>
+𒌷𒀭𒍪𒊏</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q679">
+<transliteration transcription="ipatarma">i-pa-tar-ma</transliteration>
+<translation locale="en">west</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄿𒉺𒋻𒈠</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q204776">
+<transliteration transcription="kupisz">GISZ-ku-up-pi2-isz</transliteration>
+<translation locale="en">bench</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒄑𒆪𒌒𒁉𒅖</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q3328976">
+<transliteration transcription="kula">ku-u-la</transliteration>
+<translation locale="en">link</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒆪𒌋𒆷</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q160108">
+<transliteration transcription="lalpi">la-al-pi2</transliteration>
+<translation locale="en">eyelash</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒆷𒀠𒁉</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q930164">
+<transliteration transcription="kukupalatar">ku-ku-pa-la-a-tar</transliteration>
+<translation locale="en">conspiracy</translation>
+<postag uri="http://purl.org/olia/olia.owl#Noun">NN</postag>
+𒆪𒆪𒉺𒆷𒀀𒋻</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q515">
+<transliteration transcription="URU">URU</transliteration>
+<translation locale="en">city</translation>
+<postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
+𒌷</dictentry>
+<dictentry ref="luvlex" concept="https://www.wikidata.org/entity/Q15332388">
+<transliteration transcription="anan">an-na-a-an</transliteration>
+<translation locale="en">below</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒀭𒈾𒀀𒀭</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="szara">szar-ra</transliteration>
+<translation locale="en">on</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒊬𒊏</dictentry>
+<dictentry ref="luvlex">
+<transliteration transcription="szari">szar-ri</transliteration>
+<translation locale="en">above</translation>
+<postag uri="http://purl.org/olia/olia.owl#Preposition">PREP</postag>
+𒊬𒊑</dictentry>
+</dictentries>

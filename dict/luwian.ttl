@@ -12,7 +12,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q5113> .
 
 <https://www.wikidata.org/entity/Q1193004>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q5113>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -49,7 +49,7 @@
                 <https://www.wikidata.org/entity/Q190> .
 
 <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔖬_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -68,7 +68,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q83301> .
 
 <https://www.wikidata.org/entity/Q28050776>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://purl.org/olia/ubyCat.owl#has_partOfSpeech>
         a       owl:ObjectProperty .
@@ -102,10 +102,10 @@
                 <https://www.wikidata.org/entity/Q25294> .
 
 <https://www.wikidata.org/entity/Q405>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://www.wikidata.org/entity/Q3947>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔕭_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -116,7 +116,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q883211> .
 
 <https://www.wikidata.org/entity/Q474188>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔔭_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -147,7 +147,7 @@
                 <http://purl.org/olia/olia.owl#Noun> .
 
 <https://www.wikidata.org/wiki/Q15807>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://www.linkedmodel.org/schema/vaem#hasLicenseType>
         a       owl:ObjectProperty .
@@ -181,10 +181,10 @@
                 <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021> .
 
 <https://www.wikidata.org/entity/Q33767>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://www.wikidata.org/entity/Q37726>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔓾_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -207,13 +207,13 @@
                 <https://www.wikidata.org/entity/Q1193004> .
 
 <https://www.wikidata.org/entity/Q49404>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://www.linkedmodel.org/schema/vaem#owner>
         a       owl:DatatypeProperty .
 
 <https://www.wikidata.org/entity/Q726>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔔂_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -239,19 +239,19 @@
         a       owl:ObjectProperty .
 
 <https://www.wikidata.org/entity/Q178743>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://www.wikidata.org/entity/Q82025>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://lemon-model.net/lemon#representation>
         a       owl:DatatypeProperty .
 
 <https://www.wikidata.org/entity/Q183905>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://www.wikidata.org/entity/Q133105>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔒂_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -417,7 +417,7 @@
         a       owl:Class .
 
 <https://www.wikidata.org/entity/Q5113>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q7802>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -461,7 +461,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q82025> .
 
 <https://www.wikidata.org/entity/Q679>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q23640>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -486,7 +486,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#𔐿_form> .
 
 <https://www.wikidata.org/entity/Q1347864>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://lemon-model.net/lemon#isFormOf>
         a       owl:ObjectProperty .
@@ -604,7 +604,7 @@
         a       owl:Class .
 
 <https://www.wikidata.org/entity/Q162244>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://lemon-model.net/lemon#LexicalForm>
         a       owl:Class .
@@ -630,7 +630,7 @@
                 <https://www.wikidata.org/entity/Q525> .
 
 <https://www.wikidata.org/entity/Q190>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔕒_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -702,13 +702,13 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q190> .
 
 <https://www.wikidata.org/entity/Q8441>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://purl.org/olia/ubyCat.owl#partOfSpeech>
         a       owl:ObjectProperty .
 
 <https://www.wikidata.org/entity/Q11748378>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://purl.org/olia/olia.owl#Verb>
         a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
@@ -754,7 +754,7 @@
                 "𔐣" .
 
 <https://www.wikidata.org/entity/Q7569>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔖫_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -781,7 +781,7 @@
                 <http://purl.org/olia/olia.owl#Noun> .
 
 <https://www.wikidata.org/entity/Q12097>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔓚_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -797,7 +797,7 @@
         rdfs:range   <https://github.com/situx/ontology/cuneiform#Tablet> , xsd:string .
 
 <https://www.wikidata.org/entity/Q25294>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q178743>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -907,7 +907,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#𔐛_form> .
 
 <https://www.wikidata.org/entity/Q577>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔔰_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -925,7 +925,7 @@
         a       owl:Class .
 
 <https://www.wikidata.org/wiki/Q34442>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔐜_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -951,7 +951,7 @@
         a       owl:DatatypeProperty .
 
 <https://www.wikidata.org/entity/Q11081619>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔐰_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1016,7 +1016,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q11081619> .
 
 <https://www.wikidata.org/entity/Q332209>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔑴_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1031,7 +1031,7 @@
                 <http://purl.org/olia/olia.owl#Noun> .
 
 <https://www.wikidata.org/entity/Q8502>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔕿_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1046,7 +1046,7 @@
                 <http://purl.org/olia/olia.owl#Noun> .
 
 <https://www.wikidata.org/entity/Q4489450>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔔯_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -1057,10 +1057,10 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q474188> .
 
 <https://www.wikidata.org/entity/Q16743864>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1464>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform#contains>
         a            owl:ObjectProperty ;
@@ -1112,7 +1112,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q37726> .
 
 <https://www.wikidata.org/entity/Q23390>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔓀_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1134,7 +1134,7 @@
         <http://lemon-model.net/lemon#writtenRep>
                 "𔑀" .
 
-<http://lemon-model.net/lemon#LemonReference>
+<http://lemon-model.net/lemon#OntologyReference>
         a       owl:Class .
 
 <http://lemon-model.net/lemon#writtenRep>
@@ -1161,7 +1161,7 @@
                 <https://www.wikidata.org/entity/Q162244> .
 
 <https://www.wikidata.org/entity/Q23640>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔐰_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -1180,7 +1180,7 @@
                 <https://www.wikidata.org/entity/Q203788> .
 
 <https://www.wikidata.org/entity/Q467>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔔻_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -1238,7 +1238,7 @@
                 <https://www.wikidata.org/entity/Q4489450> .
 
 <https://www.wikidata.org/entity/Q525>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔑈_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1276,7 +1276,7 @@
         rdfs:range   xsd:string .
 
 <https://www.wikidata.org/entity/Q40843>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔕐_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1299,10 +1299,10 @@
                 <https://www.wikidata.org/entity/Q405> .
 
 <https://www.wikidata.org/wiki/Q684>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://www.wikidata.org/entity/Q83301>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q11748378>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -1375,7 +1375,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#𔓀_form> .
 
 <https://www.wikidata.org/entity/Q32489>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔑀_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -1428,7 +1428,7 @@
         a       <http://purl.org/olia/ubyCat.owl#PartOfSpeech> .
 
 <https://www.wikidata.org/entity/Q2731419>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔖙_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1441,7 +1441,7 @@
                 "𔖙" .
 
 <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔐑_form>
         a           <http://lemon-model.net/lemon#LexicalForm> ;
@@ -1495,7 +1495,7 @@
                 <https://www.wikidata.org/entity/Q3947> .
 
 <https://www.wikidata.org/entity/Q9614>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <http://lemon-model.net/lemon#sense>
         a            owl:ObjectProperty ;
@@ -1630,7 +1630,7 @@
                 <http://purl.org/olia/olia.owl#Verb> .
 
 <https://www.wikidata.org/entity/Q883211>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q11081619>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -1670,7 +1670,7 @@
         a       owl:Class .
 
 <https://www.wikidata.org/entity/Q515>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔓑_word>
         a           <http://lemon-model.net/lemon#Word> ;
@@ -1709,7 +1709,7 @@
                 <http://purl.org/olia/olia.owl#Noun> .
 
 <https://www.wikidata.org/entity/Q203788>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#Q15807>
         a           <http://lemon-model.net/lemon#LexicalSense> ;
@@ -1728,7 +1728,7 @@
                 <https://github.com/situx/ontology/cuneiform/word#Q12097> .
 
 <http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_489>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/en>
         a           <http://lemon-model.net/lemon#Lexicon> ;
@@ -1870,7 +1870,7 @@
                 <https://www.wikidata.org/entity/Q1347864> .
 
 <https://www.wikidata.org/entity/Q7802>
-        a       <http://lemon-model.net/lemon#LemonReference> .
+        a       <http://lemon-model.net/lemon#OntologyReference> .
 
 <https://github.com/situx/ontology/cuneiform/word#𔐖_word>
         a           <http://lemon-model.net/lemon#Word> ;

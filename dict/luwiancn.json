@@ -1,0 +1,475 @@
+{"dictentries": {
+    "about": {
+        "license": {
+            "val": "https://www.wikidata.org/entity/Q27016754",
+            "uri": "https://www.wikidata.org/entity/Q79719",
+            "content": "GPLv3"
+        },
+        "references": {
+            "val": "luvlex",
+            "reference": {
+                "a": {
+                    "href": "http://www.linguistics.ucla.edu/people/Melchert/webpage/LUVLEX.pdf",
+                    "content": "Luwian Lexicon by Melchert"
+                },
+                "uri": "https://www.wikidata.org/entity/Q121769"
+            },
+            "uri": "https://www.wikidata.org/entity/Q134995"
+        },
+        "author": {
+            "uri": "https://www.wikidata.org/entity/Q482980",
+            "content": "Timo Homburg"
+        },
+        "comment": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "content": "Cuneiform Luwian Unicode Dictionary. This dictionary contains Sumerian base forms of words and shall be a basis for Natural Language Processing on the Luwian language."
+        }
+    },
+    "dictentry": [
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q178885",
+            "translation": {
+                "locale": "en",
+                "content": "god"
+            },
+            "transliteration": {
+                "transcription": "D",
+                "content": "D"
+            },
+            "content": "𒀭"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Alauwaima"
+            },
+            "transliteration": {
+                "transcription": "alauwaima",
+                "content": "D-A-la-u-wa-i-ma"
+            },
+            "content": "𒀭𒀀𒆷𒌋𒉿𒄿𒈠"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Antaliya"
+            },
+            "transliteration": {
+                "transcription": "ataliya",
+                "content": "D-A-ta-li-ya"
+            },
+            "content": "𒀭𒀀𒋫𒇷𒉿"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q676297",
+            "translation": {
+                "locale": "en",
+                "content": "Arma"
+            },
+            "transliteration": {
+                "transcription": "Arma",
+                "content": "D-Ar-ma"
+            },
+            "content": "𒀭𒅈𒈠"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Gulza"
+            },
+            "transliteration": {
+                "transcription": "Gulza",
+                "content": "D-Gul-za"
+            },
+            "content": "𒀭𒄢𒍝"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Gurnuwala"
+            },
+            "transliteration": {
+                "transcription": "Gurnuwala",
+                "content": "D-Gur-nu-u-wa-la"
+            },
+            "content": "𒀭𒄥𒉡𒌋𒉿𒆷"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q774158",
+            "translation": {
+                "locale": "en",
+                "content": "Kamrushepa"
+            },
+            "transliteration": {
+                "transcription": "Kamruszepa",
+                "content": "D-Kam-ru-sze-pa"
+            },
+            "content": "𒀭𒄰𒊒𒊺𒉺"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q21996165",
+            "translation": {
+                "locale": "en",
+                "content": "Immarni"
+            },
+            "transliteration": {
+                "transcription": "D-Im-mar-ni",
+                "content": "D-Im-mar-ni"
+            },
+            "content": "𒀭𒅎𒈥𒉌"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q181007",
+            "translation": {
+                "locale": "en",
+                "content": "Hattusa"
+            },
+            "transliteration": {
+                "transcription": "Hadusza",
+                "content": "URU-Ha-ad-du-sza"
+            },
+            "content": "𒌷𒄩𒀜𒁺𒊭"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "concept": "https://www.wikidata.org/entity/Q557517",
+            "translation": {
+                "locale": "en",
+                "content": "Ankuwa"
+            },
+            "transliteration": {
+                "transcription": "Ankuwa",
+                "content": "URU-A-an-ku-wa"
+            },
+            "content": "𒌷𒀀𒀭𒆪𒉿"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Imrala"
+            },
+            "transliteration": {
+                "transcription": "Imrala",
+                "content": "URU-Im-ra-al-la"
+            },
+            "content": "𒌷𒅎𒊏𒀠𒆷"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Takushna"
+            },
+            "transliteration": {
+                "transcription": "Takuszna",
+                "content": "URU-Ta-ku-usz-na"
+            },
+            "content": "𒌷𒋫𒆪𒍑𒈾"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Ziplanda"
+            },
+            "transliteration": {
+                "transcription": "Ziplanda",
+                "content": "URU-Zi-ip-pa-la-an-da"
+            },
+            "content": "𒌷𒍣𒅁𒉺𒆷𒀭𒁕"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Taurisa"
+            },
+            "transliteration": {
+                "transcription": "Taurisziza",
+                "content": "URU-Ta-u2-ri-szi-iz-za"
+            },
+            "content": "𒌷𒋫𒌑𒊑𒅆𒄑𒍝"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Shapiduwa"
+            },
+            "transliteration": {
+                "transcription": "Szapiduwa",
+                "content": "URU-Sza-pi2-id-du-wa"
+            },
+            "content": "𒌷𒊭𒁉𒀉𒁺𒉿"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Kaplawiya"
+            },
+            "transliteration": {
+                "transcription": "Kaplawiya",
+                "content": "URU-Kap-la-u2-i-ya"
+            },
+            "content": "𒌷𒆏𒆷𒌑𒄿𒉿"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Gursha Masha"
+            },
+            "transliteration": {
+                "transcription": "Gurszamaszsza",
+                "content": "URU-Gur-sza-masz-sza"
+            },
+            "content": "𒌷𒄥𒊭𒈦𒊭"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#NamedEntity",
+                "content": "NE"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "Anzura"
+            },
+            "transliteration": {
+                "transcription": "Anzura",
+                "content": "URU-An-zu-ra"
+            },
+            "content": "𒌷𒀭𒍪𒊏"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q679",
+            "translation": {
+                "locale": "en",
+                "content": "west"
+            },
+            "transliteration": {
+                "transcription": "ipatarma",
+                "content": "i-pa-tar-ma"
+            },
+            "content": "𒄿𒉺𒋻𒈠"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q204776",
+            "translation": {
+                "locale": "en",
+                "content": "bench"
+            },
+            "transliteration": {
+                "transcription": "kupisz",
+                "content": "GISZ-ku-up-pi2-isz"
+            },
+            "content": "𒄑𒆪𒌒𒁉𒅖"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3328976",
+            "translation": {
+                "locale": "en",
+                "content": "link"
+            },
+            "transliteration": {
+                "transcription": "kula",
+                "content": "ku-u-la"
+            },
+            "content": "𒆪𒌋𒆷"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q160108",
+            "translation": {
+                "locale": "en",
+                "content": "eyelash"
+            },
+            "transliteration": {
+                "transcription": "lalpi",
+                "content": "la-al-pi2"
+            },
+            "content": "𒆷𒀠𒁉"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
+            },
+            "concept": "https://www.wikidata.org/entity/Q930164",
+            "translation": {
+                "locale": "en",
+                "content": "conspiracy"
+            },
+            "transliteration": {
+                "transcription": "kukupalatar",
+                "content": "ku-ku-pa-la-a-tar"
+            },
+            "content": "𒆪𒆪𒉺𒆷𒀀𒋻"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q515",
+            "translation": {
+                "locale": "en",
+                "content": "city"
+            },
+            "transliteration": {
+                "transcription": "URU",
+                "content": "URU"
+            },
+            "content": "𒌷"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "concept": "https://www.wikidata.org/entity/Q15332388",
+            "translation": {
+                "locale": "en",
+                "content": "below"
+            },
+            "transliteration": {
+                "transcription": "anan",
+                "content": "an-na-a-an"
+            },
+            "content": "𒀭𒈾𒀀𒀭"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "on"
+            },
+            "transliteration": {
+                "transcription": "szara",
+                "content": "szar-ra"
+            },
+            "content": "𒊬𒊏"
+        },
+        {
+            "ref": "luvlex",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Preposition",
+                "content": "PREP"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "above"
+            },
+            "transliteration": {
+                "transcription": "szari",
+                "content": "szar-ri"
+            },
+            "content": "𒊬𒊑"
+        }
+    ]
+}}
