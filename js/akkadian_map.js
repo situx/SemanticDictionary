@@ -6138,7 +6138,7 @@ var akkadian_map={"mapentries": {"mapentry": [
             }
         ],
         "meaning": {
-            "concept": null,
+            "concept": "https://www.wikidata.org/wiki/Q140",
             "content": "lion"
         },
         "concept": "",
@@ -6856,7 +6856,7 @@ var akkadian_map={"mapentries": {"mapentry": [
             }
         ],
         "meaning": {
-            "concept": null,
+            "concept": "https://www.wikidata.org/wiki/Q140",
             "content": "lion"
         },
         "concept": "",
@@ -9026,7 +9026,7 @@ var akkadian_map={"mapentries": {"mapentry": [
             }
         ],
         "meaning": {
-            "concept": null,
+            "concept": "https://www.wikidata.org/wiki/Q9635",
             "content": "mouth"
         },
         "concept": "",
@@ -9772,7 +9772,7 @@ var akkadian_map={"mapentries": {"mapentry": [
             }
         ],
         "meaning": {
-            "concept": null,
+            "concept": "https://www.wikidata.org/wiki/Q9635",
             "content": "mouth"
         },
         "concept": "",
@@ -11356,7 +11356,7 @@ var akkadian_map={"mapentries": {"mapentry": [
     },
     {
         "meaning": {
-            "concept": null,
+            "concept": "https://www.wikidata.org/wiki/Q81710",
             "content": "shepherd"
         },
         "transliteration": {

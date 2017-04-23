@@ -1,4 +1,62 @@
 var akkadian={"dictentries": {
+    "patterns": {"pattern": [
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "SINGULAR",
+            "rep": "transliteration",
+            "wordcase": "GENITIVE",
+            "content": "~im"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "SINGULAR",
+            "rep": "transliteration",
+            "wordcase": "NOMINATIVE",
+            "content": "~um"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "SINGULAR",
+            "rep": "transliteration",
+            "wordcase": "ACCUSATIVE",
+            "content": "~am"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "DUAL",
+            "rep": "transliteration",
+            "wordcase": "NOMINATIVE",
+            "content": "~an"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "DUAL",
+            "rep": "transliteration",
+            "wordcase": "GENITIVE-ACCUSATIVE",
+            "content": "~in"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "PLURAL",
+            "rep": "transliteration",
+            "wordcase": "NOMINATIVE",
+            "content": "~an"
+        },
+        {
+            "gender": "MALE",
+            "pos": "NN",
+            "person": "PLURAL",
+            "rep": "transliteration",
+            "wordcase": "GENITIVE-ACCUSATIVE",
+            "content": "~in"
+        }
+    ]},
     "about": {
         "license": {
             "val": "https://www.wikidata.org/wiki/Q27016754",
@@ -18109,6 +18167,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q134560",
             "translation": {
                 "locale": "en",
                 "content": "belt"
@@ -18132,6 +18191,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q58",
             "translation": {
                 "locale": "en",
                 "content": "penis"
@@ -18380,6 +18440,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9384",
             "translation": {
                 "locale": "en",
                 "content": "testicle"
@@ -18403,6 +18464,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q124695",
             "translation": {
                 "locale": "en",
                 "content": "wax"
@@ -18449,6 +18511,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q124695",
             "translation": {
                 "locale": "en",
                 "content": "wax"
@@ -18472,6 +18535,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q27158601",
             "translation": {
                 "locale": "en",
                 "content": "weaver"
@@ -18495,6 +18559,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q222560",
             "translation": {
                 "locale": "en",
                 "content": "quiver"
@@ -18541,6 +18606,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178885",
             "translation": {
                 "locale": "en",
                 "content": "goddess"
@@ -18564,6 +18630,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q199",
             "translation": {
                 "locale": "en",
                 "content": "one"
@@ -18587,6 +18654,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q659",
             "translation": {
                 "locale": "en",
                 "content": "North"
@@ -18610,6 +18678,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q199",
             "translation": {
                 "locale": "en",
                 "content": "one"
@@ -18633,6 +18702,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3196",
             "translation": {
                 "locale": "en",
                 "content": "fire"
@@ -18714,6 +18784,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1463658",
             "translation": {
                 "locale": "en",
                 "content": "(pot)sherd"
@@ -18789,6 +18860,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10884",
             "translation": {
                 "locale": "en",
                 "content": "tree"
@@ -18835,6 +18907,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q524738",
             "translation": {
                 "locale": "en",
                 "content": "weathervane"
@@ -19217,6 +19290,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17305500",
             "translation": {
                 "locale": "en",
                 "content": "stone-carver"
@@ -20174,6 +20248,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q766983",
             "translation": {
                 "locale": "en",
                 "content": "jar"
@@ -20197,6 +20272,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2488752",
             "translation": {
                 "locale": "en",
                 "content": "earth"
@@ -20220,6 +20296,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q14748",
             "translation": {
                 "locale": "en",
                 "content": "a table"
@@ -20243,6 +20320,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q27949283",
             "translation": [
                 {
                     "locale": "en",
@@ -20445,6 +20523,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q532",
             "translation": {
                 "locale": "en",
                 "content": "village"
@@ -20468,6 +20547,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1308239",
             "translation": {
                 "locale": "en",
                 "content": "buyer"
@@ -20636,6 +20716,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1807269",
             "translation": {
                 "locale": "en",
                 "content": "leek"
@@ -20659,6 +20740,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3839081",
             "translation": {
                 "locale": "en",
                 "content": "disaster"
@@ -20682,6 +20764,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1584134",
             "translation": [
                 {
                     "locale": "en",
@@ -20734,6 +20817,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17379525",
             "translation": {
                 "locale": "en",
                 "content": "(clay) pot"
@@ -20757,6 +20841,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q26898064",
             "translation": {
                 "locale": "en",
                 "content": "knob"
@@ -20932,6 +21017,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q917284",
             "translation": {
                 "locale": "en",
                 "content": "vine"
@@ -20975,9 +21061,10 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Adjective",
-                "content": "ADJ"
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3839081",
             "translation": [
                 {
                     "locale": "en",
@@ -21063,6 +21150,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1090",
             "translation": {
                 "locale": "en",
                 "content": "silver"
@@ -21200,6 +21288,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2488579",
             "translation": [
                 {
                     "locale": "en",
@@ -21229,6 +21318,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2488579",
             "translation": [
                 {
                     "locale": "en",
@@ -21255,9 +21345,10 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Adjective",
-                "content": "ADJ"
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29017578",
             "translation": {
                 "locale": "en",
                 "content": "a predatory animal"
@@ -21301,8 +21392,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": [
                 {
@@ -21333,6 +21424,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1390",
             "translation": {
                 "locale": "en",
                 "content": "an insect"
@@ -21418,6 +21510,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2488257",
             "translation": {
                 "locale": "en",
                 "content": "sorceress"
@@ -21461,8 +21554,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -21553,6 +21646,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q694116",
             "translation": {
                 "locale": "en",
                 "content": "miller"
@@ -21576,6 +21670,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q244158",
             "translation": {
                 "locale": "en",
                 "content": "skipping rope"
@@ -21759,6 +21854,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15645384",
             "translation": {
                 "locale": "en",
                 "content": "wheat"
@@ -21782,6 +21878,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10566551",
             "translation": [
                 {
                     "locale": "en",
@@ -21811,6 +21908,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2302116",
             "translation": [
                 {
                     "locale": "en",
@@ -21840,6 +21938,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42948",
             "translation": [
                 {
                     "locale": "en",
@@ -21915,6 +22014,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q173387",
             "translation": [
                 {
                     "locale": "en",
@@ -21944,6 +22044,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q79871",
             "translation": [
                 {
                     "locale": "en",
@@ -21973,6 +22074,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q8436",
             "translation": {
                 "locale": "en",
                 "content": "family"
@@ -21996,6 +22098,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q703534",
             "translation": [
                 {
                     "locale": "en",
@@ -22025,6 +22128,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4785",
             "translation": {
                 "locale": "en",
                 "content": "a nest"
@@ -22048,6 +22152,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q899035",
             "translation": {
                 "locale": "en",
                 "content": "brazier"
@@ -22071,6 +22176,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q899035",
             "translation": {
                 "locale": "en",
                 "content": "brazier"
@@ -22094,6 +22200,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17278",
             "translation": [
                 {
                     "locale": "en",
@@ -22196,6 +22303,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1135567",
             "translation": [
                 {
                     "locale": "en",
@@ -22225,6 +22333,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1724341",
             "translation": [
                 {
                     "locale": "en",
@@ -22329,6 +22438,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2873280",
             "translation": {
                 "locale": "en",
                 "content": "forecourt"
@@ -22421,6 +22531,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q41611",
             "translation": {
                 "locale": "en",
                 "content": "coriander"
@@ -22467,6 +22578,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2923673",
             "translation": [
                 {
                     "locale": "en",
@@ -22611,6 +22723,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q133346",
             "translation": {
                 "locale": "en",
                 "content": "border"
@@ -22634,6 +22747,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q268205",
             "translation": [
                 {
                     "locale": "en",
@@ -22696,6 +22810,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q45108",
             "translation": {
                 "locale": "en",
                 "content": "flax"
@@ -22742,6 +22857,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q8011071",
             "translation": {
                 "locale": "en",
                 "content": "animal-trainer"
@@ -22765,6 +22881,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10884",
             "translation": {
                 "locale": "en",
                 "content": "a tree"
@@ -22817,6 +22934,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1294787",
             "translation": {
                 "locale": "en",
                 "content": "craftsman"
@@ -22898,6 +23016,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2445511",
             "translation": [
                 {
                     "locale": "en",
@@ -22927,6 +23046,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2445511",
             "translation": [
                 {
                     "locale": "en",
@@ -22956,6 +23076,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1020767",
             "translation": {
                 "locale": "en",
                 "content": "(reed-)bundle"
@@ -23035,6 +23156,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q697295",
             "translation": {
                 "locale": "en",
                 "content": "shrine"
@@ -23055,8 +23177,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -23081,6 +23203,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29204029",
             "translation": [
                 {
                     "locale": "en",
@@ -23110,6 +23233,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13276",
             "translation": {
                 "locale": "en",
                 "content": "a cake"
@@ -23179,6 +23303,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1494647",
             "translation": {
                 "locale": "en",
                 "content": "a garden tool"
@@ -23202,6 +23327,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7386",
             "translation": {
                 "locale": "en",
                 "content": "ant"
@@ -23381,6 +23507,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23009538",
             "translation": {
                 "locale": "en",
                 "content": "addition"
@@ -23479,6 +23606,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q569250",
             "translation": [
                 {
                     "locale": "en",
@@ -23508,6 +23636,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q162919",
             "translation": {
                 "locale": "en",
                 "content": "(cylinder) seal"
@@ -23531,6 +23660,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29052259",
             "translation": {
                 "locale": "en",
                 "content": "emmer"
@@ -23554,6 +23684,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29052259",
             "translation": {
                 "locale": "en",
                 "content": "emmer"
@@ -23577,6 +23708,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q128685",
             "translation": {
                 "locale": "en",
                 "content": "eel?"
@@ -23600,6 +23732,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q167510",
             "translation": [
                 {
                     "locale": "en",
@@ -23773,6 +23906,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q16529344",
             "translation": {
                 "locale": "en",
                 "content": "goose"
@@ -23796,6 +23930,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11946202",
             "translation": {
                 "locale": "en",
                 "content": "butterfly"
@@ -23819,6 +23954,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q154365",
             "translation": {
                 "locale": "en",
                 "content": "the Underworld"
@@ -23888,6 +24024,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q942040",
             "translation": [
                 {
                     "locale": "en",
@@ -23946,6 +24083,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q44",
             "translation": {
                 "locale": "en",
                 "content": "a beer"
@@ -23969,6 +24107,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17144541",
             "translation": {
                 "locale": "en",
                 "content": "strap"
@@ -24021,6 +24160,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11946202",
             "translation": {
                 "locale": "en",
                 "content": "butterfly"
@@ -24044,6 +24184,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q18099",
             "translation": {
                 "locale": "en",
                 "content": "bison"
@@ -24067,6 +24208,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15026",
             "translation": [
                 {
                     "locale": "en",
@@ -24100,6 +24242,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q917714",
             "translation": [
                 {
                     "locale": "en",
@@ -24129,6 +24272,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3095365",
             "translation": [
                 {
                     "locale": "en",
@@ -24162,6 +24306,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q211423",
             "translation": [
                 {
                     "locale": "en",
@@ -24191,6 +24336,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4818701",
             "translation": [
                 {
                     "locale": "en",
@@ -24243,6 +24389,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q143870",
             "translation": {
                 "locale": "en",
                 "content": "wood-wasp"
@@ -24289,6 +24436,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q643352",
             "translation": {
                 "locale": "en",
                 "content": "a grass"
@@ -24312,6 +24460,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q170544",
             "translation": {
                 "locale": "en",
                 "content": "tent"
@@ -24335,6 +24484,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q40802",
             "translation": {
                 "locale": "en",
                 "content": "crab"
@@ -24358,6 +24508,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7493941",
             "translation": [
                 {
                     "locale": "en",
@@ -24387,6 +24538,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7632586",
             "translation": [
                 {
                     "locale": "en",
@@ -24416,6 +24568,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1311",
             "translation": [
                 {
                     "locale": "en",
@@ -24445,6 +24598,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1311",
             "translation": {
                 "locale": "en",
                 "content": "winter(\u2019s)"
@@ -24524,6 +24678,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2846544",
             "translation": [
                 {
                     "locale": "en",
@@ -24776,6 +24931,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q221455",
             "translation": {
                 "locale": "en",
                 "content": "a reed"
@@ -25104,6 +25260,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42603",
             "translation": {
                 "locale": "en",
                 "content": "a priest"
@@ -25184,6 +25341,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q382386",
             "translation": {
                 "locale": "en",
                 "content": "a vessel"
@@ -25973,6 +26131,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7368",
             "translation": [
                 {
                     "locale": "en",
@@ -26085,6 +26244,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15292",
             "translation": [
                 {
                     "locale": "en",
@@ -26248,6 +26408,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q183905",
             "translation": [
                 {
                     "locale": "en",
@@ -26277,6 +26438,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q183905",
             "translation": [
                 {
                     "locale": "en",
@@ -26352,6 +26514,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q16744570",
             "translation": {
                 "locale": "en",
                 "content": "(type of) tablet"
@@ -26444,6 +26607,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6395545",
             "translation": {
                 "locale": "en",
                 "content": "(bronze) kettledrum"
@@ -26667,6 +26831,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11748378",
             "translation": {
                 "locale": "en",
                 "content": "cow"
@@ -26690,6 +26855,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11748378",
             "translation": {
                 "locale": "en",
                 "content": "cow"
@@ -26874,6 +27040,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23390",
             "translation": [
                 {
                     "locale": "en",
@@ -27198,6 +27365,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q140",
             "translation": {
                 "locale": "en",
                 "content": "lion"
@@ -27279,6 +27447,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q140",
             "translation": {
                 "locale": "en",
                 "content": "lion"
@@ -27302,6 +27471,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1335296",
             "translation": [
                 {
                     "locale": "en",
@@ -27364,6 +27534,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47038",
             "translation": {
                 "locale": "en",
                 "content": "cheek"
@@ -27416,6 +27587,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178024",
             "translation": {
                 "locale": "en",
                 "content": "dough"
@@ -27514,6 +27686,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q446",
             "translation": {
                 "locale": "en",
                 "content": "wheel"
@@ -27537,6 +27710,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q474188",
             "translation": {
                 "locale": "en",
                 "content": "chisel"
@@ -27710,6 +27884,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6422240",
             "translation": {
                 "locale": "en",
                 "content": "property"
@@ -27756,6 +27931,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6422240",
             "translation": {
                 "locale": "en",
                 "content": "property"
@@ -27858,6 +28034,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q152234",
             "translation": {
                 "locale": "en",
                 "content": "dropsical"
@@ -27881,6 +28058,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q45199",
             "translation": {
                 "locale": "en",
                 "content": "sailor"
@@ -28057,6 +28235,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1135221",
             "translation": [
                 {
                     "locale": "en",
@@ -28115,6 +28294,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q19063197",
             "translation": [
                 {
                     "locale": "en",
@@ -28198,6 +28378,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4164871",
             "translation": {
                 "locale": "en",
                 "content": "position"
@@ -28221,6 +28402,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4164871",
             "translation": {
                 "locale": "en",
                 "content": "position"
@@ -28313,6 +28495,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1264081",
             "translation": {
                 "locale": "en",
                 "content": "censer"
@@ -28359,6 +28542,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11788",
             "translation": {
                 "locale": "en",
                 "content": "bear"
@@ -28405,6 +28589,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11693",
             "translation": [
                 {
                     "locale": "en",
@@ -28457,6 +28642,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1517187",
             "translation": {
                 "locale": "en",
                 "content": "bitter"
@@ -28480,6 +28666,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q64386",
             "translation": {
                 "locale": "en",
                 "content": "gall bladder"
@@ -28667,6 +28854,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q409087",
             "translation": {
                 "locale": "en",
                 "content": "marcasite (a stone)"
@@ -28946,6 +29134,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42177",
             "translation": {
                 "locale": "en",
                 "content": "bed"
@@ -28969,6 +29158,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42177",
             "translation": {
                 "locale": "en",
                 "content": "bed"
@@ -28992,6 +29182,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11464",
             "translation": {
                 "locale": "en",
                 "content": "plough"
@@ -29015,6 +29206,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42177",
             "translation": [
                 {
                     "locale": "en",
@@ -29044,6 +29236,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11464",
             "translation": {
                 "locale": "en",
                 "content": "plough"
@@ -29090,6 +29283,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4164871",
             "translation": {
                 "locale": "en",
                 "content": "position"
@@ -29159,6 +29353,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q35872",
             "translation": {
                 "locale": "en",
                 "content": "a boat"
@@ -29257,6 +29452,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q209042",
             "translation": {
                 "locale": "en",
                 "content": "harrow"
@@ -29313,6 +29509,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1074",
             "translation": {
                 "locale": "en",
                 "content": "skin"
@@ -29336,6 +29533,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47107",
             "translation": {
                 "locale": "en",
                 "content": "(leather) bucket"
@@ -29461,6 +29659,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1068543",
             "translation": {
                 "locale": "en",
                 "content": "chamber"
@@ -29744,6 +29943,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1640824",
             "translation": {
                 "locale": "en",
                 "content": "inscription"
@@ -29767,6 +29967,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12806",
             "translation": {
                 "locale": "en",
                 "content": "abacus"
@@ -29813,6 +30014,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q842332",
             "translation": [
                 {
                     "locale": "en",
@@ -30039,6 +30241,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42857",
             "translation": [
                 {
                     "locale": "en",
@@ -30340,6 +30543,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q30121",
             "translation": {
                 "locale": "en",
                 "content": "pasture"
@@ -30461,6 +30665,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q81054",
             "translation": {
                 "locale": "en",
                 "content": "storm"
@@ -30507,6 +30712,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11453",
             "translation": {
                 "locale": "en",
                 "content": "irrigation"
@@ -30553,6 +30759,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2132873",
             "translation": [
                 {
                     "locale": "en",
@@ -30582,6 +30789,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q8068",
             "translation": {
                 "locale": "en",
                 "content": "flooding"
@@ -30682,10 +30890,6 @@ var akkadian={"dictentries": {
         },
         {
             "ref": "akkdict",
-            "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
-            },
             "translation": {
                 "locale": "en",
                 "content": "perhaps"
@@ -30761,6 +30965,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q28367692",
             "translation": [
                 {
                     "locale": "en",
@@ -30996,6 +31201,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1066997",
             "translation": [
                 {
                     "locale": "en",
@@ -31208,6 +31414,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11460",
             "translation": {
                 "locale": "en",
                 "content": "a garment"
@@ -31358,6 +31565,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q45922",
             "translation": {
                 "locale": "en",
                 "content": "arrow"
@@ -31460,9 +31668,10 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4373466",
             "translation": {
                 "locale": "en",
-                "content": "gurantor"
+                "content": "guarantor"
             },
             "transliteration": [
                 {
@@ -31535,6 +31744,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1640824",
             "translation": {
                 "locale": "en",
                 "content": "inscription"
@@ -31627,6 +31837,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q212878",
             "translation": {
                 "locale": "en",
                 "content": "husband"
@@ -31898,6 +32109,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q27978698",
             "translation": {
                 "locale": "en",
                 "content": "wrestler"
@@ -31921,6 +32133,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q35197",
             "translation": {
                 "locale": "en",
                 "content": "metal mirror"
@@ -31944,6 +32157,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q28472",
             "translation": {
                 "locale": "en",
                 "content": "combed-out hair"
@@ -31967,6 +32181,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q472898",
             "translation": {
                 "locale": "en",
                 "content": "wet nurse"
@@ -32059,6 +32274,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23834",
             "translation": {
                 "locale": "en",
                 "content": "comb"
@@ -32138,6 +32354,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13147",
             "translation": {
                 "locale": "en",
                 "content": "skull"
@@ -32445,6 +32662,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1139055",
             "translation": {
                 "locale": "en",
                 "content": "tax-collector"
@@ -32468,6 +32686,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6460735",
             "translation": [
                 {
                     "locale": "en",
@@ -32520,6 +32739,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2994387",
             "translation": [
                 {
                     "locale": "en",
@@ -32572,6 +32792,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1511216",
             "translation": [
                 {
                     "locale": "en",
@@ -32601,6 +32822,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q16658574",
             "translation": {
                 "locale": "en",
                 "content": "sister-in-law"
@@ -32624,6 +32846,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q308194",
             "translation": {
                 "locale": "en",
                 "content": "daughter"
@@ -32722,6 +32945,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6256",
             "translation": [
                 {
                     "locale": "en",
@@ -32774,6 +32998,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q159979",
             "translation": [
                 {
                     "locale": "en",
@@ -32803,6 +33028,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12829182",
             "translation": [
                 {
                     "locale": "en",
@@ -32869,6 +33095,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15107531",
             "translation": [
                 {
                     "locale": "en",
@@ -32898,6 +33125,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11410",
             "translation": [
                 {
                     "locale": "en",
@@ -32927,6 +33155,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q208826",
             "translation": [
                 {
                     "locale": "en",
@@ -32934,7 +33163,7 @@ var akkadian={"dictentries": {
                 },
                 {
                     "locale": "en",
-                    "content": "attitude"
+                    "content": "altitude"
                 }
             ],
             "transliteration": [
@@ -32956,6 +33185,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11451",
             "translation": [
                 {
                     "locale": "en",
@@ -32985,6 +33215,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10791",
             "translation": [
                 {
                     "locale": "en",
@@ -33014,6 +33245,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11995",
             "translation": {
                 "locale": "en",
                 "content": "pregnancy"
@@ -33060,6 +33292,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11995",
             "translation": [
                 {
                     "locale": "en",
@@ -33115,9 +33348,10 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#InterrogativePronoun",
+                "content": "INTPRO"
             },
+            "concept": "https://www.wikidata.org/wiki/Q20656446",
             "translation": {
                 "locale": "en",
                 "content": "what?"
@@ -33164,6 +33398,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q5167661",
             "translation": {
                 "locale": "en",
                 "content": "justice"
@@ -33268,6 +33503,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q208826",
             "translation": {
                 "locale": "en",
                 "content": "height"
@@ -33291,6 +33527,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q81825",
             "translation": [
                 {
                     "locale": "en",
@@ -33349,6 +33586,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4",
             "translation": {
                 "locale": "en",
                 "content": "death"
@@ -33372,6 +33610,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q44512",
             "translation": {
                 "locale": "en",
                 "content": "epidemic"
@@ -33469,6 +33708,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q575",
             "translation": {
                 "locale": "en",
                 "content": "night"
@@ -33548,6 +33788,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q235544",
             "translation": [
                 {
                     "locale": "en",
@@ -33577,6 +33818,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q386724",
             "translation": {
                 "locale": "en",
                 "content": "creation"
@@ -33932,6 +34174,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13422881",
             "translation": [
                 {
                     "locale": "en",
@@ -33961,6 +34204,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3455524",
             "translation": [
                 {
                     "locale": "en",
@@ -34069,6 +34313,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q272937",
             "translation": {
                 "locale": "en",
                 "content": "treasure"
@@ -34092,6 +34337,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q44539",
             "translation": {
                 "locale": "en",
                 "content": "temple"
@@ -34165,8 +34411,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": [
                 {
@@ -34335,6 +34581,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q516992",
             "translation": [
                 {
                     "locale": "en",
@@ -34479,6 +34726,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9458574",
             "translation": {
                 "locale": "en",
                 "content": "wasp"
@@ -34502,6 +34750,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q167367",
             "translation": {
                 "locale": "en",
                 "content": "millipede"
@@ -34629,6 +34878,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q216774",
             "translation": {
                 "locale": "en",
                 "content": "fate"
@@ -34675,6 +34925,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q132041",
             "translation": {
                 "locale": "en",
                 "content": "key"
@@ -34860,6 +35111,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12791",
             "translation": {
                 "locale": "en",
                 "content": "sword"
@@ -34974,6 +35226,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q16364",
             "translation": [
                 {
                     "locale": "en",
@@ -35101,6 +35354,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q81825",
             "translation": {
                 "locale": "en",
                 "content": "caterpillar"
@@ -35124,6 +35378,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q81825",
             "translation": {
                 "locale": "en",
                 "content": "caterpillar"
@@ -35170,6 +35425,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q208103",
             "translation": {
                 "locale": "en",
                 "content": "bellows"
@@ -35193,6 +35449,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12427453",
             "translation": {
                 "locale": "en",
                 "content": "sieve"
@@ -35216,6 +35473,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15107531",
             "translation": [
                 {
                     "locale": "en",
@@ -35268,6 +35526,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q568285",
             "translation": {
                 "locale": "en",
                 "content": "evening meal"
@@ -35291,6 +35550,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q80973",
             "translation": {
                 "locale": "en",
                 "content": "morning meal"
@@ -35314,6 +35574,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6460735",
             "translation": {
                 "locale": "en",
                 "content": "meal(-time)"
@@ -35683,6 +35944,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4106463",
             "translation": {
                 "locale": "en",
                 "content": "greatness"
@@ -36554,6 +36816,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47521",
             "translation": [
                 {
                     "locale": "en",
@@ -38087,6 +38350,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13222088",
             "translation": {
                 "locale": "en",
                 "content": "pomegranate"
@@ -38940,6 +39204,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17611534",
             "translation": {
                 "locale": "en",
                 "content": "lioness"
@@ -39017,6 +39282,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q217651",
             "translation": [
                 {
                     "locale": "en",
@@ -39129,6 +39395,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q203290",
             "translation": [
                 {
                     "locale": "en",
@@ -39304,6 +39571,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q170494",
             "translation": [
                 {
                     "locale": "en",
@@ -39379,6 +39647,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2048319",
             "translation": [
                 {
                     "locale": "en",
@@ -39701,6 +39970,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6692423",
             "translation": {
                 "locale": "en",
                 "content": "(homosexual) lover"
@@ -40225,6 +40495,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q272990",
             "translation": {
                 "locale": "en",
                 "content": "(battle) mace?"
@@ -40891,6 +41162,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q213761",
             "translation": {
                 "locale": "en",
                 "content": "spindle"
@@ -40914,6 +41186,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7444705",
             "translation": [
                 {
                     "locale": "en",
@@ -41165,6 +41438,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q516626",
             "translation": {
                 "locale": "en",
                 "content": "terror"
@@ -41188,6 +41462,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1503443",
             "translation": {
                 "locale": "en",
                 "content": "secret"
@@ -41234,6 +41509,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q188075",
             "translation": [
                 {
                     "locale": "en",
@@ -41286,6 +41562,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q11064354",
             "translation": [
                 {
                     "locale": "en",
@@ -41423,6 +41700,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q15872",
             "translation": {
                 "locale": "en",
                 "content": "gecko"
@@ -41469,6 +41747,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q600571",
             "translation": [
                 {
                     "locale": "en",
@@ -41521,6 +41800,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10884",
             "translation": {
                 "locale": "en",
                 "content": "a tree"
@@ -41590,6 +41870,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q44619",
             "translation": {
                 "locale": "en",
                 "content": "fear(someness)"
@@ -41659,6 +41940,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17319698",
             "translation": [
                 {
                     "locale": "en",
@@ -41711,6 +41993,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17190136",
             "translation": {
                 "locale": "en",
                 "content": "decision"
@@ -41757,6 +42040,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q133105",
             "translation": {
                 "locale": "en",
                 "content": "leg"
@@ -41888,6 +42172,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q159554",
             "translation": {
                 "locale": "en",
                 "content": "purslane"
@@ -41940,6 +42225,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1752346",
             "translation": {
                 "locale": "en",
                 "content": "assembly"
@@ -41963,6 +42249,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q643419",
             "translation": {
                 "locale": "en",
                 "content": "lamb"
@@ -42142,6 +42429,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9635",
             "translation": {
                 "locale": "en",
                 "content": "mouth"
@@ -42321,6 +42609,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q26382",
             "translation": [
                 {
                     "locale": "en",
@@ -42350,6 +42639,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q39397",
             "translation": [
                 {
                     "locale": "en",
@@ -42379,6 +42669,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q39397",
             "translation": [
                 {
                     "locale": "en",
@@ -42408,6 +42699,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q133346",
             "translation": {
                 "locale": "en",
                 "content": "border"
@@ -42431,6 +42723,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q177463",
             "translation": {
                 "locale": "en",
                 "content": "charcoal"
@@ -42454,6 +42747,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q129757",
             "translation": {
                 "locale": "en",
                 "content": "(upper) thigh"
@@ -42477,6 +42771,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7378",
             "translation": {
                 "locale": "en",
                 "content": "elephant"
@@ -42546,6 +42841,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q16363",
             "translation": {
                 "locale": "en",
                 "content": "shoulder"
@@ -42606,6 +42902,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q153988",
             "translation": {
                 "locale": "en",
                 "content": "(stone) bowl"
@@ -42652,6 +42949,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178561",
             "translation": [
                 {
                     "locale": "en",
@@ -42685,6 +42983,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q173387",
             "translation": [
                 {
                     "locale": "en",
@@ -42770,6 +43069,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q173387",
             "translation": {
                 "locale": "en",
                 "content": "owl"
@@ -42816,6 +43116,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q270699",
             "translation": {
                 "locale": "en",
                 "content": "silt"
@@ -42836,8 +43137,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -43076,6 +43377,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2647209",
             "translation": [
                 {
                     "locale": "en",
@@ -43105,6 +43407,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q191851",
             "translation": {
                 "locale": "en",
                 "content": "vase"
@@ -43128,6 +43431,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q221455",
             "translation": [
                 {
                     "locale": "en",
@@ -43157,6 +43461,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23640",
             "translation": {
                 "locale": "en",
                 "content": "head"
@@ -43180,6 +43485,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1349417",
             "translation": [
                 {
                     "locale": "en",
@@ -43229,8 +43535,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -43255,6 +43561,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q82025",
             "translation": {
                 "locale": "en",
                 "content": "horn"
@@ -43360,8 +43667,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -43438,6 +43745,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q46311",
             "translation": {
                 "locale": "en",
                 "content": "bow"
@@ -43588,6 +43896,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q626066",
             "translation": [
                 {
                     "locale": "en",
@@ -43650,6 +43959,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7205412",
             "translation": [
                 {
                     "locale": "en",
@@ -43702,6 +44012,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q42165",
             "translation": [
                 {
                     "locale": "en",
@@ -43731,6 +44042,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4785",
             "translation": {
                 "locale": "en",
                 "content": "nest"
@@ -43754,6 +44066,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q152910",
             "translation": {
                 "locale": "en",
                 "content": "whip"
@@ -43806,6 +44119,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4421",
             "translation": [
                 {
                     "locale": "en",
@@ -43835,6 +44149,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23425",
             "translation": {
                 "locale": "en",
                 "content": "cucumber"
@@ -43858,6 +44173,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1684811",
             "translation": {
                 "locale": "en",
                 "content": "lamentation"
@@ -43881,6 +44197,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q173387",
             "translation": [
                 {
                     "locale": "en",
@@ -43985,6 +44302,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q130768",
             "translation": {
                 "locale": "en",
                 "content": "smoke"
@@ -44008,6 +44326,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q273131",
             "translation": {
                 "locale": "en",
                 "content": "incense (offering)"
@@ -44057,9 +44376,10 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Verb",
-                "content": "VV"
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q18054140",
             "translation": [
                 {
                     "locale": "en",
@@ -44130,6 +44450,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q33767",
             "translation": {
                 "locale": "en",
                 "content": "hand"
@@ -44205,6 +44526,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q36465",
             "translation": {
                 "locale": "en",
                 "content": "flour"
@@ -44228,6 +44550,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1313",
             "translation": {
                 "locale": "en",
                 "content": "summer"
@@ -44274,6 +44597,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q189539",
             "translation": {
                 "locale": "en",
                 "content": "loan"
@@ -44297,6 +44621,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q184303",
             "translation": [
                 {
                     "locale": "en",
@@ -44326,6 +44651,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q502261",
             "translation": {
                 "locale": "en",
                 "content": "silence"
@@ -44372,6 +44698,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q30185",
             "translation": {
                 "locale": "en",
                 "content": "mayor"
@@ -44499,8 +44826,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": [
                 {
@@ -44786,6 +45113,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3177438",
             "translation": [
                 {
                     "locale": "en",
@@ -44815,6 +45143,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2621117",
             "translation": [
                 {
                     "locale": "en",
@@ -44958,6 +45287,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q46360",
             "translation": {
                 "locale": "en",
                 "content": "tortoise"
@@ -45241,6 +45571,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q174782",
             "translation": [
                 {
                     "locale": "en",
@@ -45446,6 +45777,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q19059464",
             "translation": [
                 {
                     "locale": "en",
@@ -45475,6 +45807,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7390",
             "translation": [
                 {
                     "locale": "en",
@@ -45672,6 +46005,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q33767",
             "translation": {
                 "locale": "en",
                 "content": "hand"
@@ -45799,6 +46133,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3010205",
             "translation": {
                 "locale": "en",
                 "content": "celebration"
@@ -45822,6 +46157,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q17145",
             "translation": [
                 {
                     "locale": "en",
@@ -45851,6 +46187,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q8068",
             "translation": {
                 "locale": "en",
                 "content": "flood(ing)"
@@ -45897,6 +46234,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2747456",
             "translation": {
                 "locale": "en",
                 "content": "prince"
@@ -45920,6 +46258,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q863048",
             "translation": {
                 "locale": "en",
                 "content": "princess"
@@ -45972,6 +46311,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q5780228",
             "translation": [
                 {
                     "locale": "en",
@@ -46030,6 +46370,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1317634",
             "translation": {
                 "locale": "en",
                 "content": "cauldron"
@@ -46099,6 +46440,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3142",
             "translation": {
                 "locale": "en",
                 "content": "red"
@@ -46122,6 +46464,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q5780228",
             "translation": [
                 {
                     "locale": "en",
@@ -46200,8 +46543,8 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Noun",
-                "content": "NN"
+                "uri": "http://purl.org/olia/olia.owl#Adjective",
+                "content": "ADJ"
             },
             "translation": {
                 "locale": "en",
@@ -46255,6 +46598,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9612",
             "translation": {
                 "locale": "en",
                 "content": "womb"
@@ -46278,6 +46622,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9612",
             "translation": {
                 "locale": "en",
                 "content": "pasture"
@@ -46321,6 +46666,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q180382",
             "translation": [
                 {
                     "locale": "en",
@@ -46431,6 +46777,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q81710",
             "translation": {
                 "locale": "en",
                 "content": "shepherd"
@@ -46454,6 +46801,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4991371",
             "translation": [
                 {
                     "locale": "en",
@@ -46516,6 +46864,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23640",
             "translation": {
                 "locale": "en",
                 "content": "head"
@@ -46539,6 +46888,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23835475",
             "translation": {
                 "locale": "en",
                 "content": "helper"
@@ -46631,6 +46981,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q184303",
             "translation": [
                 {
                     "locale": "en",
@@ -46712,6 +47063,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1643184",
             "translation": [
                 {
                     "locale": "en",
@@ -46787,6 +47139,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q201129",
             "translation": {
                 "locale": "en",
                 "content": "a lyre"
@@ -46833,6 +47186,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q697295",
             "translation": [
                 {
                     "locale": "en",
@@ -47016,6 +47370,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q454",
             "translation": {
                 "locale": "en",
                 "content": "peace"
@@ -47039,6 +47394,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47369",
             "translation": [
                 {
                     "locale": "en",
@@ -47091,6 +47447,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q324369",
             "translation": {
                 "locale": "en",
                 "content": "carnelian"
@@ -47183,6 +47540,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2755127",
             "translation": [
                 {
                     "locale": "en",
@@ -47374,6 +47732,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q253829",
             "translation": {
                 "locale": "en",
                 "content": "net"
@@ -47590,6 +47949,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q14406508",
             "translation": [
                 {
                     "locale": "en",
@@ -47642,6 +48002,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q43238",
             "translation": [
                 {
                     "locale": "en",
@@ -47723,6 +48084,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1500340",
             "translation": {
                 "locale": "en",
                 "content": "mudguard"
@@ -47746,6 +48108,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q37077",
             "translation": [
                 {
                     "locale": "en",
@@ -47827,6 +48190,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q124734",
             "translation": {
                 "locale": "en",
                 "content": "rebellion"
@@ -47937,6 +48301,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q638172",
             "translation": [
                 {
                     "locale": "en",
@@ -48064,6 +48429,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q37083",
             "translation": {
                 "locale": "en",
                 "content": "olive tree"
@@ -48087,6 +48453,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q180960",
             "translation": {
                 "locale": "en",
                 "content": "onager"
@@ -48139,6 +48506,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q23497974",
             "translation": {
                 "locale": "en",
                 "content": "covering"
@@ -48214,6 +48582,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q37077",
             "translation": [
                 {
                     "locale": "en",
@@ -48347,6 +48716,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q184753",
             "translation": {
                 "locale": "en",
                 "content": "wound"
@@ -48399,6 +48769,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q152",
             "translation": {
                 "locale": "en",
                 "content": "a fish"
@@ -48422,6 +48793,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q467",
             "translation": {
                 "locale": "en",
                 "content": "woman"
@@ -48468,6 +48840,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q34095",
             "translation": {
                 "locale": "en",
                 "content": "bronze"
@@ -48514,6 +48887,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q836904",
             "translation": {
                 "locale": "en",
                 "content": "brewer"
@@ -48560,6 +48934,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q5454668",
             "translation": {
                 "locale": "en",
                 "content": "fish soup"
@@ -48606,6 +48981,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q10856",
             "translation": [
                 {
                     "locale": "en",
@@ -48716,6 +49092,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12133",
             "translation": {
                 "locale": "en",
                 "content": "deaf"
@@ -48814,6 +49191,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q79007",
             "translation": [
                 {
                     "locale": "en",
@@ -49016,6 +49394,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1871110",
             "translation": {
                 "locale": "en",
                 "content": "sheepfold"
@@ -49039,6 +49418,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q82714",
             "translation": {
                 "locale": "en",
                 "content": "chin"
@@ -49062,6 +49442,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q43489",
             "translation": {
                 "locale": "en",
                 "content": "falcon"
@@ -49281,6 +49662,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q836904",
             "translation": {
                 "locale": "en",
                 "content": "brewer"
@@ -49414,6 +49796,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1725788",
             "translation": {
                 "locale": "en",
                 "content": "moth"
@@ -49460,6 +49843,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q44",
             "translation": {
                 "locale": "en",
                 "content": "a beer"
@@ -49483,6 +49867,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q836904",
             "translation": {
                 "locale": "en",
                 "content": "brewer"
@@ -49506,6 +49891,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1276686",
             "translation": {
                 "locale": "en",
                 "content": "lap"
@@ -49529,6 +49915,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q79007",
             "translation": {
                 "locale": "en",
                 "content": "street"
@@ -49552,6 +49939,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q12284",
             "translation": [
                 {
                     "locale": "en",
@@ -49673,6 +50061,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q7493941",
             "translation": [
                 {
                     "locale": "en",
@@ -49702,6 +50091,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3620816",
             "translation": [
                 {
                     "locale": "en",
@@ -49731,6 +50121,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29169308",
             "translation": {
                 "locale": "en",
                 "content": "bag"
@@ -49800,6 +50191,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q192602 ",
             "translation": {
                 "locale": "en",
                 "content": "triplets"
@@ -49823,6 +50215,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q2144962",
             "translation": {
                 "locale": "en",
                 "content": "repair"
@@ -49846,6 +50239,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q26911",
             "translation": {
                 "locale": "en",
                 "content": "profit"
@@ -49898,6 +50292,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13634881",
             "translation": {
                 "locale": "en",
                 "content": "walkway"
@@ -49967,6 +50362,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q215536",
             "translation": [
                 {
                     "locale": "en",
@@ -50042,6 +50438,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178561",
             "translation": [
                 {
                     "locale": "en",
@@ -50100,6 +50497,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1208425",
             "translation": [
                 {
                     "locale": "en",
@@ -50410,6 +50808,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1183487",
             "translation": {
                 "locale": "en",
                 "content": "novice"
@@ -50595,6 +50994,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1684811",
             "translation": {
                 "locale": "en",
                 "content": "lamentation"
@@ -50618,6 +51018,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q836925",
             "translation": {
                 "locale": "en",
                 "content": "complaint"
@@ -50641,6 +51042,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q191783",
             "translation": [
                 {
                     "locale": "en",
@@ -50670,6 +51072,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1132167",
             "translation": [
                 {
                     "locale": "en",
@@ -50699,6 +51102,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q3772446",
             "translation": [
                 {
                     "locale": "en",
@@ -50784,6 +51188,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q191360",
             "translation": {
                 "locale": "en",
                 "content": "foundation"
@@ -50807,6 +51212,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1156970",
             "translation": {
                 "locale": "en",
                 "content": "human kind"
@@ -51021,6 +51427,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9633",
             "translation": {
                 "locale": "en",
                 "content": "neck"
@@ -51123,6 +51530,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q46311",
             "translation": {
                 "locale": "en",
                 "content": "bow"
@@ -51533,6 +51941,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q9103",
             "translation": {
                 "locale": "en",
                 "content": "breast"
@@ -51556,6 +51965,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q152079",
             "translation": [
                 {
                     "locale": "en",
@@ -51608,6 +52018,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1318187",
             "translation": {
                 "locale": "en",
                 "content": "scribe"
@@ -51712,6 +52123,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178561",
             "translation": {
                 "locale": "en",
                 "content": "battle"
@@ -51758,6 +52170,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q165632",
             "translation": {
                 "locale": "en",
                 "content": "dust (storm)"
@@ -51781,6 +52194,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q191250",
             "translation": [
                 {
                     "locale": "en",
@@ -51810,6 +52224,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q242602",
             "translation": [
                 {
                     "locale": "en",
@@ -51862,6 +52277,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q747071",
             "translation": [
                 {
                     "locale": "en",
@@ -51891,6 +52307,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q903495",
             "translation": [
                 {
                     "locale": "en",
@@ -51920,6 +52337,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q165",
             "translation": {
                 "locale": "en",
                 "content": "sea"
@@ -51995,6 +52413,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1151067",
             "translation": {
                 "locale": "en",
                 "content": "instruction"
@@ -52018,6 +52437,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47253",
             "translation": {
                 "locale": "en",
                 "content": "worm"
@@ -52041,6 +52461,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q329737",
             "translation": {
                 "locale": "en",
                 "content": "butcher"
@@ -52064,6 +52485,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q29169308",
             "translation": {
                 "locale": "en",
                 "content": "bag"
@@ -52087,6 +52509,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q6460735",
             "translation": {
                 "locale": "en",
                 "content": "(cultic) meal"
@@ -52156,6 +52579,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q936969",
             "translation": [
                 {
                     "locale": "en",
@@ -52208,6 +52632,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q178561",
             "translation": {
                 "locale": "en",
                 "content": "battle"
@@ -52280,9 +52705,10 @@ var akkadian={"dictentries": {
         {
             "ref": "akkdict",
             "postag": {
-                "uri": "http://purl.org/olia/olia.owl#Adjective",
-                "content": "ADJ"
+                "uri": "http://purl.org/olia/olia.owl#Noun",
+                "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q4004659",
             "translation": [
                 {
                     "locale": "en",
@@ -52339,6 +52765,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q47253",
             "translation": {
                 "locale": "en",
                 "content": "worm"
@@ -52752,6 +53179,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q519840",
             "translation": {
                 "locale": "en",
                 "content": "shuttle"
@@ -52919,6 +53347,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q152065",
             "translation": {
                 "locale": "en",
                 "content": "scepter"
@@ -52971,6 +53400,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q13533339",
             "translation": {
                 "locale": "en",
                 "content": "rag"
@@ -52994,6 +53424,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q208195",
             "translation": {
                 "locale": "en",
                 "content": "pleasure"
@@ -53017,6 +53448,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q605035",
             "translation": {
                 "locale": "en",
                 "content": "strength"
@@ -53040,6 +53472,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q41415",
             "translation": [
                 {
                     "locale": "en",
@@ -53121,6 +53554,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q1294787",
             "translation": [
                 {
                     "locale": "en",
@@ -53832,6 +54266,7 @@ var akkadian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
+            "concept": "https://www.wikidata.org/wiki/Q8074",
             "translation": {
                 "locale": "en",
                 "content": "cloud"
