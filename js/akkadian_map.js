@@ -1,6 +1,11 @@
 var akkadian_map={"mapentries": {"mapentry": [
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "and; but; also"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -24,16 +29,12 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "and; but; also"
-        },
-        "concept": "",
         "transliteration": {"valid": true},
         "content": "𒌋"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -58,7 +59,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "a"
@@ -66,7 +66,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -91,8 +93,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "ab"
@@ -100,7 +100,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀊"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -125,8 +127,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b10",
         "transliteration": {
             "valid": true,
             "content": "ag"
@@ -134,7 +134,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -159,8 +161,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b10",
         "transliteration": {
             "valid": true,
             "content": "ak"
@@ -168,7 +168,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -193,8 +195,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "al"
@@ -202,7 +202,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c4d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -227,8 +229,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c4d1",
         "transliteration": {
             "valid": true,
             "content": "am"
@@ -236,7 +236,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -261,8 +263,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "an"
@@ -270,7 +270,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀭"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -295,8 +297,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "ap"
@@ -304,7 +304,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀊"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -329,8 +331,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b10",
         "transliteration": {
             "valid": true,
             "content": "aq"
@@ -338,7 +338,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -363,8 +365,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b2c2",
         "transliteration": {
             "valid": true,
             "content": "ar"
@@ -372,7 +372,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b9c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -397,8 +399,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b9c2d2",
         "transliteration": {
             "valid": true,
             "content": "as"
@@ -406,7 +406,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -431,8 +433,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1",
         "transliteration": {
             "valid": true,
             "content": "asz"
@@ -440,7 +440,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -465,8 +467,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "at"
@@ -474,7 +474,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b9c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -499,8 +501,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b9c2d2",
         "transliteration": {
             "valid": true,
             "content": "az"
@@ -508,7 +508,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊍"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -533,7 +534,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "b"
@@ -541,7 +541,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -566,8 +568,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "ba"
@@ -575,7 +575,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -600,8 +602,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c1d1",
         "transliteration": {
             "valid": true,
             "content": "bab"
@@ -609,7 +609,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -634,8 +636,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "bah"
@@ -643,7 +643,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -668,8 +670,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "bak"
@@ -677,7 +677,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b3c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -702,8 +704,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
             "content": "bal"
@@ -711,7 +711,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁄"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -736,8 +738,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "ban"
@@ -745,7 +745,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉼"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -770,8 +772,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c1d1",
         "transliteration": {
             "valid": true,
             "content": "bap"
@@ -779,7 +779,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -804,8 +806,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "baq"
@@ -813,7 +813,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -838,8 +840,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "bar"
@@ -847,7 +847,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -872,8 +874,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "basz"
@@ -881,7 +881,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈦"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -906,8 +908,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "bat"
@@ -915,7 +915,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -940,8 +942,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "be"
@@ -949,7 +949,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -974,8 +976,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "bel"
@@ -983,7 +983,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1008,8 +1010,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b4",
         "transliteration": {
             "valid": true,
             "content": "bet"
@@ -1017,7 +1017,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1042,8 +1044,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "bi"
@@ -1051,7 +1051,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1076,8 +1078,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "bil"
@@ -1085,7 +1085,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1110,8 +1112,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c12d2",
         "transliteration": {
             "valid": true,
             "content": "bir"
@@ -1119,7 +1119,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄵"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "where; when"
+        },
+        "concept": "",
+        "paint": "a5b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1144,12 +1150,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "where; when"
-        },
-        "concept": "",
-        "paint": "a5b4",
         "transliteration": {
             "valid": true,
             "content": "bit"
@@ -1157,7 +1157,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1182,8 +1184,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b4",
         "transliteration": {
             "valid": true,
             "content": "bit,"
@@ -1191,7 +1191,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂍"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1216,7 +1217,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "bu"
@@ -1224,7 +1224,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1249,8 +1251,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "buh"
@@ -1258,7 +1258,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1283,8 +1285,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c3",
         "transliteration": {
             "valid": true,
             "content": "bul"
@@ -1292,7 +1292,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b3c2d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1316,8 +1318,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b3c2d3",
         "transliteration": {
             "valid": true,
             "content": "bun"
@@ -1325,7 +1325,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇌"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1350,8 +1352,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
             "content": "buq"
@@ -1359,7 +1359,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b6c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1384,8 +1386,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b6c1d1",
         "transliteration": {
             "valid": true,
             "content": "bur"
@@ -1393,7 +1393,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1418,8 +1420,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "busz"
@@ -1427,7 +1427,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1452,8 +1454,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "d"
@@ -1461,7 +1461,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1486,8 +1488,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
             "content": "da"
@@ -1495,7 +1495,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1520,8 +1522,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4",
         "transliteration": {
             "valid": true,
             "content": "dab"
@@ -1529,7 +1529,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1554,8 +1556,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
             "content": "dad"
@@ -1563,7 +1563,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c12",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1588,8 +1590,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c12",
         "transliteration": {
             "valid": true,
             "content": "dah"
@@ -1597,7 +1597,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈭"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1622,8 +1624,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "dak"
@@ -1631,7 +1631,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1656,8 +1658,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
             "content": "dal"
@@ -1665,7 +1665,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1690,8 +1692,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4c2d1",
         "transliteration": {
             "valid": true,
             "content": "dam"
@@ -1699,7 +1699,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1724,8 +1726,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "dan"
@@ -1733,7 +1733,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1758,8 +1760,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4",
         "transliteration": {
             "valid": true,
             "content": "dap"
@@ -1767,7 +1767,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1792,8 +1794,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "daq"
@@ -1801,7 +1801,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁖"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1826,7 +1827,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "dasz"
@@ -1834,7 +1834,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1859,8 +1861,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b1c1",
         "transliteration": {
             "valid": true,
             "content": "dat"
@@ -1868,7 +1868,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1893,8 +1895,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "de"
@@ -1902,7 +1902,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1927,8 +1929,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "di"
@@ -1936,7 +1936,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1961,8 +1963,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4",
         "transliteration": {
             "valid": true,
             "content": "dib"
@@ -1970,7 +1970,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -1995,8 +1997,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
             "content": "dik"
@@ -2004,7 +2004,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2029,8 +2031,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1",
         "transliteration": {
             "valid": true,
             "content": "dil"
@@ -2038,7 +2038,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2063,8 +2065,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "dim"
@@ -2072,7 +2072,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2097,8 +2099,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3d1",
         "transliteration": {
             "valid": true,
             "content": "din"
@@ -2106,7 +2106,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2131,8 +2133,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
             "content": "diq"
@@ -2140,7 +2140,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2164,7 +2165,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "disz"
@@ -2172,7 +2172,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁹"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2197,8 +2199,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "du"
@@ -2206,7 +2206,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2231,8 +2233,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "dub"
@@ -2240,7 +2240,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2265,8 +2267,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "duk"
@@ -2274,7 +2274,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2299,8 +2301,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
             "content": "dum"
@@ -2308,7 +2308,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2333,8 +2335,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
             "content": "dun"
@@ -2342,7 +2342,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂄"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2367,8 +2369,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "dup"
@@ -2376,7 +2376,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2401,8 +2403,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b3",
         "transliteration": {
             "valid": true,
             "content": "dusz"
@@ -2410,7 +2410,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆪"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2434,7 +2435,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "e"
@@ -2442,7 +2442,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂊"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2466,7 +2467,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "eb"
@@ -2474,7 +2474,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b9c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2499,8 +2501,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b9c6",
         "transliteration": {
             "valid": true,
             "content": "ed"
@@ -2508,7 +2508,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b6c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2533,8 +2535,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
             "content": "ek"
@@ -2542,7 +2542,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b3c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2567,8 +2569,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b3c1d1",
         "transliteration": {
             "valid": true,
             "content": "el"
@@ -2576,7 +2576,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2601,8 +2603,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c3d2",
         "transliteration": {
             "valid": true,
             "content": "em"
@@ -2610,7 +2610,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅎"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b5c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2635,8 +2637,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b5c3",
         "transliteration": {
             "valid": true,
             "content": "en"
@@ -2644,7 +2644,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂗"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2668,7 +2669,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ep"
@@ -2676,7 +2676,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b6c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2701,8 +2703,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
             "content": "eq"
@@ -2710,7 +2710,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2735,8 +2737,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
             "content": "er"
@@ -2744,7 +2744,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅕"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2768,7 +2769,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "es"
@@ -2776,7 +2776,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2801,8 +2803,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3",
         "transliteration": {
             "valid": true,
             "content": "esz"
@@ -2810,7 +2810,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b9c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2835,8 +2837,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b9c6",
         "transliteration": {
             "valid": true,
             "content": "et,"
@@ -2844,7 +2844,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀉"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2868,7 +2869,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ez"
@@ -2876,7 +2876,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2901,8 +2903,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c3d1",
         "transliteration": {
             "valid": true,
             "content": "g"
@@ -2910,7 +2910,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b6c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2935,8 +2937,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b6c1d1",
         "transliteration": {
             "valid": true,
             "content": "ga"
@@ -2944,7 +2944,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂵"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -2969,8 +2971,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b5",
         "transliteration": {
             "valid": true,
             "content": "gal"
@@ -2978,7 +2978,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃲"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3003,7 +3004,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "gam"
@@ -3018,7 +3018,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃮"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3042,7 +3043,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "gar"
@@ -3050,7 +3050,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c14",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3075,8 +3077,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c14",
         "transliteration": {
             "valid": true,
             "content": "gas"
@@ -3084,7 +3084,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3109,8 +3111,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "gasz"
@@ -3118,7 +3118,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c5d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3143,8 +3145,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
             "content": "ge"
@@ -3152,7 +3152,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3177,8 +3179,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "ger"
@@ -3186,7 +3186,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c5d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3211,8 +3213,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c5d2",
         "transliteration": {
             "valid": true,
             "content": "gi"
@@ -3220,7 +3220,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3245,8 +3247,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "gid"
@@ -3254,7 +3254,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c9d9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3279,8 +3281,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c9d9",
         "transliteration": {
             "valid": true,
             "content": "gil"
@@ -3288,7 +3288,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄃"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3313,8 +3315,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "gin"
@@ -3322,7 +3322,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3347,8 +3349,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "gir"
@@ -3356,7 +3356,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3380,7 +3381,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "gis"
@@ -3388,7 +3388,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3412,7 +3413,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "gisz"
@@ -3420,7 +3420,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3445,8 +3447,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "git"
@@ -3454,7 +3454,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3479,8 +3481,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c3d1",
         "transliteration": {
             "valid": true,
             "content": "gu"
@@ -3488,7 +3488,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3513,8 +3515,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "gub"
@@ -3522,7 +3522,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3547,8 +3549,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c2",
         "transliteration": {
             "valid": true,
             "content": "gul"
@@ -3556,7 +3556,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3581,8 +3583,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2",
         "transliteration": {
             "valid": true,
             "content": "gur"
@@ -3590,7 +3590,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3615,8 +3617,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "h"
@@ -3624,7 +3624,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3649,8 +3651,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4c2",
         "transliteration": {
             "valid": true,
             "content": "ha"
@@ -3658,7 +3658,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄩"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3683,7 +3684,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "hab"
@@ -3691,7 +3691,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3716,8 +3718,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "hal"
@@ -3725,7 +3725,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3750,8 +3752,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c3d2",
         "transliteration": {
             "valid": true,
             "content": "ham na"
@@ -3759,7 +3759,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈾"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3784,7 +3785,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "hap"
@@ -3792,7 +3792,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3817,8 +3819,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
             "content": "har"
@@ -3826,7 +3826,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄯"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3851,8 +3853,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "has"
@@ -3860,7 +3860,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3885,8 +3887,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "hasz"
@@ -3894,7 +3894,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3919,8 +3921,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2",
         "transliteration": {
             "valid": true,
             "content": "hat"
@@ -3928,7 +3928,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3953,8 +3955,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2",
         "transliteration": {
             "valid": true,
             "content": "hat,"
@@ -3962,7 +3962,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -3987,7 +3988,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "he"
@@ -3995,7 +3995,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄭"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4020,7 +4021,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "hi"
@@ -4028,7 +4028,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄭"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4053,8 +4055,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1d1",
         "transliteration": {
             "valid": true,
             "content": "hil nu"
@@ -4062,7 +4062,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉡"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a12b16",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4084,8 +4086,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a12b16",
         "transliteration": {
             "valid": true,
             "content": "hir"
@@ -4093,7 +4093,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆟"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4118,7 +4119,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "his"
@@ -4126,7 +4126,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4151,7 +4152,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "hisz"
@@ -4159,7 +4159,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4184,8 +4186,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "hu"
@@ -4193,7 +4193,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4218,8 +4220,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2",
         "transliteration": {
             "valid": true,
             "content": "hud"
@@ -4227,7 +4227,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c8d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4252,8 +4254,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c8d4",
         "transliteration": {
             "valid": true,
             "content": "hum"
@@ -4261,7 +4261,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈝"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4286,7 +4287,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "hun"
@@ -4294,7 +4294,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c4d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4319,8 +4321,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c4d3",
         "transliteration": {
             "valid": true,
             "content": "hup"
@@ -4328,7 +4328,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4353,8 +4355,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
             "content": "hur"
@@ -4362,7 +4362,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄯"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c8d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4387,8 +4389,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c8d4",
         "transliteration": {
             "valid": true,
             "content": "huz"
@@ -4396,7 +4396,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4421,8 +4423,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b5",
         "transliteration": {
             "valid": true,
             "content": "i"
@@ -4430,7 +4430,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄿"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4454,7 +4455,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ib"
@@ -4462,7 +4462,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b9c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4487,8 +4489,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b9c6",
         "transliteration": {
             "valid": true,
             "content": "id"
@@ -4496,7 +4496,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b6c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4521,8 +4523,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
             "content": "ig"
@@ -4530,7 +4530,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅅"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4554,7 +4555,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ih"
@@ -4562,7 +4562,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b6c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4587,8 +4589,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b6c2",
         "transliteration": {
             "valid": true,
             "content": "ik"
@@ -4596,7 +4596,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c8d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4621,8 +4623,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c8d1",
         "transliteration": {
             "valid": true,
             "content": "il"
@@ -4630,7 +4630,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅋"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4655,8 +4657,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c3d2",
         "transliteration": {
             "valid": true,
             "content": "im"
@@ -4664,7 +4664,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅎"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c10d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4689,8 +4691,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c10d1",
         "transliteration": {
             "valid": true,
             "content": "in"
@@ -4698,7 +4698,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅔"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4722,7 +4723,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ip"
@@ -4730,7 +4730,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4755,8 +4757,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
             "content": "ir"
@@ -4764,7 +4764,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅕"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4788,7 +4789,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "is"
@@ -4796,7 +4796,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4820,7 +4821,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "isz"
@@ -4828,7 +4828,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b9c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4853,8 +4855,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b9c6",
         "transliteration": {
             "valid": true,
             "content": "it"
@@ -4862,7 +4862,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b9c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4887,8 +4889,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b9c6",
         "transliteration": {
             "valid": true,
             "content": "it,"
@@ -4896,7 +4896,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀉"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4920,7 +4921,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "iz"
@@ -4928,7 +4928,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4953,8 +4955,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b3",
         "transliteration": {
             "valid": true,
             "content": "k"
@@ -4962,7 +4962,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c5d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -4987,8 +4989,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c5d1",
         "transliteration": {
             "valid": true,
             "content": "ka"
@@ -4996,7 +4996,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5021,8 +5023,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
             "content": "kab"
@@ -5030,7 +5030,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆏"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5055,8 +5057,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
             "content": "kad"
@@ -5064,7 +5064,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5089,8 +5091,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
             "content": "kak"
@@ -5098,7 +5098,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5123,8 +5125,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "kal"
@@ -5132,7 +5132,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5157,8 +5159,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c3d2",
         "transliteration": {
             "valid": true,
             "content": "kam"
@@ -5166,7 +5166,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5191,8 +5193,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "kan"
@@ -5200,7 +5200,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃶"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5225,8 +5227,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
             "content": "kap"
@@ -5234,7 +5234,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆏"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5259,8 +5261,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "kas"
@@ -5268,7 +5268,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5293,8 +5295,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
             "content": "kat"
@@ -5302,7 +5302,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5327,8 +5329,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c2d2",
         "transliteration": {
             "valid": true,
             "content": "ke"
@@ -5336,7 +5336,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆠"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5361,7 +5362,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "kel"
@@ -5369,7 +5369,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "like; how? that; just as"
+        },
+        "concept": "",
+        "paint": "b4c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5394,12 +5400,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "like; how? that; just as"
-        },
-        "concept": "",
-        "paint": "b4c2d2",
         "transliteration": {
             "valid": true,
             "content": "ki"
@@ -5407,7 +5407,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5429,8 +5431,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3d3",
         "transliteration": {
             "valid": true,
             "content": "kib"
@@ -5438,7 +5438,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄒"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5463,7 +5464,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "kil"
@@ -5471,7 +5471,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5496,8 +5498,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
             "content": "kim"
@@ -5505,7 +5505,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁶"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5530,8 +5532,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "kin"
@@ -5539,7 +5539,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5561,8 +5563,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3d3",
         "transliteration": {
             "valid": true,
             "content": "kip"
@@ -5570,7 +5570,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5595,8 +5597,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "kir"
@@ -5604,7 +5604,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b7c5d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5629,8 +5631,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b7c5d3",
         "transliteration": {
             "valid": true,
             "content": "kis"
@@ -5638,7 +5638,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b7c5d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5663,8 +5665,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b7c5d3",
         "transliteration": {
             "valid": true,
             "content": "kisz"
@@ -5672,7 +5672,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5697,8 +5699,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "kit"
@@ -5706,7 +5706,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5731,8 +5733,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b3",
         "transliteration": {
             "valid": true,
             "content": "ku"
@@ -5740,7 +5740,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5765,8 +5767,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "kub"
@@ -5774,7 +5774,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c7d7",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5799,8 +5801,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c7d7",
         "transliteration": {
             "valid": true,
             "content": "kuk"
@@ -5808,7 +5808,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5833,8 +5835,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c3",
         "transliteration": {
             "valid": true,
             "content": "kul"
@@ -5842,7 +5842,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5867,8 +5869,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c4",
         "transliteration": {
             "valid": true,
             "content": "kum"
@@ -5876,7 +5876,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5901,8 +5903,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "kun"
@@ -5910,7 +5910,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5935,8 +5937,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "kup"
@@ -5944,7 +5944,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -5969,7 +5970,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "kur"
@@ -5977,7 +5977,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6002,8 +6004,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "kus"
@@ -6011,7 +6011,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6036,8 +6038,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "kusz"
@@ -6045,7 +6045,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6070,8 +6072,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "kut"
@@ -6079,7 +6079,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6104,8 +6106,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "kuz"
@@ -6113,7 +6113,12 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋢"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": "https://www.wikidata.org/wiki/Q140",
+            "content": "lion"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6137,11 +6142,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q140",
-            "content": "lion"
-        },
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "l"
@@ -6149,7 +6149,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇻"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "not; no"
+        },
+        "concept": "",
+        "paint": "a5b7",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6174,12 +6180,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "not; no"
-        },
-        "concept": "",
-        "paint": "a5b7",
         "transliteration": {
             "valid": true,
             "content": "la"
@@ -6187,7 +6187,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6212,8 +6214,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "lab"
@@ -6221,7 +6221,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6246,7 +6247,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "lah"
@@ -6254,7 +6254,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6279,8 +6281,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5",
         "transliteration": {
             "valid": true,
             "content": "lak"
@@ -6288,7 +6288,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋃"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6313,8 +6315,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "lal"
@@ -6322,7 +6322,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6347,8 +6349,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5c2d2",
         "transliteration": {
             "valid": true,
             "content": "lam"
@@ -6356,7 +6356,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6381,8 +6383,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "lap"
@@ -6390,7 +6390,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6415,8 +6417,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5",
         "transliteration": {
             "valid": true,
             "content": "laq"
@@ -6424,7 +6424,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋃"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6449,8 +6451,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2",
         "transliteration": {
             "valid": true,
             "content": "lar"
@@ -6458,7 +6458,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c11d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6483,8 +6485,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
             "content": "le"
@@ -6492,7 +6492,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6517,8 +6519,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
             "content": "lem"
@@ -6526,7 +6526,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6551,8 +6553,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lep"
@@ -6560,7 +6560,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c11d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6585,8 +6587,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c11d1",
         "transliteration": {
             "valid": true,
             "content": "li"
@@ -6594,7 +6594,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6619,8 +6621,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lib"
@@ -6628,7 +6628,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c12d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6653,8 +6655,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c12d1",
         "transliteration": {
             "valid": true,
             "content": "lil"
@@ -6662,7 +6662,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6687,8 +6689,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
             "content": "lim"
@@ -6696,7 +6696,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6721,8 +6723,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lip"
@@ -6730,7 +6730,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6755,7 +6756,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "liq"
@@ -6763,7 +6763,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6788,8 +6790,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1",
         "transliteration": {
             "valid": true,
             "content": "lisz"
@@ -6797,7 +6797,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6822,8 +6824,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d1",
         "transliteration": {
             "valid": true,
             "content": "lit"
@@ -6831,7 +6831,12 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀖"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": "https://www.wikidata.org/wiki/Q140",
+            "content": "lion"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6855,11 +6860,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q140",
-            "content": "lion"
-        },
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "lu"
@@ -6867,7 +6867,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6892,8 +6894,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lub"
@@ -6901,7 +6901,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6926,8 +6928,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "luh"
@@ -6935,7 +6935,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6960,8 +6962,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lul"
@@ -6969,7 +6969,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c8d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -6994,8 +6996,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c8d4",
         "transliteration": {
             "valid": true,
             "content": "lum"
@@ -7003,7 +7003,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7028,8 +7030,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "lup"
@@ -7037,7 +7037,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7062,8 +7064,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "lut"
@@ -7071,7 +7071,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7096,8 +7098,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "lut,"
@@ -7105,7 +7105,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂁"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "(cultic; cosmic) order; rules; water"
+        },
+        "concept": "",
+        "paint": "b1c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7130,12 +7136,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "(cultic; cosmic) order; rules; water"
-        },
-        "concept": "",
-        "paint": "b1c6",
         "transliteration": {
             "valid": true,
             "content": "m"
@@ -7143,7 +7143,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7168,8 +7170,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b3",
         "transliteration": {
             "valid": true,
             "content": "ma"
@@ -7177,7 +7177,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈠"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7202,7 +7203,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "mad"
@@ -7210,7 +7210,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c1d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7235,8 +7237,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c1d2",
         "transliteration": {
             "valid": true,
             "content": "mah"
@@ -7244,7 +7244,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7269,8 +7271,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2",
         "transliteration": {
             "valid": true,
             "content": "mal"
@@ -7278,7 +7278,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7303,8 +7305,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b3",
         "transliteration": {
             "valid": true,
             "content": "mar"
@@ -7312,7 +7312,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7337,8 +7339,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "mas"
@@ -7346,7 +7346,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈦"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7371,8 +7373,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "masz"
@@ -7380,7 +7380,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈦"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7405,7 +7406,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "mat"
@@ -7413,7 +7413,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7438,8 +7440,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "maz"
@@ -7447,7 +7447,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7472,7 +7473,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "me"
@@ -7480,7 +7480,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c1d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7505,8 +7507,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c1d2",
         "transliteration": {
             "valid": true,
             "content": "meh"
@@ -7514,7 +7514,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b8c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7539,8 +7541,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b8c3",
         "transliteration": {
             "valid": true,
             "content": "men"
@@ -7548,7 +7548,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃞"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b7",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7570,8 +7572,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b7",
         "transliteration": {
             "valid": true,
             "content": "mer"
@@ -7579,7 +7579,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7604,8 +7606,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b8c1",
         "transliteration": {
             "valid": true,
             "content": "mi"
@@ -7613,7 +7613,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c1d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7638,8 +7640,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c1d2",
         "transliteration": {
             "valid": true,
             "content": "mih"
@@ -7647,7 +7647,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈤"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7671,7 +7672,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "mil"
@@ -7679,7 +7679,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅖"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7704,8 +7706,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "mim"
@@ -7713,7 +7713,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7738,8 +7740,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2",
         "transliteration": {
             "valid": true,
             "content": "min"
@@ -7747,7 +7747,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b7",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7769,8 +7771,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b7",
         "transliteration": {
             "valid": true,
             "content": "mir"
@@ -7778,7 +7778,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7803,8 +7805,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b4",
         "transliteration": {
             "valid": true,
             "content": "mis"
@@ -7812,7 +7812,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7837,8 +7839,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b4",
         "transliteration": {
             "valid": true,
             "content": "misz"
@@ -7846,7 +7846,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7871,8 +7873,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "mit"
@@ -7880,7 +7880,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7905,8 +7907,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "mit,"
@@ -7914,7 +7914,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "(cultic; cosmic) order; rules; water"
+        },
+        "concept": "",
+        "paint": "b1c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7939,12 +7945,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "(cultic; cosmic) order; rules; water"
-        },
-        "concept": "",
-        "paint": "b1c6",
         "transliteration": {
             "valid": true,
             "content": "mu"
@@ -7952,7 +7952,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -7977,8 +7979,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c6",
         "transliteration": {
             "valid": true,
             "content": "mu seh"
@@ -7986,7 +7986,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8011,8 +8013,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "muk"
@@ -8020,7 +8020,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b3c3d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8045,8 +8047,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b3c3d3",
         "transliteration": {
             "valid": true,
             "content": "mul"
@@ -8054,7 +8054,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀯"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b6c4d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8076,8 +8078,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b6c4d4",
         "transliteration": {
             "valid": true,
             "content": "mum"
@@ -8085,7 +8085,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c6d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8110,8 +8112,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c6d2",
         "transliteration": {
             "valid": true,
             "content": "mun"
@@ -8119,7 +8119,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁵"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8144,8 +8146,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c2d2",
         "transliteration": {
             "valid": true,
             "content": "mur"
@@ -8153,7 +8153,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄯"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8178,8 +8180,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c3d2",
         "transliteration": {
             "valid": true,
             "content": "mus"
@@ -8187,7 +8187,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8212,8 +8214,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c3d2",
         "transliteration": {
             "valid": true,
             "content": "musz"
@@ -8221,7 +8221,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8246,8 +8248,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1d1",
         "transliteration": {
             "valid": true,
             "content": "n"
@@ -8255,7 +8255,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉡"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8280,8 +8282,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c3d2",
         "transliteration": {
             "valid": true,
             "content": "na"
@@ -8289,7 +8289,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8313,8 +8315,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "nab"
@@ -8322,7 +8322,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b2c5d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8347,8 +8349,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b2c5d1",
         "transliteration": {
             "valid": true,
             "content": "nag"
@@ -8356,7 +8356,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8381,8 +8383,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "nah"
@@ -8390,7 +8390,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b2c5d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8415,8 +8417,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b2c5d1",
         "transliteration": {
             "valid": true,
             "content": "nak"
@@ -8424,7 +8424,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8449,8 +8451,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c9",
         "transliteration": {
             "valid": true,
             "content": "nam"
@@ -8458,7 +8458,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8483,8 +8485,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "nan"
@@ -8492,7 +8492,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8516,8 +8518,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "nap"
@@ -8525,7 +8525,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8550,8 +8552,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "nar"
@@ -8559,7 +8559,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8584,7 +8585,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "nat"
@@ -8592,7 +8592,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8617,8 +8619,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "ne"
@@ -8626,7 +8626,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8651,8 +8653,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
             "content": "ned"
@@ -8660,7 +8660,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8685,8 +8687,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
             "content": "nem"
@@ -8694,7 +8694,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉏"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8719,8 +8721,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
             "content": "net"
@@ -8728,7 +8728,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8753,8 +8755,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
             "content": "ni"
@@ -8762,7 +8762,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8787,8 +8789,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
             "content": "nim"
@@ -8796,7 +8796,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉏"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8821,8 +8823,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
             "content": "nit"
@@ -8830,7 +8830,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8855,8 +8857,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1d1",
         "transliteration": {
             "valid": true,
             "content": "nu"
@@ -8864,7 +8864,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉡"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8889,8 +8891,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c3d1",
         "transliteration": {
             "valid": true,
             "content": "num"
@@ -8898,7 +8898,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉏"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8923,8 +8925,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b1",
         "transliteration": {
             "valid": true,
             "content": "nun"
@@ -8932,7 +8932,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8957,8 +8959,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b2",
         "transliteration": {
             "valid": true,
             "content": "nur"
@@ -8966,7 +8966,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c4d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -8991,8 +8993,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c4d4",
         "transliteration": {
             "valid": true,
             "content": "nus"
@@ -9000,7 +9000,12 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉭"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": "https://www.wikidata.org/wiki/Q9635",
+            "content": "mouth"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9025,11 +9030,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q9635",
-            "content": "mouth"
-        },
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "p"
@@ -9037,7 +9037,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9062,8 +9064,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2",
         "transliteration": {
             "valid": true,
             "content": "pa"
@@ -9071,7 +9071,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9096,8 +9098,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1",
         "transliteration": {
             "valid": true,
             "content": "pag"
@@ -9105,7 +9105,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b3c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9130,8 +9132,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b3c3",
         "transliteration": {
             "valid": true,
             "content": "pal"
@@ -9139,7 +9139,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁄"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9164,8 +9166,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "pan"
@@ -9173,7 +9173,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉼"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9198,7 +9199,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "par"
@@ -9206,7 +9206,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9231,8 +9233,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
             "content": "pat"
@@ -9240,7 +9240,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9265,8 +9267,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "pe"
@@ -9274,7 +9274,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9299,8 +9301,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "pel"
@@ -9308,7 +9308,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9333,7 +9334,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "per"
@@ -9341,7 +9341,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9366,8 +9368,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "pes"
@@ -9375,7 +9375,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9400,8 +9402,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "pesz"
@@ -9409,7 +9409,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9434,8 +9436,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "pi"
@@ -9443,7 +9443,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9468,8 +9470,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "pil"
@@ -9477,7 +9477,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9502,8 +9504,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
             "content": "pin"
@@ -9511,7 +9511,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9536,8 +9538,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b5",
         "transliteration": {
             "valid": true,
             "content": "pin i"
@@ -9545,7 +9545,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄿"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9569,7 +9570,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "pin sur"
@@ -9577,7 +9577,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9602,8 +9604,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "piq"
@@ -9611,7 +9611,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9636,7 +9637,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "pir"
@@ -9644,7 +9644,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9669,8 +9671,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "pis"
@@ -9678,7 +9678,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9703,8 +9705,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "pisz"
@@ -9712,7 +9712,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9737,8 +9739,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b4",
         "transliteration": {
             "valid": true,
             "content": "pit"
@@ -9746,7 +9746,12 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂍"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": "https://www.wikidata.org/wiki/Q9635",
+            "content": "mouth"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9771,11 +9776,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q9635",
-            "content": "mouth"
-        },
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "pu"
@@ -9783,7 +9783,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁍"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9808,8 +9810,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "puh"
@@ -9817,7 +9817,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9842,8 +9844,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "puk"
@@ -9851,7 +9851,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9876,8 +9878,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c3",
         "transliteration": {
             "valid": true,
             "content": "pul"
@@ -9885,7 +9885,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c7d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9910,8 +9912,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c7d1",
         "transliteration": {
             "valid": true,
             "content": "pum"
@@ -9919,7 +9919,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b6c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9944,8 +9946,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b6c1d1",
         "transliteration": {
             "valid": true,
             "content": "pur"
@@ -9953,7 +9953,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -9978,8 +9980,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b5",
         "transliteration": {
             "valid": true,
             "content": "puz"
@@ -9987,7 +9987,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊏"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "a capacity measure; as measuring vessel; flax; thread; string"
+        },
+        "concept": "",
+        "paint": "a2b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10012,12 +10018,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "a capacity measure; as measuring vessel; flax; thread; string"
-        },
-        "concept": "",
-        "paint": "a2b4c4",
         "transliteration": {
             "valid": true,
             "content": "q"
@@ -10025,7 +10025,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10050,8 +10052,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
             "content": "qa"
@@ -10066,7 +10066,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10091,8 +10093,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b5",
         "transliteration": {
             "valid": true,
             "content": "qal"
@@ -10100,7 +10100,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃲"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10125,7 +10126,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "qam"
@@ -10133,7 +10133,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃵"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10158,8 +10160,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "qan"
@@ -10167,7 +10167,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃶"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10192,8 +10194,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "qan tu"
@@ -10201,7 +10201,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃶"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10226,8 +10228,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c1d1",
         "transliteration": {
             "valid": true,
             "content": "qaq"
@@ -10235,7 +10235,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10260,8 +10262,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c2d1",
         "transliteration": {
             "valid": true,
             "content": "qar"
@@ -10269,7 +10269,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃼"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10294,8 +10296,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b5",
         "transliteration": {
             "valid": true,
             "content": "qat"
@@ -10303,7 +10303,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10328,8 +10330,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "qe"
@@ -10337,7 +10337,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10362,7 +10363,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "qel"
@@ -10370,7 +10370,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10395,8 +10397,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c2",
         "transliteration": {
             "valid": true,
             "content": "qer"
@@ -10404,7 +10404,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10429,8 +10431,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "qi"
@@ -10438,7 +10438,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10463,7 +10464,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "qil"
@@ -10471,7 +10471,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10496,8 +10498,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d2",
         "transliteration": {
             "valid": true,
             "content": "qim"
@@ -10505,7 +10505,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁶"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10530,8 +10532,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "qin"
@@ -10539,7 +10539,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10561,8 +10563,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3d3",
         "transliteration": {
             "valid": true,
             "content": "qip"
@@ -10570,7 +10570,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b7c5d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10595,8 +10597,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b7c5d3",
         "transliteration": {
             "valid": true,
             "content": "qisz"
@@ -10604,7 +10604,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10629,8 +10631,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "qit"
@@ -10638,7 +10638,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆤"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "a capacity measure; as measuring vessel; flax; thread; string"
+        },
+        "concept": "",
+        "paint": "a2b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10663,12 +10669,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "a capacity measure; as measuring vessel; flax; thread; string"
-        },
-        "concept": "",
-        "paint": "a2b4c4",
         "transliteration": {
             "valid": true,
             "content": "qu"
@@ -10676,7 +10676,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10701,8 +10703,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1d1",
         "transliteration": {
             "valid": true,
             "content": "qu?"
@@ -10710,7 +10710,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10735,8 +10737,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "qub"
@@ -10744,7 +10744,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10769,8 +10771,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "qud"
@@ -10778,7 +10778,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10803,8 +10805,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c3",
         "transliteration": {
             "valid": true,
             "content": "qul"
@@ -10812,7 +10812,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10837,8 +10839,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b4c4",
         "transliteration": {
             "valid": true,
             "content": "qum"
@@ -10846,7 +10846,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10871,8 +10873,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2",
         "transliteration": {
             "valid": true,
             "content": "qur"
@@ -10880,7 +10880,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10905,8 +10907,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "qut"
@@ -10914,7 +10914,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10939,8 +10941,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "r"
@@ -10948,7 +10948,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -10973,8 +10975,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b5",
         "transliteration": {
             "valid": true,
             "content": "ra"
@@ -10982,7 +10982,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊏"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11007,7 +11008,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ra a"
@@ -11015,7 +11015,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11040,8 +11042,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b9",
         "transliteration": {
             "valid": true,
             "content": "rab"
@@ -11049,7 +11049,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊐"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11074,8 +11076,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "rag"
@@ -11083,7 +11083,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11108,8 +11110,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "rah"
@@ -11117,7 +11117,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11142,8 +11144,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "rak"
@@ -11151,7 +11151,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b8c6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11176,8 +11178,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b8c6",
         "transliteration": {
             "valid": true,
             "content": "ram"
@@ -11185,7 +11185,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11210,8 +11212,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b9",
         "transliteration": {
             "valid": true,
             "content": "rap"
@@ -11219,7 +11219,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊐"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11244,8 +11246,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "raq"
@@ -11253,7 +11253,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11278,8 +11280,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "rasz"
@@ -11287,7 +11287,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11312,8 +11314,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2",
         "transliteration": {
             "valid": true,
             "content": "rat,"
@@ -11321,7 +11321,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋥"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11346,8 +11348,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
             "content": "re"
@@ -11366,7 +11366,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊑𒌋"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11391,8 +11393,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "req"
@@ -11400,7 +11400,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11425,8 +11427,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "resz"
@@ -11434,7 +11434,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11459,8 +11461,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
             "content": "ri"
@@ -11468,7 +11468,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11493,8 +11495,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c3d2",
         "transliteration": {
             "valid": true,
             "content": "ri na"
@@ -11502,7 +11502,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11527,8 +11529,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "rib"
@@ -11536,7 +11536,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11561,8 +11563,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "rig"
@@ -11570,7 +11570,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11595,8 +11597,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "rih"
@@ -11604,7 +11604,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11629,8 +11631,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "rik"
@@ -11638,7 +11638,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11663,7 +11664,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "rim"
@@ -11671,7 +11671,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11696,7 +11697,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "rin"
@@ -11704,7 +11704,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11729,8 +11731,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "rip"
@@ -11738,7 +11738,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11763,8 +11765,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "riq"
@@ -11772,7 +11772,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11797,8 +11799,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
             "content": "rir"
@@ -11806,7 +11806,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11831,8 +11833,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "ris"
@@ -11840,7 +11840,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11865,8 +11867,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "risz"
@@ -11874,7 +11874,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11899,8 +11901,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b4",
         "transliteration": {
             "valid": true,
             "content": "rit"
@@ -11908,7 +11908,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11933,8 +11935,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "ru"
@@ -11942,7 +11942,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -11967,8 +11969,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "rub"
@@ -11976,7 +11976,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12001,8 +12003,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "ruh"
@@ -12010,7 +12010,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12035,8 +12037,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b6",
         "transliteration": {
             "valid": true,
             "content": "ruk"
@@ -12044,7 +12044,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12069,8 +12071,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1",
         "transliteration": {
             "valid": true,
             "content": "rum"
@@ -12078,7 +12078,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀸"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c6d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12103,8 +12105,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c6d5",
         "transliteration": {
             "valid": true,
             "content": "rup lib"
@@ -12112,7 +12112,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈜"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12137,8 +12139,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b6",
         "transliteration": {
             "valid": true,
             "content": "ruq"
@@ -12146,7 +12146,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12171,8 +12173,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "s"
@@ -12180,7 +12180,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12205,8 +12207,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4",
         "transliteration": {
             "valid": true,
             "content": "sa"
@@ -12214,7 +12214,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊓"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12239,7 +12240,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "sad"
@@ -12247,7 +12247,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12272,8 +12274,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "sag"
@@ -12281,7 +12281,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12306,8 +12308,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "sah"
@@ -12315,7 +12315,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12340,8 +12342,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "sak"
@@ -12349,7 +12349,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12374,8 +12376,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "sal"
@@ -12383,7 +12383,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12408,8 +12410,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b2",
         "transliteration": {
             "valid": true,
             "content": "sam"
@@ -12417,7 +12417,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12442,8 +12444,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "san"
@@ -12451,7 +12451,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12476,8 +12478,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
             "content": "sar"
@@ -12485,7 +12485,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12510,8 +12512,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "sas"
@@ -12519,7 +12519,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12544,7 +12545,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "sat"
@@ -12552,7 +12552,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12577,8 +12579,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2",
         "transliteration": {
             "valid": true,
             "content": "se"
@@ -12586,7 +12586,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋛"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12611,8 +12613,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "sek"
@@ -12620,7 +12620,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12645,8 +12647,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "sem"
@@ -12654,7 +12654,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12679,8 +12681,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "ser"
@@ -12688,7 +12688,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12713,8 +12715,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2",
         "transliteration": {
             "valid": true,
             "content": "si"
@@ -12722,7 +12722,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋛"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12747,7 +12748,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "sib"
@@ -12755,7 +12755,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12780,8 +12782,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "sig"
@@ -12789,7 +12789,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12814,8 +12816,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "sik"
@@ -12823,7 +12823,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12848,8 +12850,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "sil"
@@ -12857,7 +12857,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12882,8 +12884,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "sim"
@@ -12891,7 +12891,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12916,8 +12918,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3",
         "transliteration": {
             "valid": true,
             "content": "sin"
@@ -12925,7 +12925,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌍"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12950,7 +12951,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "sip"
@@ -12958,7 +12958,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -12983,8 +12985,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "sir"
@@ -12992,7 +12992,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13017,8 +13019,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "sis"
@@ -13026,7 +13026,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13051,8 +13053,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "su"
@@ -13060,7 +13060,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a8b8c6d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13085,8 +13087,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a8b8c6d2",
         "transliteration": {
             "valid": true,
             "content": "sub"
@@ -13094,7 +13094,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅢"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13119,8 +13121,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1",
         "transliteration": {
             "valid": true,
             "content": "suh"
@@ -13128,7 +13128,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13153,8 +13155,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2",
         "transliteration": {
             "valid": true,
             "content": "suk"
@@ -13162,7 +13162,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆹"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13187,8 +13189,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
             "content": "sul"
@@ -13196,7 +13196,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂄"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13221,8 +13223,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c10",
         "transliteration": {
             "valid": true,
             "content": "sum"
@@ -13230,7 +13230,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋧"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b8c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13255,8 +13257,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b8c1",
         "transliteration": {
             "valid": true,
             "content": "sup"
@@ -13264,7 +13264,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒀳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13289,8 +13291,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2",
         "transliteration": {
             "valid": true,
             "content": "suq"
@@ -13298,7 +13298,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆹"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13322,7 +13323,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "sur"
@@ -13330,7 +13330,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋩"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "a stone; he"
+        },
+        "concept": "",
+        "paint": "a1b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13355,12 +13361,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "a stone; he"
-        },
-        "concept": "",
-        "paint": "a1b5",
         "transliteration": {
             "valid": true,
             "content": "sz"
@@ -13368,7 +13368,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋗"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "who(m); which"
+        },
+        "concept": "",
+        "paint": "a2b4c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13393,12 +13399,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "who(m); which"
-        },
-        "concept": "",
-        "paint": "a2b4c1d1",
         "transliteration": {
             "valid": true,
             "content": "sza"
@@ -13406,7 +13406,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊭"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13431,7 +13432,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szad"
@@ -13439,7 +13439,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13464,8 +13466,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "szag"
@@ -13473,7 +13473,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b3c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13498,8 +13500,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b3c3d2",
         "transliteration": {
             "valid": true,
             "content": "szah"
@@ -13507,7 +13507,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋚"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13532,8 +13534,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "szak"
@@ -13541,7 +13541,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊕"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13566,8 +13568,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "szal"
@@ -13575,7 +13575,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13600,8 +13602,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b2",
         "transliteration": {
             "valid": true,
             "content": "szam"
@@ -13609,7 +13609,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌑"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b5c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13633,8 +13635,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b5c3d1",
         "transliteration": {
             "valid": true,
             "content": "szan"
@@ -13642,7 +13642,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13667,8 +13669,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
             "content": "szar"
@@ -13676,7 +13676,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13701,8 +13703,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "szas"
@@ -13710,7 +13710,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13735,8 +13737,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "szasz"
@@ -13744,7 +13744,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13769,7 +13770,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szat"
@@ -13777,7 +13777,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13802,8 +13804,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c10",
         "transliteration": {
             "valid": true,
             "content": "sze"
@@ -13811,7 +13811,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊺"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13836,8 +13838,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "szel"
@@ -13845,7 +13845,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13870,8 +13872,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b6",
         "transliteration": {
             "valid": true,
             "content": "szen"
@@ -13879,7 +13879,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13904,8 +13906,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "szer"
@@ -13913,7 +13913,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13938,8 +13940,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "szesz"
@@ -13947,7 +13947,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -13972,8 +13974,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c1",
         "transliteration": {
             "valid": true,
             "content": "szi"
@@ -13981,7 +13981,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒅆"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14006,7 +14007,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szib"
@@ -14014,7 +14014,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14039,8 +14041,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5",
         "transliteration": {
             "valid": true,
             "content": "szid"
@@ -14048,7 +14048,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋃"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b3c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14073,8 +14075,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b3c3d2",
         "transliteration": {
             "valid": true,
             "content": "szih"
@@ -14082,7 +14082,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋚"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14107,8 +14109,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "szik"
@@ -14116,7 +14116,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14141,8 +14143,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "szil"
@@ -14150,7 +14150,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a7b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14175,8 +14177,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a7b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "szim"
@@ -14184,7 +14184,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋆"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14209,8 +14211,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b6",
         "transliteration": {
             "valid": true,
             "content": "szin"
@@ -14218,7 +14218,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊿"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14243,7 +14244,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szip"
@@ -14251,7 +14251,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14276,8 +14278,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c2d2",
         "transliteration": {
             "valid": true,
             "content": "sziq"
@@ -14285,7 +14285,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14310,8 +14312,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "szir"
@@ -14319,7 +14319,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14344,8 +14346,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "szisz"
@@ -14353,7 +14353,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14378,8 +14380,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5",
         "transliteration": {
             "valid": true,
             "content": "szit"
@@ -14387,7 +14387,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋃"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c4d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14412,8 +14414,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c4d2",
         "transliteration": {
             "valid": true,
             "content": "sziz"
@@ -14421,7 +14421,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋀"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "a stone; he"
+        },
+        "concept": "",
+        "paint": "a1b5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14446,12 +14452,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "a stone; he"
-        },
-        "concept": "",
-        "paint": "a1b5",
         "transliteration": {
             "valid": true,
             "content": "szu"
@@ -14459,7 +14459,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14484,8 +14486,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4c2",
         "transliteration": {
             "valid": true,
             "content": "szu?"
@@ -14493,7 +14493,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄩"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14518,8 +14520,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "szub"
@@ -14527,7 +14527,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b5c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14552,8 +14554,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b5c1",
         "transliteration": {
             "valid": true,
             "content": "szuh"
@@ -14561,7 +14561,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14586,8 +14588,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3c1d1",
         "transliteration": {
             "valid": true,
             "content": "szuk"
@@ -14595,7 +14595,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b2c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14620,8 +14622,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b2c3d2",
         "transliteration": {
             "valid": true,
             "content": "szul"
@@ -14629,7 +14629,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂄"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14654,8 +14656,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "szum"
@@ -14663,7 +14663,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14688,8 +14690,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "szup"
@@ -14697,7 +14697,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊒"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14721,7 +14722,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szur"
@@ -14729,7 +14729,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋩"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14753,7 +14754,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "szusz"
@@ -14761,7 +14761,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌋"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14786,8 +14788,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "szut"
@@ -14795,7 +14795,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋤"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14820,8 +14822,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
             "content": "t"
@@ -14829,7 +14829,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14854,8 +14856,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
             "content": "t,"
@@ -14863,7 +14863,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14888,8 +14890,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "t,a"
@@ -14897,7 +14897,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14922,8 +14924,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2",
         "transliteration": {
             "valid": true,
             "content": "t,ab"
@@ -14931,7 +14931,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14956,8 +14958,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
             "content": "t,e"
@@ -14965,7 +14965,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋼"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -14990,8 +14992,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "t,em"
@@ -14999,7 +14999,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15024,8 +15026,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "t,i"
@@ -15033,7 +15033,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15058,8 +15060,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4",
         "transliteration": {
             "valid": true,
             "content": "t,ib"
@@ -15067,7 +15067,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15092,8 +15094,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "t,ik"
@@ -15101,7 +15101,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b2c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15126,8 +15128,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b2c10",
         "transliteration": {
             "valid": true,
             "content": "t,ir"
@@ -15135,7 +15135,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15160,8 +15162,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
             "content": "t,u"
@@ -15169,7 +15169,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15194,8 +15196,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "t,ub"
@@ -15210,7 +15210,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15235,8 +15237,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
             "content": "t,um"
@@ -15244,7 +15244,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15269,8 +15271,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "t,up"
@@ -15278,7 +15278,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15303,8 +15305,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "t,ur"
@@ -15312,7 +15312,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌉"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15337,8 +15339,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "ta"
@@ -15346,7 +15346,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋫"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15371,8 +15373,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2",
         "transliteration": {
             "valid": true,
             "content": "tab"
@@ -15380,7 +15380,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15405,8 +15407,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "tak"
@@ -15414,7 +15414,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15439,8 +15441,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c1",
         "transliteration": {
             "valid": true,
             "content": "tal"
@@ -15448,7 +15448,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊑"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15473,7 +15474,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "tam"
@@ -15481,7 +15481,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15506,8 +15508,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c1d1",
         "transliteration": {
             "valid": true,
             "content": "tan"
@@ -15515,7 +15515,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15540,8 +15542,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2",
         "transliteration": {
             "valid": true,
             "content": "tap"
@@ -15549,7 +15549,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15574,8 +15576,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "taq"
@@ -15583,7 +15583,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15608,8 +15610,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2",
         "transliteration": {
             "valid": true,
             "content": "tar"
@@ -15617,7 +15617,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋻"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15642,7 +15643,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "tas"
@@ -15650,7 +15650,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌨"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15675,7 +15676,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "tasz"
@@ -15683,7 +15683,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15708,8 +15710,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
             "content": "te"
@@ -15717,7 +15717,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋼"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c4d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15739,8 +15741,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c4d1",
         "transliteration": {
             "valid": true,
             "content": "tel"
@@ -15748,7 +15748,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15773,8 +15775,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c2d2",
         "transliteration": {
             "valid": true,
             "content": "ten"
@@ -15782,7 +15782,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋼"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b2c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15807,8 +15809,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b2c10",
         "transliteration": {
             "valid": true,
             "content": "ter"
@@ -15816,7 +15816,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌁"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15841,8 +15843,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2",
         "transliteration": {
             "valid": true,
             "content": "ti"
@@ -15850,7 +15850,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒋾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15875,8 +15877,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b4",
         "transliteration": {
             "valid": true,
             "content": "tib"
@@ -15884,7 +15884,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁳"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15909,8 +15911,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "tik"
@@ -15918,7 +15918,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c4d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15940,8 +15942,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c4d1",
         "transliteration": {
             "valid": true,
             "content": "til"
@@ -15949,7 +15949,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌀"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -15974,8 +15976,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c2d2",
         "transliteration": {
             "valid": true,
             "content": "tim"
@@ -15983,7 +15983,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16008,8 +16010,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c3d1",
         "transliteration": {
             "valid": true,
             "content": "tin"
@@ -16017,7 +16017,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁷"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16042,8 +16044,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "tiq"
@@ -16051,7 +16051,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄘"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b2c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16076,8 +16078,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b2c10",
         "transliteration": {
             "valid": true,
             "content": "tir"
@@ -16085,7 +16085,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌁"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16109,7 +16110,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "tiz"
@@ -16117,7 +16117,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁹"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c12d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16142,8 +16144,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c12d2",
         "transliteration": {
             "valid": true,
             "content": "tu"
@@ -16151,7 +16151,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌅"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16176,8 +16178,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "tub"
@@ -16192,7 +16192,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒃮"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16217,8 +16219,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "tuk"
@@ -16226,7 +16226,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16251,8 +16253,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
             "content": "tum"
@@ -16260,7 +16260,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b4c3d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16285,8 +16287,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b4c3d1",
         "transliteration": {
             "valid": true,
             "content": "tum wus"
@@ -16294,7 +16294,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b1c4d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16319,8 +16321,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b1c4d3",
         "transliteration": {
             "valid": true,
             "content": "tun"
@@ -16328,7 +16328,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄽"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a9b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16353,8 +16355,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a9b4",
         "transliteration": {
             "valid": true,
             "content": "tup"
@@ -16362,7 +16362,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁾"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16387,8 +16389,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "tuq"
@@ -16396,7 +16396,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16421,8 +16423,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2d2",
         "transliteration": {
             "valid": true,
             "content": "tur"
@@ -16430,7 +16430,12 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌉"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "and; but; also"
+        },
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16454,11 +16459,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "and; but; also"
-        },
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "u"
@@ -16466,7 +16466,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌋"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16491,7 +16492,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ud"
@@ -16499,7 +16499,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b9c4d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16524,8 +16526,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b9c4d4",
         "transliteration": {
             "valid": true,
             "content": "ug"
@@ -16533,7 +16533,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊌"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16557,7 +16558,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "uh"
@@ -16565,7 +16565,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄴"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b2c2d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16590,8 +16592,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b2c2d1",
         "transliteration": {
             "valid": true,
             "content": "ul"
@@ -16599,7 +16599,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌌"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16624,8 +16626,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b4",
         "transliteration": {
             "valid": true,
             "content": "um"
@@ -16633,7 +16633,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌝"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a6b5c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16658,8 +16660,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a6b5c2d2",
         "transliteration": {
             "valid": true,
             "content": "un"
@@ -16667,7 +16667,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌦"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16692,8 +16694,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1c2d2",
         "transliteration": {
             "valid": true,
             "content": "up"
@@ -16701,7 +16701,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌒"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a10b9c4d4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16726,8 +16728,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a10b9c4d4",
         "transliteration": {
             "valid": true,
             "content": "uq"
@@ -16735,7 +16735,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊌"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16760,7 +16761,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ur"
@@ -16768,7 +16768,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c11",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16790,8 +16792,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c11",
         "transliteration": {
             "valid": true,
             "content": "us"
@@ -16799,7 +16799,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a3b2c1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16824,8 +16826,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a3b2c1",
         "transliteration": {
             "valid": true,
             "content": "usz"
@@ -16833,7 +16833,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍑"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16858,7 +16859,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ut"
@@ -16866,7 +16866,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16891,7 +16892,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "ut,"
@@ -16899,7 +16899,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒌓"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c11",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16921,8 +16923,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c11",
         "transliteration": {
             "valid": true,
             "content": "uz"
@@ -16930,7 +16930,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊻"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16955,8 +16957,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "w"
@@ -16964,7 +16964,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -16989,8 +16991,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "wa"
@@ -16998,7 +16998,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17023,8 +17025,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "war"
@@ -17032,7 +17032,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁇"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17057,8 +17059,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1",
         "transliteration": {
             "valid": true,
             "content": "wasz"
@@ -17066,7 +17066,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈦"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17091,8 +17093,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "wi"
@@ -17100,7 +17100,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17125,8 +17127,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "wu"
@@ -17134,7 +17134,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b1c3d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17159,8 +17161,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b1c3d2",
         "transliteration": {
             "valid": true,
             "content": "wusz"
@@ -17168,7 +17168,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒈲"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17193,8 +17195,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c2",
         "transliteration": {
             "valid": true,
             "content": "ya"
@@ -17202,7 +17202,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉿"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "excrement"
+        },
+        "concept": "",
+        "paint": "a5b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17227,12 +17233,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "excrement"
-        },
-        "concept": "",
-        "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "z"
@@ -17240,7 +17240,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17265,8 +17267,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4",
         "transliteration": {
             "valid": true,
             "content": "za"
@@ -17274,7 +17274,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍝"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17298,7 +17299,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "zab"
@@ -17306,7 +17306,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂟"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b6c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17331,8 +17333,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
             "content": "zag"
@@ -17340,7 +17340,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17365,8 +17367,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b4c4",
         "transliteration": {
             "valid": true,
             "content": "zah"
@@ -17374,7 +17374,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉈"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b6c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17399,8 +17401,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
             "content": "zak"
@@ -17408,7 +17408,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17433,8 +17435,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2c1d1",
         "transliteration": {
             "valid": true,
             "content": "zal"
@@ -17442,7 +17442,8 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉌"
     },
     {
-        "reference": [
+        "concept": "",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17466,7 +17467,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
         "transliteration": {
             "valid": true,
             "content": "zap"
@@ -17474,7 +17474,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒂟"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a4b6c2d2",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17499,8 +17501,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a4b6c2d2",
         "transliteration": {
             "valid": true,
             "content": "zaq"
@@ -17508,7 +17508,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍠"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17533,8 +17535,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c10",
         "transliteration": {
             "valid": true,
             "content": "zar"
@@ -17542,7 +17542,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒇡"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b2c9",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17567,8 +17569,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b2c9",
         "transliteration": {
             "valid": true,
             "content": "zaz szar"
@@ -17576,7 +17576,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊬"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17601,8 +17603,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
             "content": "ze"
@@ -17610,7 +17610,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a2b1c10",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17635,8 +17637,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a2b1c10",
         "transliteration": {
             "valid": true,
             "content": "zi"
@@ -17644,7 +17644,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17668,8 +17670,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c4",
         "transliteration": {
             "valid": true,
             "content": "zib"
@@ -17677,7 +17677,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍦"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "c11d5",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17702,8 +17704,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "c11d5",
         "transliteration": {
             "valid": true,
             "content": "zih"
@@ -17711,7 +17711,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒄗"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17736,8 +17738,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c4",
         "transliteration": {
             "valid": true,
             "content": "zik"
@@ -17745,7 +17745,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a5b1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17770,8 +17772,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a5b1",
         "transliteration": {
             "valid": true,
             "content": "zil"
@@ -17779,7 +17779,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒉣"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a14b6",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17804,8 +17806,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a14b6",
         "transliteration": {
             "valid": true,
             "content": "zin"
@@ -17813,7 +17813,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒊿"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b4c4",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17838,8 +17840,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b4c4",
         "transliteration": {
             "valid": true,
             "content": "ziq"
@@ -17847,7 +17847,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍨"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b2c3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17872,8 +17874,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b2c3",
         "transliteration": {
             "valid": true,
             "content": "zir"
@@ -17881,7 +17881,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒆰"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17906,8 +17908,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "ziz"
@@ -17915,7 +17915,13 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒁁"
     },
     {
-        "reference": [
+        "meaning": {
+            "concept": null,
+            "content": "excrement"
+        },
+        "concept": "",
+        "paint": "a5b1c1d1",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17940,12 +17946,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "meaning": {
-            "concept": null,
-            "content": "excrement"
-        },
-        "concept": "",
-        "paint": "a5b1c1d1",
         "transliteration": {
             "valid": true,
             "content": "zu"
@@ -17953,7 +17953,9 @@ var akkadian_map={"mapentries": {"mapentry": [
         "content": "𒍪"
     },
     {
-        "reference": [
+        "concept": "",
+        "paint": "a1b1c3d3",
+        "representation": [
             {
                 "ref": "https://openlibrary.org/works/OL15890317W",
                 "short": "MeZl",
@@ -17978,8 +17980,6 @@ var akkadian_map={"mapentries": {"mapentry": [
                 "title": "Hethitisches Zeichenlexikon"
             }
         ],
-        "concept": "",
-        "paint": "a1b1c3d3",
         "transliteration": {
             "valid": true,
             "content": "zum"
