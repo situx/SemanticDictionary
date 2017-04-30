@@ -1,4 +1,94 @@
 var egyptian={"dictentries": {
+    "patterns": {"pattern": [
+        {
+            "pos": "NN",
+            "rep": "transliteration",
+            "wordcase": "http://purl.org/olia/olia.owl#Stem",
+            "content": "~"
+        },
+        {
+            "pos": "NN",
+            "rep": "transliteration",
+            "wordcase": "http://purl.org/olia/olia.owl#Stem",
+            "content": "~𓇋"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#First",
+            "rep": "transliteration",
+            "transprefix": "my",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~i"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "gender": "http://purl.org/olia/olia.owl#Male",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Second",
+            "rep": "transliteration",
+            "transprefix": "your",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~k"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "gender": "http://purl.org/olia/olia.owl#Female",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Second",
+            "rep": "transliteration",
+            "transprefix": "your",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~t"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "gender": "http://purl.org/olia/olia.owl#Male",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Third",
+            "rep": "transliteration",
+            "transprefix": "his",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~f"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "gender": "http://purl.org/olia/olia.owl#Female",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Third",
+            "rep": "transliteration",
+            "transprefix": "her",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~s"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Plural",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#First",
+            "rep": "transliteration",
+            "transprefix": "our",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~-n:Z2"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Plural",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Second",
+            "rep": "transliteration",
+            "transprefix": "your",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~t:n:Z2"
+        },
+        {
+            "number": "http://purl.org/olia/olia.owl#Plural",
+            "pos": "NN",
+            "person": "http://purl.org/olia/olia.owl#Third",
+            "rep": "transliteration",
+            "transprefix": "their",
+            "wordcase": "http://purl.org/olia/olia.owl#Possessive",
+            "content": "~s-n:Z2"
+        }
+    ]},
     "about": {
         "license": {
             "val": "https://www.wikidata.org/entity/Q27016754",
@@ -55,7 +145,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fly"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3-G40-G1-H5",
                 "transcription": "pA",
@@ -74,7 +163,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "copulate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-G1-D52",
                 "transcription": "dA",
@@ -94,7 +182,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "receive"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O42:Q3",
                 "transcription": "Ssp",
@@ -114,7 +201,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cease"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-D54",
                 "transcription": "Ab",
@@ -134,7 +220,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "relax"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-N29-D58-V28-W15",
                 "transcription": "sqbH",
@@ -154,13 +239,673 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "remember"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-M12-G1-A2",
                 "transcription": "sxA",
                 "content": "sxA"
             },
             "content": "𓋴𓆼𓄿𓀁"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8441",
+            "translation": {
+                "locale": "en",
+                "content": "man"
+            },
+            "transliteration": {
+                "code": "A1",
+                "transcription": "A1",
+                "content": "A1"
+            },
+            "content": "𓀀"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q467",
+            "translation": {
+                "locale": "en",
+                "content": "woman"
+            },
+            "transliteration": {
+                "code": "B1",
+                "transcription": "B1",
+                "content": "B1"
+            },
+            "content": "𓁐"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "anoint"
+            },
+            "transliteration": {
+                "code": "W23",
+                "transcription": "W23",
+                "content": "W23"
+            },
+            "content": "𓏋"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q184418",
+            "translation": {
+                "locale": "en",
+                "content": "coffin"
+            },
+            "transliteration": {
+                "code": "Q6",
+                "transcription": "Q6",
+                "content": "Q6"
+            },
+            "content": "𓊭"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7364",
+            "translation": {
+                "locale": "en",
+                "content": "eye"
+            },
+            "transliteration": {
+                "code": "D4",
+                "transcription": "D4",
+                "content": "D4"
+            },
+            "content": "𓁹"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1074",
+            "translation": {
+                "locale": "en",
+                "content": "skin"
+            },
+            "transliteration": {
+                "code": "F27",
+                "transcription": "F27",
+                "content": "F27"
+            },
+            "content": "𓄛"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q8514",
+            "translation": {
+                "locale": "en",
+                "content": "desert"
+            },
+            "transliteration": {
+                "code": "N25",
+                "transcription": "N25",
+                "content": "N25"
+            },
+            "content": "𓈉"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "old man"
+            },
+            "transliteration": {
+                "code": "A19",
+                "transcription": "A19",
+                "content": "A19"
+            },
+            "content": "𓀗"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q34095",
+            "translation": {
+                "locale": "en",
+                "content": "bronze"
+            },
+            "transliteration": {
+                "code": "N34",
+                "transcription": "N34",
+                "content": "N34"
+            },
+            "content": "𓈔"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q17379525",
+            "translation": {
+                "locale": "en",
+                "content": "pot"
+            },
+            "transliteration": {
+                "code": "W22",
+                "transcription": "W22",
+                "content": "W22"
+            },
+            "content": "𓏊"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q36794",
+            "translation": {
+                "locale": "en",
+                "content": "door"
+            },
+            "transliteration": {
+                "code": "O31",
+                "transcription": "O31",
+                "content": "O31"
+            },
+            "content": "𓉿"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q10884",
+            "translation": {
+                "locale": "en",
+                "content": "tree"
+            },
+            "transliteration": {
+                "code": "M1",
+                "transcription": "M1",
+                "content": "M1"
+            },
+            "content": "𓆭"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q190",
+            "translation": {
+                "locale": "en",
+                "content": "god"
+            },
+            "transliteration": {
+                "code": "A40",
+                "transcription": "A40",
+                "content": "A40"
+            },
+            "content": "𓀭"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q527",
+            "translation": {
+                "locale": "en",
+                "content": "sky"
+            },
+            "transliteration": {
+                "code": "N1",
+                "transcription": "N1",
+                "content": "N1"
+            },
+            "content": "𓇯"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "high"
+            },
+            "transliteration": {
+                "code": "A28",
+                "transcription": "A28",
+                "content": "A28"
+            },
+            "content": "𓀠"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q5113",
+            "translation": {
+                "locale": "en",
+                "content": "bird"
+            },
+            "transliteration": {
+                "code": "G38",
+                "transcription": "G38",
+                "content": "G38"
+            },
+            "content": "𓅬"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q23640",
+            "translation": {
+                "locale": "en",
+                "content": "head"
+            },
+            "transliteration": {
+                "code": "D1",
+                "transcription": "D1",
+                "content": "D1"
+            },
+            "content": "𓁶"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q553",
+            "translation": {
+                "locale": "en",
+                "content": "tooth"
+            },
+            "transliteration": {
+                "code": "F18",
+                "transcription": "F18",
+                "content": "F18"
+            },
+            "content": "𓄑"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q830",
+            "translation": {
+                "locale": "en",
+                "content": "cattle"
+            },
+            "transliteration": {
+                "code": "E1",
+                "transcription": "E1",
+                "content": "E1"
+            },
+            "content": "𓃒"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q3947",
+            "translation": {
+                "locale": "en",
+                "content": "house"
+            },
+            "transliteration": {
+                "code": "O1",
+                "transcription": "O1",
+                "content": "O1"
+            },
+            "content": "𓉐"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7362",
+            "translation": {
+                "locale": "en",
+                "content": "ear"
+            },
+            "transliteration": {
+                "code": "F21",
+                "transcription": "F21",
+                "content": "F21"
+            },
+            "content": "𓄔"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q28823",
+            "translation": {
+                "locale": "en",
+                "content": "clothe"
+            },
+            "transliteration": {
+                "code": "S28",
+                "transcription": "S28",
+                "content": "S28"
+            },
+            "content": "𓋳"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q287",
+            "translation": {
+                "locale": "en",
+                "content": "wood"
+            },
+            "transliteration": {
+                "code": "M3",
+                "transcription": "M3",
+                "content": "M3"
+            },
+            "content": "𓆱"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q7802",
+            "translation": {
+                "locale": "en",
+                "content": "bread"
+            },
+            "transliteration": {
+                "code": "X2",
+                "transcription": "X2",
+                "content": "X2"
+            },
+            "content": "𓏐"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q32489",
+            "translation": {
+                "locale": "en",
+                "content": "knife"
+            },
+            "transliteration": {
+                "code": "T30",
+                "transcription": "T30",
+                "content": "T30"
+            },
+            "content": "𓌪"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q43616",
+            "translation": {
+                "locale": "en",
+                "content": "mummy"
+            },
+            "transliteration": {
+                "code": "A53",
+                "transcription": "A53",
+                "content": "A53"
+            },
+            "content": "𓀾"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q35872",
+            "translation": {
+                "locale": "en",
+                "content": "boat"
+            },
+            "transliteration": {
+                "code": "P1",
+                "transcription": "P1",
+                "content": "P1"
+            },
+            "content": "𓊛"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q1208425",
+            "translation": {
+                "locale": "en",
+                "content": "praise"
+            },
+            "transliteration": {
+                "code": "A30",
+                "transcription": "A30",
+                "content": "A30"
+            },
+            "content": "𓀢"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "walk"
+            },
+            "transliteration": {
+                "code": "D54",
+                "transcription": "D54",
+                "content": "D54"
+            },
+            "content": "𓂻"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q132241",
+            "translation": {
+                "locale": "en",
+                "content": "festival"
+            },
+            "transliteration": {
+                "code": "W3",
+                "transcription": "W3",
+                "content": "W3"
+            },
+            "content": "𓎱"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q7363",
+            "translation": {
+                "locale": "en",
+                "content": "nose"
+            },
+            "transliteration": {
+                "code": "D19",
+                "transcription": "D19",
+                "content": "D19"
+            },
+            "content": "𓂉"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q6027402",
+            "translation": {
+                "locale": "en",
+                "content": "leg"
+            },
+            "transliteration": {
+                "code": "D56",
+                "transcription": "D56",
+                "content": "D56"
+            },
+            "content": "𓂾"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q28472",
+            "translation": {
+                "locale": "en",
+                "content": "hair"
+            },
+            "transliteration": {
+                "code": "D3",
+                "transcription": "D3",
+                "content": "D3"
+            },
+            "content": "𓁸"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q523",
+            "translation": {
+                "locale": "en",
+                "content": "star"
+            },
+            "transliteration": {
+                "code": "N14",
+                "transcription": "N14",
+                "content": "N14"
+            },
+            "content": "𓇼"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/entity/Q152",
+            "translation": {
+                "locale": "en",
+                "content": "fish"
+            },
+            "transliteration": {
+                "code": "K5",
+                "transcription": "K5",
+                "content": "K5"
+            },
+            "content": "𓆟"
         },
         {
             "logogram": "",
@@ -174,7 +919,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cargo"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A9-Z7-Y1-Z2",
                 "transcription": "Atpw",
@@ -194,7 +938,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "repeat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F25-G17",
                 "transcription": "wHm",
@@ -214,7 +957,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "report"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-W19-M17-A2",
                 "transcription": "smi",
@@ -234,7 +976,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "control"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S42",
                 "transcription": "xrp",
@@ -253,7 +994,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be old"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-G1-G43-A21",
                 "transcription": "iAwi",
@@ -272,7 +1012,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "disobey"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1:O4-D56-D54",
                 "transcription": "thi",
@@ -291,7 +1030,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be pregnant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-D28-B2",
                 "transcription": "bkA",
@@ -311,7 +1049,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "take"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T1",
                 "transcription": "m",
@@ -331,7 +1068,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "punish"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U35-A24",
                 "transcription": "xsf",
@@ -351,7 +1087,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "resent"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V7-N35:V13-A24",
                 "transcription": "Snt",
@@ -371,7 +1106,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rescue"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:N41-G17-A24",
                 "transcription": "nHm",
@@ -391,7 +1125,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "repel"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U35",
                 "transcription": "xsf",
@@ -411,7 +1144,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dance"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1-D58-A32",
                 "transcription": "xbi",
@@ -431,7 +1163,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-S29-I10",
                 "transcription": "msD(i)",
@@ -451,7 +1182,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "drown"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V22-V28-N(35)",
                 "transcription": "mH",
@@ -471,7 +1201,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "worship"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N14-G1-A30",
                 "transcription": "dwA",
@@ -491,7 +1220,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fall"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4-G1-D54",
                 "transcription": "dAi",
@@ -511,7 +1239,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dig"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M8-G1-D46:D40",
                 "transcription": "sAd",
@@ -530,7 +1257,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be low"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-M16-G1-G37",
                 "transcription": "dHi",
@@ -550,7 +1276,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "destroy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T3-I10:Z9-G37",
                 "transcription": "HDi",
@@ -570,7 +1295,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "observe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3*X1:D21-D6",
                 "transcription": "ptr",
@@ -590,7 +1314,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "serve"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G43-M17-D56-D54",
                 "transcription": "rwi",
@@ -610,7 +1333,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "join"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W9-G17",
                 "transcription": "Xnm",
@@ -630,7 +1352,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "foretell"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D21-E27",
                 "transcription": "sr",
@@ -650,7 +1371,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hasten"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M12-G1-Aa1:D54",
                 "transcription": "xAx",
@@ -670,7 +1390,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "moor"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:N35-M17-P11-A24",
                 "transcription": "mni",
@@ -690,7 +1409,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "teach"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-N14-G1-A24",
                 "transcription": "sbA",
@@ -709,7 +1427,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tend"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-G17-M21",
                 "transcription": "sm",
@@ -729,7 +1446,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lasso"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-Q3-V28-V1",
                 "transcription": "spH",
@@ -749,7 +1465,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "find"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G28-G17",
                 "transcription": "gm(i)",
@@ -769,7 +1484,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "await"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A47-M17-M17",
                 "transcription": "sAi",
@@ -789,7 +1503,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "greet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa27*W24-A2-Aa1:D21:X1-Y1:Z2",
                 "transcription": "nD Hr",
@@ -809,7 +1522,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rebel"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-M17-T14-A14",
                 "transcription": "sbi",
@@ -829,7 +1541,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "throw"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D36-G17-D36-G1-T14",
                 "transcription": "amaA",
@@ -849,7 +1560,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "create"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-L1:D21",
                 "transcription": "sxpr",
@@ -869,7 +1579,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "travel"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M8-G1-S29-D54",
                 "transcription": "SAs",
@@ -889,7 +1598,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "retreat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N41-G17-M3:Aa1*X1-D55",
                 "transcription": "Hm-xt",
@@ -909,7 +1617,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "address"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-F30:D46-A2",
                 "transcription": "wSd",
@@ -929,7 +1636,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "complain"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D21:Aa1-A2",
                 "transcription": "srx",
@@ -948,7 +1654,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be small"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V31:X1*X1-G37",
                 "transcription": "ktt",
@@ -968,7 +1673,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hide"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Y5:N35-A4",
                 "transcription": "imn",
@@ -988,7 +1692,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "clear"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D45:D21",
                 "transcription": "Dsr",
@@ -1008,7 +1711,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "choose"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-X1:Q3-U21",
                 "transcription": "stp",
@@ -1028,7 +1730,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "advance"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-O29:D36",
                 "transcription": "saA",
@@ -1048,7 +1749,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "give"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X8",
                 "transcription": "d(i)",
@@ -1068,7 +1768,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "come"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M18-M17-D54",
                 "transcription": "ii",
@@ -1088,7 +1787,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "plow"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D28-G1-U13-A24",
                 "transcription": "skA",
@@ -1108,7 +1806,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "open"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E34:N35-O31",
                 "transcription": "wn",
@@ -1128,7 +1825,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sit"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-M29-G17-A51",
                 "transcription": "snDm",
@@ -1148,7 +1844,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sing"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-W14-S29-A2",
                 "transcription": "Hsi",
@@ -1168,7 +1863,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rest"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A55-D40",
                 "transcription": "sdr",
@@ -1187,7 +1881,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be gracious"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M1-G17-Y1A",
                 "transcription": "im3",
@@ -1207,7 +1900,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "inspect"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Q3:Y2",
                 "transcription": "ip",
@@ -1227,7 +1919,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "count"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa2:Y1",
                 "transcription": "Hsb",
@@ -1247,7 +1938,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "feed"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-N35:T34*G17-G52",
                 "transcription": "snm",
@@ -1267,7 +1957,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "go"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E12-G1",
                 "transcription": "szm",
@@ -1287,7 +1976,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fight"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D34-A24",
                 "transcription": "aHA",
@@ -1307,7 +1995,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cultivate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1-D58-S29-U7:D40",
                 "transcription": "xbs",
@@ -1327,7 +2014,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "attack"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F22:D54",
                 "transcription": "pH",
@@ -1346,7 +2032,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be sick"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5-G37",
                 "transcription": "mn",
@@ -1366,7 +2051,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tremble"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D46-G1-G33",
                 "transcription": "sdA",
@@ -1386,7 +2070,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "laugh"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-X1:F18-A2",
                 "transcription": "sbt",
@@ -1406,7 +2089,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ascend"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D36:D21-O41",
                 "transcription": "iar",
@@ -1426,7 +2108,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bury"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29:D21-S29-Q6",
                 "transcription": "qrs",
@@ -1446,7 +2127,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "separate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F13:Q3*Z9",
                 "transcription": "wp(i)",
@@ -1466,7 +2146,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "throw"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29*X1-F29",
                 "transcription": "st",
@@ -1486,7 +2165,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "call"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-G1-N37-A2",
                 "transcription": "iAS",
@@ -1506,7 +2184,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "anoint"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G36:D21-V28-W23:D40",
                 "transcription": "wrH",
@@ -1526,7 +2203,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "decorate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D60",
                 "transcription": "swab",
@@ -1546,7 +2222,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "depart"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N40-G17-D54",
                 "transcription": "Sm",
@@ -1565,7 +2240,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "overthrow"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-Aa1:D21-A15",
                 "transcription": "sxr",
@@ -1584,7 +2258,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "do"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D4",
                 "transcription": "ir(i)",
@@ -1604,7 +2277,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bind"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-Q3:V1",
                 "transcription": "sp(i)",
@@ -1623,7 +2295,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be abundant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I1:Z2",
                 "transcription": "aSA",
@@ -1643,7 +2314,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "converse"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "a27*W24-Aa27*W24-A2",
                 "transcription": "nDnD",
@@ -1662,7 +2332,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be angry"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-D46:I3",
                 "transcription": "Ad",
@@ -1681,7 +2350,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be bald"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-N37:D3",
                 "transcription": "wS",
@@ -1701,7 +2369,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bite"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3:O34-V28-F18-A2",
                 "transcription": "psH",
@@ -1721,7 +2388,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "look"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:W11-D5",
                 "transcription": "dgi",
@@ -1740,7 +2406,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be beautiful"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F35-I9:D21",
                 "transcription": "nfr",
@@ -1760,7 +2425,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "satisfy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-R4:X1*Q3",
                 "transcription": "sHtp",
@@ -1780,7 +2444,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "summon"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:M17*S29-A26",
                 "transcription": "nis",
@@ -1800,7 +2463,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "prepare"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D2:D21-Aa19:D40",
                 "transcription": "Hr",
@@ -1819,7 +2481,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be bright"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T3-I10:N5",
                 "transcription": "HD",
@@ -1839,7 +2500,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "row"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D33:N35-P1",
                 "transcription": "Xni",
@@ -1859,7 +2519,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "protect"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa27-W24:D40",
                 "transcription": "nD",
@@ -1879,7 +2538,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "run"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:Aa1:O34-D54",
                 "transcription": "sxs",
@@ -1899,7 +2557,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rule"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S38-N29:Y1",
                 "transcription": "HqA",
@@ -1918,7 +2575,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be deaf"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D46:F21",
                 "transcription": "idi",
@@ -1938,7 +2594,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "proceed"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-U28-D54",
                 "transcription": "wDA",
@@ -1958,7 +2613,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beg"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:F18-D58-V28-A2",
                 "transcription": "dbH",
@@ -1978,7 +2632,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rejoice"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:N37-D19-A2",
                 "transcription": "rSw",
@@ -1998,7 +2651,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rest"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R4:X1*Q3",
                 "transcription": "Htp",
@@ -2018,7 +2670,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bind"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:N35-V28*V1-A24",
                 "transcription": "snH",
@@ -2038,7 +2689,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "roast"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-N37:D21-Q7",
                 "transcription": "ASr",
@@ -2058,7 +2708,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "present"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U5-D36:D54",
                 "transcription": "mAa",
@@ -2078,7 +2727,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "receive"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O42:Q3",
                 "transcription": "Ssp",
@@ -2097,7 +2745,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be real"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U2:Aa11-D36:Y1",
                 "transcription": "mAa",
@@ -2117,7 +2764,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "weep"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:G17-D4",
                 "transcription": "mAa",
@@ -2137,7 +2783,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "walk"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1:Q3-D54",
                 "transcription": "xpi",
@@ -2157,7 +2802,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be hungry"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-N29:D21-A2",
                 "transcription": "Hqr",
@@ -2177,7 +2821,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "praise"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28*W14:O34-A2",
                 "transcription": "Hsi",
@@ -2197,7 +2840,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "nod"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4:N35:N35-D1",
                 "transcription": "hnn",
@@ -2217,7 +2859,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "breathe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-S29-N35:D19",
                 "transcription": "Hqr",
@@ -2236,7 +2877,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "take pleasure"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1:N35-X1:N37-D19",
                 "transcription": "xntS",
@@ -2256,7 +2896,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "offer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-M2:N35-V31:D39",
                 "transcription": "Hnk",
@@ -2276,7 +2915,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "taste"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:Q3-F20-A2",
                 "transcription": "dp",
@@ -2295,7 +2933,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be heavy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:N35-S29-U32-O39",
                 "transcription": "dns",
@@ -2315,7 +2952,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "kiss"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T22-N35:D19",
                 "transcription": "sn",
@@ -2334,7 +2970,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "educate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F30:D46-A24",
                 "transcription": "Sdi",
@@ -2354,7 +2989,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tie"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S24:O34-V1:D40",
                 "transcription": "dns",
@@ -2374,7 +3008,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "explain"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "P4:D36-V1-A2",
                 "transcription": "wHa",
@@ -2393,7 +3026,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "give birth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-S29-B3",
                 "transcription": "ms(i)",
@@ -2412,7 +3044,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "be real"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U2:Aa11-D36:Y1",
                 "transcription": "mAa",
@@ -2432,7 +3063,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bring"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-O35",
                 "transcription": "ms",
@@ -2452,7 +3082,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bequeath"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-G43-V24-A2",
                 "transcription": "swD",
@@ -2471,7 +3100,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "become"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "L1:D21",
                 "transcription": "xpr",
@@ -2491,7 +3119,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "seize"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V15-A24",
                 "transcription": "iT",
@@ -2511,7 +3138,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "send"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4-G1-D58-D54",
                 "transcription": "hAb",
@@ -2531,7 +3157,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "burn"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U1-G1-F32-Q7",
                 "transcription": "mAX",
@@ -2551,7 +3176,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "leopard"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-M17-M17-E24",
                 "transcription": "Aby",
@@ -2571,7 +3195,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rebel"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-M17-T14-A14",
                 "transcription": "sbi",
@@ -2590,7 +3213,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "interruption"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G43-M17-D54:X1",
                 "transcription": "rwit",
@@ -2610,7 +3232,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "reeds"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-G1-D21-G43-M2-M2-M2",
                 "transcription": "iArw",
@@ -2630,7 +3251,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "recognize"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S32-G1-A2",
                 "transcription": "siA",
@@ -2650,7 +3270,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ivory"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-G43-T19",
                 "transcription": "Abw",
@@ -2670,7 +3289,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "plantation"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5-M1-M1-M1",
                 "transcription": "mnw",
@@ -2690,7 +3308,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ruin"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V4-G1-S29-S40-G37",
                 "transcription": "wAsi",
@@ -2710,7 +3327,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "report"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-G43-T19",
                 "transcription": "smi",
@@ -2730,7 +3346,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Khnum"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W9-G43-C4",
                 "transcription": "Xmnw",
@@ -2750,7 +3365,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Ptahhotep"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3:X1-V28-R4:X1*Q3",
                 "transcription": "ptH-Htp",
@@ -2770,7 +3384,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Osiris"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q1:D4-A40",
                 "transcription": "wsjr",
@@ -2790,7 +3403,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Abydos"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-N26:O49",
                 "transcription": "AbDw",
@@ -2810,7 +3422,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "brewer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A37-X1:Z4",
                 "transcription": "afty",
@@ -2830,7 +3441,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "brick"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G22-D58-X1:O39",
                 "transcription": "Dbt",
@@ -2850,7 +3460,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "builders"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Aa28-D46-G43-A1",
                 "transcription": "iqdw",
@@ -2870,7 +3479,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bud"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G21-V28-D58-X1:M10",
                 "transcription": "nHbt",
@@ -2890,7 +3498,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "brother"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T22-N35:A1",
                 "transcription": "Dbt",
@@ -2910,7 +3517,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rope"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:U19-W24-G43-V28-V1",
                 "transcription": "nwH",
@@ -2930,7 +3536,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "knife"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-S29-T30",
                 "transcription": "ds",
@@ -2950,7 +3555,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "toe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D61-Z1:F51",
                 "transcription": "sAH",
@@ -2970,7 +3574,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ear"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-S29-M36:D21-F21",
                 "transcription": "msDr",
@@ -2990,7 +3593,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "treasurer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17:D21-S19-X1",
                 "transcription": "m-r xtmt",
@@ -3010,7 +3612,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "warmth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D21:I9-Q7",
                 "transcription": "srf",
@@ -3030,7 +3631,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "wall"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-K1:N35-D58-O36",
                 "transcription": "inb",
@@ -3050,7 +3650,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "egg"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-G43-V28-X1:H8",
                 "transcription": "swHt",
@@ -3070,7 +3669,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tooth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:I10-V28-X1:F18",
                 "transcription": "nDHt",
@@ -3090,7 +3688,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tongue"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F20:Z1*F51",
                 "transcription": "ns",
@@ -3109,7 +3706,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "front"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F4:X1*Z1",
                 "transcription": "HAt",
@@ -3129,7 +3725,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "monument"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:W24\\90*W24\\90*W24\\90",
                 "transcription": "mnw",
@@ -3149,7 +3744,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "garden"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W17-N35:X1-N37:Z1*N21",
                 "transcription": "xnt-S",
@@ -3169,7 +3763,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tree"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:O4*X1-M1",
                 "transcription": "nht",
@@ -3189,7 +3782,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "orphan"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:T34*G17-V28-A17-G37",
                 "transcription": "nmH",
@@ -3209,7 +3801,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tomb"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-M40-O34:O1",
                 "transcription": "is",
@@ -3228,7 +3819,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "brilliance"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M1-G43-N8",
                 "transcription": "ds",
@@ -3248,7 +3838,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tent"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M1-G17-O1",
                 "transcription": "iAm",
@@ -3268,7 +3857,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "mouse"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3:N35-W24-G43-F27",
                 "transcription": "pnw",
@@ -3288,7 +3876,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lady"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V30:X1",
                 "transcription": "nbt",
@@ -3308,7 +3895,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "morning"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N14-G1-X1:N5",
                 "transcription": "dwAt",
@@ -3328,7 +3914,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "year"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M4-X1:Z1",
                 "transcription": "rnpt",
@@ -3347,7 +3932,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "yesterday"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-I9:N5",
                 "transcription": "sf",
@@ -3367,7 +3951,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "procession"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O1:D21-X1:D54",
                 "transcription": "prt",
@@ -3387,7 +3970,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "leather"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-D2:D21-F27",
                 "transcription": "dHr",
@@ -3407,7 +3989,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "leg"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-D36:D21:X1-D56",
                 "transcription": "wart",
@@ -3427,7 +4008,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "life"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S34-N35:Aa1",
                 "transcription": "anx",
@@ -3447,7 +4027,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "peace"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R4:X1*Q3",
                 "transcription": "Htp",
@@ -3467,7 +4046,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ostrich"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D41:N35-G43-G34",
                 "transcription": "niw",
@@ -3487,7 +4065,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "linen"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V6:Z1-S28",
                 "transcription": "sSr",
@@ -3507,7 +4084,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "assistant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T28:D36",
                 "transcription": "sSr",
@@ -3527,7 +4103,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "liver"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N36:O34-X1:F51",
                 "transcription": "sSr",
@@ -3547,7 +4122,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dog"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V13:O34-G17-E14",
                 "transcription": "Tsm",
@@ -3567,7 +4141,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "donkey"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O29:D52-E7",
                 "transcription": "aA",
@@ -3587,7 +4160,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "door"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O29:O31",
                 "transcription": "aA",
@@ -3607,7 +4179,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "procedure"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-T30-G17-Y1:Z2",
                 "transcription": "sSm",
@@ -3627,7 +4198,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sibling"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T22-N35:N35:W24*X1-G43-A1*B1:Z2",
                 "transcription": "snw snwt",
@@ -3647,7 +4217,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sky"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3*X1:N1",
                 "transcription": "pt",
@@ -3667,7 +4236,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "privacy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T21:D36-D36:Z7",
                 "transcription": "waaw",
@@ -3687,7 +4255,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "giraffe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E27",
                 "transcription": "mmy",
@@ -3707,7 +4274,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-N29:X1-W22",
                 "transcription": "mmy",
@@ -3727,7 +4293,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ancestor"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D1:Q3-D36:Z1",
                 "transcription": "tp-a",
@@ -3746,7 +4311,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rush"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-M2:N35-M17-M2",
                 "transcription": "Hni",
@@ -3766,7 +4330,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "breast"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:N35-D46:D27",
                 "transcription": "mnd",
@@ -3786,7 +4349,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "butcher"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T30:X1-G4",
                 "transcription": "sfTw",
@@ -3806,7 +4368,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bush"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-G29-G1-X1:M2",
                 "transcription": "bAt",
@@ -3826,7 +4387,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bird"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-Q3:D46-G38",
                 "transcription": "Apd",
@@ -3846,7 +4406,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "road"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V4-G1-X1:N31",
                 "transcription": "wAt",
@@ -3866,7 +4425,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "copper"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-M17-N41:F18",
                 "transcription": "biA",
@@ -3886,7 +4444,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "corn"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V6-Z1-U9:Z2",
                 "transcription": "sSr",
@@ -3906,7 +4463,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "corpse"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "K4:X1-A55",
                 "transcription": "XAt",
@@ -3926,7 +4482,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "river"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-X1:D21-G43-N(35)",
                 "transcription": "itrw",
@@ -3946,7 +4501,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ring"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E9-G43-D36:G43-S21",
                 "transcription": "iwaw",
@@ -3966,7 +4520,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "reverence"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-U2:Aa1-F39",
                 "transcription": "imAx",
@@ -3986,7 +4539,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lotus"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:N37:N35-M9",
                 "transcription": "sSn",
@@ -4006,7 +4558,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "oryx"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E28",
                 "transcription": "m3 hd",
@@ -4026,7 +4577,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "goat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E31",
                 "transcription": "nht",
@@ -4046,7 +4596,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bee"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "L2-X1:Z1",
                 "transcription": "bit",
@@ -4066,7 +4615,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Anubis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E16A",
                 "transcription": "inpw",
@@ -4086,7 +4634,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Sobek"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-V31:I5",
                 "transcription": "sbk",
@@ -4106,7 +4653,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Duamutef"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N14-G14-X1:I9-A40",
                 "transcription": "dwA-mtwf",
@@ -4126,7 +4672,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Wepwawet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F13-N31:X1*Z2-E18",
                 "transcription": "wp-wAwt",
@@ -4146,7 +4691,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "commander"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F20",
                 "transcription": "imy r",
@@ -4166,7 +4710,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "desert"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N25:X1*Z1",
                 "transcription": "xAst",
@@ -4186,7 +4729,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "boat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:Q3*X1-P1",
                 "transcription": "dpt",
@@ -4206,7 +4748,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bread"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1*X2:N18",
                 "transcription": "t",
@@ -4225,7 +4766,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "brow"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F13:X1*Z1",
                 "transcription": "wpt",
@@ -4245,7 +4785,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "baker"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U31:X1*Z4-D40:A1",
                 "transcription": "rtHty",
@@ -4265,7 +4804,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "basket"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V30:X1*Z1",
                 "transcription": "nbt",
@@ -4285,7 +4823,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bronze"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-S29-Y5:N35-U32-N34:Z(N33)*Z(N33)*Z(N33)",
                 "transcription": "Hsmn",
@@ -4305,7 +4842,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "wood"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M3:X1*Z1",
                 "transcription": "xt",
@@ -4320,12 +4856,11 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q721931",
+            "concept": "https://www.wikidata.org/entity/Q721931",
             "translation": {
                 "locale": "en",
                 "content": "shed"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-D36-M12-G1-Z7:O1",
                 "transcription": "mxAw",
@@ -4345,7 +4880,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "balance"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M3:X1*Z1",
                 "transcription": "xt",
@@ -4365,7 +4899,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "draughtsman"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y6",
                 "transcription": "ib3",
@@ -4385,7 +4918,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "wing"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "H5",
                 "transcription": "dnh",
@@ -4405,7 +4937,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "soil"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "H8-D58",
                 "transcription": "gb",
@@ -4425,7 +4956,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "straw"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-M16-G1-M2:Z2",
                 "transcription": "dHA",
@@ -4445,7 +4975,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "office"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O44-X1:Z1",
                 "transcription": "iAt",
@@ -4465,7 +4994,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "oil"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U7:D21-V28-X1-W1",
                 "transcription": "mrHt",
@@ -4485,7 +5013,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ointment"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-I10:X1-W1",
                 "transcription": "mDt",
@@ -4505,7 +5032,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "axe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N36:N35-D58-N34",
                 "transcription": "minb",
@@ -4525,7 +5051,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rape"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-G1-M17-D21:T12-A24",
                 "transcription": "dAir",
@@ -4545,7 +5070,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "remainder"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "(D2-D36):D21-G37:Z2",
                 "transcription": "minb",
@@ -4565,7 +5089,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cavern"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29:D21-D21:X1-O1",
                 "transcription": "qrrt",
@@ -4585,7 +5108,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "chapel"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D28:D21-M17-O18",
                 "transcription": "kA(r)i",
@@ -4605,7 +5127,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "coiffeur"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D4:D3",
                 "transcription": "iri Snw",
@@ -4625,7 +5146,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "child"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F32:D21:D46-A17",
                 "transcription": "Xrd",
@@ -4645,7 +5165,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "success"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:D46-X1:T12-Y1:Z2",
                 "transcription": "Xrd",
@@ -4665,7 +5184,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "mandrake"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:D21-G17-X1-Z2:N33",
                 "transcription": "rrmt",
@@ -4685,7 +5203,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "man"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:A1*Z1",
                 "transcription": "s",
@@ -4705,7 +5222,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "milk"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D21:X1*X1-W20",
                 "transcription": "irtt",
@@ -4725,7 +5241,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dance"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G43-X1:D36",
                 "transcription": "rwt",
@@ -4745,7 +5260,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "meal"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M8-G1-D58-G43-X3*W22:N18-Z3",
                 "transcription": "SAbw",
@@ -4765,7 +5279,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "childhood"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:Aa1-N35:X1-A17",
                 "transcription": "nxnt",
@@ -4785,7 +5298,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cattle"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:N35-Y5:N35-X1-E1:Z2",
                 "transcription": "mnmnt",
@@ -4805,7 +5317,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "candle"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1:D28-Q7",
                 "transcription": "tkA",
@@ -4825,7 +5336,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "road"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N31:X1*Z1",
                 "transcription": "wAt",
@@ -4845,7 +5355,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "foreleg"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1*Q3:N37-F23",
                 "transcription": "xpS",
@@ -4865,7 +5374,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "calf"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F18:O34-E3",
                 "transcription": "bHs",
@@ -4885,7 +5393,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cake"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I9:N29-G1-N18",
                 "transcription": "fqA",
@@ -4905,7 +5412,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "duty"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T28:X1",
                 "transcription": "Xrt",
@@ -4925,7 +5431,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "nose"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I9:N35:D46-D19",
                 "transcription": "fnd",
@@ -4945,7 +5450,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sistrum"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y8",
                 "transcription": "shm",
@@ -4965,7 +5469,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "copper"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "K6",
                 "transcription": "imy r",
@@ -4984,7 +5487,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "jubilation"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4:W24-A8",
                 "transcription": "hnw",
@@ -5004,7 +5506,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hairdresser"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:N37-X1:D3",
                 "transcription": "nSt",
@@ -5019,12 +5520,11 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#Noun",
                 "content": "NN"
             },
-            "concept": "https://www.wikidata.org/wiki/Q1317634",
+            "concept": "https://www.wikidata.org/entity/Q1317634",
             "translation": {
                 "locale": "en",
                 "content": "cauldron"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-V28-X1:W23",
                 "transcription": "wAHt",
@@ -5043,7 +5543,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "departure"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G43-G43-X1-D54:Z2",
                 "transcription": "rwwt",
@@ -5063,7 +5562,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "papyrus plant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46-M17-M17-X1-M15",
                 "transcription": "rwwt",
@@ -5083,7 +5581,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "harp"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-N35:X1-Y7",
                 "transcription": "bnt",
@@ -5103,7 +5600,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hair"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V7:N35-Z4:D3",
                 "transcription": "Sny",
@@ -5123,7 +5619,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "jaw"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D36:D21:X1-F19",
                 "transcription": "art",
@@ -5143,7 +5638,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Nubia"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa32-X1:Z8",
                 "transcription": "sty",
@@ -5162,7 +5656,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "antiguity"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G40-X1:X6",
                 "transcription": "art",
@@ -5181,7 +5674,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "antiguity"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3:D46-D56",
                 "transcription": "pAt",
@@ -5201,7 +5693,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "arm"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D36:Z1",
                 "transcription": "a",
@@ -5221,7 +5712,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "arrow"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V6-S29-D21:T11",
                 "transcription": "Ssr",
@@ -5241,7 +5731,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "mummy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-M17-A53",
                 "transcription": "wi",
@@ -5261,7 +5750,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "myrrh"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D36:N35-G4-W23:Z2",
                 "transcription": "antyw",
@@ -5281,7 +5769,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cow"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F1",
                 "transcription": "k3",
@@ -5301,7 +5788,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "temple"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R8-O6-X1:O1",
                 "transcription": "Hwt-nTr",
@@ -5321,7 +5807,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "honey"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "L2-X1-W22:Z2",
                 "transcription": "bit",
@@ -5341,7 +5826,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "scimitar"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1*Q3:N37-T16",
                 "transcription": "xpS",
@@ -5360,7 +5844,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "secret"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-N37:X1*U30-G1-Z9:Z2",
                 "transcription": "sStA",
@@ -5380,7 +5863,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hoof"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F25-X1:Z1",
                 "transcription": "wHmt",
@@ -5400,7 +5882,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "house"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O1:Z1",
                 "transcription": "pr",
@@ -5420,7 +5901,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "horse"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-S29-G17:X1-E6",
                 "transcription": "ssmt",
@@ -5440,7 +5920,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hill"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29-G1-G1-N23:Z1",
                 "transcription": "qAA",
@@ -5460,7 +5939,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "law"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4*Q3:Y1",
                 "transcription": "hp",
@@ -5480,7 +5958,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lip"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D24:X1*Z1",
                 "transcription": "spt",
@@ -5500,7 +5977,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lake"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N37:N23*Z1",
                 "transcription": "S",
@@ -5520,7 +5996,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "city"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O49:X1*Z1",
                 "transcription": "niwt",
@@ -5539,7 +6014,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "confidence"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1*Q1:N36-Aa1:D21-X1-W23:Z1",
                 "transcription": "niwt",
@@ -5559,7 +6033,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "treasury"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O2",
                 "transcription": "pr hd",
@@ -5579,7 +6052,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "councillor"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M40-G17",
                 "transcription": "imy is",
@@ -5599,7 +6071,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "exaltation"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4-A28",
                 "transcription": "h",
@@ -5618,7 +6089,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "chamber"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M40-S29-Z4-M2-O1",
                 "transcription": "is",
@@ -5638,7 +6108,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "boy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A17-D53",
                 "transcription": "t3",
@@ -5658,7 +6127,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "woman"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:X1-B1",
                 "transcription": "st",
@@ -5678,7 +6146,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "desert"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:X1-N25",
                 "transcription": "smyt",
@@ -5698,7 +6165,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "death"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17:X1-A14",
                 "transcription": "m(w)t",
@@ -5718,7 +6184,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "wine"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D21:Q3-W21",
                 "transcription": "irp",
@@ -5738,7 +6203,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "statue"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A53",
                 "transcription": "twt",
@@ -5758,7 +6222,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "duck"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "H1",
                 "transcription": "3pd",
@@ -5778,7 +6241,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "shape"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A53-A53-A53",
                 "transcription": "irw",
@@ -5798,7 +6260,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "canal"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N36:N21*Z1",
                 "transcription": "mr",
@@ -5818,7 +6279,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "memorandum"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A2-D21",
                 "transcription": "sh3",
@@ -5838,7 +6298,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ibis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O4-D58-G26",
                 "transcription": "hb",
@@ -5858,7 +6317,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pyramid"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-G17:D21-O24",
                 "transcription": "mr",
@@ -5884,7 +6342,6 @@ var egyptian={"dictentries": {
                     "content": "Bahre"
                 }
             ],
-            "determinative": true,
             "transliteration": {
                 "code": "A55-X1",
                 "transcription": "nmit",
@@ -5904,7 +6361,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Shu"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N37-H6-G43",
                 "transcription": "Sw",
@@ -5924,7 +6380,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Bastet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W1-X1-B1",
                 "transcription": "3bst",
@@ -5944,7 +6399,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Sopdu"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M44-G43-G13",
                 "transcription": "spdw",
@@ -5964,7 +6418,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Sirius"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M44-X1-B1",
                 "transcription": "spdt",
@@ -5984,7 +6437,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Wenennefer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E34:N35:N35-F35-A40",
                 "transcription": "wnn-nfr",
@@ -6004,7 +6456,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Sothis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M44-X1",
                 "transcription": "spdt",
@@ -6024,7 +6475,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Wosret"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F12-S29-D21:X1",
                 "transcription": "wsrt",
@@ -6044,7 +6494,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Tefnut"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1:I9-N35:X1",
                 "transcription": "tfnt",
@@ -6064,7 +6513,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Montju"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:N35:V13-G43",
                 "transcription": "mnTw",
@@ -6079,12 +6527,11 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q215940",
+            "concept": "https://www.wikidata.org/entity/Q215940",
             "translation": {
                 "locale": "en",
                 "content": "Khepri"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "L1:D21-M17-C2",
                 "transcription": ""
@@ -6098,12 +6545,11 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q208150",
+            "concept": "https://www.wikidata.org/entity/Q208150",
             "translation": {
                 "locale": "en",
                 "content": "Apis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa5:Q3-E1",
                 "transcription": ""
@@ -6117,12 +6563,11 @@ var egyptian={"dictentries": {
                 "uri": "http://purl.org/olia/olia.owl#NamedEntity",
                 "content": "NE"
             },
-            "concept": "https://www.wikidata.org/wiki/Q190521",
+            "concept": "https://www.wikidata.org/entity/Q190521",
             "translation": {
                 "locale": "en",
                 "content": "Khonsu"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1:N35:O34-M23-G45-G7",
                 "transcription": ""
@@ -6141,7 +6586,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Min"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R22:R12",
                 "transcription": "mnw",
@@ -6161,7 +6605,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ship"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-M17-G1-P3",
                 "transcription": "Haw",
@@ -6181,7 +6624,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "summer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N37-N(35)-N5",
                 "transcription": "Smw",
@@ -6201,7 +6643,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "star"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-D58-N14",
                 "transcription": "sbA",
@@ -6221,7 +6662,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "blood"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:N37:D21-D26",
                 "transcription": "dSrw",
@@ -6241,7 +6681,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "flamingo"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:N37-D21-G27",
                 "transcription": "dSr",
@@ -6260,7 +6699,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "grind"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa27-W24:D36",
                 "transcription": "nD",
@@ -6280,7 +6718,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "neck"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G21-V28-D58-X1:F51",
                 "transcription": "nHbt",
@@ -6300,7 +6737,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "necklace"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y5:N35-M17-X1-S18",
                 "transcription": "mnit",
@@ -6320,7 +6756,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "necropolis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R8-T28:D21-N25",
                 "transcription": "Xr(t)-nTr",
@@ -6340,7 +6775,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "elephant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-G43-E26",
                 "transcription": "Abw",
@@ -6360,7 +6794,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "chamberlain"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W17-G17",
                 "transcription": "imy-xnt",
@@ -6380,7 +6813,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ruler"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S38-N29-G1",
                 "transcription": "HqA",
@@ -6400,7 +6832,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "jackal"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E17",
                 "transcription": "sAb",
@@ -6420,7 +6851,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "courtier"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S29-U23-D21:A1",
                 "transcription": "smr",
@@ -6440,7 +6870,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "knowledge"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:Aa1-U33",
                 "transcription": "rxt",
@@ -6460,7 +6889,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pig"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "E12",
                 "transcription": "sz3",
@@ -6480,7 +6908,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fish"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G17-K5",
                 "transcription": "rm",
@@ -6500,7 +6927,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fool"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G43-M12-G1-G37-A1",
                 "transcription": "wxA",
@@ -6520,7 +6946,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "follower"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T18-G43",
                 "transcription": "rm",
@@ -6540,7 +6965,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pot"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-M2:N35-W24-G43-W22:Z1",
                 "transcription": "Hnw",
@@ -6560,7 +6984,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "head"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D1:Z1",
                 "transcription": "tp",
@@ -6580,7 +7003,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "week"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D1:Z1-N5:V20",
                 "transcription": "tp ra mD",
@@ -6600,7 +7022,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "expedition"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A12",
                 "transcription": "mSa",
@@ -6620,7 +7041,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "heart"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W23:Z1",
                 "transcription": "ib",
@@ -6640,7 +7060,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "evening"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G20-N37:D21-E23-G43-N2",
                 "transcription": "mSrw",
@@ -6660,7 +7079,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pain"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-O4-G43-G37",
                 "transcription": "Ahw",
@@ -6680,7 +7098,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "entourage"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V7:N35-M17-M17-X1-A21-A1:Z2",
                 "transcription": "Ahw",
@@ -6700,7 +7117,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "god"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R8-A40",
                 "transcription": "nTr",
@@ -6720,7 +7136,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "offering"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M19",
                 "transcription": "3bt",
@@ -6740,7 +7155,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "throat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa1:Aa1-F10",
                 "transcription": "xx",
@@ -6760,7 +7174,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "god"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R8-Z1",
                 "transcription": "nTr",
@@ -6780,7 +7193,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "thread"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa27-W24-S28",
                 "transcription": "nD",
@@ -6799,7 +7211,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "protector"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Aa27-W24-X1:Z4-D40",
                 "transcription": "nDty",
@@ -6819,7 +7230,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "water"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N(35)",
                 "transcription": "mw",
@@ -6839,7 +7249,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "barley"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U10:Z2",
                 "transcription": "it",
@@ -6859,7 +7268,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fear"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G54-A2",
                 "transcription": "snd",
@@ -6879,7 +7287,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "well"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W9-G17-X1-N(35)",
                 "transcription": "Xnmt",
@@ -6899,7 +7306,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hall"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M12-G1-O27",
                 "transcription": "xA",
@@ -6919,7 +7325,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "crime"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-X1:U30-G1-G37",
                 "transcription": "btA(w)",
@@ -6939,7 +7344,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "crocodile"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-O34:V28-I3",
                 "transcription": "msH",
@@ -6959,7 +7363,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "praise"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-G1-A30",
                 "transcription": "iA(w)",
@@ -6978,7 +7381,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beetle"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "L1-Z1",
                 "transcription": "xprr",
@@ -6998,7 +7400,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Hathor"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O10",
                 "transcription": "Hwt-Hr",
@@ -7017,7 +7418,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Ramses I"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N5-F31-S29-M23-G43",
                 "transcription": "Rˁ msj sw",
@@ -7043,7 +7443,6 @@ var egyptian={"dictentries": {
                     "content": "Heryshaf"
                 }
             ],
-            "determinative": true,
             "transliteration": {
                 "code": "D2:D21-X1:D36-Z1-G37:Z2",
                 "transcription": "Hry S .f",
@@ -7063,7 +7462,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Uraeus"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D1:Z1-X1:I13",
                 "transcription": "tpt",
@@ -7083,7 +7481,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Orion"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D61-N14-G1-A40",
                 "transcription": "sAH",
@@ -7103,7 +7500,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Heket"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-N29:X1-I7",
                 "transcription": "Hqt",
@@ -7123,7 +7519,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Heh"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "C11",
                 "transcription": "HH",
@@ -7143,7 +7538,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Re"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "C2",
                 "transcription": "ra",
@@ -7163,7 +7557,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Heliopolis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O28-W24:O49",
                 "transcription": "iwnw",
@@ -7183,7 +7576,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Upper Egypt"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M26",
                 "transcription": "Sma",
@@ -7203,7 +7595,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "El Kab"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M22-D58-O49",
                 "transcription": "nhb",
@@ -7223,7 +7614,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Nekhbet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M22-D58-X1",
                 "transcription": "nhbt",
@@ -7243,7 +7633,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Nephthys"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O9",
                 "transcription": "nbt-Hwt",
@@ -7263,7 +7652,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "oasis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M20-G4-Aa15",
                 "transcription": "sht im3w",
@@ -7283,7 +7671,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dagger"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-G29-G1-W11-M23-G43-N34",
                 "transcription": "bAgsw",
@@ -7303,7 +7690,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "gazelle"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W11-V28-S29-E29",
                 "transcription": "gHs",
@@ -7323,7 +7709,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "gate"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-G43-X1-O32",
                 "transcription": "rwt",
@@ -7343,7 +7728,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "alabaster"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N37-S29-V6:W3",
                 "transcription": "sS",
@@ -7363,7 +7747,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "amulet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V16:Z1",
                 "transcription": "sA",
@@ -7383,7 +7766,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pillar"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O28-Z1",
                 "transcription": "iwn",
@@ -7403,7 +7785,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tortoise"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I2",
                 "transcription": "styw",
@@ -7423,7 +7804,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "tadpole"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I8",
                 "transcription": "hfn",
@@ -7443,7 +7823,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Thinis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R18",
                 "transcription": "wAwr",
@@ -7463,7 +7842,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Amun"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Y5:N35",
                 "transcription": "imn",
@@ -7483,7 +7861,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Amun-Re"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Y5:N35-N5:Z1-A40",
                 "transcription": "imn-ra",
@@ -7503,7 +7880,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Thoth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "X1-A40",
                 "transcription": "dhwty",
@@ -7523,7 +7899,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Geb"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G38-D58",
                 "transcription": "gb",
@@ -7543,7 +7918,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "offspring"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-G43-A17-Z3",
                 "transcription": "msw",
@@ -7563,7 +7937,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Qebehsenuf"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W15-T22-T22-T22-I9",
                 "transcription": "qbHsnwf",
@@ -7583,7 +7956,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Qis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29-M17-S29-O49",
                 "transcription": "qis",
@@ -7603,7 +7975,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Thebes"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R19-X1:O49",
                 "transcription": "wAst",
@@ -7623,7 +7994,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Aten"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-X1:N35-N5",
                 "transcription": "itn",
@@ -7643,7 +8013,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Ptah"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Q3:X1-V28",
                 "transcription": "ptH",
@@ -7663,7 +8032,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Aker"
             },
-            "determinative": true,
             "transliteration": [
                 {
                     "code": "G1-V31:D21",
@@ -7692,7 +8060,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "scribe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Y3-A1",
                 "transcription": "sS",
@@ -7712,7 +8079,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "skin"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T34-G17-F27",
                 "transcription": "inm",
@@ -7732,7 +8098,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "rug"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-D28-F27",
                 "transcription": "mskA",
@@ -7752,7 +8117,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "district"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z1-G43",
                 "transcription": "w",
@@ -7772,7 +8136,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "back"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-G1-X1:F37",
                 "transcription": "w",
@@ -7792,7 +8155,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "festival"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-D58-W3",
                 "transcription": "Hb",
@@ -7812,7 +8174,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cloth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-I9:D46-S28",
                 "transcription": "ifd",
@@ -7832,7 +8193,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "praise"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z2-A4",
                 "transcription": "i3w",
@@ -7852,7 +8212,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "electrum"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S41-G17-S12",
                 "transcription": "Dam",
@@ -7872,7 +8231,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sunlight"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-Aa1-G43-N8",
                 "transcription": "Axw",
@@ -7892,7 +8250,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cobra"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D36:D21:X1-I12",
                 "transcription": "iart",
@@ -7912,7 +8269,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "breath"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G47-G43-P5",
                 "transcription": "TAw",
@@ -7932,7 +8288,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sandal"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V13-D58-X1-S33",
                 "transcription": "Tbt",
@@ -7952,7 +8307,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "slave"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U36-Z1-A1",
                 "transcription": "Hm",
@@ -7971,7 +8325,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "many"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "C11",
                 "transcription": "HH",
@@ -7990,7 +8343,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "heavy"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D46:N35-S29-U32-Y1v",
                 "transcription": "dns",
@@ -8009,7 +8361,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "dignified"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A50-S29-Z4:Y1",
                 "transcription": "Spsy",
@@ -8028,7 +8379,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bad"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-M17-N35:G37",
                 "transcription": "bin",
@@ -8047,7 +8397,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "hidden"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A5A",
                 "transcription": "imn",
@@ -8066,7 +8415,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sweet"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M29-G17",
                 "transcription": "nDm",
@@ -8091,7 +8439,6 @@ var egyptian={"dictentries": {
                     "content": "mighty"
                 }
             ],
-            "determinative": true,
             "transliteration": {
                 "code": "A19-G7",
                 "transcription": "wr",
@@ -8110,7 +8457,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "various"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N37-D58-N35:Z9",
                 "transcription": "Sbn",
@@ -8129,7 +8475,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "charming"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-U1-M1-G17",
                 "transcription": "imA",
@@ -8148,7 +8493,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Behold!"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-D38:V31",
                 "transcription": "mk",
@@ -8167,7 +8511,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "therefore"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-Aa1:Y1",
                 "transcription": "ix",
@@ -8186,7 +8529,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "these"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M22-M22",
                 "transcription": "nn",
@@ -8205,7 +8547,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "thereof"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-D21:Z4",
                 "transcription": "iry",
@@ -8224,7 +8565,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "therewith"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-N35:D36",
                 "transcription": "Hna",
@@ -8243,7 +8583,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "never"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D35-O34:Q3*O50",
                 "transcription": "n sp",
@@ -8262,7 +8601,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "formerly"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T28:D21-F4:X1*Z1",
                 "transcription": "Xr-HAt",
@@ -8281,7 +8619,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "never"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D35",
                 "transcription": "n",
@@ -8301,7 +8638,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "ebony"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U13:N35-Z4:M3",
                 "transcription": "hbny",
@@ -8320,7 +8656,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "eastern"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R15-D58-X1:Z4",
                 "transcription": "iAbty",
@@ -8339,7 +8674,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "precious"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "S19:Y1",
                 "transcription": "sDAw",
@@ -8358,7 +8692,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "excellent"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17-N29:D21",
                 "transcription": "iqr",
@@ -8377,7 +8710,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pleasant"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M30-N35:D21:Y1",
                 "transcription": "bnr",
@@ -8396,7 +8728,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "unique"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T21:X1*Z4",
                 "transcription": "waty",
@@ -8415,7 +8746,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "earlier"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W17-N35:X1",
                 "transcription": "xnt",
@@ -8434,7 +8764,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "entirely"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:Z1-S29-Z4:N31",
                 "transcription": "r-sy",
@@ -8453,7 +8782,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "powerful"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F12-S29-D21",
                 "transcription": "wsr",
@@ -8473,7 +8801,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "black"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I6-G17",
                 "transcription": "km",
@@ -8492,7 +8819,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pure"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D60-N(35)",
                 "transcription": "wab",
@@ -8511,7 +8837,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "born to"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F31-N35",
                 "transcription": "ms-n",
@@ -8530,7 +8855,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "since"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M36",
                 "transcription": "dr",
@@ -8550,7 +8874,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "you"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V13-G43",
                 "transcription": "Tw",
@@ -8570,7 +8893,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "behind"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M16-G1-D1",
                 "transcription": "HA",
@@ -8589,7 +8911,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "because"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M36:D21-N35:X1*X1",
                 "transcription": "Dr ntt",
@@ -8608,7 +8929,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beside"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21:D36*Z1",
                 "transcription": "r-a",
@@ -8627,7 +8947,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "before"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D21-F4:X1*Z1",
                 "transcription": "r-HAt",
@@ -8646,7 +8965,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "under"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T28:D21",
                 "transcription": "Xr",
@@ -8665,7 +8983,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "by"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M17:N35",
                 "transcription": "in",
@@ -8684,7 +9001,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "foremost"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D1-G7",
                 "transcription": "tpy",
@@ -8704,7 +9020,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "naked"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M16-G1-M17-M17-S28",
                 "transcription": "HAy",
@@ -8723,7 +9038,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "united with"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W9-G17",
                 "transcription": "Xmn",
@@ -8743,7 +9057,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "fish"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M16-G1-G17-G51-A24",
                 "transcription": "HAm",
@@ -8763,7 +9076,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "strike"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-A24",
                 "transcription": "Hii",
@@ -8783,7 +9095,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "sing"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-W14-S29-A2",
                 "transcription": "Hsi",
@@ -8803,7 +9114,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-A25-A24",
                 "transcription": "Hw(i)",
@@ -8823,7 +9133,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "eat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z11-G17-A2",
                 "transcription": "wnm",
@@ -8843,7 +9152,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "abandon"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D58-V15",
                 "transcription": "bT",
@@ -8862,7 +9170,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "accordingly"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W19-M17-M17",
                 "transcription": "my",
@@ -8887,7 +9194,6 @@ var egyptian={"dictentries": {
                     "content": "to"
                 }
             ],
-            "determinative": true,
             "transliteration": {
                 "code": "D21",
                 "transcription": "r",
@@ -8906,7 +9212,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "among"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G18",
                 "transcription": "m-m",
@@ -8925,7 +9230,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "after"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-M3:Aa1*X1-D54",
                 "transcription": "m-xt",
@@ -8944,7 +9248,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "in"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17",
                 "transcription": "m",
@@ -8963,7 +9266,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "within"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G17-W17-X1",
                 "transcription": "mxnt",
@@ -8983,7 +9285,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "lion"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U1-G1-M17-E22",
                 "transcription": "mAi",
@@ -9003,7 +9304,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W19-M17-G43-E13",
                 "transcription": "miw",
@@ -9023,7 +9323,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "eternity"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G21-V28-V28-N5",
                 "transcription": "nHH",
@@ -9043,7 +9342,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "peer"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W19-X1-M17-M17-A50",
                 "transcription": "miw",
@@ -9063,7 +9361,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "mother"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G14-X1-B1",
                 "transcription": "mwt",
@@ -9083,7 +9380,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "beauty"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F35-F35-F35",
                 "transcription": "nfrw",
@@ -9102,7 +9398,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "herdsman"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "A47-G43",
                 "transcription": "mniw",
@@ -9122,7 +9417,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Maat"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "C10",
                 "transcription": "mAat",
@@ -9142,7 +9436,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Nut"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W24*X1:N1",
                 "transcription": "nwt",
@@ -9162,7 +9455,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "clothe"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V28-D58-S29-S28",
                 "transcription": "Hbs",
@@ -9182,7 +9474,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "cross"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U28-G1-P1",
                 "transcription": "DA(i)",
@@ -9202,7 +9493,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "denounce"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N26-G43-S29",
                 "transcription": "Dws",
@@ -9222,7 +9512,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "finger"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "D50-Z1",
                 "transcription": "Dba",
@@ -9242,7 +9531,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Busiris"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "R11-R11-G43-O49",
                 "transcription": "Ddw",
@@ -9262,7 +9550,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Haroeris"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G5-A21",
                 "transcription": "hrwr",
@@ -9282,7 +9569,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Horus"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G5-A40",
                 "transcription": "hr",
@@ -9302,7 +9588,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Imseti"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M1-S29-U33",
                 "transcription": "imsti",
@@ -9322,7 +9607,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Seth"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "C7",
                 "transcription": "sth",
@@ -9342,7 +9626,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "Isis"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "G1-Q1-X1-B1",
                 "transcription": "3st",
@@ -9362,7 +9645,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "bone"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29-S29-T19",
                 "transcription": "qs",
@@ -9382,7 +9664,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 1000
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M12-Z1",
                 "transcription": "xA",
@@ -9402,7 +9683,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 100000
             },
-            "determinative": true,
             "transliteration": {
                 "code": "I8-I8-I8-Z2",
                 "transcription": "hfn",
@@ -9422,7 +9702,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 10
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V20",
                 "transcription": ""
@@ -9441,7 +9720,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 1
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z1",
                 "transcription": "w'",
@@ -9461,7 +9739,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 4
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z1",
                 "transcription": "fdw/ifdw",
@@ -9481,7 +9758,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 100
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V1",
                 "transcription": ""
@@ -9500,7 +9776,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": 6
             },
-            "determinative": true,
             "transliteration": {
                 "code": "Z2:Z2",
                 "transcription": "srs",
@@ -9519,7 +9794,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "long"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "F40-G43",
                 "transcription": "Aw",
@@ -9538,7 +9812,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "every"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "V30",
                 "transcription": "nb",
@@ -9557,7 +9830,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "alone"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T21:D36*Z1",
                 "transcription": "wa",
@@ -9577,7 +9849,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "deed"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "O34:Q3*O50",
                 "transcription": "sp",
@@ -9597,7 +9868,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "district"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N24:X1*Z1",
                 "transcription": "spAt",
@@ -9617,7 +9887,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "doctor"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "T11:W24*Z1-A1",
                 "transcription": "swnw",
@@ -9637,7 +9906,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "family"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "U23-D58-W8:X1-A1*B1:Z2",
                 "transcription": "swnw",
@@ -9657,7 +9925,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "food"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M42:N35-G17-X1-A2-X2*W22:N18-Z3",
                 "transcription": "wnmt",
@@ -9677,7 +9944,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "flagellum"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N35:Aa1\\90*Aa1\\90-G43-S45",
                 "transcription": "swnw",
@@ -9696,7 +9962,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "pervading"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "M3:Aa1*X1-D54",
                 "transcription": "xt",
@@ -9715,7 +9980,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "long"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "N29-D58-W15",
                 "transcription": "qb",
@@ -9734,7 +9998,6 @@ var egyptian={"dictentries": {
                 "locale": "en",
                 "content": "foremost one"
             },
-            "determinative": true,
             "transliteration": {
                 "code": "W17-N35:X1*Z4",
                 "transcription": "xnty",
