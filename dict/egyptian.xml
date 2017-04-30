@@ -5,7 +5,9 @@
         <license uri="https://www.wikidata.org/entity/Q79719" val="https://www.wikidata.org/entity/Q27016754">GPLv3</license>
         <comment uri="http://www.w3.org/2000/01/rdf-schema#comment">Egyptian Unicode Dictionary. Horizontally aligned character words are represented correctly. Vertically aligned and cube-assembled characters can currently not be represented in Unicode. They will be represented with there corresponding Codage sings between the unicode characters until <a href="http://www.unicode.org/L2/L2016/16090-comment-ctl-char-egyptian.pdf">this proposal</a> has been adopted in Unicode.</comment>
         <references uri="https://www.wikidata.org/entity/Q134995"><reference uri="https://www.wikidata.org/entity/Q121769" val="hieronet"><a href="http://hieroglyphs.net/0301/cgi/pager.pl?p=16">Hieroglyphs.net</a></reference>
-            <reference uri="https://www.wikidata.org/entity/Q121769" val="dickson"><a href="http://www.pyramidtextsonline.com/documents/DicksonDictionary.pdf">Dickson Dictionary</a></reference></references>
+            <reference uri="https://www.wikidata.org/entity/Q121769" val="dickson"><a href="http://www.pyramidtextsonline.com/documents/DicksonDictionary.pdf">Dickson Dictionary</a></reference>
+        <reference uri="https://www.wikidata.org/entity/Q121769" val="hieroglyphs"><a href="http://https://www.egyptianhieroglyphs.net/">Egyptian Hieroglyphs.net</a></reference>
+        </references>
     </about>
     <patterns>
         <pattern pos="NN" rep="transliteration" wordcase="http://purl.org/olia/olia.owl#Stem">~</pattern>
@@ -79,6 +81,11 @@
 <translation locale="en">skin</translation>
 <postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
 𓄛</dictentry> 
+<dictentry ref="dickson" logogram="">
+<transliteration transcription="G37" code="G37">G37</transliteration>
+<translation locale="en">small</translation>
+<postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
+𓅪</dictentry>
 <dictentry ref="dickson" logogram="" concept="https://www.wikidata.org/entity/Q8514">
 <transliteration transcription="N25" code="N25">N25</transliteration>
 <translation locale="en">desert</translation>
@@ -144,6 +151,11 @@
 <translation locale="en">cattle</translation>
 <postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
 𓃒</dictentry>
+<dictentry ref="dickson" logogram="" concept="https://www.wikidata.org/wiki/Q170124">
+<transliteration transcription="D32" code="D32">D32</transliteration>
+<translation locale="en">envelope</translation>
+<postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
+𓂘</dictentry>
 <dictentry ref="dickson" logogram="" concept="https://www.wikidata.org/entity/Q3947">
 <transliteration transcription="O1" code="O1">O1</transliteration>
 <translation locale="en">house</translation>
@@ -184,6 +196,11 @@
 <translation locale="en">boat</translation>
 <postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
 𓊛</dictentry>
+<dictentry ref="dickson" logogram="" concept="https://www.wikidata.org/wiki/Q4">
+<transliteration transcription="A14" code="A14">A14</transliteration>
+<translation locale="en">death</translation>
+<postag uri="http://purl.org/olia/olia.owl#Determinative">DET</postag>
+𓀐</dictentry>
 <dictentry ref="dickson" logogram="" concept="https://www.wikidata.org/entity/Q1208425">
 <transliteration transcription="A30" code="A30">A30</transliteration>
 <translation locale="en">praise</translation>
@@ -2338,6 +2355,56 @@
 <translation locale="en">you</translation>
 <postag uri="http://purl.org/olia/olia.owl#PersonalPronoun">PPRO</postag>
 𓍿𓅱</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="pn" code="Q3:N35">pn</transliteration>
+<translation locale="en">this (male)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓊪:𓈖</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="pf" code="Q3:I9">pf</transliteration>
+<translation locale="en">that (male)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓊪:𓆑</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="tf" code="X1:I9">tf</transliteration>
+<translation locale="en">that (female)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓏏:𓆑</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="p3" code="G40-G1">p3</transliteration>
+<translation locale="en">the (male)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓅮𓄿</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="p3" code="X1:G1">p3</transliteration>
+<translation locale="en">the (female)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓏏:𓄿</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="p3" code="X1:G1">p3</transliteration>
+<translation locale="en">the (female)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓏏:𓄿</dictentry>
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="n3 n" code="N35:G1-N35">n3 n</transliteration>
+<translation locale="en">the (plural)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓈖:𓄿𓈖</dictentry>
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="tn" code="X1:N35">tn</transliteration>
+<translation locale="en">this (female)</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓏏:𓈖</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="nnn" code="M22-M22-N35">nnn</transliteration>
+<translation locale="en">these</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓇒𓈖</dictentry> 
+<dictentry ref="hieroglyphs" logogram="">
+<transliteration transcription="nfn" code="N35:I9-N35">nfn</transliteration>
+<translation locale="en">those</translation>
+<postag uri="http://purl.org/olia/olia.owl#DemonstrativePronoun">DEMPRO</postag>
+𓈖:𓆑𓈖</dictentry> 
 <dictentry ref="hieronet" logogram="" concept="https://www.wikidata.org/entity/Q16938807">
 <transliteration transcription="HA" code="M16-G1-D1">HA</transliteration>
 <translation locale="en">behind</translation>

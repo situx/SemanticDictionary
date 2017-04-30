@@ -112,6 +112,14 @@
                         "content": "Dickson Dictionary"
                     },
                     "uri": "https://www.wikidata.org/entity/Q121769"
+                },
+                {
+                    "val": "hieroglyphs",
+                    "a": {
+                        "href": "http://https://www.egyptianhieroglyphs.net/",
+                        "content": "Egyptian Hieroglyphs.net"
+                    },
+                    "uri": "https://www.wikidata.org/entity/Q121769"
                 }
             ],
             "uri": "https://www.wikidata.org/entity/Q134995"
@@ -366,6 +374,24 @@
                 "uri": "http://purl.org/olia/olia.owl#Determinative",
                 "content": "DET"
             },
+            "translation": {
+                "locale": "en",
+                "content": "small"
+            },
+            "transliteration": {
+                "code": "G37",
+                "transcription": "G37",
+                "content": "G37"
+            },
+            "content": "𓅪"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
             "concept": "https://www.wikidata.org/entity/Q8514",
             "translation": {
                 "locale": "en",
@@ -611,6 +637,25 @@
                 "uri": "http://purl.org/olia/olia.owl#Determinative",
                 "content": "DET"
             },
+            "concept": "https://www.wikidata.org/wiki/Q170124",
+            "translation": {
+                "locale": "en",
+                "content": "envelope"
+            },
+            "transliteration": {
+                "code": "D32",
+                "transcription": "D32",
+                "content": "D32"
+            },
+            "content": "𓂘"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
             "concept": "https://www.wikidata.org/entity/Q3947",
             "translation": {
                 "locale": "en",
@@ -755,6 +800,25 @@
                 "content": "P1"
             },
             "content": "𓊛"
+        },
+        {
+            "logogram": "",
+            "ref": "dickson",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#Determinative",
+                "content": "DET"
+            },
+            "concept": "https://www.wikidata.org/wiki/Q4",
+            "translation": {
+                "locale": "en",
+                "content": "death"
+            },
+            "transliteration": {
+                "code": "A14",
+                "transcription": "A14",
+                "content": "A14"
+            },
+            "content": "𓀐"
         },
         {
             "logogram": "",
@@ -8880,6 +8944,186 @@
                 "content": "Tw"
             },
             "content": "𓍿𓅱"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "this (male)"
+            },
+            "transliteration": {
+                "code": "Q3:N35",
+                "transcription": "pn",
+                "content": "pn"
+            },
+            "content": "𓊪:𓈖"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "that (male)"
+            },
+            "transliteration": {
+                "code": "Q3:I9",
+                "transcription": "pf",
+                "content": "pf"
+            },
+            "content": "𓊪:𓆑"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "that (female)"
+            },
+            "transliteration": {
+                "code": "X1:I9",
+                "transcription": "tf",
+                "content": "tf"
+            },
+            "content": "𓏏:𓆑"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "the (male)"
+            },
+            "transliteration": {
+                "code": "G40-G1",
+                "transcription": "p3",
+                "content": "p3"
+            },
+            "content": "𓅮𓄿"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "the (female)"
+            },
+            "transliteration": {
+                "code": "X1:G1",
+                "transcription": "p3",
+                "content": "p3"
+            },
+            "content": "𓏏:𓄿"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "the (female)"
+            },
+            "transliteration": {
+                "code": "X1:G1",
+                "transcription": "p3",
+                "content": "p3"
+            },
+            "content": "𓏏:𓄿"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "the (plural)"
+            },
+            "transliteration": {
+                "code": "N35:G1-N35",
+                "transcription": "n3 n",
+                "content": "n3 n"
+            },
+            "content": "𓈖:𓄿𓈖"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "this (female)"
+            },
+            "transliteration": {
+                "code": "X1:N35",
+                "transcription": "tn",
+                "content": "tn"
+            },
+            "content": "𓏏:𓈖"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "these"
+            },
+            "transliteration": {
+                "code": "M22-M22-N35",
+                "transcription": "nnn",
+                "content": "nnn"
+            },
+            "content": "𓇒𓈖"
+        },
+        {
+            "logogram": "",
+            "ref": "hieroglyphs",
+            "postag": {
+                "uri": "http://purl.org/olia/olia.owl#DemonstrativePronoun",
+                "content": "DEMPRO"
+            },
+            "translation": {
+                "locale": "en",
+                "content": "those"
+            },
+            "transliteration": {
+                "code": "N35:I9-N35",
+                "transcription": "nfn",
+                "content": "nfn"
+            },
+            "content": "𓈖:𓆑𓈖"
         },
         {
             "logogram": "",
