@@ -4,6 +4,7 @@ Current languages covered by the dictionary are:
 - Akkadian
 - Sumerian
 - Egyptian Hieroglyphes
+
 Specific export formats are provided for:
 - Anki Flashcard Learning
 - Ibus IME
