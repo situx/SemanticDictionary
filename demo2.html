@@ -1,0 +1,177 @@
+<html>
+<head>
+    <title>Input Method (IME) for Ancient Languages - A Free, Open-Source JavaScript jQuery plugin for Online Akkadian Typing</title>
+    <meta name="description" content="A free and open-source site for typing Pinyin and getting either simplified or traditional characters. Available for direct online use, or as a jQuery plugin." />
+    <meta name="keywords" content="chinese, typing, input, ime, input method, javascript, jQuery, pinyin, zhuyin, bopomofo, simplified, traditional, mandarin, language, tool, application, 輸入法, 键入中文, 輸入普通话" />
+
+    <link rel="canonical" href="http://www.chinese-ime.com" />
+    <meta charset="utf-8">
+    <meta name="http-equiv" content="Content-type: text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/ime.css" />
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+      <style>
+
+  #feedback { font-size: 1.4em; }
+  #selectable .ui-selecting { background: #FECA40; }
+  #selectable .ui-selected { background: #F39814; color: white; }
+  #selectable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
+  #selectable li { margin: 3px; padding: 1px; float: left; width: 70px; height: 60px; font-size: 4em; text-align: center; } 
+  #container { width:100%; font-size: 0;}
+#left, #canvasSimpleDiv, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 55%; text-align:right;vertical-align:bottom;}
+#canvasSimpleDiv {width: 16%;}
+#right {width: 20%;}
+.ui-tooltip
+{
+    font-size:10pt;
+    font-family:Akkadian;
+}
+      </style>
+      <script></script>
+ <!-- <script src="//code.jquery.com/jquery-1.10.2.js"></script>-->
+   <!-- <script type="text/javascript" src="js/jquery.min.js"></script>-->
+  </head>
+<body>
+    <div class="header">
+        <h1>Input Method for Ancient Languages</h1>
+        <h2>Free and Open Source</h2>
+    </div>
+    <dialog id="manualdialog">
+            <table border="2" cellpadding="0" cellspacing="0" style="background-color:#1C1B1C;border-color:white;color:white;" height="10%">
+		<tr><th colspan="2">Manual</th></tr><tr align="center"><td>Enter</td><td> Phonetic Input</td></tr>
+		<tr align="center"><td>Space</td><td>Current suggestion</td></tr><tr align="center"><td>
+        1-5</td><td> Choose candidate</td></tr><tr align="center"><td>PageUp</td><td> Get last 5 suggestions</td></tr>
+        <tr align="center"><td>PageDown</td><td> Get next 5 suggestions</td></tr></table></td></tr></table>
+        <button id="closebutton">Close</button>
+    </dialog>
+    <div class="container" id="container">
+        <div id="left"><textarea class="chinese" id="lefttextarea"></textarea>
+        		   <div id="toolbar">
+        <!--<label class="chinese-checkbox"><input type="checkbox" checked="checked" style="'position': 'absolute'; 'z-index': 1000" id="active"/>Enabled</label>-->
+        <label class="chinese-checkbox"><input type="checkbox" style="'position': 'absolute'; 'z-index': 1000" id="wordforminput"/>Wordform Input</label>
+        <label class="chinese-checkbox"><input type="checkbox" style="'position': 'absolute'; 'z-index': 1000" id="translationinput"/>English Input</label>
+        <label class="chinese-checkbox">Input Method: <select id="imeinputbox">
+        <option value="akkadian">Akkadian</option>
+        <option value="egyptian">Egyptian</option>
+        <option value="hittite">Hittite</option>
+        <option value="sumerian">Sumerian</option>
+        </select></label><button id="manual">IME Manual</button>
+   </div>     </div>
+        <!--<canvas id="canvas" width="200" height="190" style="background-color:white;border:gray 5px solid;"></canvas>-->
+        <div id="canvasSimpleDiv">
+        <span id="aLabel">A:</span>
+        <span id="bLabel">B:</span>
+        <span id="cLabel">C:</span>
+        <span id="dLabel">D:</span>
+        <span id="sLabel">S:</span>
+        <button onClick="clearButton()">Clear</button></div>
+        <div id="right">
+        <ol id="selectable">
+</ol>
+    </div>
+    <div class="footer" style="color:gray">
+    	<p>If you cannot see any cuneiform characters you are probably missing a cuneiform font. Download it <a href="http://oracc.museum.upenn.edu/doc/user/fonts/#CuneiformNA">here</a>!</p>
+        <p>A Free, Easy-to-use, Online Akkadian Input Method Editor.<br> Original idea by Herman Schaaf, modified for Akkadian by Timo Homburg</p>
+        <p>Check out the <a href="https://github.com/hermanschaaf/chinese-ime">source</a> of this jQuery plugin at Github</p>
+        <p class="attribution"><a href="https://www.twitter.com/ironzeb"><img src="https://si0.twimg.com/profile_images/1385624901/ironzebra2_normal.png"/></a> Developed by Herman Schaaf (<a href="http://www.twitter.com/ironzeb">@ironzeb</a>)<br/>&copy; 2012 All rights reserved<br>modified for Akkadian by Timo Homburg<br> &copy; 2014 All rights reserved</p>
+    </div>
+
+    <!--<script src="js/jquerymig.js"></script>-->
+  <script type="text/javascript" src="js/canvas.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script> 
+    
+    <!-- Load this script if you want traditional character support
+    <script type="text/javascript" charset="utf-8" src="js/trad_chars.js"></script>-->
+    <!-- Load this script if you want support for adding the text at the caret position -->
+    <script type="text/javascript" src="js/caret.js"></script>
+    <!-- The actual script -->
+    <script type="text/javascript" src="js/cuneiime.js"></script>
+
+        <script type="text/javascript">
+      (function() {  
+    var dialog = document.getElementById('manualdialog');  
+    document.getElementById('manual').onclick = function() {  
+        dialog.show();  
+    };  
+    document.getElementById('closebutton').onclick = function() {  
+        dialog.close();  
+    };  
+    $('#translationinput').change(function(){
+                    //alert("Loading New Dict")
+                   //alert("Loading Trans Dict")
+                   var name;
+                   if(document.getElementById('translationinput').checked){
+                        name=$('#imeinputbox').val()+"_trans"
+                   }else{
+                        name=$('#imeinputbox').val()
+                   }
+		    $('#lefttextarea').css({'font-family': capitalize($('#imeinputbox').val())});
+                    loadIMEDict(name);
+                });
+                $('#wordforminput').change(function(){
+                        wordformbool=!wordformbool;
+                });
+        $('#imeinputbox').change(function(){
+                    //alert("Loading New Dict "+$(this).val())
+                    //self.imethod = $(this).val();
+                    var name;
+                    if(document.getElementById('translationinput').checked){
+                        name=$(this).val()+"_trans"
+                   }else{
+                        name=$(this).val()
+                   }
+		    $('#lefttextarea').css({'font-family': capitalize($(this).val())});
+                    loadIMEDict(name);
+                });
+})();
+      </script>
+    <script type="text/javascript">
+    ( function( $ ) {
+  "use strict";
+  
+  $( window ).on( 'load', function() { 
+    
+    $( 'body' )
+      .hide()
+      .show();
+      
+  });
+  
+}( jQuery ) );
+  $(function () {
+      $(document).tooltip({
+          content: function () {
+              return $(this).prop('title');
+          }
+      });
+  });
+$(function () {
+    $("#selectable").selectable({
+        stop: function () {
+            var result = $("#select-resultSpan").empty();
+            $(".ui-selected", this).each(function () {
+                var s = $("textarea.chinese").val();
+                var index = $(this).text();
+                $("textarea.chinese").val(s+""+index);
+            });
+        }
+    });
+});
+
+    $(document).ready(function(){
+        prepareSimpleCanvas("akk","akkadian");
+        $("textarea.chinese").chineseInput({
+            debug: true, // print debug messages
+            input: {
+                initial: 'traditional', // or 'simplified'
+                allowChange: true // allow transition between traditional and simplified
+            },
+            allowHide: true, // allow the chinese input to be switched off
+            active: true // whether or not the plugin should be active by default
+        });
+    });
+    </script>
+</body>
+</html>
