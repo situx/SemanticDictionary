@@ -1,17989 +1,2350 @@
-var akkadian_map={"mapentries": {"mapentry": [
-    {
-        "meaning": {
-            "concept": null,
-            "content": "and; but; also"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 125
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "074_335"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {"valid": true},
-        "content": "𒌋"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 104
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 151
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066a"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "a"
-        },
-        "content": "𒀀"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 223
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 125
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 128
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ab"
-        },
-        "content": "𒀊"
-    },
-    {
-        "concept": "",
-        "paint": "a1b10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 127
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "052"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "097"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ag"
-        },
-        "content": "𒀝"
-    },
-    {
-        "concept": "",
-        "paint": "a1b10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 127
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "052"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "097"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ak"
-        },
-        "content": "𒀝"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 474
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 108
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 298
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "al"
-        },
-        "content": "𒀠"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c4d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 309
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 119
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 170
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "am"
-        },
-        "content": "𒄠"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 10
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "009"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "013"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "an"
-        },
-        "content": "𒀭"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 223
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 125
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 128
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ap"
-        },
-        "content": "𒀊"
-    },
-    {
-        "concept": "",
-        "paint": "a1b10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 127
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "052"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "097"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "aq"
-        },
-        "content": "𒀝"
-    },
-    {
-        "concept": "",
-        "paint": "a4b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 726
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 234
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 451
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ar"
-        },
-        "content": "𒅈"
-    },
-    {
-        "concept": "",
-        "paint": "a14b9c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 297
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 180
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 131
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "as"
-        },
-        "content": "𒊍"
-    },
-    {
-        "concept": "",
-        "paint": "b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 1
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "001"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "001"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "asz"
-        },
-        "content": "𒀸"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 258
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 132
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 145
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "at"
-        },
-        "content": "𒀜"
-    },
-    {
-        "concept": "",
-        "paint": "a14b9c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 297
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 180
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 131
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "az"
-        },
-        "content": "𒊍"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 305
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+371"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "b"
-        },
-        "content": "𒁍"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 14
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 303
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "005"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ba"
-        },
-        "content": "𒁀"
-    },
-    {
-        "concept": "",
-        "paint": "c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 92
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 249
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "060"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bab"
-        },
-        "content": "𒉽"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bah"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bak"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a1b3c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 5
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "003"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "009"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bal"
-        },
-        "content": "𒁄"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 685
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "027"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 439
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ban"
-        },
-        "content": "𒉼"
-    },
-    {
-        "concept": "",
-        "paint": "c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 92
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 249
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "060"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bap"
-        },
-        "content": "𒉽"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "baq"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 121
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "057"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bar"
-        },
-        "content": "𒁇"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 120
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "029"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "basz"
-        },
-        "content": "𒈦"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bat"
-        },
-        "content": "𒁁"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "be"
-        },
-        "content": "𒁁"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bel"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "paint": "a5b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 495
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 107
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 324
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bet"
-        },
-        "content": "𒂍"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 358
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "079"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 214
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bi"
-        },
-        "content": "𒁉"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bil"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "paint": "c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 643
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 287
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 400
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bir"
-        },
-        "content": "𒄵"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "where; when"
-        },
-        "concept": "",
-        "paint": "a5b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 495
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 107
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 324
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bit"
-        },
-        "content": "𒂍"
-    },
-    {
-        "concept": "",
-        "paint": "a5b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 495
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 107
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 324
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bit,"
-        },
-        "content": "𒂍"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 305
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+371"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bu"
-        },
-        "content": "𒁍"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "buh"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 788
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 411
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 515
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bul"
-        },
-        "content": "𒇧"
-    },
-    {
-        "concept": "",
-        "paint": "a4b3c2d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 785
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 510
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bun"
-        },
-        "content": "𒇌"
-    },
-    {
-        "concept": "",
-        "paint": "a1c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 86
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 382
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "058"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "buq"
-        },
-        "content": "𒌅"
-    },
-    {
-        "concept": "",
-        "paint": "a1b6c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 559
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 223
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 349
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "bur"
-        },
-        "content": "𒁓"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 302
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 166
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "busz"
-        },
-        "content": "𒆜"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "d"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "a2b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 561
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 229
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 335
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "da"
-        },
-        "content": "𒁕"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 813
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 419
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 537
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dab"
-        },
-        "content": "𒁳"
-    },
-    {
-        "concept": "",
-        "paint": "a6b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 106
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "058"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "063d"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dad"
-        },
-        "content": "𒋺"
-    },
-    {
-        "concept": "",
-        "paint": "b2c12",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 301
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 142
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 169
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dah"
-        },
-        "content": "𒈭"
-    },
-    {
-        "concept": "",
-        "paint": "a4b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 438
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 168
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 280
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dak"
-        },
-        "content": "𒁖"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 142
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "039"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "086"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dal"
-        },
-        "content": "𒊑"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 889
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 454
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 557
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dam"
-        },
-        "content": "𒁮"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dan"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 813
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 419
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 537
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dap"
-        },
-        "content": "𒁳"
-    },
-    {
-        "concept": "",
-        "paint": "a4b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 438
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 168
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 280
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "daq"
-        },
-        "content": "𒁖"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 733
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 240
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 456
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dasz"
-        },
-        "content": "𒌨"
-    },
-    {
-        "concept": "",
-        "paint": "a6b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 106
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "058"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "063d"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dat"
-        },
-        "content": "𒋺"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 736
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 431
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 457
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "de"
-        },
-        "content": "𒁲"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 736
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 431
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 457
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "di"
-        },
-        "content": "𒁲"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 813
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 419
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 537
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dib"
-        },
-        "content": "𒁳"
-    },
-    {
-        "concept": "",
-        "paint": "a2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 380
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 261
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 231
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dik"
-        },
-        "content": "𒉌"
-    },
-    {
-        "concept": "",
-        "paint": "b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 1
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "001"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "001"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dil"
-        },
-        "content": "𒀸"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 167
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "014"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "094"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dim"
-        },
-        "content": "𒁴"
-    },
-    {
-        "concept": "",
-        "paint": "c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 119
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 361
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 465
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "din"
-        },
-        "content": "𒁷"
-    },
-    {
-        "concept": "",
-        "paint": "a2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 380
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 261
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 231
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "diq"
-        },
-        "content": "𒉌"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 256
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "144n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "disz"
-        },
-        "content": "𒁹"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "du"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dub"
-        },
-        "content": "𒁾"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 499
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "080"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 309
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "duk"
-        },
-        "content": "𒂁"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 354
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "075"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 207
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dum"
-        },
-        "content": "𒌈"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 744
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "ŠUL:438"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 467
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dun"
-        },
-        "content": "𒂄"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dup"
-        },
-        "content": "𒁾"
-    },
-    {
-        "concept": "",
-        "paint": "a2b3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 808
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 415
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 536
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "dusz"
-        },
-        "content": "𒆪"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 96
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "060+308"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "e"
-        },
-        "content": "𒂊"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 466
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295k"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "eb"
-        },
-        "content": "𒅁"
-    },
-    {
-        "concept": "",
-        "paint": "a2b9c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 560
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 230
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 334
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ed"
-        },
-        "content": "𒀉"
-    },
-    {
-        "concept": "",
-        "paint": "a3b6c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 136
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "061"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "080"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ek"
-        },
-        "content": "𒅅"
-    },
-    {
-        "concept": "",
-        "paint": "a3b3c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 899
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 455
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 564
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "el"
-        },
-        "content": "𒂖"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 641
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 297
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 399
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "em"
-        },
-        "content": "𒅎"
-    },
-    {
-        "concept": "",
-        "paint": "a2b5c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 164
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "062"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "099"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "en"
-        },
-        "content": "𒂗"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 466
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295k"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ep"
-        },
-        "content": "𒅁"
-    },
-    {
-        "concept": "",
-        "paint": "a3b6c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 136
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "061"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "080"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "eq"
-        },
-        "content": "𒅅"
-    },
-    {
-        "concept": "",
-        "paint": "a3c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 437
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 263
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 232
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "er"
-        },
-        "content": "𒅕"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "es"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "paint": "c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 711
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 366
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 472
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "esz"
-        },
-        "content": "𒌍"
-    },
-    {
-        "concept": "",
-        "paint": "a2b9c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 560
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 230
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 334
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "et,"
-        },
-        "content": "𒀉"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ez"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 891
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 458
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 559
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "g"
-        },
-        "content": "𒄖"
-    },
-    {
-        "concept": "",
-        "paint": "a5b6c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 491
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 201
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 319
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ga"
-        },
-        "content": "𒂵"
-    },
-    {
-        "concept": "",
-        "paint": "a1b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 553
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 213
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 343
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gal"
-        },
-        "content": "𒃲"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 264
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 254
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 150
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gam"
-        },
-        "content": "𒃵"
-    },
-    {
-        "transliteration": {
-            "valid": true,
-            "content": "gap"
-        },
-        "content": "𒃮"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 735
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "449_244"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gar"
-        },
-        "content": "𒃻"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c14",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 340
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 139
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 192
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gas"
-        },
-        "content": "𒄤"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 358
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "079"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 214
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gasz"
-        },
-        "content": "𒁉"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c5d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 141
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "040"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "085"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ge"
-        },
-        "content": "𒄀"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ger"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c5d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 141
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "040"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "085"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gi"
-        },
-        "content": "𒄀"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 484
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 163
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 313
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gid"
-        },
-        "content": "𒆤"
-    },
-    {
-        "concept": "",
-        "paint": "c9d9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 105
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 250
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "067"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gil"
-        },
-        "content": "𒄃"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gin"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gir"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gis"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gisz"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 484
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 163
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 313
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "git"
-        },
-        "content": "𒆤"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 891
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 458
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 559
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gu"
-        },
-        "content": "𒄖"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gub"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 682
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 343
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 429
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gul"
-        },
-        "content": "𒄢"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 180
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "092"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 111
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "gur"
-        },
-        "content": "𒄥"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "h"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 856
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 475
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 589
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ha"
-        },
-        "content": "𒄩"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hab"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 3
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "007"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "002"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hal"
-        },
-        "content": "𒄬"
-    },
-    {
-        "concept": "",
-        "paint": "b4c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 110
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "024"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "070"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ham na"
-        },
-        "content": "𒈾"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hap"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 644
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 281
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 401
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "har"
-        },
-        "content": "𒄯"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "has"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hasz"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 464
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 143
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 295
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hat"
-        },
-        "content": "𒉺"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 464
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 143
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 295
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hat,"
-        },
-        "content": "𒉺"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 137
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "035"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "081"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "he"
-        },
-        "content": "𒄭"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 137
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "035"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "081"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hi"
-        },
-        "content": "𒄭"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 112
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "019"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "075"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hil nu"
-        },
-        "content": "𒉡"
-    },
-    {
-        "concept": "",
-        "paint": "a12b16",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hir"
-        },
-        "content": "𒆟"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "his"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hisz"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hu"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 464
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 143
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 295
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hud"
-        },
-        "content": "𒉺"
-    },
-    {
-        "concept": "",
-        "paint": "c8d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 900
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 248
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 565
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hum"
-        },
-        "content": "𒈝"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 103
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 150
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hun"
-        },
-        "content": "𒂠"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c4d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 150
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 446
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "089"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hup"
-        },
-        "content": "𒄽"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 644
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 281
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 401
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "hur"
-        },
-        "content": "𒄯"
-    },
-    {
-        "concept": "",
-        "paint": "c8d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 900
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 248
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 565
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "huz"
-        },
-        "content": "𒈝"
-    },
-    {
-        "concept": "",
-        "paint": "b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 252
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 192
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 142
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "i"
-        },
-        "content": "𒄿"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 466
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295k"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ib"
-        },
-        "content": "𒅁"
-    },
-    {
-        "concept": "",
-        "paint": "a2b9c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 560
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 230
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 334
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "id"
-        },
-        "content": "𒀉"
-    },
-    {
-        "concept": "",
-        "paint": "a3b6c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 136
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "061"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "080"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ig"
-        },
-        "content": "𒅅"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 306
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+398"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ih"
-        },
-        "content": "𒄴"
-    },
-    {
-        "concept": "",
-        "paint": "a3b6c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 136
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "061"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "080"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ik"
-        },
-        "content": "𒅅"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c8d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 348
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "078"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 205
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "il"
-        },
-        "content": "𒅋"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 641
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 297
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 399
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "im"
-        },
-        "content": "𒅎"
-    },
-    {
-        "concept": "",
-        "paint": "a2c10d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 261
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 386
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 148
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "in"
-        },
-        "content": "𒅔"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 466
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295k"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ip"
-        },
-        "content": "𒅁"
-    },
-    {
-        "concept": "",
-        "paint": "a3c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 437
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 263
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 232
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ir"
-        },
-        "content": "𒅕"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "is"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 95
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "060+212"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "isz"
-        },
-        "content": "𒅖"
-    },
-    {
-        "concept": "",
-        "paint": "a2b9c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 560
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 230
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 334
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "it"
-        },
-        "content": "𒀉"
-    },
-    {
-        "concept": "",
-        "paint": "a2b9c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 560
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 230
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 334
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "it,"
-        },
-        "content": "𒀉"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 161
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "092c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "iz"
-        },
-        "content": "𒄑"
-    },
-    {
-        "concept": "",
-        "paint": "a2b3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 808
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 415
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 536
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "k"
-        },
-        "content": "𒆪"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c5d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 24
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 312
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "015"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ka"
-        },
-        "content": "𒅗"
-    },
-    {
-        "concept": "",
-        "paint": "a2b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 148
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 226
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "088"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kab"
-        },
-        "content": "𒆏"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 157
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 299
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "090"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kad"
-        },
-        "content": "𒃰"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 379
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 260
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 230
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kak"
-        },
-        "content": "𒆕"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kal"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "b1c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 640
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 279
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "406v1"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kam"
-        },
-        "content": "𒄰"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 253
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 120
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 143
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kan"
-        },
-        "content": "𒃶"
-    },
-    {
-        "concept": "",
-        "paint": "a2b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 148
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 226
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "088"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kap"
-        },
-        "content": "𒆏"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 302
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 166
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kas"
-        },
-        "content": "𒆜"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 157
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 299
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "090"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kat"
-        },
-        "content": "𒃰"
-    },
-    {
-        "concept": "",
-        "paint": "b4c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 737
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 432
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 461
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ke"
-        },
-        "content": "𒆠"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kel"
-        },
-        "content": "𒆸"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "like; how? that; just as"
-        },
-        "concept": "",
-        "paint": "b4c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 737
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 432
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 461
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ki"
-        },
-        "content": "𒆠"
-    },
-    {
-        "concept": "",
-        "paint": "c3d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kib"
-        },
-        "content": "𒄒"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kil"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 686
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "067"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 440
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kim"
-        },
-        "content": "𒁶"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 815
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 447
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 538
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kin"
-        },
-        "content": "𒆥"
-    },
-    {
-        "concept": "",
-        "paint": "c3d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kip"
-        },
-        "content": "𒄒"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kir"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a2b7c5d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 678
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "291a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 425
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kis"
-        },
-        "content": "𒆧"
-    },
-    {
-        "concept": "",
-        "paint": "a2b7c5d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 678
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "291a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 425
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kisz"
-        },
-        "content": "𒆧"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 484
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 163
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 313
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kit"
-        },
-        "content": "𒆤"
-    },
-    {
-        "concept": "",
-        "paint": "a2b3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 808
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 415
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 536
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ku"
-        },
-        "content": "𒆪"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kub"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "c7d7",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 745
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 428
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 468
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kuk"
-        },
-        "content": "𒆬"
-    },
-    {
-        "concept": "",
-        "paint": "b2c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 117
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "026"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "072"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kul"
-        },
-        "content": "𒆰"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 339
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 138
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 191
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kum"
-        },
-        "content": "𒄣"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 131
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "032"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "077"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kun"
-        },
-        "content": "𒆲"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kup"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kur"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 16
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 305
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "007"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kus"
-        },
-        "content": "𒋢"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 16
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 305
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "007"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kusz"
-        },
-        "content": "𒋢"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kut"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 16
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 305
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "007"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "kuz"
-        },
-        "content": "𒋢"
-    },
-    {
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q140",
-            "content": "lion"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 468
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295m"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "l"
-        },
-        "content": "𒇻"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "not; no"
-        },
-        "concept": "",
-        "paint": "a5b7",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 89
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 177
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "055"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "la"
-        },
-        "content": "𒆷"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lab"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lah"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 485
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "212; 207a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lak"
-        },
-        "content": "𒋃"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 750
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 391
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 481
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lal"
-        },
-        "content": "𒇲"
-    },
-    {
-        "concept": "",
-        "paint": "a5c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 693
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 244
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 435
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lam"
-        },
-        "content": "𒇴"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lap"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 485
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "212; 207a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "laq"
-        },
-        "content": "𒋃"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 464
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 143
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 295
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lar"
-        },
-        "content": "𒉺"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c11d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 85
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 381
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "059"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "le"
-        },
-        "content": "𒇷"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 724
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 233
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 449
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lem"
-        },
-        "content": "𒅆"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lep"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c11d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 85
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 381
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "059"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "li"
-        },
-        "content": "𒇷"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lib"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "b2c12d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 544
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "091"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 336
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lil"
-        },
-        "content": "𒇸"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 724
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 233
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 449
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lim"
-        },
-        "content": "𒅆"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lip"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 733
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 240
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 456
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "liq"
-        },
-        "content": "𒌨"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 591
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 232
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 377
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lisz"
-        },
-        "content": "𒇺"
-    },
-    {
-        "concept": "",
-        "paint": "c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 672
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 352
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 420
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lit"
-        },
-        "content": "𒀖"
-    },
-    {
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q140",
-            "content": "lion"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 468
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "295m"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lu"
-        },
-        "content": "𒇻"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lub"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 494
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 196
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 321
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "luh"
-        },
-        "content": "𒈛"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lul"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "c8d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 900
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 248
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 565
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lum"
-        },
-        "content": "𒈝"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lup"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 499
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "080"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 309
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lut"
-        },
-        "content": "𒂁"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 499
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "080"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 309
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "lut,"
-        },
-        "content": "𒂁"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "(cultic; cosmic) order; rules; water"
-        },
-        "concept": "",
-        "paint": "b1c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 98
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "020"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "061"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "m"
-        },
-        "content": "𒈬"
-    },
-    {
-        "concept": "",
-        "paint": "a2b3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 552
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 166
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 342
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ma"
-        },
-        "content": "𒈠"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mad"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c1d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 91
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "006"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "057"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mah"
-        },
-        "content": "𒈤"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 387
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "093"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 233
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mal"
-        },
-        "content": "𒂷"
-    },
-    {
-        "concept": "",
-        "paint": "a2b3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 483
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 144
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 307
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mar"
-        },
-        "content": "𒈥"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 120
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "029"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mas"
-        },
-        "content": "𒈦"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 120
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "029"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "masz"
-        },
-        "content": "𒈦"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mat"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "maz"
-        },
-        "content": "𒁁"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 638
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 282
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "398_64"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "me"
-        },
-        "content": "𒈨"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c1d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 91
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "006"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "057"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "meh"
-        },
-        "content": "𒈤"
-    },
-    {
-        "concept": "",
-        "paint": "a6b8c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 427
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 102
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 270
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "men"
-        },
-        "content": "𒃞"
-    },
-    {
-        "concept": "",
-        "paint": "a7b7",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mer"
-        },
-        "content": "𒂇"
-    },
-    {
-        "concept": "",
-        "paint": "b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 681
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 348
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 427
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mi"
-        },
-        "content": "𒈪"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c1d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 91
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "006"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "057"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mih"
-        },
-        "content": "𒈤"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 95
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "060+212"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mil"
-        },
-        "content": "𒅖"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mim"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "a2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 825
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 465
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 570
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "min"
-        },
-        "content": "𒈫"
-    },
-    {
-        "concept": "",
-        "paint": "a7b7",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mir"
-        },
-        "content": "𒂇"
-    },
-    {
-        "concept": "",
-        "paint": "a8b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 486
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mis"
-        },
-        "content": "𒈩"
-    },
-    {
-        "concept": "",
-        "paint": "a8b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 486
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "misz"
-        },
-        "content": "𒈩"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mit"
-        },
-        "content": "𒁁"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mit,"
-        },
-        "content": "𒁁"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "(cultic; cosmic) order; rules; water"
-        },
-        "concept": "",
-        "paint": "b1c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 98
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "020"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "061"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mu"
-        },
-        "content": "𒈬"
-    },
-    {
-        "concept": "",
-        "paint": "b1c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 98
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "020"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "061"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mu seh"
-        },
-        "content": "𒈬"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 12
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "012"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "003"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "muk"
-        },
-        "content": "𒈮"
-    },
-    {
-        "concept": "",
-        "paint": "a3b3c3d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 247
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "010"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "129a"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mul"
-        },
-        "content": "𒀯"
-    },
-    {
-        "concept": "",
-        "paint": "a2b6c4d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mum"
-        },
-        "content": "𒌤"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c6d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 168
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "015"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "095, 095v"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mun"
-        },
-        "content": "𒁵"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 644
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 281
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 401
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mur"
-        },
-        "content": "𒄯"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 585
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 267
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 374
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "mus"
-        },
-        "content": "𒈲"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 585
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 267
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 374
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "musz"
-        },
-        "content": "𒈲"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 112
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "019"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "075"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "n"
-        },
-        "content": "𒉡"
-    },
-    {
-        "concept": "",
-        "paint": "b4c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 110
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "024"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "070"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "na"
-        },
-        "content": "𒈾"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 246
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 129
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nab"
-        },
-        "content": "𒀮"
-    },
-    {
-        "concept": "",
-        "paint": "a6b2c5d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 64
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 328
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "035"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nag"
-        },
-        "content": "𒅘"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 494
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 196
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 321
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nah"
-        },
-        "content": "𒈛"
-    },
-    {
-        "concept": "",
-        "paint": "a6b2c5d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 64
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 328
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "035"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nak"
-        },
-        "content": "𒅘"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 134
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "042"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "079"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nam"
-        },
-        "content": "𒉆"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nan"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 246
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 129
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nap"
-        },
-        "content": "𒀮"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nar"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nat"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ne"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 381
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "068"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 211
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ned"
-        },
-        "content": "𒍑"
-    },
-    {
-        "concept": "",
-        "paint": "a1c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 690
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 355
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 433
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nem"
-        },
-        "content": "𒉏"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 381
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "068"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 211
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "net"
-        },
-        "content": "𒍑"
-    },
-    {
-        "concept": "",
-        "paint": "a2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 380
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 261
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 231
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ni"
-        },
-        "content": "𒉌"
-    },
-    {
-        "concept": "",
-        "paint": "a1c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 690
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 355
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 433
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nim"
-        },
-        "content": "𒉏"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 381
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "068"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 211
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nit"
-        },
-        "content": "𒍑"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 112
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "019"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "075"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nu"
-        },
-        "content": "𒉡"
-    },
-    {
-        "concept": "",
-        "paint": "a1c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 690
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 355
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 433
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "num"
-        },
-        "content": "𒉏"
-    },
-    {
-        "concept": "",
-        "paint": "a5b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 143
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "047"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "087"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nun"
-        },
-        "content": "𒉣"
-    },
-    {
-        "concept": "",
-        "paint": "a10b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 502
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 148
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 325
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nur"
-        },
-        "content": "𒉪"
-    },
-    {
-        "concept": "",
-        "paint": "a2c4d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 614
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 371
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 394
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "nus"
-        },
-        "content": "𒉭"
-    },
-    {
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q9635",
-            "content": "mouth"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 305
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+371"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "p"
-        },
-        "content": "𒁍"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 464
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 143
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 295
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pa"
-        },
-        "content": "𒉺"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 132
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "034"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "078"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pag"
-        },
-        "content": "𒄷"
-    },
-    {
-        "concept": "",
-        "paint": "a1b3c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 5
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "003"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "009"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pal"
-        },
-        "content": "𒁄"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 685
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "027"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 439
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pan"
-        },
-        "content": "𒉼"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "par"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a3c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 746
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 362
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 469
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pat"
-        },
-        "content": "𒉻"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pe"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pel"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "per"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pes"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pesz"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pi"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pil"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "paint": "a2b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 90
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "005"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "056"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pin"
-        },
-        "content": "𒀳"
-    },
-    {
-        "concept": "",
-        "paint": "b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 252
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 192
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 142
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pin i"
-        },
-        "content": "𒄿"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 11
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "014"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pin sur"
-        },
-        "content": "𒋩"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "piq"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pir"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pis"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pisz"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a5b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 495
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 107
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 324
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pit"
-        },
-        "content": "𒂍"
-    },
-    {
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q9635",
-            "content": "mouth"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 305
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+371"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pu"
-        },
-        "content": "𒁍"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "puh"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 12
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "012"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "003"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "puk"
-        },
-        "content": "𒈮"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 788
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 411
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 515
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pul"
-        },
-        "content": "𒇧"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c7d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 33
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 321
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "019"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pum"
-        },
-        "content": "𒅤"
-    },
-    {
-        "concept": "",
-        "paint": "a1b6c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 559
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 223
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 349
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "pur"
-        },
-        "content": "𒁓"
-    },
-    {
-        "concept": "",
-        "paint": "a4b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 511
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 192
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 328
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "puz"
-        },
-        "content": "𒊏"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "a capacity measure; as measuring vessel; flax; thread; string"
-        },
-        "concept": "",
-        "paint": "a2b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 339
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 138
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 191
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "q"
-        },
-        "content": "𒄣"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 99
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 269
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "062"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qa"
-        },
-        "content": "𒋡"
-    },
-    {
-        "transliteration": {
-            "valid": true,
-            "content": "qab"
-        },
-        "content": "𒃮"
-    },
-    {
-        "concept": "",
-        "paint": "a1b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 553
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 213
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 343
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qal"
-        },
-        "content": "𒃲"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 264
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 254
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 150
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qam"
-        },
-        "content": "𒃵"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 253
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 120
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 143
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qan"
-        },
-        "content": "𒃶"
-    },
-    {
-        "concept": "",
-        "paint": "a8b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 253
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 120
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 143
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qan tu"
-        },
-        "content": "𒃶"
-    },
-    {
-        "concept": "",
-        "paint": "a1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 379
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 260
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 230
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qaq"
-        },
-        "content": "𒆕"
-    },
-    {
-        "concept": "",
-        "paint": "b4c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 543
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 209
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 333
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qar"
-        },
-        "content": "𒃼"
-    },
-    {
-        "concept": "",
-        "paint": "a1b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 567
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 225
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 354
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qat"
-        },
-        "content": "𒋗"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 815
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 447
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 538
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qe"
-        },
-        "content": "𒆥"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qel"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 558
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 222
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 346
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qer"
-        },
-        "content": "𒄫"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 815
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 447
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 538
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qi"
-        },
-        "content": "𒆥"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qil"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 686
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "067"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 440
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qim"
-        },
-        "content": "𒁶"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 815
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 447
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 538
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qin"
-        },
-        "content": "𒆥"
-    },
-    {
-        "concept": "",
-        "paint": "c3d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qip"
-        },
-        "content": "𒄒"
-    },
-    {
-        "concept": "",
-        "paint": "a2b7c5d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 678
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "291a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 425
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qisz"
-        },
-        "content": "𒆧"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 484
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 163
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 313
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qit"
-        },
-        "content": "𒆤"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "a capacity measure; as measuring vessel; flax; thread; string"
-        },
-        "concept": "",
-        "paint": "a2b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 339
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 138
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 191
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qu"
-        },
-        "content": "𒄣"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 815
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 447
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 538
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qu?"
-        },
-        "content": "𒆥"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 350
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "064, 197"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 206
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qub"
-        },
-        "content": "𒁺"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qud"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "b2c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 117
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "026"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "072"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qul"
-        },
-        "content": "𒆰"
-    },
-    {
-        "concept": "",
-        "paint": "a2b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 339
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 138
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 191
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qum"
-        },
-        "content": "𒄣"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 180
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "092"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 111
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qur"
-        },
-        "content": "𒄥"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "qut"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 111
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "060"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "068"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "r"
-        },
-        "content": "𒊒"
-    },
-    {
-        "concept": "",
-        "paint": "a4b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 511
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 192
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 328
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ra"
-        },
-        "content": "𒊏"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 104
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 151
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066a"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ra a"
-        },
-        "content": "𒀀"
-    },
-    {
-        "concept": "",
-        "paint": "a1b9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 262
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "221b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 149
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rab"
-        },
-        "content": "𒊐"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rag"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 494
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 196
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 321
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rah"
-        },
-        "content": "𒈛"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rak"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "a1b8c6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 326
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 136
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 183
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ram"
-        },
-        "content": "𒉘"
-    },
-    {
-        "concept": "",
-        "paint": "a1b9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 262
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "221b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 149
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rap"
-        },
-        "content": "𒊐"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "raq"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 302
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 271
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 166
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rasz"
-        },
-        "content": "𒆜"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 139
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "038"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "083"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rat,"
-        },
-        "content": "𒋥"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 142
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "039"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "086"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "re"
-        },
-        "content": "𒊑"
-    },
-    {
-        "meaning": {
-            "concept": "https://www.wikidata.org/wiki/Q81710",
-            "content": "shepherd"
-        },
-        "transliteration": {
-            "valid": true,
-            "content": "re u"
-        },
-        "content": "𒊑𒌋"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "req"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "resz"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 142
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "039"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "086"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ri"
-        },
-        "content": "𒊑"
-    },
-    {
-        "concept": "",
-        "paint": "b4c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 110
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "024"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "070"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ri na"
-        },
-        "content": "𒈾"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rib"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rig"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 494
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 196
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 321
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rih"
-        },
-        "content": "𒈛"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rik"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rim"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 102
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 149
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "066c"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rin"
-        },
-        "content": "𒆸"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rip"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "riq"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 142
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "039"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "086"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rir"
-        },
-        "content": "𒊑"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ris"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "risz"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a8b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 486
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rit"
-        },
-        "content": "𒈩"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 111
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "060"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "068"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ru"
-        },
-        "content": "𒊒"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rub"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 494
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 196
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 321
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ruh"
-        },
-        "content": "𒈛"
-    },
-    {
-        "concept": "",
-        "paint": "a14b6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 17
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 306
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "008"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ruk"
-        },
-        "content": "𒊿"
-    },
-    {
-        "concept": "",
-        "paint": "b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 1
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "001"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "001"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rum"
-        },
-        "content": "𒀸"
-    },
-    {
-        "concept": "",
-        "paint": "a2c6d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 570
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 296
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 355
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "rup lib"
-        },
-        "content": "𒈜"
-    },
-    {
-        "concept": "",
-        "paint": "a14b6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 17
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 306
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "008"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ruq"
-        },
-        "content": "𒊿"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 16
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 305
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "007"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "s"
-        },
-        "content": "𒋢"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 172
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 147
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 104
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sa"
-        },
-        "content": "𒊓"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sad"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sag"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 484
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 163
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 313
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sah"
-        },
-        "content": "𒆤"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sak"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sal"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "a4b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 490
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 146
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 318
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sam"
-        },
-        "content": "𒌑"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "san"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 541
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 385
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "331e, 152iv"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sar"
-        },
-        "content": "𒊬"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sas"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sat"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 181
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 164
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 112
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "se"
-        },
-        "content": "𒋛"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sek"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sem"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 584
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 266
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 373
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ser"
-        },
-        "content": "𒋤"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 181
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 164
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 112
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "si"
-        },
-        "content": "𒋛"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 638
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 282
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "398_64"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sib"
-        },
-        "content": "𒈨"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sig"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sik"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sil"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sim"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 711
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 366
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 472
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sin"
-        },
-        "content": "𒌍"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 638
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 282
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "398_64"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sip"
-        },
-        "content": "𒈨"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 584
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 266
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 373
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sir"
-        },
-        "content": "𒋤"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sis"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 16
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 305
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "007"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "su"
-        },
-        "content": "𒋢"
-    },
-    {
-        "concept": "",
-        "paint": "a8b8c6d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 44
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 318
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "025"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sub"
-        },
-        "content": "𒅢"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 152
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "045"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 102
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "suh"
-        },
-        "content": "𒈽"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 795
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 414
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 522
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "suk"
-        },
-        "content": "𒆹"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 744
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "ŠUL:438"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 467
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sul"
-        },
-        "content": "𒂄"
-    },
-    {
-        "concept": "",
-        "paint": "c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 292
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 388
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 164
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sum"
-        },
-        "content": "𒋧"
-    },
-    {
-        "concept": "",
-        "paint": "a2b8c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 90
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "005"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "056"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sup"
-        },
-        "content": "𒀳"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 795
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 414
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 522
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "suq"
-        },
-        "content": "𒆹"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 11
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "014"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sur"
-        },
-        "content": "𒋩"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "a stone; he"
-        },
-        "concept": "",
-        "paint": "a1b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 567
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 225
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 354
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sz"
-        },
-        "content": "𒋗"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "who(m); which"
-        },
-        "concept": "",
-        "paint": "a2b4c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 566
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 203
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 353
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sza"
-        },
-        "content": "𒊭"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szad"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szag"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a5b3c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 22
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "004"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "053"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szah"
-        },
-        "content": "𒋚"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 184
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 309
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 115
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szak"
-        },
-        "content": "𒊕"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 883
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 450
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 554
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szal"
-        },
-        "content": "𒊩"
-    },
-    {
-        "concept": "",
-        "paint": "a4b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 490
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 146
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 318
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szam"
-        },
-        "content": "𒌑"
-    },
-    {
-        "concept": "",
-        "paint": "a1b5c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 320
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "178aa"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szan"
-        },
-        "content": "𒉓"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 541
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 385
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "331e, 152iv"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szar"
-        },
-        "content": "𒊬"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szas"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szasz"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 304
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 273
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166b"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szat"
-        },
-        "content": "𒆳"
-    },
-    {
-        "concept": "",
-        "paint": "c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 579
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 378
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 367
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sze"
-        },
-        "content": "𒊺"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szel"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a14b6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 17
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 306
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "008"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szen"
-        },
-        "content": "𒊿"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 115
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "028"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "071"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szer"
-        },
-        "content": "𒋓"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szesz"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 724
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 233
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 449
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szi"
-        },
-        "content": "𒅆"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 638
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 282
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "398_64"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szib"
-        },
-        "content": "𒈨"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 485
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "212; 207a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szid"
-        },
-        "content": "𒋃"
-    },
-    {
-        "concept": "",
-        "paint": "a5b3c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 22
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "004"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "053"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szih"
-        },
-        "content": "𒋚"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szik"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szil"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "paint": "a7b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 362
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "083"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 215
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szim"
-        },
-        "content": "𒋆"
-    },
-    {
-        "concept": "",
-        "paint": "a14b6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 17
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 306
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "008"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szin"
-        },
-        "content": "𒊿"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 638
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 282
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "398_64"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szip"
-        },
-        "content": "𒈨"
-    },
-    {
-        "concept": "",
-        "paint": "c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 881
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 437
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 592
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sziq"
-        },
-        "content": "𒋝"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 115
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "028"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "071"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szir"
-        },
-        "content": "𒋓"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szisz"
-        },
-        "content": "𒋀"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 485
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "212; 207a"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 314
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szit"
-        },
-        "content": "𒋃"
-    },
-    {
-        "concept": "",
-        "paint": "b1c4d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 535
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "021b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 331
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "sziz"
-        },
-        "content": "𒋀"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "a stone; he"
-        },
-        "concept": "",
-        "paint": "a1b5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 567
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 225
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 354
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szu"
-        },
-        "content": "𒋗"
-    },
-    {
-        "concept": "",
-        "paint": "a4c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 856
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 475
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 589
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szu?"
-        },
-        "content": "𒄩"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 111
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "060"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "068"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szub"
-        },
-        "content": "𒊒"
-    },
-    {
-        "concept": "",
-        "paint": "a3b5c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 152
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "045"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 102
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szuh"
-        },
-        "content": "𒈽"
-    },
-    {
-        "concept": "",
-        "paint": "a3c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 746
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 362
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 469
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szuk"
-        },
-        "content": "𒉻"
-    },
-    {
-        "concept": "",
-        "paint": "a5b2c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 744
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "ŠUL:438"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 467
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szul"
-        },
-        "content": "𒂄"
-    },
-    {
-        "concept": "",
-        "paint": "a6b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 221
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 122
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 126
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szum"
-        },
-        "content": "𒋳"
-    },
-    {
-        "concept": "",
-        "paint": "b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 111
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "060"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "068"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szup"
-        },
-        "content": "𒊒"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 11
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "014"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szur"
-        },
-        "content": "𒋩"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 125
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "074_335"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szusz"
-        },
-        "content": "𒌋"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 584
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 266
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 373
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "szut"
-        },
-        "content": "𒋤"
-    },
-    {
-        "concept": "",
-        "paint": "a1c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 86
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 382
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "058"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t"
-        },
-        "content": "𒌅"
-    },
-    {
-        "concept": "",
-        "paint": "a1c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 86
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 382
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "058"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,"
-        },
-        "content": "𒌅"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 248
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 123
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 139
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,a"
-        },
-        "content": "𒋫"
-    },
-    {
-        "concept": "",
-        "paint": "b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 209
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 109
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 124
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ab"
-        },
-        "content": "𒋰"
-    },
-    {
-        "concept": "",
-        "paint": "a2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 589
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 289
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 376
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,e"
-        },
-        "content": "𒋼"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 167
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "014"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "094"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,em"
-        },
-        "content": "𒁴"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 118
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "023"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "073"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,i"
-        },
-        "content": "𒋾"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 813
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 419
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 537
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ib"
-        },
-        "content": "𒁳"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 176
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "089"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 106
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ik"
-        },
-        "content": "𒄘"
-    },
-    {
-        "concept": "",
-        "paint": "a10b2c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 587
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 380
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 375
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ir"
-        },
-        "content": "𒌁"
-    },
-    {
-        "concept": "",
-        "paint": "a1c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 86
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 382
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "058"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,u"
-        },
-        "content": "𒌅"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ub"
-        },
-        "content": "𒁾"
-    },
-    {
-        "transliteration": {
-            "valid": true,
-            "content": "t,uh"
-        },
-        "content": "𒃮"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 354
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "075"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 207
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,um"
-        },
-        "content": "𒌈"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,up"
-        },
-        "content": "𒁾"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 255
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 393
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 144
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "t,ur"
-        },
-        "content": "𒌉"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 248
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 123
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 139
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ta"
-        },
-        "content": "𒋫"
-    },
-    {
-        "concept": "",
-        "paint": "b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 209
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 109
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 124
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tab"
-        },
-        "content": "𒋰"
-    },
-    {
-        "concept": "",
-        "paint": "a6b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 221
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 122
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 126
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tak"
-        },
-        "content": "𒋳"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 142
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "039"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "086"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tal"
-        },
-        "content": "𒊑"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tam"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 496
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 176
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 322
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tan"
-        },
-        "content": "𒆗"
-    },
-    {
-        "concept": "",
-        "paint": "b2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 209
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 109
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 124
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tap"
-        },
-        "content": "𒋰"
-    },
-    {
-        "concept": "",
-        "paint": "a6b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 221
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 122
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 126
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "taq"
-        },
-        "content": "𒋳"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 9
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 231
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "012"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tar"
-        },
-        "content": "𒋻"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 733
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 240
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 456
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tas"
-        },
-        "content": "𒌨"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 733
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 240
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 456
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tasz"
-        },
-        "content": "𒌨"
-    },
-    {
-        "concept": "",
-        "paint": "a2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 589
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 289
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 376
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "te"
-        },
-        "content": "𒋼"
-    },
-    {
-        "concept": "",
-        "paint": "c4d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tel"
-        },
-        "content": "𒌀"
-    },
-    {
-        "concept": "",
-        "paint": "a2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 589
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 289
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 376
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ten"
-        },
-        "content": "𒋼"
-    },
-    {
-        "concept": "",
-        "paint": "a10b2c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 587
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 380
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 375
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ter"
-        },
-        "content": "𒌁"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 118
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "023"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "073"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ti"
-        },
-        "content": "𒋾"
-    },
-    {
-        "concept": "",
-        "paint": "a3b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 813
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 419
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 537
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tib"
-        },
-        "content": "𒁳"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 176
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "089"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 106
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tik"
-        },
-        "content": "𒄘"
-    },
-    {
-        "concept": "",
-        "paint": "c4d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "til"
-        },
-        "content": "𒌀"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 167
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "014"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "094"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tim"
-        },
-        "content": "𒁴"
-    },
-    {
-        "concept": "",
-        "paint": "c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 119
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 361
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 465
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tin"
-        },
-        "content": "𒁷"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 176
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "089"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 106
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tiq"
-        },
-        "content": "𒄘"
-    },
-    {
-        "concept": "",
-        "paint": "a10b2c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 587
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 380
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 375
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tir"
-        },
-        "content": "𒌁"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 256
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "144n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tiz"
-        },
-        "content": "𒁹"
-    },
-    {
-        "concept": "",
-        "paint": "a1c12d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 86
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 382
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "058"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tu"
-        },
-        "content": "𒌅"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tub"
-        },
-        "content": "𒁾"
-    },
-    {
-        "transliteration": {
-            "valid": true,
-            "content": "tuh"
-        },
-        "content": "𒃮"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 827
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 444
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 574
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tuk"
-        },
-        "content": "𒌇"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 354
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "075"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 207
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tum"
-        },
-        "content": "𒌈"
-    },
-    {
-        "concept": "",
-        "paint": "a4b4c3d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 354
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "075"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 207
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tum wus"
-        },
-        "content": "𒌈"
-    },
-    {
-        "concept": "",
-        "paint": "a3b1c4d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 150
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 446
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "089"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tun"
-        },
-        "content": "𒄽"
-    },
-    {
-        "concept": "",
-        "paint": "a9b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 242
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "112b"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 138
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tup"
-        },
-        "content": "𒁾"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 827
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 444
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 574
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tuq"
-        },
-        "content": "𒌇"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 255
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 393
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 144
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "tur"
-        },
-        "content": "𒌉"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "and; but; also"
-        },
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 125
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "074_335"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "u"
-        },
-        "content": "𒌋"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ud"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a10b9c4d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 296
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 179
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 130
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ug"
-        },
-        "content": "𒊌"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 306
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "166+398"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "uh"
-        },
-        "content": "𒄴"
-    },
-    {
-        "concept": "",
-        "paint": "a1b2c2d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 698
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 344
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 441
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ul"
-        },
-        "content": "𒌌"
-    },
-    {
-        "concept": "",
-        "paint": "a6b4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 238
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 113
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 134
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "um"
-        },
-        "content": "𒌝"
-    },
-    {
-        "concept": "",
-        "paint": "a6b5c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 500
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 169
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 312
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "un"
-        },
-        "content": "𒌦"
-    },
-    {
-        "concept": "",
-        "paint": "a1c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 504
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 288
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 306
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "up"
-        },
-        "content": "𒌒"
-    },
-    {
-        "concept": "",
-        "paint": "a10b9c4d4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 296
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 179
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 130
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "uq"
-        },
-        "content": "𒊌"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 733
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 240
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 456
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ur"
-        },
-        "content": "𒌨"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c11",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "us"
-        },
-        "content": "𒊻"
-    },
-    {
-        "concept": "",
-        "paint": "a3b2c1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 381
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "068"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 211
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "usz"
-        },
-        "content": "𒍑"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ut"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 385
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 262
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ut,"
-        },
-        "content": "𒌓"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c11",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon"
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "uz"
-        },
-        "content": "𒊻"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "w"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "wa"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 121
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "057"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "war"
-        },
-        "content": "𒁇"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 120
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "029"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 74
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "wasz"
-        },
-        "content": "𒈦"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "wi"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "wu"
-        },
-        "content": "𒉿"
-    },
-    {
-        "concept": "",
-        "paint": "a4b1c3d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 585
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 267
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 374
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "wusz"
-        },
-        "content": "𒈲"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 598
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 370
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 383
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ya"
-        },
-        "content": "𒉿"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "excrement"
-        },
-        "concept": "",
-        "paint": "a5b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 15
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 304
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "006"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "z"
-        },
-        "content": "𒍪"
-    },
-    {
-        "concept": "",
-        "paint": "a4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 851
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 474
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 586
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "za"
-        },
-        "content": "𒍝"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 386
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zab"
-        },
-        "content": "𒂟"
-    },
-    {
-        "concept": "",
-        "paint": "a4b6c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 540
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 206
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 332
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zag"
-        },
-        "content": "𒍠"
-    },
-    {
-        "concept": "",
-        "paint": "a1b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 313
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 116
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 172
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zah"
-        },
-        "content": "𒉈"
-    },
-    {
-        "concept": "",
-        "paint": "a4b6c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 540
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 206
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 332
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zak"
-        },
-        "content": "𒍠"
-    },
-    {
-        "concept": "",
-        "paint": "a2c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 380
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 261
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 231
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zal"
-        },
-        "content": "𒉌"
-    },
-    {
-        "concept": "",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 386
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "229n"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zap"
-        },
-        "content": "𒂟"
-    },
-    {
-        "concept": "",
-        "paint": "a4b6c2d2",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 540
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 206
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 332
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zaq"
-        },
-        "content": "𒍠"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 767
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 413
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 491
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zar"
-        },
-        "content": "𒇡"
-    },
-    {
-        "concept": "",
-        "paint": "a2b2c9",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 541
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 385
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "331e, 152iv"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zaz szar"
-        },
-        "content": "𒊬"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 140
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "041"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "084"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ze"
-        },
-        "content": "𒍣"
-    },
-    {
-        "concept": "",
-        "paint": "a2b1c10",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 140
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "041"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "084"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zi"
-        },
-        "content": "𒍣"
-    },
-    {
-        "concept": "",
-        "paint": "c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 628
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 395
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zib"
-        },
-        "content": "𒍦"
-    },
-    {
-        "concept": "",
-        "paint": "c11d5",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 892
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 251
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 569
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zih"
-        },
-        "content": "𒄗"
-    },
-    {
-        "concept": "",
-        "paint": "b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 336
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 140
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 190
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zik"
-        },
-        "content": "𒍨"
-    },
-    {
-        "concept": "",
-        "paint": "a5b1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 143
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "047"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "087"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zil"
-        },
-        "content": "𒉣"
-    },
-    {
-        "concept": "",
-        "paint": "a14b6",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 17
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 306
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "008"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zin"
-        },
-        "content": "𒊿"
-    },
-    {
-        "concept": "",
-        "paint": "b4c4",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 336
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 140
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 190
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ziq"
-        },
-        "content": "𒍨"
-    },
-    {
-        "concept": "",
-        "paint": "b2c3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 117
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "026"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "072"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zir"
-        },
-        "content": "𒆰"
-    },
-    {
-        "concept": "",
-        "paint": "b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 113
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": "025"
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "069"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "ziz"
-        },
-        "content": "𒁁"
-    },
-    {
-        "meaning": {
-            "concept": null,
-            "content": "excrement"
-        },
-        "concept": "",
-        "paint": "a5b1c1d1",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 15
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 304
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": "006"
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zu"
-        },
-        "content": "𒍪"
-    },
-    {
-        "concept": "",
-        "paint": "a1b1c3d3",
-        "representation": [
-            {
-                "ref": "https://openlibrary.org/works/OL15890317W",
-                "short": "MeZl",
-                "title": "Mesopotamisches Zeichenlexikon",
-                "content": 884
-            },
-            {
-                "ref": "https://openlibrary.org/works/OL9899303W",
-                "short": "AbZl",
-                "title": "Altbabylonische Zeichenliste der sumerisch-literarischen Texte",
-                "content": 456
-            },
-            {
-                "ref": "lha",
-                "short": "LHA",
-                "title": "The Deimel Numbers",
-                "content": 555
-            },
-            {
-                "ref": "hethzl",
-                "short": "HethZl",
-                "title": "Hethitisches Zeichenlexikon"
-            }
-        ],
-        "transliteration": {
-            "valid": true,
-            "content": "zum"
-        },
-        "content": "𒍮"
-    }
-]}}
+var akkadian_map={
+ "name": "akkadianmap",
+ "header":"akkadian Dictionary",
+"show":{
+"toolbar":true,
+"footer":true
+},
+"columns":[
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%"},
+{"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%"},
+{"field":"charName","caption":"SignName","sortable":true,"resizable":true,"size":"20%"},
+{"field":"meaning","caption":"Meaning","sortable":true,"resizable":true,"size":"20%",
+    render:function(record){
+        if(record.concept!=undefined && record.concept!=""){
+            return "<a href=\""+record.concept+"\" target=\"_blank\">"+record.meaning+"</a>"
+        }else{
+            return record.meaning;
+        }
+}},
+{"field":"got","caption":"Gottstein","sortable":true,"resizable":true,"size":"20%"},
+{"field":"MesZL","caption":"MesZL","sortable":true,"resizable":true,"size":"20%"},
+{"field":"aBZL","caption":"aBZL","sortable":true,"resizable":true,"size":"20%"},
+{"field":"HethZL","caption":"HethZL","sortable":true,"resizable":true,"size":"20%"},
+{"field":"LHA","caption":"LHA","sortable":true,"resizable":true,"size":"20%"}
+]
+,"records":[
+{ "recid":0, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"","script":"𒍮𒌋𒁍"},
+{ "recid":1, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","transliteration":"'","script":"𒌋"},
+{ "recid":2, "got":"a3", "charName":"A", "MesZL":"839","aBZL":"470","LHA":"579","HethZL":"364; 365","transliteration":"'a","script":"𒀀"},
+{ "recid":3, "got":"a4b2c2", "charName":"AR (IGI.RI)", "MesZL":"726","aBZL":"234","LHA":"451","HethZL":"289","transliteration":"'ar","script":"𒅈"},
+{ "recid":4, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","transliteration":"'asz","script":"𒀸"},
+{ "recid":5, "got":"a3b4", "charName":"E", "MesZL":"498","aBZL":"167","LHA":"308","HethZL":"187","transliteration":"'e","script":"𒂊"},
+{ "recid":6, "got":"a3b3c1d1", "charName":"EL", "MesZL":"899","aBZL":"455","LHA":"564","HethZL":"307","transliteration":"'el","script":"𒂖"},
+{ "recid":7, "got":"a3c1d1", "charName":"IR (GAG-gunû)", "MesZL":"437","aBZL":"263","LHA":"232","HethZL":"77","transliteration":"'er","script":"𒅕"},
+{ "recid":8, "got":"b5", "charName":"I", "MesZL":"252","aBZL":"192","LHA":"142","HethZL":"217","transliteration":"'i","script":"𒄿"},
+{ "recid":9, "got":"a3c1d1", "charName":"IR (GAG-gunû)", "MesZL":"437","aBZL":"263","LHA":"232","HethZL":"77","transliteration":"'ir","script":"𒅕"},
+{ "recid":10, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","transliteration":"'u","script":"𒌋"},
+{ "recid":11, "got":"a4b5c1", "charName":"Ù (IGI.DIB)", "MesZL":"731","aBZL":"239b","LHA":"455","HethZL":"265","transliteration":"'u3","script":"𒅇"},
+{ "recid":12, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","transliteration":"'u;","script":"𒌋"},
+{ "recid":13, "got":"a6b4", "charName":"UM", "MesZL":"238","aBZL":"113","LHA":"134","HethZL":"98","transliteration":"'um","script":"𒌝"},
+{ "recid":14, "transliteration":"?","script":"'"},
+{ "recid":15, "transliteration":"@g|","script":"'"},
+{ "recid":16, "got":"a3", "charName":"A", "MesZL":"839","aBZL":"470","LHA":"579","HethZL":"364; 365","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2160", "meaning":"4. to proceed; proceeding", "transliteration":"a","script":"𒀀"},
+{ "recid":17, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_686", "meaning":"to deflower", "transliteration":"a gi4","script":"𒀀𒄄"},
+{ "recid":18, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1045", "meaning":"to wash; bathe", "transliteration":"a tu17","script":"𒀀𒀀𒋗𒉀"},
+{ "recid":19, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"a2","script":"𒀉"},
+{ "recid":20, "got":"a1b2c1d1", "charName":"AB", "MesZL":"223","aBZL":"125","LHA":"128","HethZL":"97","transliteration":"ab","script":"𒀊"},
+{ "recid":21, "got":"b2", "charName":"TAB", "MesZL":"209","aBZL":"109","LHA":"124","HethZL":"90","transliteration":"ab2","script":"𒋰"},
+{ "recid":22, "got":"a3b4c1d1", "charName":"AD", "MesZL":"258","aBZL":"132","LHA":"145","HethZL":"105","concept":"https://www.wikidata.org/wiki/Q7565", "meaning":"father", "transliteration":"ad","script":"𒀜"},
+{ "recid":23, "got":"a4b1c2d2", "charName":"GÍR-gunû", "MesZL":"7","aBZL":"8","LHA":"10","HethZL":"6","concept":"null", "meaning":"a thorn bush", "transliteration":"ad2","script":"𒄉"},
+{ "recid":24, "got":"a1b10", "charName":"AG", "MesZL":"127","aBZL":"52","LHA":"97","HethZL":"81","transliteration":"ag","script":"𒀝"},
+{ "recid":25, "got":"a5b1c2d2", "charName":"AḪ (ḪI×NUN)", "MesZL":"636","aBZL":"280","LHA":"398","HethZL":"332","transliteration":"ah","script":"𒄴"},
+{ "recid":26, "got":"a1b10", "charName":"AG", "MesZL":"127","aBZL":"52","LHA":"97","HethZL":"81","transliteration":"ak","script":"𒀝"},
+{ "recid":27, "transliteration":"al","script":"𒀠"},
+{ "recid":28, "got":"a1b2c4d1", "charName":"AM (GU4×KUR)", "MesZL":"309","aBZL":"119","LHA":"170","HethZL":"168","transliteration":"am","script":"𒄠"},
+{ "recid":29, "got":"a1b1c1d1", "charName":"AN", "MesZL":"10","aBZL":"9","LHA":"13","HethZL":"8","concept":"null", "meaning":"date spadix", "transliteration":"an","script":"𒀭"},
+{ "recid":30, "got":"a1b2c1d1", "charName":"AB", "MesZL":"223","aBZL":"125","LHA":"128","HethZL":"97","transliteration":"ap","script":"𒀊"},
+{ "recid":31, "got":"a1b10", "charName":"AG", "MesZL":"127","aBZL":"52","LHA":"97","HethZL":"81","transliteration":"aq","script":"𒀝"},
+{ "recid":32, "got":"a4b2c2", "charName":"AR (IGI.RI)", "MesZL":"726","aBZL":"234","LHA":"451","HethZL":"289","transliteration":"ar","script":"𒅈"},
+{ "recid":33, "got":"a1c2d2", "charName":"UB", "MesZL":"504","aBZL":"288","LHA":"306","HethZL":"152","transliteration":"ar2","script":"𒌒"},
+{ "recid":34, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","transliteration":"ar3","script":"𒄯"},
+{ "recid":35, "got":"a14b9c2d2", "charName":"AZ (PIRIG×ZA)", "MesZL":"297","aBZL":"180","LHA":"131","HethZL":"92","transliteration":"as","script":"𒊍"},
+{ "recid":36, "got":"a5b2", "charName":"SUG (LAGAB×A)", "MesZL":"795","aBZL":"414","LHA":"522","HethZL":"182","transliteration":"as4","script":"𒆹"},
+{ "recid":37, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","concept":"https://www.wikidata.org/wiki/Q155925", "meaning":"spittle", "transliteration":"asz","script":"𒀸"},
+{ "recid":38, "got":"a1b4", "charName":"ÁŠ (ZÍZ)", "MesZL":"548","aBZL":"211","LHA":"339","HethZL":"241","concept":"https://www.wikidata.org/wiki/Q241625", "meaning":"curse", "transliteration":"asz2","script":"𒀾"},
+{ "recid":39, "got":"a3b4c1d1", "charName":"AD", "MesZL":"258","aBZL":"132","LHA":"145","HethZL":"105","transliteration":"at","script":"𒀜"},
+{ "recid":40, "got":"a14b9c2d2", "charName":"AZ (PIRIG×ZA)", "MesZL":"297","aBZL":"180","LHA":"131","HethZL":"92","transliteration":"az","script":"𒊍"},
+{ "recid":41, "got":"a1b8c6", "charName":"ÁG (NÍNDA×NE)", "MesZL":"326","aBZL":"136","LHA":"183","HethZL":"121","concept":"null", "meaning":"something", "transliteration":"aĝ2","script":"𒉘"},
+{ "recid":42, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"aĝ3","script":"𒋃"},
+{ "recid":43, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"b","script":"𒁍"},
+{ "recid":44, "got":"a1b1c1d1", "charName":"BA", "MesZL":"14","aBZL":"303","LHA":"5","HethZL":"205","transliteration":"ba","script":"𒁀"},
+{ "recid":45, "got":"a1b1c1d1", "charName":"BA", "MesZL":"14","aBZL":"303","LHA":"5","HethZL":"205","transliteration":"ba'","script":"𒁀"},
+{ "recid":46, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"ba2","script":"𒉺"},
+{ "recid":47, "got":"a5b3c7d3", "charName":"BÚN (KA×IM)", "MesZL":"54","aBZL":"322","LHA":"30","HethZL":"144","transliteration":"ba5","script":"𒅮"},
+{ "recid":48, "got":"a4b2", "charName":"Ú", "MesZL":"490","aBZL":"146","LHA":"318","HethZL":"195","transliteration":"ba6","script":"𒌑"},
+{ "recid":49, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","concept":"https://www.wikidata.org/wiki/Q13147", "meaning":"thirty", "transliteration":"ba7","script":"𒈦"},
+{ "recid":50, "got":"c1d1", "charName":"PAB or PAP", "MesZL":"92","aBZL":"249","LHA":"60","HethZL":"256(1)","transliteration":"bab","script":"𒉽"},
+{ "recid":51, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1969", "meaning":"to thresh grain with a threshing sledge", "transliteration":"bad","script":"𒁁"},
+{ "recid":52, "got":"a10b9", "charName":"BÀD (UG5 (EZEN×BAD))", "MesZL":"275","aBZL":"153","LHA":"152_8","HethZL":"114","transliteration":"bad3","script":"𒂦"},
+{ "recid":53, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"bah","script":"𒄷"},
+{ "recid":54, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"bak","script":"𒄷"},
+{ "recid":55, "got":"a1b3c3", "charName":"BAL", "MesZL":"5","aBZL":"3","LHA":"9","HethZL":"4","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3943", "meaning":"to unload a boat", "transliteration":"bal","script":"𒁄"},
+{ "recid":56, "got":"a2b2c3d1", "charName":"BÚR", "MesZL":"8","aBZL":"13","LHA":"11","HethZL":"","transliteration":"bal2","script":"𒁔"},
+{ "recid":57, "got":"c2d2", "charName":"PAN", "MesZL":"685","aBZL":"27","LHA":"439","HethZL":"118","transliteration":"ban","script":"𒉼"},
+{ "recid":58, "got":"a1b1", "charName":"BÁN", "MesZL":"122","aBZL":"29","LHA":"74","HethZL":"20","concept":"null", "meaning":"unit of capacity", "transliteration":"ban2","script":"𒑏"},
+{ "recid":59, "got":"c1d1", "charName":"PAB or PAP", "MesZL":"92","aBZL":"249","LHA":"60","HethZL":"256(1)","transliteration":"bap","script":"𒉽"},
+{ "recid":60, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"baq","script":"𒄷"},
+{ "recid":61, "got":"a1b1", "charName":"BAR", "MesZL":"121","aBZL":"57","LHA":"74","HethZL":"20","concept":"https://www.wikidata.org/wiki/Q1323314", "meaning":"a part of an animal&apos; s body", "transliteration":"bar","script":"𒁇"},
+{ "recid":62, "got":"a10b10c1d1", "charName":"BÁRA", "MesZL":"554","aBZL":"217","LHA":"344","HethZL":"235","transliteration":"bar2","script":"𒁈"},
+{ "recid":63, "got":"a4b5c1d1", "charName":"DAG (PÀR)", "MesZL":"438","aBZL":"168","LHA":"280","HethZL":"243","transliteration":"bar3","script":"𒁖"},
+{ "recid":64, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","transliteration":"basz","script":"𒈦"},
+{ "recid":65, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"bat","script":"𒁁"},
+{ "recid":66, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185", "meaning":"carry; bring", "transliteration":"bbl","script":"𒁀𒁀𒇻"},
+{ "recid":67, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2902", "meaning":"waste; squander; dissipate", "transliteration":"bdd","script":"𒁺𒁺"},
+{ "recid":68, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3111", "meaning":"kiss", "transliteration":"bdh","script":"𒁀𒁕𒄷"},
+{ "recid":69, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"bdm","script":"𒁀𒁕𒈬"},
+{ "recid":70, "concept":"null", "meaning":"cut off parts (of something)", "transliteration":"bdq","script":"𒁀𒁕𒄣"},
+{ "recid":71, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"bdsz","script":"𒁀𒁕𒋗"},
+{ "recid":72, "concept":"null", "meaning":"be slow?", "transliteration":"bdʾ","script":"𒁁𒁺"},
+{ "recid":73, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"be","script":"𒁁"},
+{ "recid":74, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"be'","script":"𒁁"},
+{ "recid":75, "got":"a4b2c1d1", "charName":"BI", "MesZL":"358","aBZL":"79","LHA":"214","HethZL":"153","transliteration":"be2","script":"𒁉"},
+{ "recid":76, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_103", "meaning":"to withdraw; receive", "transliteration":"be6","script":"𒉿"},
+{ "recid":77, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"bel","script":"𒉈"},
+{ "recid":78, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","transliteration":"bet","script":"𒂍"},
+{ "recid":79, "concept":"null", "meaning":"heat a liquid", "transliteration":"bhr","script":"𒈜𒄷𒊒"},
+{ "recid":80, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_525", "meaning":"stir", "transliteration":"bhsz","script":"𒈜𒄷𒋗"},
+{ "recid":81, "concept":"null", "meaning":"seek for", "transliteration":"bhʾ","script":"𒈜𒄷"},
+{ "recid":82, "got":"a4b2c1d1", "charName":"BI", "MesZL":"358","aBZL":"79","LHA":"214","HethZL":"153","transliteration":"bi","script":"𒁉"},
+{ "recid":83, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"bi2","script":"𒉈"},
+{ "recid":84, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"bi3","script":"𒉿"},
+{ "recid":85, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"bil","script":"𒉈"},
+{ "recid":86, "got":"a1b4c7", "charName":"BÍL (GIBIL; NE×PAB, NE-šeššig)", "MesZL":"312","aBZL":"117","LHA":"173","HethZL":"172","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2648", "meaning":"10. conversion", "transliteration":"bil2","script":"𒉋"},
+{ "recid":87, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"to burn", "transliteration":"bil3","script":"𒄑𒉋"},
+{ "recid":88, "got":"c12d2", "charName":"BIR (ḪI×ŠE)", "MesZL":"643","aBZL":"287","LHA":"400","HethZL":"334","transliteration":"bir","script":"𒄵"},
+{ "recid":89, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"null", "meaning":"to sneer at; lift nose; lip); contract oneself; roll up", "transliteration":"bir2","script":"𒌓"},
+{ "recid":90, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","concept":"null", "meaning":"when", "transliteration":"bit","script":"𒂍"},
+{ "recid":91, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","transliteration":"bit,","script":"𒂍"},
+{ "recid":92, "got":"a4b2c1d1", "charName":"BI", "MesZL":"358","aBZL":"79","LHA":"214","HethZL":"153","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2944", "meaning":"to trickle; drip", "transliteration":"biz","script":"𒁉"},
+{ "recid":93, "concept":"null", "meaning":"sprinkle(?)", "transliteration":"bkr","script":"𒁀𒅗𒊒"},
+{ "recid":94, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1371", "meaning":"weep; cry; bawl; bewail", "transliteration":"bkʾ","script":"𒁀𒆪"},
+{ "recid":95, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3882", "meaning":"go over; cross; befall (of sorcery; witchcraft)", "transliteration":"blkt","script":"𒈾𒁄𒆪𒌈"},
+{ "recid":96, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3906", "meaning":"mix; blend; mingle; alloy", "transliteration":"bll","script":"𒁀𒆷𒇻"},
+{ "recid":97, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2666", "meaning":"gag; muzzle", "transliteration":"blm","script":"𒁀𒆷𒈬"},
+{ "recid":98, "concept":"null", "meaning":"I stare; fix the eyes in a stare; II thrust; jerk (with rump)", "transliteration":"bls,","script":"𒁀𒆷𒍮"},
+{ "recid":99, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3678", "meaning":"become well; be alive; live", "transliteration":"blt,","script":"𒁀𒆷𒂅"},
+{ "recid":100, "concept":"null", "meaning":"be extinguished; come to an end", "transliteration":"blʾ","script":"𒁁𒇻"},
+{ "recid":101, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"bnn","script":"𒇌𒉡𒉡"},
+{ "recid":102, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2922", "meaning":"I build; create; engender; II become pleasant; beautiful", "transliteration":"bnʾ","script":"𒁀𒉡"},
+{ "recid":103, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_613", "meaning":"malt; sprout", "transliteration":"bql","script":"𒁀𒋡𒇻"},
+{ "recid":104, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"pluck hair or wool", "transliteration":"bqm","script":"𒁀𒋡𒈬"},
+{ "recid":105, "concept":"null", "meaning":"pluck hair or wool", "transliteration":"bqn","script":"𒁀𒋡𒉡"},
+{ "recid":106, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_919", "meaning":"become rare; scarce; expensive", "transliteration":"bqr","script":"𒁀𒋡𒊒"},
+{ "recid":107, "concept":"null", "meaning":"be broad; prominent", "transliteration":"bqsz","script":"𒁀𒋡𒋗"},
+{ "recid":108, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1631", "meaning":"beam; shine; radiate", "transliteration":"brh","script":"𒁀𒊏𒄷"},
+{ "recid":109, "concept":"null", "meaning":"seal up", "transliteration":"brm","script":"𒁀𒊏𒈬"},
+{ "recid":110, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1657", "meaning":"flash (of lightning); strike with lightning", "transliteration":"brq","script":"𒁀𒊏𒄣"},
+{ "recid":111, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2850", "meaning":"flicker; be dim; be scintillating", "transliteration":"brr","script":"𒁀𒊏𒊒"},
+{ "recid":112, "concept":"null", "meaning":"light up; shine brightly", "transliteration":"brs,","script":"𒁀𒊏𒍮"},
+{ "recid":113, "concept":"null", "meaning":"pluck out", "transliteration":"brsz","script":"𒁀𒊏𒋗"},
+{ "recid":114, "concept":"null", "meaning":"be continuous; permanent", "transliteration":"brʾ","script":"𒂍𒊒"},
+{ "recid":115, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; pick; harvest (grapes)", "transliteration":"bs,r","script":"𒁀𒍝𒊒"},
+{ "recid":116, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2944", "meaning":"trickle", "transliteration":"bs,s,","script":"𒁀𒍝𒍮"},
+{ "recid":117, "concept":"null", "meaning":"?", "transliteration":"bsl","script":"𒁀𒊓𒇻"},
+{ "recid":118, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2967", "meaning":"to please", "transliteration":"bsm","script":"𒋢𒈬"},
+{ "recid":119, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929", "meaning":"bring; send; deliver", "transliteration":"bsr","script":"𒋢𒊒"},
+{ "recid":120, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3302", "meaning":"cook; boil; scald; stew", "transliteration":"bszl","script":"𒁀𒊭𒇻"},
+{ "recid":121, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1367", "meaning":"fashion; design; lay out; create", "transliteration":"bszm","script":"𒁀𒊭𒈬"},
+{ "recid":122, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2287", "meaning":"spread", "transliteration":"bszsz","script":"𒁀𒊭𒋗"},
+{ "recid":123, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1543", "meaning":"be; exist; be present; be available; (Š) give birth", "transliteration":"bszʾ","script":"𒁀𒋗"},
+{ "recid":124, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_904", "meaning":"cease; stop; pack in; pack", "transliteration":"bt,l","script":"𒁀𒁕𒇻"},
+{ "recid":125, "concept":"null", "meaning":"be slow?", "transliteration":"bt,ʾ","script":"𒁁𒂅"},
+{ "recid":126, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; cut off; amputate; divide", "transliteration":"btq","script":"𒁀𒋫𒄣"},
+{ "recid":127, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1569", "meaning":"mutilate", "transliteration":"btr","script":"𒌅𒊒"},
+{ "recid":128, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"bu","script":"𒁍"},
+{ "recid":129, "got":"c2d2", "charName":"KASKAL", "MesZL":"302","aBZL":"271","LHA":"166","HethZL":"259","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_439", "meaning":"to flit; chase about", "transliteration":"bu2","script":"𒆜"},
+{ "recid":130, "got":"a8b2c7d1", "charName":"PÙ (KA×KÁR)", "MesZL":"33","aBZL":"321","LHA":"19","HethZL":"","transliteration":"bu3","script":"𒅤"},
+{ "recid":131, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","concept":"https://www.wikidata.org/wiki/Q9128", "meaning":"to glow; shine", "transliteration":"bu7","script":"𒆪"},
+{ "recid":132, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"bu?","script":"𒁍"},
+{ "recid":133, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"buh","script":"𒈜"},
+{ "recid":134, "got":"a2b2c3", "charName":"BUL (LAGAB×EŠ)", "MesZL":"788","aBZL":"411","LHA":"515","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2508", "meaning":"4. to inflate", "transliteration":"bul","script":"𒇧"},
+{ "recid":135, "got":"a8b2c7d1", "charName":"PÙ (KA×KÁR)", "MesZL":"33","aBZL":"321","LHA":"19","HethZL":"","transliteration":"bum","script":"𒅤"},
+{ "recid":136, "got":"a4b3c2d3", "charName":"LAGAB×IM", "MesZL":"785","aBZL":"","LHA":"510","HethZL":"","transliteration":"bun","script":"𒇌"},
+{ "recid":137, "got":"a5b3c7d3", "charName":"BÚN (KA×IM)", "MesZL":"54","aBZL":"322","LHA":"30","HethZL":"144","transliteration":"bun2","script":"𒅮"},
+{ "recid":138, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"buq","script":"𒌅"},
+{ "recid":139, "got":"a1b6c1d1", "charName":"BUR (NÍG-gunû)", "MesZL":"559","aBZL":"223","LHA":"349","HethZL":"245","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_730", "meaning":"to spread out; cover", "transliteration":"bur","script":"𒁓"},
+{ "recid":140, "got":"a2b2c3d1", "charName":"BÚR", "MesZL":"8","aBZL":"13","LHA":"11","HethZL":"","transliteration":"bur2","script":"𒁔"},
+{ "recid":141, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","concept":"null", "meaning":"a unit of volume", "transliteration":"bur3","script":"𒌋"},
+{ "recid":142, "got":"c2d2", "charName":"KASKAL", "MesZL":"302","aBZL":"271","LHA":"166","HethZL":"259","transliteration":"busz","script":"𒆜"},
+{ "recid":143, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1333", "meaning":"badger; entail; extort; make unreasonable demands", "transliteration":"bzh","script":"𒁀𒍝𒄷"},
+{ "recid":144, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1333", "meaning":"badger; entail; extort; make unreasonable demands", "transliteration":"bzʾ","script":"𒁀𒍪"},
+{ "recid":145, "concept":"null", "meaning":"spend the night", "transliteration":"bʾd","script":"𒁉𒀀𒁺"},
+{ "recid":146, "concept":"null", "meaning":"cast away; throw down", "transliteration":"bʾl","script":"𒁍𒌋𒇻"},
+{ "recid":147, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2816", "meaning":"affirm; fortify; prove", "transliteration":"bʾr","script":"𒁍𒀀𒊒"},
+{ "recid":148, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3648", "meaning":"go away; withdraw", "transliteration":"bʾsz","script":"𒁁𒂊𒋗"},
+{ "recid":149, "concept":"null", "meaning":"stay overnight; spend the night", "transliteration":"bʾt","script":"𒁉𒀀𒌈"},
+{ "recid":150, "concept":"null", "meaning":"show contempt", "transliteration":"bʾt,","script":"𒁀𒂅"},
+{ "recid":151, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2089", "meaning":"seek for; inquire", "transliteration":"bʾʾ","script":"𒁍𒌋"},
+{ "recid":152, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"d","script":"𒁺"},
+{ "recid":153, "got":"a2b8c1", "charName":"DA", "MesZL":"561","aBZL":"229","LHA":"335","HethZL":"214","transliteration":"da","script":"𒁕"},
+{ "recid":154, "got":"a2b2c1d1", "charName":"TA", "MesZL":"248","aBZL":"123","LHA":"139","HethZL":"160","transliteration":"da2","script":"𒋫"},
+{ "recid":155, "got":"a1c1d1", "charName":"GAG (KAK)", "MesZL":"379","aBZL":"260","LHA":"230","HethZL":"75","transliteration":"da3","script":"𒆕"},
+{ "recid":156, "got":"a3b4", "charName":"URUDU (URUDA)", "MesZL":"230","aBZL":"111","LHA":"132","HethZL":"109","transliteration":"da5","script":"𒍏"},
+{ "recid":157, "transliteration":"dab","script":"₇"},
+{ "recid":158, "got":"a6b1c1", "charName":"KÍD (TAG4)", "MesZL":"106","aBZL":"58","LHA":"63d","HethZL":"227","transliteration":"dad","script":"𒋺"},
+{ "recid":159, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3213", "meaning":"to clean", "transliteration":"dag2","script":"𒌓"},
+{ "recid":160, "got":"a1b4", "charName":"KISAL", "MesZL":"435","aBZL":"161","LHA":"249","HethZL":"228","transliteration":"dag4","script":"𒆦"},
+{ "recid":161, "got":"b2c12", "charName":"TAḪDAḪ (MUoverMU)", "MesZL":"301","aBZL":"142","LHA":"169","HethZL":"171","transliteration":"dah","script":"𒈭"},
+{ "recid":162, "got":"a4b5c1d1", "charName":"DAG (PÀR)", "MesZL":"438","aBZL":"168","LHA":"280","HethZL":"243","transliteration":"dak","script":"𒁖"},
+{ "recid":163, "got":"a3b1c1", "charName":"RI", "MesZL":"142","aBZL":"39","LHA":"86","HethZL":"32","transliteration":"dal","script":"𒊑"},
+{ "recid":164, "got":"a3b4c2d1", "charName":"DAM", "MesZL":"889","aBZL":"454","LHA":"557","HethZL":"298","transliteration":"dam","script":"𒁮"},
+{ "recid":165, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"dan","script":"𒆗"},
+{ "recid":166, "got":"a9b3c1", "charName":"GÁ×KÍD", "MesZL":"394","aBZL":"69","LHA":"241","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3208", "meaning":"to clean", "transliteration":"dan3","script":"𒃩"},
+{ "recid":167, "got":"a3b4", "charName":"DIB (DAB)", "MesZL":"813","aBZL":"419","LHA":"537","HethZL":"210?","transliteration":"dap","script":"𒁳"},
+{ "recid":168, "got":"a4b5c1d1", "charName":"DAG (PÀR)", "MesZL":"438","aBZL":"168","LHA":"280","HethZL":"243","transliteration":"daq","script":"𒁖"},
+{ "recid":169, "got":"a2b6c1", "charName":"DAR (GÙN; ḪU-gunû, SI-gunû)", "MesZL":"183","aBZL":"37","LHA":"113","HethZL":"83","transliteration":"dar","script":"𒁯"},
+{ "recid":170, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","transliteration":"dasz","script":"𒌨"},
+{ "recid":171, "got":"a6b1c1", "charName":"KÍD (TAG4)", "MesZL":"106","aBZL":"58","LHA":"63d","HethZL":"227","transliteration":"dat","script":"𒋺"},
+{ "recid":172, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021", "meaning":"speak; tell; (D) talk much; (Dt) be called", "transliteration":"dbb","script":"𒁕𒁀𒁍"},
+{ "recid":173, "concept":"null", "meaning":"join together", "transliteration":"dbq","script":"𒁾𒁍𒄣"},
+{ "recid":174, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"dbr","script":"𒁕𒁀𒊒"},
+{ "recid":175, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"de","script":"𒁲"},
+{ "recid":176, "got":"a2b6c4d4", "charName":"UMUM×KASKAL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"de2","script":"𒌤"},
+{ "recid":177, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"de3","script":"𒉈"},
+{ "recid":178, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2393", "meaning":"look at; scan", "transliteration":"dgl","script":"𒁕𒂵𒇻"},
+{ "recid":179, "concept":"null", "meaning":"oppress (D)", "transliteration":"dhs","script":"𒃮𒄷𒋢"},
+{ "recid":180, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"push; exclude; rebuff; refuse", "transliteration":"dhʾ","script":"𒁕𒄷"},
+{ "recid":181, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"di","script":"𒁲"},
+{ "recid":182, "got":"a1b2c2", "charName":"TI", "MesZL":"118","aBZL":"23","LHA":"73","HethZL":"37","transliteration":"di3","script":"𒋾"},
+{ "recid":183, "got":"a1b2c2d2", "charName":"TUR (DUMU)", "MesZL":"255","aBZL":"393","LHA":"144","HethZL":"237","transliteration":"di4","script":"𒌉"},
+{ "recid":184, "got":"a3b4", "charName":"DIB (DAB)", "MesZL":"813","aBZL":"419","LHA":"537","HethZL":"210?","transliteration":"dib","script":"𒁳"},
+{ "recid":185, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1292", "meaning":"6. to transfer", "transliteration":"dib2","script":"𒆪"},
+{ "recid":186, "got":"a8b2c3d2", "charName":"IM", "MesZL":"641","aBZL":"297","LHA":"399","HethZL":"337","transliteration":"did","script":"𒅎"},
+{ "recid":187, "got":"a1c3d1", "charName":"NIM", "MesZL":"690","aBZL":"355","LHA":"433","HethZL":"74","concept":"null", "meaning":"a weed with thorns", "transliteration":"dih3","script":"𒉏"},
+{ "recid":188, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"dik","script":"𒉌"},
+{ "recid":189, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","transliteration":"dil","script":"𒀸"},
+{ "recid":190, "got":"a2b1c2d2", "charName":"DIM", "MesZL":"167","aBZL":"14","LHA":"94","HethZL":"14","transliteration":"dim","script":"𒁴"},
+{ "recid":191, "got":"a2b2c1d2", "charName":"GIM (DÍM)", "MesZL":"686","aBZL":"67","LHA":"440","HethZL":"165","transliteration":"dim2","script":"𒁶"},
+{ "recid":192, "got":"a4c7d1", "charName":"LÚ-šeššig (LÚ.GAM)", "MesZL":"516, 534","aBZL":"","LHA":"330_8n","HethZL":"","concept":"null", "meaning":"binding; knot; bond", "transliteration":"dim3","script":"𒈕"},
+{ "recid":193, "got":"c3d1", "charName":"DIN", "MesZL":"119","aBZL":"361","LHA":"465","HethZL":"330","transliteration":"din","script":"𒁷"},
+{ "recid":194, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"diq","script":"𒉌"},
+{ "recid":195, "concept":"null", "meaning":"crossing; ford", "transliteration":"dir","script":"𒋛𒀀"},
+{ "recid":196, "charName":"DIŠ (1)", "MesZL":"748","aBZL":"390","LHA":"480","HethZL":"356","transliteration":"disz","script":"𒁹"},
+{ "recid":197, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1414", "meaning":"scamper (of donkey)", "transliteration":"dkk","script":"𒁕𒅗𒆪"},
+{ "recid":198, "concept":"null", "meaning":"bow down; prostrate", "transliteration":"dkm","script":"𒁕𒅗𒈬"},
+{ "recid":199, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1230", "meaning":"press in; stab; thrust", "transliteration":"dksz","script":"𒁕𒅗𒋗"},
+{ "recid":200, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1595", "meaning":"raise; remove; mobilize; arouse; muster; summon", "transliteration":"dkʾ","script":"𒁲𒆪"},
+{ "recid":201, "concept":"null", "meaning":"stir up; be sleepless; stay awake; (D) harass; (N) become restless", "transliteration":"dlb","script":"𒁕𒆷𒁍"},
+{ "recid":202, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_106", "meaning":"stir up; disturb; confuse", "transliteration":"dlh","script":"𒁕𒆷𒄷"},
+{ "recid":203, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_340", "meaning":"be small", "transliteration":"dll","script":"𒁕𒆷𒇻"},
+{ "recid":204, "concept":"null", "meaning":"stir up; be sleepless; stay awake; (D) harass; (N) become restless", "transliteration":"dlp","script":"𒁕𒆷𒁍"},
+{ "recid":205, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"burn", "transliteration":"dlq","script":"𒁕𒆷𒄣"},
+{ "recid":206, "concept":"https://www.wikidata.org/wiki/Q838312", "meaning":"draw water; irrigate", "transliteration":"dlʾ","script":"𒁕𒇻"},
+{ "recid":207, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_549", "meaning":"wail; bemoan; mourn", "transliteration":"dmm","script":"𒁕𒈠𒈬"},
+{ "recid":208, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1710", "meaning":"be good; prosper; flourish; have good fortune", "transliteration":"dmq","script":"𒁕𒈠𒄣"},
+{ "recid":209, "concept":"null", "meaning":"prostrate oneself", "transliteration":"dms,","script":"𒁕𒈠𒍮"},
+{ "recid":210, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_976", "meaning":"wipe", "transliteration":"dmsz","script":"𒁕𒈠𒋗"},
+{ "recid":211, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_408", "meaning":"bring to tears", "transliteration":"dmʾ","script":"𒌈𒈬"},
+{ "recid":212, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"dnin","script":"𒊩"},
+{ "recid":213, "concept":"null", "meaning":"become strong; become powerful; (R) match in strength", "transliteration":"dnn","script":"𒁕𒈾𒉡"},
+{ "recid":214, "concept":"null", "meaning":"be inferior quality?", "transliteration":"dnʾ","script":"𒁕𒉡"},
+{ "recid":215, "concept":"https://www.wikidata.org/wiki/Q488383", "meaning":"hurtle towards", "transliteration":"dpn","script":"𒁕𒉺𒉡"},
+{ "recid":216, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3648", "meaning":"withdraw; move away (D)", "transliteration":"dpr","script":"𒁾𒁍𒊒"},
+{ "recid":217, "concept":"null", "meaning":"be fine; be minimal; crush (D)", "transliteration":"dqq","script":"𒁕𒋡𒄣"},
+{ "recid":218, "concept":"null", "meaning":"bend down", "transliteration":"dqsz","script":"𒁕𒋡𒋗"},
+{ "recid":219, "concept":"null", "meaning":"pack up (textiles)", "transliteration":"drg","script":"𒁕𒊏𒄖"},
+{ "recid":220, "concept":"null", "meaning":"follow?; thresh (D)", "transliteration":"drk","script":"𒄙𒊒𒆪"},
+{ "recid":221, "concept":"null", "meaning":"pack up", "transliteration":"drq","script":"𒁕𒊏𒄣"},
+{ "recid":222, "concept":"null", "meaning":"intercalate a month", "transliteration":"drr","script":"𒁕𒊏𒊒"},
+{ "recid":223, "concept":"null", "meaning":"trample; push back", "transliteration":"drs","script":"𒁕𒊏𒋢"},
+{ "recid":224, "concept":"null", "meaning":"try?", "transliteration":"drsz","script":"𒁕𒊏𒋗"},
+{ "recid":225, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2054", "meaning":"reject; neglect", "transliteration":"drʾ","script":"𒄙𒊒"},
+{ "recid":226, "concept":"null", "meaning":"be sweet; (D) sweeten", "transliteration":"dszp","script":"𒁕𒊭𒁍"},
+{ "recid":227, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_613", "meaning":"sprout; (D) let flourish; (Dt) abound", "transliteration":"dszʾ","script":"𒁲𒋗"},
+{ "recid":228, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"du","script":"𒁺"},
+{ "recid":229, "got":"c2d2", "charName":"ḪI (DÙG)", "MesZL":"631","aBZL":"277","LHA":"396","HethZL":"335","transliteration":"du10","script":"𒄭"},
+{ "recid":230, "got":"a2b1c1d1", "charName":"TUK (TUG)", "MesZL":"827","aBZL":"444","LHA":"574","HethZL":"53","concept":"null", "meaning":"to play a musical instrument", "transliteration":"du12","script":"𒌇"},
+{ "recid":231, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"du2","script":"𒌅"},
+{ "recid":232, "got":"a1c1d1", "charName":"GAG (KAK)", "MesZL":"379","aBZL":"260","LHA":"230","HethZL":"75","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2214", "meaning":"to do; perform", "transliteration":"du3","script":"𒆕"},
+{ "recid":233, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","transliteration":"du5","script":"𒂅"},
+{ "recid":234, "got":"a2c5d1", "charName":"DU6 (LAGAR-gunû)", "MesZL":"721","aBZL":"311","LHA":"459a","HethZL":"211","concept":"null", "meaning":"(ruin) mound", "transliteration":"du6","script":"𒇯"},
+{ "recid":235, "got":"a1b2c2d1", "charName":"UL (DU7)", "MesZL":"698","aBZL":"344","LHA":"441","HethZL":"275","transliteration":"du7","script":"𒌌"},
+{ "recid":236, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"du8","script":"𒃮"},
+{ "recid":237, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3629", "meaning":"to tarry", "transliteration":"dub","script":"𒁾"},
+{ "recid":238, "got":"a5b8c3d1", "charName":"DÚB (BALAG)", "MesZL":"565","aBZL":"82","LHA":"352","HethZL":"","concept":"null", "meaning":"to lay the warp", "transliteration":"dub2","script":"𒂀"},
+{ "recid":239, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"dug","script":"𒂁"},
+{ "recid":240, "got":"c2d2", "charName":"ḪI (DÙG)", "MesZL":"631","aBZL":"277","LHA":"396","HethZL":"335","transliteration":"dug3","script":"𒄭"},
+{ "recid":241, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","transliteration":"dug4","script":"𒅗"},
+{ "recid":242, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"duh","script":"𒃮"},
+{ "recid":243, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"duk","script":"𒂁"},
+{ "recid":244, "got":"a7b7c4", "charName":"DUN4 (UR-gunû-šeššigMIR-šeššig)", "MesZL":"557","aBZL":"220","LHA":"348","HethZL":"88","transliteration":"dul4","script":"𒂈"},
+{ "recid":245, "got":"a3b2c4", "charName":"UR-šeššig", "MesZL":"829","aBZL":"220","LHA":"575b","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909", "meaning":"to cover", "transliteration":"dul9","script":"𒌪"},
+{ "recid":246, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"dum","script":"𒌈"},
+{ "recid":247, "got":"a5b2c3d2", "charName":"ŠUL (DUN)", "MesZL":"744","aBZL":"ŠUL:438","LHA":"467","HethZL":"46","transliteration":"dun","script":"𒂄"},
+{ "recid":248, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","transliteration":"dup","script":"𒁾"},
+{ "recid":249, "got":"a4b2c2d2", "charName":"DUR (GÚxGAG, GÚ.GAG)", "MesZL":"178","aBZL":"88","LHA":"108","HethZL":"202","transliteration":"dur","script":"𒄙"},
+{ "recid":250, "got":"a2b3", "charName":"DUŔ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"dur2","script":"𒂉"},
+{ "recid":251, "got":"a5b2c3d2", "charName":"ŠUL (DUN)", "MesZL":"744","aBZL":"ŠUL:438","LHA":"467","HethZL":"46","concept":"null", "meaning":"young male donkey", "transliteration":"dur9","script":"𒂄"},
+{ "recid":252, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","transliteration":"dusz","script":"𒆪"},
+{ "recid":253, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_455", "meaning":"jerk; convulse", "transliteration":"dwʾ","script":"𒁕𒉿"},
+{ "recid":254, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"kill; murder; execute; assassinate; defeat; mistreat", "transliteration":"dʾk","script":"𒁕𒆪"},
+{ "recid":255, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1713", "meaning":"run about; move about", "transliteration":"dʾl","script":"𒁕𒇻"},
+{ "recid":256, "concept":"null", "meaning":"be dark; (D) to darken", "transliteration":"dʾm","script":"𒁕𒀀𒌤"},
+{ "recid":257, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2940", "meaning":"judge; start a lawsuit", "transliteration":"dʾn","script":"𒁕𒉡"},
+{ "recid":258, "concept":"null", "meaning":"to lay warp", "transliteration":"dʾp","script":"𒁲𒂊𒁍"},
+{ "recid":259, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1735", "meaning":"surround; enfold", "transliteration":"dʾr","script":"𒁺𒀀𒀸"},
+{ "recid":260, "concept":"null", "meaning":"treat with disrespect; unjustly", "transliteration":"dʾs,","script":"𒁕𒍮"},
+{ "recid":261, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3926", "meaning":"trample upon; tread", "transliteration":"dʾsz","script":"𒁲𒀀𒋳"},
+{ "recid":262, "got":"a3b4", "charName":"E", "MesZL":"498","aBZL":"167","LHA":"308","HethZL":"187","concept":"https://www.wikidata.org/wiki/Q44619", "meaning":"fear; aura", "transliteration":"e","script":"𒂊"},
+{ "recid":263, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","transliteration":"e2","script":"𒂍"},
+{ "recid":264, "got":"a10b4c2d2", "charName":"SU/SU", "MesZL":"","aBZL":"","LHA":"","HethZL":"","concept":"null", "meaning":"leather bearing", "transliteration":"e6","script":"𒋣"},
+{ "recid":265, "got":"a6b2", "charName":"IB", "MesZL":"807","aBZL":"394","LHA":"535","HethZL":"44","transliteration":"eb","script":"𒅁"},
+{ "recid":266, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"ed","script":"𒀉"},
+{ "recid":267, "got":"a1b8c6", "charName":"ÁG (NÍNDA×NE)", "MesZL":"326","aBZL":"136","LHA":"183","HethZL":"121","transliteration":"eg3","script":"𒉘"},
+{ "recid":268, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","transliteration":"ek","script":"𒅅"},
+{ "recid":269, "got":"a3b3c1d1", "charName":"EL", "MesZL":"899","aBZL":"455","LHA":"564","HethZL":"307","transliteration":"el","script":"𒂖"},
+{ "recid":270, "got":"a8b2c3d2", "charName":"IM", "MesZL":"641","aBZL":"297","LHA":"399","HethZL":"337","transliteration":"em","script":"𒅎"},
+{ "recid":271, "got":"a2b5c3", "charName":"EN", "MesZL":"164","aBZL":"62","LHA":"99","HethZL":"40","transliteration":"en","script":"𒂗"},
+{ "recid":272, "got":"a2b4c11d1", "charName":"LI", "MesZL":"85","aBZL":"381","LHA":"59","HethZL":"343","transliteration":"en3","script":"𒇷"},
+{ "recid":273, "got":"a6b2", "charName":"IB", "MesZL":"807","aBZL":"394","LHA":"535","HethZL":"44","transliteration":"ep","script":"𒅁"},
+{ "recid":274, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","transliteration":"eq","script":"𒅅"},
+{ "recid":275, "got":"a3c1d1", "charName":"IR (GAG-gunû)", "MesZL":"437","aBZL":"263","LHA":"232","HethZL":"77","concept":"null", "meaning":"perfect plural stem of ŋen[to go]", "transliteration":"er","script":"𒅕"},
+{ "recid":276, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"es","script":"𒄑"},
+{ "recid":277, "got":"c3", "charName":"EŠ (3×U)", "MesZL":"711","aBZL":"366","LHA":"472","HethZL":"331","transliteration":"esz","script":"𒌍"},
+{ "recid":278, "got":"a2b7", "charName":"ŠÈ (ÉŠ, GI7, ZÌ)", "MesZL":"810","aBZL":"420","LHA":"536","HethZL":"212","transliteration":"esz2","script":"𒂠"},
+{ "recid":279, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"et,","script":"𒀉"},
+{ "recid":280, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"ez","script":"𒄑"},
+{ "recid":281, "got":"a1b8c6", "charName":"ÁG (NÍNDA×NE)", "MesZL":"326","aBZL":"136","LHA":"183","HethZL":"121","transliteration":"eĝ3","script":"𒉘"},
+{ "recid":282, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"eţ","script":"𒀉"},
+{ "recid":283, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"g","script":"𒄣"},
+{ "recid":284, "got":"a5b6c1d1", "charName":"GA", "MesZL":"491","aBZL":"201","LHA":"319","HethZL":"159","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929", "meaning":"to bring; carry", "transliteration":"ga","script":"𒂵"},
+{ "recid":285, "got":"a6b2", "charName":"GÁN", "MesZL":"174","aBZL":"106","LHA":"105","HethZL":"61","transliteration":"ga3","script":"𒃷"},
+{ "recid":286, "got":"a2b8c1", "charName":"KAB", "MesZL":"148","aBZL":"226","LHA":"88","HethZL":"49","transliteration":"gab2","script":"𒆏"},
+{ "recid":287, "got":"a1c1d1", "charName":"GAG (KAK)", "MesZL":"379","aBZL":"260","LHA":"230","HethZL":"75","concept":"https://www.wikidata.org/wiki/Q1643900", "meaning":"peg; nail", "transliteration":"gag","script":"𒆕"},
+{ "recid":288, "got":"a1c1d1", "charName":"GAG (KAK)", "MesZL":"379","aBZL":"260","LHA":"230","HethZL":"75","transliteration":"gak","script":"𒆕"},
+{ "recid":289, "got":"a1b5", "charName":"GAL", "MesZL":"553","aBZL":"213","LHA":"343","HethZL":"242","transliteration":"gal","script":"𒃲"},
+{ "recid":290, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","transliteration":"gal2","script":"𒅅"},
+{ "recid":291, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","concept":"https://www.wikidata.org/wiki/Q2192288", "meaning":"female genitals; vulva", "transliteration":"gal4","script":"𒊩"},
+{ "recid":292, "got":"c2", "charName":"GAM", "MesZL":"576","aBZL":"359","LHA":"362","HethZL":"247","transliteration":"gam","script":"𒃵"},
+{ "recid":293, "got":"b1c6d4", "charName":"GÀM (PAB.NÁ)", "MesZL":"97","aBZL":"268","LHA":"60x","HethZL":"","transliteration":"gam3","script":"𒆛"},
+{ "recid":294, "got":"a8b2c2d2", "charName":"GAN", "MesZL":"253","aBZL":"120","LHA":"143","HethZL":"113","transliteration":"gan","script":"𒃶"},
+{ "recid":295, "got":"a6b2", "charName":"GÁN", "MesZL":"174","aBZL":"106","LHA":"105","HethZL":"61","transliteration":"gan2","script":"𒃷"},
+{ "recid":296, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"gap","script":"𒃮"},
+{ "recid":297, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"gar","script":"𒃻"},
+{ "recid":298, "got":"b4c2d1", "charName":"GÀR (QAR)", "MesZL":"543","aBZL":"209","LHA":"333","HethZL":"240","concept":"https://www.wikidata.org/wiki/Q327496", "meaning":"a hairstyle", "transliteration":"gar3","script":"𒃼"},
+{ "recid":299, "got":"a1b2c1d1", "charName":"GU4", "MesZL":"472","aBZL":"118","LHA":"297","HethZL":"157","transliteration":"gar4","script":"𒄞"},
+{ "recid":300, "got":"a2b4c14", "charName":"GAZ (KUM×ŠE)", "MesZL":"340","aBZL":"139","LHA":"192","HethZL":"122","transliteration":"gas","script":"𒄤"},
+{ "recid":301, "got":"a4b2c1d1", "charName":"BI", "MesZL":"358","aBZL":"79","LHA":"214","HethZL":"153","transliteration":"gasz","script":"𒁉"},
+{ "recid":302, "got":"a2b4c14", "charName":"GAZ (KUM×ŠE)", "MesZL":"340","aBZL":"139","LHA":"192","HethZL":"122","transliteration":"gaz","script":"𒄤"},
+{ "recid":303, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"6. to break", "transliteration":"gaz2","script":"𒄣"},
+{ "recid":304, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"burn; ", "transliteration":"gbb","script":"𒂵𒁀𒁍"},
+{ "recid":305, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1660", "meaning":"enforce; use force", "transliteration":"gbr","script":"𒂵𒁀𒊒"},
+{ "recid":306, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_616", "meaning":"sew; stitch", "transliteration":"gbʾ","script":"𒁺𒁍"},
+{ "recid":307, "concept":"null", "meaning":"separate off", "transliteration":"gdd","script":"𒂵𒁕𒁺"},
+{ "recid":308, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1229", "meaning":"twist; plait; interweave", "transliteration":"gdl","script":"𒂵𒁕𒇻"},
+{ "recid":309, "concept":"null", "meaning":"cut off a part of body as punishment; amputate", "transliteration":"gdm","script":"𒂵𒁕𒈬"},
+{ "recid":310, "got":"a1b1c5d2", "charName":"GI", "MesZL":"141","aBZL":"40","LHA":"85","HethZL":"30","transliteration":"ge","script":"𒄀"},
+{ "recid":311, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","concept":"https://www.wikidata.org/wiki/Q184753", "meaning":"4.", "transliteration":"ge15","script":"𒀸"},
+{ "recid":312, "got":"c9d9", "charName":"GIL (GIoverGI parall. or crossing)", "MesZL":"105","aBZL":"250","LHA":"67","HethZL":"258","transliteration":"gel","script":"𒄃"},
+{ "recid":313, "got":"a1b1c5d2", "charName":"GI", "MesZL":"141","aBZL":"40","LHA":"85","HethZL":"30","transliteration":"gen6","script":"𒄀"},
+{ "recid":314, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"ger","script":"𒄫"},
+{ "recid":315, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"gesz","script":"𒄑"},
+{ "recid":316, "concept":"null", "meaning":"cough (D)", "transliteration":"ghb","script":"𒂵𒄩𒁍"},
+{ "recid":317, "got":"a1b1c5d2", "charName":"GI", "MesZL":"141","aBZL":"40","LHA":"85","HethZL":"30","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_795", "meaning":"5. to go back", "transliteration":"gi","script":"𒄀"},
+{ "recid":318, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"gi2","script":"𒆤"},
+{ "recid":319, "got":"a1b5c4d2", "charName":"GI4 (GI-gunû)", "MesZL":"507","aBZL":"214","LHA":"326","HethZL":"234","transliteration":"gi4","script":"𒄄"},
+{ "recid":320, "got":"c9d9", "charName":"GIL (GIoverGI parall. or crossing)", "MesZL":"105","aBZL":"250","LHA":"67","HethZL":"258","concept":"https://www.wikidata.org/wiki/Q15645384", "meaning":"wheat", "transliteration":"gib","script":"𒄃"},
+{ "recid":321, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"gid","script":"𒆤"},
+{ "recid":322, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"gid2","script":"𒁍"},
+{ "recid":323, "got":"c9d9", "charName":"GIL (GIoverGI parall. or crossing)", "MesZL":"105","aBZL":"250","LHA":"67","HethZL":"258","transliteration":"gil","script":"𒄃"},
+{ "recid":324, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"gim7","script":"𒁍"},
+{ "recid":325, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","concept":"https://www.wikidata.org/wiki/Q42233", "meaning":"sickle", "transliteration":"gin","script":"𒁺"},
+{ "recid":326, "got":"a2b2c1d2", "charName":"GIM (DÍM)", "MesZL":"686","aBZL":"67","LHA":"440","HethZL":"165","transliteration":"gin7","script":"𒁶"},
+{ "recid":327, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"gir","script":"𒄫"},
+{ "recid":328, "got":"a2c10d1", "charName":"IN", "MesZL":"261","aBZL":"386","LHA":"148","HethZL":"354","concept":"null", "meaning":"(wild) animals; moving things", "transliteration":"gir12","script":"𒅔"},
+{ "recid":329, "got":"a1b1c2d2", "charName":"GÍR", "MesZL":"6","aBZL":"8","LHA":"10","HethZL":"6","transliteration":"gir2","script":"𒄈"},
+{ "recid":330, "got":"a1b6c3d3", "charName":"GÌR", "MesZL":"701","aBZL":"291b","LHA":"444","HethZL":"301","transliteration":"gir3","script":"𒄊"},
+{ "recid":331, "got":"c5d4", "charName":"LIBIŠ (ÁB×ŠÀ)", "MesZL":"677","aBZL":"353","LHA":"424","HethZL":"","concept":"null", "meaning":"a large jar", "transliteration":"gir9","script":"𒀚"},
+{ "recid":332, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"gis","script":"𒄑"},
+{ "recid":333, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"gisz","script":"𒄑"},
+{ "recid":334, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"git","script":"𒆤"},
+{ "recid":335, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"giz","script":"𒄑"},
+{ "recid":336, "got":"a7b3", "charName":"MIR (NIMGIR)", "MesZL":"556","aBZL":"219b, 219a","LHA":"347","HethZL":"96","transliteration":"giĝ4","script":"𒂆"},
+{ "recid":337, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"giş","script":"𒄑"},
+{ "recid":338, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1810", "meaning":"shear; shave; shave head as punishment; (D) plunder", "transliteration":"glb","script":"𒄢𒇻𒁍"},
+{ "recid":339, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2533", "meaning":"twitch; become nervous; become", "transliteration":"gld","script":"𒂵𒆷𒁺"},
+{ "recid":340, "concept":"null", "meaning":"blind", "transliteration":"gll","script":"𒄢𒇻𒇻"},
+{ "recid":341, "concept":"null", "meaning":"flatten off?", "transliteration":"glsz","script":"𒂵𒆷𒋗"},
+{ "recid":342, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2533", "meaning":"twitch; become nervous; become", "transliteration":"glt","script":"𒂵𒆷𒌅"},
+{ "recid":343, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3904", "meaning":"awake; wake up (intrans.)", "transliteration":"gltʾ","script":"𒈾𒃲𒌈"},
+{ "recid":344, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2857", "meaning":"go inexile; emigrate", "transliteration":"glʾ","script":"𒂵𒇻"},
+{ "recid":345, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_637", "meaning":"haggle; mangle", "transliteration":"gmd","script":"𒂵𒈠𒁺"},
+{ "recid":346, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_348", "meaning":"spare; save; perform a kind act", "transliteration":"gml","script":"𒂵𒈠𒇻"},
+{ "recid":347, "concept":"null", "meaning":"cut off", "transliteration":"gmm","script":"𒂵𒈠𒈬"},
+{ "recid":348, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_895", "meaning":"bring to an end; come to an end; (D) control totally", "transliteration":"gmr","script":"𒂵𒈠𒊒"},
+{ "recid":349, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2859", "meaning":"anger", "transliteration":"gmt","script":"𒂵𒈠𒌅"},
+{ "recid":350, "concept":"null", "meaning":"press hard(?)", "transliteration":"gmz","script":"𒄣𒈬𒍪"},
+{ "recid":351, "concept":"null", "meaning":"meaning unknown", "transliteration":"gmʾ","script":"𒂵𒈬"},
+{ "recid":352, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2618", "meaning":"cough", "transliteration":"gnh","script":"𒂵𒈾𒄷"},
+{ "recid":353, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3629", "meaning":"encircle; shut in", "transliteration":"gnn","script":"𒂵𒈾𒉡"},
+{ "recid":354, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1116", "meaning":"lift (nose; lip)", "transliteration":"gns,","script":"𒂵𒈾𒍮"},
+{ "recid":355, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3381", "meaning":"to thrust; butt", "transliteration":"gnʾ","script":"𒂵𒉡"},
+{ "recid":356, "concept":"null", "meaning":"be superior", "transliteration":"gpr","script":"𒂵𒉺𒊒"},
+{ "recid":357, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2750", "meaning":"be huge; mighty; rise", "transliteration":"gpsz","script":"𒂵𒉺𒋗"},
+{ "recid":358, "concept":"null", "meaning":"meaning unknown", "transliteration":"gpʾ","script":"𒂵𒁍"},
+{ "recid":359, "concept":"https://www.wikidata.org/wiki/Q1358140", "meaning":"be leprous", "transliteration":"grb","script":"𒂵𒊏𒁍"},
+{ "recid":360, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"pluck; tear out; scrape off", "transliteration":"grd","script":"𒂵𒊏𒁺"},
+{ "recid":361, "concept":"null", "meaning":"move towards; (of women) be made love to (N)", "transliteration":"grh","script":"𒂵𒊏𒄷"},
+{ "recid":362, "concept":"null", "meaning":"follow course of a planet", "transliteration":"grm","script":"𒂵𒊏𒈬"},
+{ "recid":363, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1564", "meaning":"store; pile up; (D)", "transliteration":"grn","script":"𒂵𒊏𒉡"},
+{ "recid":364, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_156", "meaning":"writhe; grovel; (D) drip; become scared; wince", "transliteration":"grr","script":"𒂵𒊏𒊒"},
+{ "recid":365, "concept":"null", "meaning":"pinch off; break off; gnaw bone", "transliteration":"grs,","script":"𒂵𒊏𒍮"},
+{ "recid":366, "concept":"null", "meaning":"move towards; (N) (of women) be made love to", "transliteration":"grsz","script":"𒂵𒊏𒋗"},
+{ "recid":367, "concept":"null", "meaning":"run around in confusion", "transliteration":"grszʾ","script":"𒈾𒃻𒋳"},
+{ "recid":368, "concept":"https://www.wikidata.org/wiki/Q13228", "meaning":"become hostile; start a lawsuit", "transliteration":"grʾ","script":"𒂵𒊒"},
+{ "recid":369, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1100", "meaning":"grind; grate; gnash (teeth)", "transliteration":"gs,s,","script":"𒂵𒍝𒍮"},
+{ "recid":370, "concept":"null", "meaning":"become powerful; (Dt) strike with great force", "transliteration":"gszr","script":"𒂵𒊭𒊒"},
+{ "recid":371, "concept":"null", "meaning":"cut off", "transliteration":"gszsz","script":"𒂵𒊭𒋗"},
+{ "recid":372, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2918", "meaning":"belch; burp", "transliteration":"gszʾ","script":"𒂵𒋗"},
+{ "recid":373, "got":"a2b1c3d1", "charName":"GU", "MesZL":"891","aBZL":"458","LHA":"559","HethZL":"304","transliteration":"gu","script":"𒄖"},
+{ "recid":374, "got":"a3b2c2d2", "charName":"GÚ (TIK)", "MesZL":"176","aBZL":"89","LHA":"106","HethZL":"201","concept":"https://www.wikidata.org/wiki/Q131226", "meaning":"lentil?", "transliteration":"gu2","script":"𒄘"},
+{ "recid":375, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","transliteration":"gu3","script":"𒅗"},
+{ "recid":376, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"to gather", "transliteration":"gu3 kin5","script":"𒅗𒌺"},
+{ "recid":377, "got":"a1b2c1d1", "charName":"GU4", "MesZL":"472","aBZL":"118","LHA":"297","HethZL":"157","transliteration":"gu4","script":"𒄞"},
+{ "recid":378, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","transliteration":"gu5","script":"𒆪"},
+{ "recid":379, "got":"a6b2c5d2", "charName":"GU7 (KA×NÍG)", "MesZL":"65","aBZL":"329","LHA":"36","HethZL":"149","transliteration":"gu7","script":"𒅥"},
+{ "recid":380, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"gub","script":"𒁺"},
+{ "recid":381, "got":"a1b2c1d1", "charName":"GU4", "MesZL":"472","aBZL":"118","LHA":"297","HethZL":"157","concept":"https://www.wikidata.org/wiki/Q693690", "meaning":"4. lion", "transliteration":"gud","script":"𒄞"},
+{ "recid":382, "got":"a6b4c1d1", "charName":"SAG×UR", "MesZL":"196","aBZL":"","LHA":"121","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2028", "meaning":"5. hero; warrior", "transliteration":"gud2","script":"𒊥"},
+{ "recid":383, "concept":"https://www.wikidata.org/wiki/Q553", "meaning":"4. dogbite", "transliteration":"gug6","script":"𒅗𒆕"},
+{ "recid":384, "got":"a2b4c2", "charName":"GUL (SÚN)", "MesZL":"682","aBZL":"343","LHA":"429","HethZL":"271","transliteration":"gul","script":"𒄢"},
+{ "recid":385, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"gum","script":"𒄣"},
+{ "recid":386, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","concept":"null", "meaning":"mange; scab; leprosy", "transliteration":"gum2","script":"𒈝"},
+{ "recid":387, "got":"a2b6c1", "charName":"DAR (GÙN; ḪU-gunû, SI-gunû)", "MesZL":"183","aBZL":"37","LHA":"113","HethZL":"83","transliteration":"gun3","script":"𒁯"},
+{ "recid":388, "got":"a1b2c5d1", "charName":"UNUG (AB-gunû andor AB×EŠ)", "MesZL":"232","aBZL":"129","LHA":"195","HethZL":"111","transliteration":"gun4","script":"𒀕"},
+{ "recid":389, "got":"a2b2", "charName":"GUR", "MesZL":"180","aBZL":"92","LHA":"111","HethZL":"185","concept":"null", "meaning":"7. to alternate", "transliteration":"gur","script":"𒄥"},
+{ "recid":390, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_759", "meaning":"to reap", "transliteration":"gur10","script":"𒆥"},
+{ "recid":391, "got":"a5b6c1d1", "charName":"GA", "MesZL":"491","aBZL":"201","LHA":"319","HethZL":"159","concept":"null", "meaning":"to heap up", "transliteration":"gur11","script":"𒂵"},
+{ "recid":392, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","concept":"null", "meaning":"(to be) big; to feel big", "transliteration":"gur14","script":"𒄯"},
+{ "recid":393, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"gur4","script":"𒆸"},
+{ "recid":394, "got":"a5b4c3d1", "charName":"URU×GU (GUR5)", "MesZL":"84","aBZL":"185","LHA":"46","HethZL":"","transliteration":"gur5","script":"𒍀"},
+{ "recid":395, "got":"a2b4c2d2", "charName":"GUR8 (TE-gunû)", "MesZL":"88","aBZL":"283","LHA":"58","HethZL":"315","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1385", "meaning":"5. to watch over", "transliteration":"gur8","script":"𒋽"},
+{ "recid":396, "got":"b4c2", "charName":"NÍNDA", "MesZL":"316","aBZL":"135","LHA":"176","HethZL":"119","concept":"null", "meaning":"a measuring vessel", "transliteration":"gur9","script":"𒉒"},
+{ "recid":397, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","transliteration":"guz","script":"𒈝"},
+{ "recid":398, "concept":"null", "meaning":"be superior", "transliteration":"gwʾ","script":"𒂵𒉿"},
+{ "recid":399, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_967", "meaning":"steal; carry off; rob", "transliteration":"gzl","script":"𒂵𒍝𒇻"},
+{ "recid":400, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; circumcise", "transliteration":"gzr","script":"𒂵𒍝𒊒"},
+{ "recid":401, "concept":"null", "meaning":"shear (sheep and goats)", "transliteration":"gzz","script":"𒂵𒍝𒍪"},
+{ "recid":402, "concept":"null", "meaning":"take refuge", "transliteration":"gzʾ","script":"𒈝𒍪"},
+{ "recid":403, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_343", "meaning":"challenge; demand", "transliteration":"gʾr","script":"𒂵𒊒"},
+{ "recid":404, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_857", "meaning":"I assign; confer; II turn over", "transliteration":"gʾs","script":"𒄀𒂊𒋢"},
+{ "recid":405, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1538", "meaning":"turn over; gash; grub up", "transliteration":"gʾsz","script":"𒄀𒂊𒋗"},
+{ "recid":406, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_25", "meaning":"I be superior; II spit; spew", "transliteration":"gʾʾ","script":"𒂵𒌋"},
+{ "recid":407, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"h","script":"𒄷"},
+{ "recid":408, "got":"a4c2", "charName":"ḪA (KU6)", "MesZL":"856","aBZL":"475","LHA":"589","HethZL":"367","transliteration":"ha","script":"𒄩"},
+{ "recid":409, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","concept":"null", "meaning":"4.", "transliteration":"hab","script":"𒆸"},
+{ "recid":410, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"4.", "transliteration":"had2","script":"𒌓"},
+{ "recid":411, "got":"b1c1d1", "charName":"ḪAL", "MesZL":"3","aBZL":"7","LHA":"2","HethZL":"2","concept":"null", "meaning":"inheritance share", "transliteration":"hal","script":"𒄬"},
+{ "recid":412, "got":"b4c3d2", "charName":"NA", "MesZL":"110","aBZL":"24","LHA":"70","HethZL":"15","transliteration":"ham na","script":"𒈾"},
+{ "recid":413, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"hap","script":"𒆸"},
+{ "recid":414, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","transliteration":"har","script":"𒄯"},
+{ "recid":415, "got":"a1b2c1d1", "charName":"GU4", "MesZL":"472","aBZL":"118","LHA":"297","HethZL":"157","transliteration":"har2","script":"𒄞"},
+{ "recid":416, "got":"a6b2c3d1", "charName":"LÚ×LAGAB", "MesZL":"528","aBZL":"","LHA":"330_7b","HethZL":"","transliteration":"har3","script":"𒈊"},
+{ "recid":417, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"has","script":"𒋻"},
+{ "recid":418, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","concept":"null", "meaning":"(to be) detained", "transliteration":"hasz","script":"𒋻"},
+{ "recid":419, "got":"b4c4", "charName":"ZIGZIK (NÍNDA×EŠ)", "MesZL":"336","aBZL":"140","LHA":"190","HethZL":"","transliteration":"hasz2","script":"𒍨"},
+{ "recid":420, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","concept":"https://www.wikidata.org/wiki/Q9597", "meaning":"thigh", "transliteration":"hasz4","script":"𒍮"},
+{ "recid":421, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"hat","script":"𒉺"},
+{ "recid":422, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"hat,","script":"𒉺"},
+{ "recid":423, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"haş","script":"𒋻"},
+{ "recid":424, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"haţ","script":"𒉺"},
+{ "recid":425, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1252", "meaning":"buzz; murmur; twitter; (D) hiss at (of snake)", "transliteration":"hbb","script":"𒄩𒁀𒁍"},
+{ "recid":426, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"I oppress; wrong; ravage; II borrow; be in debt", "transliteration":"hbl","script":"𒄩𒁀𒇻"},
+{ "recid":427, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_595", "meaning":"be noisy; babble; blab; be busy", "transliteration":"hbr","script":"𒄩𒁀𒊒"},
+{ "recid":428, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_436", "meaning":"I be distended; (Š) make rejoice; II smite down; pulverize", "transliteration":"hbs,","script":"𒄩𒁀𒍮"},
+{ "recid":429, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1414", "meaning":"become hard; swollen", "transliteration":"hbsz","script":"𒄩𒁀𒋗"},
+{ "recid":430, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2954", "meaning":"I rob; maraud; take away (by force); II loan grain?; III wander", "transliteration":"hbt","script":"𒄩𒁀𒌅"},
+{ "recid":431, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_616", "meaning":"sew", "transliteration":"hbʾ","script":"𒄽𒁍"},
+{ "recid":432, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3895", "meaning":"I roar (of storm); II incise deeply", "transliteration":"hdd","script":"𒄩𒁕𒁺"},
+{ "recid":433, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3633", "meaning":"II retreat; go back", "transliteration":"hdl","script":"𒄩𒁕𒇻"},
+{ "recid":434, "concept":"null", "meaning":"press against another", "transliteration":"hdq","script":"𒄩𒁕𒄣"},
+{ "recid":435, "concept":"null", "meaning":"be dark; gloomy", "transliteration":"hdr","script":"𒄩𒁕𒊒"},
+{ "recid":436, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527", "meaning":"rejoice", "transliteration":"hdsz","script":"𒉺𒁺𒋗"},
+{ "recid":437, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527", "meaning":"rejoice; become glad", "transliteration":"hdʾ","script":"𒄩𒁺"},
+{ "recid":438, "got":"c2d2", "charName":"ḪI (DÙG)", "MesZL":"631","aBZL":"277","LHA":"396","HethZL":"335","transliteration":"he","script":"𒄭"},
+{ "recid":439, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_25", "meaning":"spew; spit out; vomit", "transliteration":"hhʾ","script":"𒄩𒄷"},
+{ "recid":440, "got":"c2d2", "charName":"ḪI (DÙG)", "MesZL":"631","aBZL":"277","LHA":"396","HethZL":"335","transliteration":"hi","script":"𒄭"},
+{ "recid":441, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","transliteration":"hil nu","script":"𒉡"},
+{ "recid":442, "got":"a12b16", "charName":"KEŠ´", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"hir","script":"𒆟"},
+{ "recid":443, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"his","script":"𒌓"},
+{ "recid":444, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"hisz","script":"𒌓"},
+{ "recid":445, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_260", "meaning":"understand; (D) inform", "transliteration":"hkm","script":"𒄩𒅗𒈬"},
+{ "recid":446, "concept":"null", "meaning":"comminute", "transliteration":"hkr","script":"𒄩𒅗𒊒"},
+{ "recid":447, "concept":"null", "meaning":"take thought", "transliteration":"hkʾ","script":"𒄩𒆪"},
+{ "recid":448, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2406", "meaning":"milk", "transliteration":"hlb","script":"𒄩𒆷𒁍"},
+{ "recid":449, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_791", "meaning":"murmur; wheeze; make sound (of birds; flute)", "transliteration":"hll","script":"𒄩𒆷𒇻"},
+{ "recid":450, "concept":"null", "meaning":"indict (Š)", "transliteration":"hlp","script":"𒅆𒌨𒇻𒁍"},
+{ "recid":451, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_783", "meaning":"vanish; become lost; escape; flee", "transliteration":"hlq","script":"𒄩𒆷𒄣"},
+{ "recid":452, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3928", "meaning":"comb out; filter; strain", "transliteration":"hls,","script":"𒄩𒆷𒍮"},
+{ "recid":453, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3901", "meaning":"slip; slide", "transliteration":"hls,ʾ","script":"𒈾𒄬𒍮"},
+{ "recid":454, "concept":"null", "meaning":"scrape of fungus", "transliteration":"hlsz","script":"𒄩𒆷𒋗"},
+{ "recid":455, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3795", "meaning":"swallow", "transliteration":"hlt","script":"𒄩𒆷𒌅"},
+{ "recid":456, "concept":"null", "meaning":"be bright", "transliteration":"hlʾ","script":"𒄭𒇻"},
+{ "recid":457, "concept":"null", "meaning":"hide away; (N) excuse of someone", "transliteration":"hmd","script":"𒄩𒈠𒁺"},
+{ "recid":458, "concept":"null", "meaning":"plan evil things", "transliteration":"hml","script":"𒄩𒈠𒇻"},
+{ "recid":459, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3451", "meaning":"gather (reeds); concentrate", "transliteration":"hmm","script":"𒄩𒈠𒈬"},
+{ "recid":460, "concept":"null", "meaning":"become dry", "transliteration":"hmr","script":"𒄩𒈠𒊒"},
+{ "recid":461, "concept":"null", "meaning":"tear off (clothing)", "transliteration":"hms,","script":"𒄩𒈠𒍮"},
+{ "recid":462, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_314", "meaning":"be fifth; do five times; (D) become one fifth", "transliteration":"hmsz","script":"𒄩𒈠𒋗"},
+{ "recid":463, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"hasten; be quick; (D) hasten troops up", "transliteration":"hmt,","script":"𒄩𒈠𒂅"},
+{ "recid":464, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_639", "meaning":"I trust; II howl (of ghost; storm; dog)", "transliteration":"hmʾ","script":"𒄩𒈬"},
+{ "recid":465, "concept":"null", "meaning":"flourish plants; (Š) make grow luxuriantly", "transliteration":"hnb","script":"𒄩𒈾𒁍"},
+{ "recid":466, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1659", "meaning":"be luxuriant; thrive", "transliteration":"hnm","script":"𒄩𒈾𒈬"},
+{ "recid":467, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_265", "meaning":"flow", "transliteration":"hnn","script":"𒄩𒈾𒉡"},
+{ "recid":468, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2509", "meaning":"flatter; fawn", "transliteration":"hnp","script":"𒄩𒈾𒁍"},
+{ "recid":469, "concept":"null", "meaning":"press throttle; (D) suffocate", "transliteration":"hnq","script":"𒄩𒈾𒄣"},
+{ "recid":470, "concept":"null", "meaning":"lift lips; show teeth", "transliteration":"hns,","script":"𒄩𒈾𒍮"},
+{ "recid":471, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1913", "meaning":"bow down; submit", "transliteration":"hnsz","script":"𒄩𒈾𒋗"},
+{ "recid":472, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_724", "meaning":"embalm; stuff", "transliteration":"hnt,","script":"𒄩𒈾𒂅"},
+{ "recid":473, "concept":"null", "meaning":"pressurize; browbeat", "transliteration":"hnʾ","script":"𒄩𒉡"},
+{ "recid":474, "concept":"null", "meaning":"destroy eyesight; make blind", "transliteration":"hpd","script":"𒄽𒁍𒁺"},
+{ "recid":475, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1045", "meaning":"break up; smash", "transliteration":"hpp","script":"𒄩𒉺𒁍"},
+{ "recid":476, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1735", "meaning":"dig (up)", "transliteration":"hpr","script":"𒄩𒉺𒊒"},
+{ "recid":477, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3509", "meaning":"triumph; prevail", "transliteration":"hpt","script":"𒄩𒉺𒌅"},
+{ "recid":478, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2655", "meaning":"break", "transliteration":"hpʾ","script":"𒄩𒁍"},
+{ "recid":479, "concept":"null", "meaning":"(meaning unknown); action applied to flour", "transliteration":"hqm","script":"𒄣𒈬"},
+{ "recid":480, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3736", "meaning":"investigate", "transliteration":"hqr","script":"𒄩𒋡𒊒"},
+{ "recid":481, "concept":"null", "meaning":"become deserted (of land; settlements); (Š) devastate; lay waste", "transliteration":"hrb","script":"𒄩𒊏𒁍"},
+{ "recid":482, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2182", "meaning":"freeze", "transliteration":"hrbsz","script":"𒈾𒄯𒁍𒋳"},
+{ "recid":483, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3904", "meaning":"be on guard; awake; (D) put on guard", "transliteration":"hrd","script":"𒄩𒊏𒁺"},
+{ "recid":484, "concept":"null", "meaning":"post (troops)", "transliteration":"hrk","script":"𒄩𒊏𒆪"},
+{ "recid":485, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1947", "meaning":"envelop; cover tablet; isolate; keep apart", "transliteration":"hrm","script":"𒄩𒊏𒈬"},
+{ "recid":486, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_248", "meaning":"break down; collapse", "transliteration":"hrmm","script":"𒈾𒄯𒈬𒌤"},
+{ "recid":487, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_508", "meaning":"dissolve; melt", "transliteration":"hrmt,","script":"𒈾𒄯𒈬𒌈"},
+{ "recid":488, "concept":"null", "meaning":"be early; be first; do", "transliteration":"hrp","script":"𒄩𒊏𒁍"},
+{ "recid":489, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3943", "meaning":"croak; gurgle; rumble", "transliteration":"hrr","script":"𒄩𒊏𒊒"},
+{ "recid":490, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1650", "meaning":"itch; scratch", "transliteration":"hrs","script":"𒄩𒊏𒋢"},
+{ "recid":491, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2282", "meaning":"pinch off; break off; gnaw bone", "transliteration":"hrs,","script":"𒄩𒊏𒍮"},
+{ "recid":492, "concept":"null", "meaning":"be in labour; bring to birth", "transliteration":"hrsz","script":"𒄩𒊏𒋗"},
+{ "recid":493, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3799", "meaning":"collapse", "transliteration":"hrszsz","script":"𒈾𒄯𒋗𒋳"},
+{ "recid":494, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2916", "meaning":"mince; strip off; pick", "transliteration":"hrt,","script":"𒄩𒊏𒂅"},
+{ "recid":495, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3943", "meaning":"dig; excavate", "transliteration":"hrʾ","script":"𒄩𒊒"},
+{ "recid":496, "concept":"null", "meaning":"break off reed; (N) broken off", "transliteration":"hs,b","script":"𒄩𒍝𒁍"},
+{ "recid":497, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1901", "meaning":"hug; take under protection; shelter", "transliteration":"hs,n","script":"𒄩𒍝𒉡"},
+{ "recid":498, "concept":"null", "meaning":"I snap off; II erect", "transliteration":"hs,s,","script":"𒄩𒍝𒍮"},
+{ "recid":499, "concept":"null", "meaning":"raise objection", "transliteration":"hs,ʾ","script":"𒄩𒍮"},
+{ "recid":500, "concept":"null", "meaning":"pluck out; tear away", "transliteration":"hsp","script":"𒄩𒊓𒁍"},
+{ "recid":501, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2298", "meaning":"blunt; chip off; trim", "transliteration":"hsr","script":"𒄩𒊓𒊒"},
+{ "recid":502, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3592", "meaning":"think of; be mindful of; heed; be conscious", "transliteration":"hss","script":"𒄩𒊓𒋢"},
+{ "recid":503, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2706", "meaning":"count; reckon", "transliteration":"hszb","script":"𒄩𒊭𒁍"},
+{ "recid":504, "concept":"null", "meaning":"propose to; propose marriage", "transliteration":"hszd","script":"𒄩𒊭𒁺"},
+{ "recid":505, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2532", "meaning":"need; require; desire; like", "transliteration":"hszh","script":"𒄩𒊭𒄷"},
+{ "recid":506, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2934", "meaning":"bruise; crush; shatter", "transliteration":"hszl","script":"𒄩𒊭𒇻"},
+{ "recid":507, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"hszr","script":"𒄩𒊭𒊒"},
+{ "recid":508, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"swell; rejoice", "transliteration":"hszsz","script":"𒄩𒊭𒋗"},
+{ "recid":509, "concept":"null", "meaning":"raise objection", "transliteration":"hszʾ","script":"𒄩𒋗"},
+{ "recid":510, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2844", "meaning":"cover up; hack; break a mountain by pickaxes; (D) conceal; keep secret", "transliteration":"hsʾ","script":"𒄩𒋢"},
+{ "recid":511, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1467", "meaning":"block; muzzle; stop up", "transliteration":"ht,m","script":"𒄩𒁕𒈬"},
+{ "recid":512, "concept":"null", "meaning":"(meaning unclear); (D) wipe away", "transliteration":"ht,p","script":"𒄩𒁕𒁍"},
+{ "recid":513, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2261", "meaning":"excavate (canal)", "transliteration":"ht,t,","script":"𒄩𒁕𒂅"},
+{ "recid":514, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1999", "meaning":"commit crime; do wrong; neglect; spoil", "transliteration":"ht,ʾ","script":"𒄩𒂅"},
+{ "recid":515, "concept":"null", "meaning":"decide", "transliteration":"htk","script":"𒄩𒋫𒆪"},
+{ "recid":516, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2682", "meaning":"protect; shelter", "transliteration":"htn","script":"𒄩𒋫𒉡"},
+{ "recid":517, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_629", "meaning":"slaughter", "transliteration":"htp","script":"𒄩𒋫𒁍"},
+{ "recid":518, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1074", "meaning":"flutter", "transliteration":"htr","script":"𒄩𒋫𒊒"},
+{ "recid":519, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"hu","script":"𒄷"},
+{ "recid":520, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","transliteration":"hu3","script":"𒌋"},
+{ "recid":521, "got":"a3b1c4d3", "charName":"ḪUB (ḪÚB×UD)", "MesZL":"150","aBZL":"446","LHA":"89","HethZL":"50","transliteration":"hub","script":"𒄽"},
+{ "recid":522, "got":"a3b1c2d1", "charName":"ḪÚB", "MesZL":"149","aBZL":"445","LHA":"88","HethZL":"49","transliteration":"hub2","script":"𒄸"},
+{ "recid":523, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"hud","script":"𒉺"},
+{ "recid":524, "got":"a2b5c1", "charName":"ḪÚL", "MesZL":"877","aBZL":"425","LHA":"550","HethZL":"254","transliteration":"hul2","script":"𒄾"},
+{ "recid":525, "got":"c3d3", "charName":"GIŠKREUZTGIŠ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819", "meaning":"10. blinker; winker; one with vision problems", "transliteration":"hul3","script":"𒄒"},
+{ "recid":526, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","transliteration":"hum","script":"𒈝"},
+{ "recid":527, "got":"a2b7", "charName":"ŠÈ (ÉŠ, GI7, ZÌ)", "MesZL":"810","aBZL":"420","LHA":"536","HethZL":"212","transliteration":"hun","script":"𒂠"},
+{ "recid":528, "got":"a3b1c4d3", "charName":"ḪUB (ḪÚB×UD)", "MesZL":"150","aBZL":"446","LHA":"89","HethZL":"50","transliteration":"hup","script":"𒄽"},
+{ "recid":529, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","transliteration":"hur","script":"𒄯"},
+{ "recid":530, "got":"a1b6c3d3", "charName":"GÌR", "MesZL":"701","aBZL":"291b","LHA":"444","HethZL":"301","concept":"null", "meaning":"(to be) reddish; ruddy", "transliteration":"husz2","script":"𒄊"},
+{ "recid":531, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","transliteration":"huz","script":"𒈝"},
+{ "recid":532, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1566", "meaning":"howl (of ghost; storm; dog)", "transliteration":"hwʾ","script":"𒄩𒉿"},
+{ "recid":533, "concept":"null", "meaning":"mutilate (ear)", "transliteration":"hzm","script":"𒄩𒍝𒈬"},
+{ "recid":534, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"hzq","script":"𒄩𒍝𒄣"},
+{ "recid":535, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_451", "meaning":"limp; hobble", "transliteration":"hzʾ","script":"𒈝𒍪"},
+{ "recid":536, "concept":"null", "meaning":"I love; II cleanse; purify (cultically)", "transliteration":"hʾb","script":"𒄩𒁍"},
+{ "recid":537, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527", "meaning":"be joyful; rejoice", "transliteration":"hʾd","script":"𒄩𒁺"},
+{ "recid":538, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2000", "meaning":"be in labor; pain; II be(come) ill; III exude", "transliteration":"hʾl","script":"𒄩𒇻"},
+{ "recid":539, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_910", "meaning":"cleanse; purify", "transliteration":"hʾp","script":"𒄩𒁍"},
+{ "recid":540, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3906", "meaning":"mix; blend; mingle", "transliteration":"hʾq","script":"𒄭𒀀𒄣"},
+{ "recid":541, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_937", "meaning":"choose; select; seek out", "transliteration":"hʾr","script":"𒄭𒀀𒊒"},
+{ "recid":542, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1509", "meaning":"hurry; hasten; rush", "transliteration":"hʾsz","script":"𒄭𒀀𒋗"},
+{ "recid":543, "concept":"null", "meaning":"seize prey", "transliteration":"hʾt","script":"𒄩𒌅"},
+{ "recid":544, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3805", "meaning":"weigh", "transliteration":"hʾt,","script":"𒄭𒀀𒂅"},
+{ "recid":545, "got":"b5", "charName":"I", "MesZL":"252","aBZL":"192","LHA":"142","HethZL":"217","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3535", "meaning":"1 to rent", "transliteration":"i","script":"𒄿"},
+{ "recid":546, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"i3","script":"𒉌"},
+{ "recid":547, "got":"a6b2", "charName":"IB", "MesZL":"807","aBZL":"394","LHA":"535","HethZL":"44","concept":"null", "meaning":"corner; recess", "transliteration":"ib","script":"𒅁"},
+{ "recid":548, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"ib2","script":"𒌈"},
+{ "recid":549, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"id","script":"𒀉"},
+{ "recid":550, "got":"a2b3c1d1", "charName":"ENGUR (LAGAB×ḪAL)", "MesZL":"756","aBZL":"404","LHA":"484","HethZL":"216","concept":"https://www.wikidata.org/wiki/Q4022", "meaning":"river; watercourse; canal", "transliteration":"id3","script":"𒇉"},
+{ "recid":551, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","concept":"https://www.wikidata.org/wiki/Q36794", "meaning":"door", "transliteration":"ig","script":"𒅅"},
+{ "recid":552, "got":"a5b1c2d2", "charName":"AḪ (ḪI×NUN)", "MesZL":"636","aBZL":"280","LHA":"398","HethZL":"332","transliteration":"ih","script":"𒄴"},
+{ "recid":553, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","transliteration":"ik","script":"𒅅"},
+{ "recid":554, "got":"a5b2c8d1", "charName":"IL (AL×ŠE)", "MesZL":"348","aBZL":"78","LHA":"205","HethZL":"117","transliteration":"il","script":"𒅋"},
+{ "recid":555, "got":"a9b7c1d1", "charName":"ÍL (GA.GÍN)", "MesZL":"493","aBZL":"204","LHA":"320","HethZL":"161","transliteration":"il2","script":"𒅍"},
+{ "recid":556, "got":"a3b3c1d1", "charName":"EL", "MesZL":"899","aBZL":"455","LHA":"564","HethZL":"307","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1595", "meaning":"to raise; carry", "transliteration":"il5","script":"𒂖"},
+{ "recid":557, "got":"a8b2c3d2", "charName":"IM", "MesZL":"641","aBZL":"297","LHA":"399","HethZL":"337","transliteration":"im","script":"𒅎"},
+{ "recid":558, "got":"a2c10d1", "charName":"IN", "MesZL":"261","aBZL":"386","LHA":"148","HethZL":"354","transliteration":"in","script":"𒅔"},
+{ "recid":559, "got":"a6b2", "charName":"IB", "MesZL":"807","aBZL":"394","LHA":"535","HethZL":"44","transliteration":"ip","script":"𒅁"},
+{ "recid":560, "got":"a3c1d1", "charName":"IR (GAG-gunû)", "MesZL":"437","aBZL":"263","LHA":"232","HethZL":"77","transliteration":"ir","script":"𒅕"},
+{ "recid":561, "got":"a3b1c2d1", "charName":"ARAD", "MesZL":"18","aBZL":"16","LHA":"50","HethZL":"16","concept":"null", "meaning":"mighty", "transliteration":"ir3","script":"𒀴"},
+{ "recid":562, "got":"c2d2", "charName":"KASKAL", "MesZL":"302","aBZL":"271","LHA":"166","HethZL":"259","concept":"https://www.wikidata.org/wiki/Q1541064", "meaning":"sweat; exudation", "transliteration":"ir7","script":"𒆜"},
+{ "recid":563, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"is","script":"𒄑"},
+{ "recid":564, "got":"a1b2c1d1", "charName":"AB", "MesZL":"223","aBZL":"125","LHA":"128","HethZL":"97","transliteration":"is3","script":"𒀊"},
+{ "recid":565, "got":"a2b4c1", "charName":"IŠ", "MesZL":"357","aBZL":"162","LHA":"212","HethZL":"151","transliteration":"isz","script":"𒅖"},
+{ "recid":566, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"it","script":"𒀉"},
+{ "recid":567, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"it,","script":"𒀉"},
+{ "recid":568, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"iz","script":"𒄑"},
+{ "recid":569, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"iş","script":"𒄑"},
+{ "recid":570, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_719", "meaning":"suck; (D) soak; (Š) suckle", "transliteration":"jnq","script":"ŋ𒉈𒄣"},
+{ "recid":571, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_408", "meaning":"draw; make a design", "transliteration":"js,r","script":"ŋ𒍢𒊒"},
+{ "recid":572, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"k","script":"𒄣"},
+{ "recid":573, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","concept":"https://www.wikidata.org/wiki/Q53060", "meaning":"gate; door", "transliteration":"ka","script":"𒅗"},
+{ "recid":574, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3159", "meaning":"to talk", "transliteration":"ka ba","script":"𒅗𒁀"},
+{ "recid":575, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"ka5","script":"𒈜"},
+{ "recid":576, "got":"a2b8c1", "charName":"KAB", "MesZL":"148","aBZL":"226","LHA":"88","HethZL":"49","transliteration":"kab","script":"𒆏"},
+{ "recid":577, "got":"a6b2c5d1", "charName":"NAG (KA×A)", "MesZL":"64","aBZL":"328","LHA":"35","HethZL":"148","transliteration":"kab2","script":"𒅘"},
+{ "recid":578, "got":"a1c1d1", "charName":"GAD", "MesZL":"157","aBZL":"299","LHA":"90","HethZL":"173","transliteration":"kad","script":"𒃰"},
+{ "recid":579, "got":"a2b6c1d1", "charName":"KAD4", "MesZL":"568","aBZL":"227a","LHA":"354b","HethZL":"68","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3844", "meaning":"to weave a mat?", "transliteration":"kad4","script":"𒆒"},
+{ "recid":580, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","transliteration":"kak","script":"𒅗"},
+{ "recid":581, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"kal","script":"𒆗"},
+{ "recid":582, "got":"b1c3d2", "charName":"ḪI×BAD", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"kam","script":"𒄰"},
+{ "recid":583, "got":"a8b2c2d2", "charName":"GAN", "MesZL":"253","aBZL":"120","LHA":"143","HethZL":"113","transliteration":"kan","script":"𒃶"},
+{ "recid":584, "got":"a2b8c1", "charName":"KAB", "MesZL":"148","aBZL":"226","LHA":"88","HethZL":"49","transliteration":"kap","script":"𒆏"},
+{ "recid":585, "got":"a5c2", "charName":"KÁR (GÁN-tenû and ŠÈ-tenû)", "MesZL":"175","aBZL":"246","LHA":"105","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2508", "meaning":"to rise", "transliteration":"kar2","script":"𒃸"},
+{ "recid":586, "got":"c2d2", "charName":"KASKAL", "MesZL":"302","aBZL":"271","LHA":"166","HethZL":"259","transliteration":"kas","script":"𒆜"},
+{ "recid":587, "got":"a4b2c1d1", "charName":"BI", "MesZL":"358","aBZL":"79","LHA":"214","HethZL":"153","transliteration":"kasz","script":"𒁉"},
+{ "recid":588, "got":"a1b2c6", "charName":"KAŠ4 (DU-šeššig)", "MesZL":"352","aBZL":"66","LHA":"202","HethZL":"129","transliteration":"kasz4","script":"𒁽"},
+{ "recid":589, "got":"a1c1d1", "charName":"GAD", "MesZL":"157","aBZL":"299","LHA":"90","HethZL":"173","transliteration":"kat","script":"𒃰"},
+{ "recid":590, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"I burn; II curve; twist", "transliteration":"kbb","script":"𒅗𒁀𒁍"},
+{ "recid":591, "concept":"null", "meaning":"be(come) heavy; burdensome", "transliteration":"kbd","script":"𒅗𒁀𒁺"},
+{ "recid":592, "concept":"null", "meaning":"be(come) paralysed; crippled", "transliteration":"kbl","script":"𒅗𒁀𒇻"},
+{ "recid":593, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1289", "meaning":"fatten; become thick", "transliteration":"kbr","script":"𒅗𒁀𒊒"},
+{ "recid":594, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1302", "meaning":"step; tread (on)", "transliteration":"kbs","script":"𒅗𒁀𒋢"},
+{ "recid":595, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_914", "meaning":"bend back; distort", "transliteration":"kbs,","script":"𒅗𒁀𒍮"},
+{ "recid":596, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1302", "meaning":"step; tread (on)", "transliteration":"kbsz","script":"𒅗𒁀𒋗"},
+{ "recid":597, "concept":"null", "meaning":"be(come) heavy; burdensome", "transliteration":"kbt","script":"𒅗𒁀𒌅"},
+{ "recid":598, "concept":"null", "meaning":"I sew; II (meaning unknown)", "transliteration":"kbʾ","script":"𒁺𒁍"},
+{ "recid":599, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_358", "meaning":"rub", "transliteration":"kdd","script":"𒅗𒁕𒁺"},
+{ "recid":600, "concept":"null", "meaning":"seek sanctuary", "transliteration":"kdn","script":"𒋻𒁺𒉡"},
+{ "recid":601, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"kdp","script":"𒅗𒁕𒁍"},
+{ "recid":602, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2515", "meaning":"I rear up; (Š) stir up; incite; be arrogant; wild; II delimit; III toil", "transliteration":"kdr","script":"𒅗𒁕𒊒"},
+{ "recid":603, "got":"b4c2d2", "charName":"KI", "MesZL":"737","aBZL":"432","LHA":"461","HethZL":"313","transliteration":"ke","script":"𒆠"},
+{ "recid":604, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"kel","script":"𒆸"},
+{ "recid":605, "got":"a12b16", "charName":"KEŠ´", "MesZL":"","aBZL":"","LHA":"","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"to bind", "transliteration":"kesz2","script":"𒆟"},
+{ "recid":606, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"ket","script":"𒆤"},
+{ "recid":607, "got":"b4c2d2", "charName":"KI", "MesZL":"737","aBZL":"432","LHA":"461","HethZL":"313","concept":"null", "meaning":"thus", "transliteration":"ki","script":"𒆠"},
+{ "recid":608, "got":"c3d3", "charName":"GIŠKREUZTGIŠ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"kib","script":"𒄒"},
+{ "recid":609, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","concept":"null", "meaning":"a reed mat", "transliteration":"kid","script":"𒆤"},
+{ "recid":610, "got":"a6b1c1", "charName":"KÍD (TAG4)", "MesZL":"106","aBZL":"58","LHA":"63d","HethZL":"227","concept":"null", "meaning":"to break off; pinch off", "transliteration":"kid2","script":"𒋺"},
+{ "recid":611, "got":"a1b10", "charName":"AG", "MesZL":"127","aBZL":"52","LHA":"97","HethZL":"81","transliteration":"kid3","script":"𒀝"},
+{ "recid":612, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"kil","script":"𒆸"},
+{ "recid":613, "got":"c9d9", "charName":"GIL (GIoverGI parall. or crossing)", "MesZL":"105","aBZL":"250","LHA":"67","HethZL":"258","transliteration":"kil2","script":"𒄃"},
+{ "recid":614, "got":"a2b2c1d2", "charName":"GIM (DÍM)", "MesZL":"686","aBZL":"67","LHA":"440","HethZL":"165","transliteration":"kim","script":"𒁶"},
+{ "recid":615, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","transliteration":"kin","script":"𒆥"},
+{ "recid":616, "got":"c3d3", "charName":"GIŠKREUZTGIŠ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"kip","script":"𒄒"},
+{ "recid":617, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"kir","script":"𒄫"},
+{ "recid":618, "got":"b2", "charName":"IDIM", "MesZL":"","aBZL":"","LHA":"","HethZL":"","concept":"https://www.wikidata.org/wiki/Q154365", "meaning":"6. east wind", "transliteration":"kir5","script":"𒅂"},
+{ "recid":619, "got":"a2b7c5d3", "charName":"KIŠ", "MesZL":"678","aBZL":"291a","LHA":"425","HethZL":"273","transliteration":"kis","script":"𒆧"},
+{ "recid":620, "got":"a2b7c5d3", "charName":"KIŠ", "MesZL":"678","aBZL":"291a","LHA":"425","HethZL":"273","transliteration":"kisz","script":"𒆧"},
+{ "recid":621, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"kit","script":"𒆤"},
+{ "recid":622, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1765", "meaning":"to love", "transliteration":"kiĝ2","script":"𒆥"},
+{ "recid":623, "got":"a2b7c5d3", "charName":"KIŠ", "MesZL":"678","aBZL":"291a","LHA":"425","HethZL":"273","transliteration":"kiş","script":"𒆧"},
+{ "recid":624, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2495", "meaning":"veil; crown", "transliteration":"kll","script":"𒆰𒇻𒇻"},
+{ "recid":625, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2035", "meaning":"show; display; (DR) reveal", "transliteration":"klm","script":"𒆰𒇻𒈬"},
+{ "recid":626, "concept":"null", "meaning":"regard malevolently", "transliteration":"klmʾ","script":"𒈾𒆗𒌤"},
+{ "recid":627, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_214", "meaning":"contract; roll up", "transliteration":"kls,","script":"𒅗𒆷𒍮"},
+{ "recid":628, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3189", "meaning":"hold; take for; keep", "transliteration":"klʾ","script":"𒆰𒇻"},
+{ "recid":629, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1910", "meaning":"knit", "transliteration":"kmd","script":"𒅗𒈠𒁺"},
+{ "recid":630, "concept":"null", "meaning":"be(come) angry", "transliteration":"kml","script":"𒅗𒈠𒇻"},
+{ "recid":631, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3555", "meaning":"nod the head", "transliteration":"kmm","script":"𒅗𒈠𒈬"},
+{ "recid":632, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_486", "meaning":"heap; pile up; accumulate", "transliteration":"kmr","script":"𒅗𒈠𒊒"},
+{ "recid":633, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1564", "meaning":"I gather together; store; II bow", "transliteration":"kms","script":"𒅗𒈠𒋢"},
+{ "recid":634, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_950", "meaning":"I gather together; store; II bow", "transliteration":"kms,","script":"𒅗𒈠𒍮"},
+{ "recid":635, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1167", "meaning":"bow", "transliteration":"kmsz","script":"𒅗𒈠𒋗"},
+{ "recid":636, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"bind (enemy land)", "transliteration":"kmʾ","script":"𒅗𒈬"},
+{ "recid":637, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"knb","script":"𒆲𒉡𒁍"},
+{ "recid":638, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3270", "meaning":"seal", "transliteration":"knk","script":"𒅗𒈾𒆪"},
+{ "recid":639, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3500", "meaning":"roll up; coil", "transliteration":"knn","script":"𒅗𒈾𒉡"},
+{ "recid":640, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"knp","script":"𒆲𒉡𒁍"},
+{ "recid":641, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"gather; collect", "transliteration":"knsz","script":"𒆲𒉡𒋗"},
+{ "recid":642, "concept":"null", "meaning":"store away", "transliteration":"knz","script":"𒅗𒈾𒍪"},
+{ "recid":643, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3929", "meaning":"treat kindly; treat", "transliteration":"knʾ","script":"𒆲𒉡"},
+{ "recid":644, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1295", "meaning":"plan; project; scheme", "transliteration":"kpd","script":"𒅗𒉺𒁺"},
+{ "recid":645, "concept":"null", "meaning":"wind up; roll up (reed mat)", "transliteration":"kpl","script":"𒅗𒉺𒇻"},
+{ "recid":646, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1385", "meaning":"curve; twist", "transliteration":"kpp","script":"𒅗𒉺𒁍"},
+{ "recid":647, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"I strip; II wipe off; III smear", "transliteration":"kpr","script":"𒅗𒉺𒊒"},
+{ "recid":648, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_914", "meaning":"bend back; distort", "transliteration":"kps","script":"𒅗𒉺𒋢"},
+{ "recid":649, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_914", "meaning":"bend back; distort; be curled", "transliteration":"kps,","script":"𒅗𒉺𒍮"},
+{ "recid":650, "concept":"null", "meaning":"be abundant", "transliteration":"kpsz","script":"𒅗𒉺𒋗"},
+{ "recid":651, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_247", "meaning":"plan; scheme; arrange", "transliteration":"kpt","script":"𒅗𒉺𒌅"},
+{ "recid":652, "concept":"null", "meaning":"bend back; be curved", "transliteration":"kpʾ","script":"𒅗𒁍"},
+{ "recid":653, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1270", "meaning":"bless; pray; dedicate; greet", "transliteration":"krb","script":"𒅗𒊏𒁍"},
+{ "recid":654, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1664", "meaning":"collect; (N) wound up of intestines", "transliteration":"krk","script":"𒅗𒊏𒆪"},
+{ "recid":655, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2322", "meaning":"I hinder; restrain; delay; II grasp; stock up; store", "transliteration":"krm","script":"𒅗𒊏𒈬"},
+{ "recid":656, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_64", "meaning":"put down; drop; discard", "transliteration":"krr","script":"𒅗𒊏𒊒"},
+{ "recid":657, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3300", "meaning":"tie up", "transliteration":"krs","script":"𒅗𒊏𒋢"},
+{ "recid":658, "concept":"null", "meaning":"pinch off; break off; gnaw bone", "transliteration":"krs,","script":"𒅗𒊏𒍮"},
+{ "recid":659, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1893", "meaning":"slice; break off; cut off", "transliteration":"krt","script":"𒅗𒊏𒌅"},
+{ "recid":660, "concept":"null", "meaning":"(~medical condition); (N) be merciful", "transliteration":"krt,","script":"𒅗𒊏𒂅"},
+{ "recid":661, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_342", "meaning":"deplore", "transliteration":"krʾ","script":"𒆳𒊒"},
+{ "recid":662, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1919", "meaning":"reduce", "transliteration":"ks,b","script":"𒅗𒍝𒁍"},
+{ "recid":663, "concept":"null", "meaning":"seize hold", "transliteration":"ks,d","script":"𒅗𒍝𒁺"},
+{ "recid":664, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1691", "meaning":"reckon; think; calculate; estimate", "transliteration":"ks,p","script":"𒅗𒍝𒁍"},
+{ "recid":665, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1804", "meaning":"knot; fasten; join (together)", "transliteration":"ks,r","script":"𒅗𒍝𒊒"},
+{ "recid":666, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3598", "meaning":"I shear (sheep and goats); II chew; gnaw (of fire; pain)", "transliteration":"ks,s,","script":"𒅗𒍝𒍮"},
+{ "recid":667, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_506", "meaning":"cut down; cut off; chop", "transliteration":"ks,t,","script":"𒅗𒍝𒂅"},
+{ "recid":668, "concept":"http://wordnet-rdf.princeton.edu/wn31/cold-s", "meaning":"be(come) cold; (Gtn) have continually low temperature", "transliteration":"ks,ʾ","script":"𒅗𒍮"},
+{ "recid":669, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_383", "meaning":"chop", "transliteration":"ksm","script":"𒅗𒊓𒈬"},
+{ "recid":670, "concept":"null", "meaning":"make funerary offering", "transliteration":"ksp","script":"𒅗𒊓𒁍"},
+{ "recid":671, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1467", "meaning":"block; pave with bitumen or stone", "transliteration":"ksr","script":"𒅗𒊓𒊒"},
+{ "recid":672, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_654", "meaning":"chew; gnaw; (D) cause pain", "transliteration":"kss","script":"𒅗𒊓𒋢"},
+{ "recid":673, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1936", "meaning":"reach; arrive; conquer", "transliteration":"kszd","script":"𒅗𒊭𒁺"},
+{ "recid":674, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2532", "meaning":"need; require; desire; like", "transliteration":"kszh","script":"𒅗𒊭𒄷"},
+{ "recid":675, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_196", "meaning":"cast spell; bewitch; enchant", "transliteration":"kszp","script":"𒅗𒊭𒁍"},
+{ "recid":676, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2258", "meaning":"restore; have success", "transliteration":"kszr","script":"𒅗𒊭𒊒"},
+{ "recid":677, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2014", "meaning":"gain control; (D) make acquisition", "transliteration":"kszsz","script":"𒅗𒊭𒋗"},
+{ "recid":678, "concept":"null", "meaning":"chop down", "transliteration":"kszt,","script":"𒅗𒊭𒂅"},
+{ "recid":679, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3794", "meaning":"expand", "transliteration":"kszʾ","script":"𒋢𒋗"},
+{ "recid":680, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"bind", "transliteration":"ksʾ","script":"𒅗𒋢"},
+{ "recid":681, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"pluck; pick off (fruit); enjoy sexual charms", "transliteration":"kt,p","script":"𒅗𒁕𒁍"},
+{ "recid":682, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2285", "meaning":"clothe; cover", "transliteration":"ktm","script":"𒅗𒋫𒈬"},
+{ "recid":683, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_546", "meaning":"help; aid; assist; get as", "transliteration":"ktr","script":"𒅗𒋫𒊒"},
+{ "recid":684, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1635", "meaning":"quiver; ripple; vibrate", "transliteration":"ktt","script":"𒅗𒋫𒌅"},
+{ "recid":685, "concept":"null", "meaning":"distrain", "transliteration":"ktʾ","script":"𒅗𒌅"},
+{ "recid":686, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","transliteration":"ku","script":"𒆪"},
+{ "recid":687, "got":"a6b2c5d2", "charName":"GU7 (KA×NÍG)", "MesZL":"65","aBZL":"329","LHA":"36","HethZL":"149","transliteration":"ku2","script":"𒅥"},
+{ "recid":688, "got":"c7d7", "charName":"KUG (KÙ)", "MesZL":"745","aBZL":"428","LHA":"468","HethZL":"69","transliteration":"ku3","script":"𒆬"},
+{ "recid":689, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"ku5","script":"𒋻"},
+{ "recid":690, "got":"a4c2", "charName":"ḪA (KU6)", "MesZL":"856","aBZL":"475","LHA":"589","HethZL":"367","transliteration":"ku6","script":"𒄩"},
+{ "recid":691, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"kub","script":"𒁺"},
+{ "recid":692, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_103", "meaning":"6. to make clear", "transliteration":"kud","script":"𒋻"},
+{ "recid":693, "got":"c7d7", "charName":"KUG (KÙ)", "MesZL":"745","aBZL":"428","LHA":"468","HethZL":"69","transliteration":"kug","script":"𒆬"},
+{ "recid":694, "got":"c7d7", "charName":"KUG (KÙ)", "MesZL":"745","aBZL":"428","LHA":"468","HethZL":"69","transliteration":"kuk","script":"𒆬"},
+{ "recid":695, "got":"b2c3", "charName":"NUMUN", "MesZL":"117","aBZL":"26","LHA":"72","HethZL":"12","transliteration":"kul","script":"𒆰"},
+{ "recid":696, "got":"a2b4c2", "charName":"GUL (SÚN)", "MesZL":"682","aBZL":"343","LHA":"429","HethZL":"271","transliteration":"kul2","script":"𒄢"},
+{ "recid":697, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"kum","script":"𒄣"},
+{ "recid":698, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"null", "meaning":"(to be) hot", "transliteration":"kum4","script":"𒌓"},
+{ "recid":699, "got":"a5b2c2d2", "charName":"KUN", "MesZL":"131","aBZL":"32","LHA":"77","HethZL":"35","transliteration":"kun","script":"𒆲"},
+{ "recid":700, "concept":"https://www.wikidata.org/wiki/Q168639", "meaning":"threshold", "transliteration":"kun4","script":"𒄿𒇻"},
+{ "recid":701, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"kup","script":"𒁺"},
+{ "recid":702, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"kur","script":"𒆳"},
+{ "recid":703, "got":"c1d1", "charName":"PAB or PAP", "MesZL":"92","aBZL":"249","LHA":"60","HethZL":"256(1)","transliteration":"kur2","script":"𒉽"},
+{ "recid":704, "got":"a2b2", "charName":"GUR", "MesZL":"180","aBZL":"92","LHA":"111","HethZL":"185","transliteration":"kur3","script":"𒄥"},
+{ "recid":705, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"kur4","script":"𒆸"},
+{ "recid":706, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","transliteration":"kus","script":"𒋢"},
+{ "recid":707, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","transliteration":"kusz","script":"𒋢"},
+{ "recid":708, "got":"a6b2c1d1", "charName":"DÙL (SAG-gunû)", "MesZL":"512","aBZL":"331","LHA":"329","HethZL":"","transliteration":"kusz2","script":"𒊨"},
+{ "recid":709, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"kut","script":"𒋻"},
+{ "recid":710, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","transliteration":"kuz","script":"𒋢"},
+{ "recid":711, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"burn; roast; bake", "transliteration":"kwʾ","script":"𒅗𒉿"},
+{ "recid":712, "concept":"null", "meaning":"be charming; be attractive", "transliteration":"kzb","script":"𒅗𒍝𒁍"},
+{ "recid":713, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2649", "meaning":"give a treatment on hair; curl; coiffure; dress", "transliteration":"kzr","script":"𒅗𒍝𒊒"},
+{ "recid":714, "concept":"null", "meaning":"shear (sheep and goats)", "transliteration":"kzz","script":"𒅗𒍝𒍪"},
+{ "recid":715, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"kʾd","script":"𒆠𒀀𒁺"},
+{ "recid":716, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3189", "meaning":"hold; retain", "transliteration":"kʾl","script":"𒆪𒌋𒇻"},
+{ "recid":717, "concept":"null", "meaning":"be firm; be solid; be", "transliteration":"kʾn","script":"𒆪𒀀𒉡"},
+{ "recid":718, "concept":"null", "meaning":"oppress", "transliteration":"kʾp","script":"𒅗𒁍"},
+{ "recid":719, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2954", "meaning":"I be dazed; II rub on (medicine)", "transliteration":"kʾr","script":"𒅗𒊒"},
+{ "recid":720, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"kʾs","script":"𒆠𒂊𒋢"},
+{ "recid":721, "concept":"null", "meaning":"flay; skin (D ~ G)", "transliteration":"kʾs,","script":"𒆪𒀀𒍮"},
+{ "recid":722, "concept":"null", "meaning":"be late; be delayed", "transliteration":"kʾsz","script":"𒆪𒀀𒋗"},
+{ "recid":723, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2004", "meaning":"spit; spew", "transliteration":"kʾʾ","script":"𒅗𒌋"},
+{ "recid":724, "got":"a3b3", "charName":"LU (UDU)", "MesZL":"812","aBZL":"416","LHA":"537","HethZL":"210","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1229", "meaning":"(to be) crushed", "transliteration":"l","script":"𒇻"},
+{ "recid":725, "got":"a5b7", "charName":"LA", "MesZL":"89","aBZL":"177","LHA":"55","HethZL":"95","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_525", "meaning":"to carry", "transliteration":"la","script":"𒆷"},
+{ "recid":726, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"la10","script":"𒋃"},
+{ "recid":727, "got":"a1b1", "charName":"LAL (LÁ)", "MesZL":"750","aBZL":"391","LHA":"481","HethZL":"358","transliteration":"la2","script":"𒇲"},
+{ "recid":728, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","transliteration":"la3","script":"𒉡"},
+{ "recid":729, "got":"a2b4c4", "charName":"DU/DU", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"la4","script":"𒁻"},
+{ "recid":730, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"lab","script":"𒆗"},
+{ "recid":731, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","concept":"null", "meaning":"clod of earth); lump", "transliteration":"lag","script":"𒋃"},
+{ "recid":732, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"lah","script":"𒌓"},
+{ "recid":733, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"lah2","script":"𒂟"},
+{ "recid":734, "got":"a2b4c4", "charName":"DU/DU", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"lah4","script":"𒁻"},
+{ "recid":735, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"lak","script":"𒋃"},
+{ "recid":736, "got":"a1b1", "charName":"LAL (LÁ)", "MesZL":"750","aBZL":"391","LHA":"481","HethZL":"358","transliteration":"lal","script":"𒇲"},
+{ "recid":737, "got":"a2b2", "charName":"LÁL (LAL×LAL)", "MesZL":"751","aBZL":"","LHA":"482","HethZL":"362","concept":"null", "meaning":"4. dimunition", "transliteration":"lal2","script":"𒇳"},
+{ "recid":738, "got":"a2b2c3d3", "charName":"LÀL (TA×ḪI)", "MesZL":"170","aBZL":"124","LHA":"109","HethZL":"170","transliteration":"lal3","script":"𒋭"},
+{ "recid":739, "got":"a5c2d2", "charName":"LAM", "MesZL":"693","aBZL":"244","LHA":"435","HethZL":"306","transliteration":"lam","script":"𒇴"},
+{ "recid":740, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"lam2","script":"𒉈"},
+{ "recid":741, "got":"a5c5d2", "charName":"LAM×KUR", "MesZL":"694","aBZL":"","LHA":"436","HethZL":"","transliteration":"lam7","script":"𒇵"},
+{ "recid":742, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"lap","script":"𒆗"},
+{ "recid":743, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"laq","script":"𒋃"},
+{ "recid":744, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"lar","script":"𒉺"},
+{ "recid":745, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2779", "meaning":"rage; be(come) furious; (Š) cause fever", "transliteration":"lbb","script":"𒆷𒁀𒁍"},
+{ "recid":746, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_503", "meaning":"be(come) soft", "transliteration":"lbk","script":"𒆷𒁀𒆪"},
+{ "recid":747, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2287", "meaning":"I throw down; II make bricks", "transliteration":"lbn","script":"𒆷𒁀𒉡"},
+{ "recid":748, "concept":"null", "meaning":"become old; long lasting", "transliteration":"lbr","script":"𒆷𒁀𒊒"},
+{ "recid":749, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1437", "meaning":"clothe (oneself); wear", "transliteration":"lbsz","script":"𒆷𒁀𒋗"},
+{ "recid":750, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2098", "meaning":"touch; grasp; afflict; write down; smear", "transliteration":"lbt","script":"𒆷𒁀𒌅"},
+{ "recid":751, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3468", "meaning":"howl; cry; squeal", "transliteration":"lbʾ","script":"𒇷𒁍"},
+{ "recid":752, "got":"a2b4c11d1", "charName":"LI", "MesZL":"85","aBZL":"381","LHA":"59","HethZL":"343","transliteration":"le","script":"𒇷"},
+{ "recid":753, "got":"a1b1c1", "charName":"IGI (ŠI, LIM)", "MesZL":"724","aBZL":"233","LHA":"449","HethZL":"288","transliteration":"lem","script":"𒅆"},
+{ "recid":754, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lep","script":"𒈜"},
+{ "recid":755, "concept":"null", "meaning":"cry out", "transliteration":"lgg","script":"𒆷𒂵𒄖"},
+{ "recid":756, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1504", "meaning":"rumble; growl (of stomach)", "transliteration":"lhb","script":"𒆷𒄩𒁍"},
+{ "recid":757, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lhd","script":"𒆷𒄩𒁺"},
+{ "recid":758, "concept":"null", "meaning":"consume food or drink", "transliteration":"lhm","script":"𒇷𒄭𒈬"},
+{ "recid":759, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_934", "meaning":"whisper; murmur; intimate", "transliteration":"lhsz","script":"𒆷𒄩𒋗"},
+{ "recid":760, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lht","script":"𒆷𒄩𒌅"},
+{ "recid":761, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lht,","script":"𒆷𒄩𒂅"},
+{ "recid":762, "got":"a2b4c11d1", "charName":"LI", "MesZL":"85","aBZL":"381","LHA":"59","HethZL":"343","transliteration":"li","script":"𒇷"},
+{ "recid":763, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"li2","script":"𒉌"},
+{ "recid":764, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","concept":"null", "meaning":"to press oil", "transliteration":"li9","script":"𒉈"},
+{ "recid":765, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lib","script":"𒈜"},
+{ "recid":766, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"lib2","script":"𒆗"},
+{ "recid":767, "got":"c3d3", "charName":"ŠÀ (ŠAG4)", "MesZL":"599","aBZL":"433","LHA":"384","HethZL":"294","transliteration":"lib3","script":"𒊮"},
+{ "recid":768, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"lid2","script":"𒉌"},
+{ "recid":769, "got":"b2c12d1", "charName":"LIL", "MesZL":"544","aBZL":"91","LHA":"336","HethZL":"127","transliteration":"lil","script":"𒇸"},
+{ "recid":770, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"lil2","script":"𒆤"},
+{ "recid":771, "got":"a1b1c1", "charName":"IGI (ŠI, LIM)", "MesZL":"724","aBZL":"233","LHA":"449","HethZL":"288","transliteration":"lim","script":"𒅆"},
+{ "recid":772, "got":"b4", "charName":"LÍMMU (TAB.TAB)", "MesZL":"215","aBZL":"110","LHA":"124_42","HethZL":"","transliteration":"lim2","script":"𒇹"},
+{ "recid":773, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lip","script":"𒈜"},
+{ "recid":774, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","transliteration":"liq","script":"𒌨"},
+{ "recid":775, "got":"a1c1", "charName":"LIŠ", "MesZL":"591","aBZL":"232","LHA":"377","HethZL":"286","transliteration":"lisz","script":"𒇺"},
+{ "recid":776, "got":"c2d1", "charName":"ÁB", "MesZL":"672","aBZL":"352","LHA":"420","HethZL":"277","transliteration":"lit","script":"𒀖"},
+{ "recid":777, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_314", "meaning":"run", "transliteration":"lkd","script":"𒆷𒅗𒁺"},
+{ "recid":778, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lkk","script":"𒆪𒆪"},
+{ "recid":779, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lks","script":"𒆪𒋢"},
+{ "recid":780, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"lks,","script":"𒆪𒍮"},
+{ "recid":781, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590", "meaning":"go", "transliteration":"lkʾ","script":"𒇷𒆪"},
+{ "recid":782, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2704", "meaning":"give pleasure; fondle; provide with charm", "transliteration":"llʾ","script":"𒈜𒇻"},
+{ "recid":783, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3575", "meaning":"learn; know; find out", "transliteration":"lmd","script":"𒆷𒈠𒁺"},
+{ "recid":784, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_654", "meaning":"chew; munch", "transliteration":"lmm","script":"𒆷𒈠𒈬"},
+{ "recid":785, "concept":"null", "meaning":"be(come) bad; evil", "transliteration":"lmn","script":"𒇷𒈨𒉡"},
+{ "recid":786, "concept":"null", "meaning":"(action regarding eyes)", "transliteration":"lms,","script":"𒈝𒈬𒍮"},
+{ "recid":787, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1735", "meaning":"surround; besiege", "transliteration":"lmʾ","script":"𒆷𒈬"},
+{ "recid":788, "concept":"null", "meaning":"be poor; (D) impoverish", "transliteration":"lpn","script":"𒆷𒉺𒉡"},
+{ "recid":789, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_210", "meaning":"wrap; (D) compile", "transliteration":"lpp","script":"𒆷𒉺𒁍"},
+{ "recid":790, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2098", "meaning":"touch; strike; affect; afflict; write down; smear", "transliteration":"lpt","script":"𒆷𒉺𒌅"},
+{ "recid":791, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3167", "meaning":"take", "transliteration":"lqh","script":"𒆷𒋡𒄷"},
+{ "recid":792, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2290", "meaning":"gather up; glean; collect; (N) be taken away by force", "transliteration":"lqt","script":"𒆷𒋡𒌅"},
+{ "recid":793, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756", "meaning":"I take; receive; accept; II go", "transliteration":"lqʾ","script":"𒆷𒄣"},
+{ "recid":794, "concept":"https://www.wikidata.org/wiki/Q2923673", "meaning":"branch off; ramify", "transliteration":"lrʾ","script":"𒆷𒊒"},
+{ "recid":795, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_314", "meaning":"run; race; gallop", "transliteration":"lsm","script":"𒆷𒊓𒈬"},
+{ "recid":796, "concept":"https://www.wikidata.org/wiki/Q27318", "meaning":"test (food; drink); question hypothesis or opininon", "transliteration":"ltk","script":"𒆷𒋫𒆪"},
+{ "recid":797, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2801", "meaning":"split; (D) shatter", "transliteration":"ltʾ","script":"𒆷𒌅"},
+{ "recid":798, "got":"a3b3", "charName":"LU (UDU)", "MesZL":"812","aBZL":"416","LHA":"537","HethZL":"210","concept":"https://www.wikidata.org/wiki/Q140", "meaning":"lion", "transliteration":"lu","script":"𒇻"},
+{ "recid":799, "got":"a4c3d1", "charName":"LÚ", "MesZL":"514","aBZL":"253","LHA":"330","HethZL":"78","transliteration":"lu2","script":"𒇽"},
+{ "recid":800, "got":"a2b10", "charName":"GÚG (LÙ; ŠÈ-gunû)", "MesZL":"555","aBZL":"216","LHA":"345","HethZL":"220; 221","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_106", "meaning":"to mix", "transliteration":"lu3","script":"𒈖"},
+{ "recid":801, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lu5","script":"𒈜"},
+{ "recid":802, "got":"a5b3", "charName":"GIŠGAL (URU×MIN)", "MesZL":"80","aBZL":"189","LHA":"49x","HethZL":"","transliteration":"lu7","script":"𒍇"},
+{ "recid":803, "got":"a3b3", "charName":"LU (UDU)", "MesZL":"812","aBZL":"416","LHA":"537","HethZL":"210","transliteration":"lu?","script":"𒇻"},
+{ "recid":804, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lub","script":"𒈜"},
+{ "recid":805, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"lud","script":"𒂁"},
+{ "recid":806, "got":"a3b3", "charName":"LU (UDU)", "MesZL":"812","aBZL":"416","LHA":"537","HethZL":"210","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1229", "meaning":"(to be) crushed", "transliteration":"lug","script":"𒇻"},
+{ "recid":807, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"lug2","script":"𒉺"},
+{ "recid":808, "got":"a4b4", "charName":"LUḪ", "MesZL":"494","aBZL":"196","LHA":"321","HethZL":"198","transliteration":"luh","script":"𒈛"},
+{ "recid":809, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lul","script":"𒈜"},
+{ "recid":810, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","transliteration":"lum","script":"𒈝"},
+{ "recid":811, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","concept":"null", "meaning":"a small drinking vessel", "transliteration":"lum3","script":"𒂁"},
+{ "recid":812, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"lun","script":"𒉺"},
+{ "recid":813, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"lup","script":"𒈜"},
+{ "recid":814, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"lut","script":"𒂁"},
+{ "recid":815, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"lut,","script":"𒂁"},
+{ "recid":816, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","concept":"https://www.wikidata.org/wiki/Q481609", "meaning":"shamelessness", "transliteration":"luĝ2","script":"𒉺"},
+{ "recid":817, "got":"a8b2c1d1", "charName":"DUG (BI×A)", "MesZL":"499","aBZL":"80","LHA":"309","HethZL":"162","transliteration":"luţ","script":"𒂁"},
+{ "recid":818, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1735", "meaning":"surround; besiege", "transliteration":"lwʾ","script":"𒆷𒉿"},
+{ "recid":819, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_256", "meaning":"I banter; deride; flout; ridicule", "transliteration":"lzn","script":"𒆷𒍝𒉡"},
+{ "recid":820, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3023", "meaning":"continue; go on; endure", "transliteration":"lzz","script":"𒆷𒍝𒍪"},
+{ "recid":821, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3023", "meaning":"continue", "transliteration":"lzʾ","script":"𒆷𒍪"},
+{ "recid":822, "concept":"null", "meaning":"harass demons; infect illness", "transliteration":"lʾb","script":"𒆷𒁍"},
+{ "recid":823, "concept":"null", "meaning":"bend down; come shame", "transliteration":"lʾd","script":"𒆷𒁺"},
+{ "recid":824, "concept":"null", "meaning":"lick up", "transliteration":"lʾk","script":"𒆷𒆪"},
+{ "recid":825, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_508", "meaning":"dissolve", "transliteration":"lʾm","script":"𒇻𒌋𒈬"},
+{ "recid":826, "concept":"null", "meaning":"(meaning unknown); II wrap in cloth", "transliteration":"lʾp","script":"𒆷𒁍"},
+{ "recid":827, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1029", "meaning":"knead", "transliteration":"lʾsz","script":"𒇻𒀀𒋗"},
+{ "recid":828, "concept":"null", "meaning":"swallow up", "transliteration":"lʾt","script":"𒆷𒌅"},
+{ "recid":829, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3786", "meaning":"confine; enclose; keep in check", "transliteration":"lʾt,","script":"𒆷𒂅"},
+{ "recid":830, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3709", "meaning":"lisp; chant", "transliteration":"lʾz","script":"𒆷𒀀𒍪"},
+{ "recid":831, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2375", "meaning":"defile; dirty; pollute", "transliteration":"lʾʾ","script":"𒇻𒌋"},
+{ "recid":832, "got":"b1c6", "charName":"MU", "MesZL":"98","aBZL":"20","LHA":"61","HethZL":"17","concept":"https://www.wikidata.org/wiki/Q58", "meaning":"male", "transliteration":"m","script":"𒈬"},
+{ "recid":833, "got":"a2b3", "charName":"MA", "MesZL":"552","aBZL":"166","LHA":"342","HethZL":"208","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590", "meaning":"earth; land", "transliteration":"ma","script":"𒈠"},
+{ "recid":834, "got":"a2b3", "charName":"MA", "MesZL":"552","aBZL":"166","LHA":"342","HethZL":"208","transliteration":"ma'","script":"𒈠"},
+{ "recid":835, "got":"a3b2", "charName":"MÁ", "MesZL":"201","aBZL":"50","LHA":"122","HethZL":"87","transliteration":"ma2","script":"𒈣"},
+{ "recid":836, "got":"a5b9c5d1", "charName":"KA×ŠÈ", "MesZL":"62","aBZL":"327","LHA":"33","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1414", "meaning":"to crush; mangle", "transliteration":"ma5","script":"𒅡"},
+{ "recid":837, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","concept":"https://www.wikidata.org/wiki/Q20656447", "meaning":"where?; whither?", "transliteration":"ma6","script":"𒈨"},
+{ "recid":838, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"mad","script":"𒆳"},
+{ "recid":839, "got":"a2b4c1d2", "charName":"MAḪ", "MesZL":"91","aBZL":"6","LHA":"57","HethZL":"10","transliteration":"mah","script":"𒈤"},
+{ "recid":840, "concept":"null", "meaning":"(to be) great", "transliteration":"mah2","script":"𒀠"},
+{ "recid":841, "got":"a3b2", "charName":"GÁ (MAL)", "MesZL":"387","aBZL":"93","LHA":"233","HethZL":"56","transliteration":"mal","script":"𒂷"},
+{ "recid":842, "got":"a2b3", "charName":"MAR", "MesZL":"483","aBZL":"144","LHA":"307","HethZL":"191","transliteration":"mar","script":"𒈥"},
+{ "recid":843, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","transliteration":"mas","script":"𒈦"},
+{ "recid":844, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","concept":"https://www.wikidata.org/wiki/Q2934", "meaning":"sacrificial animal for omens", "transliteration":"masz","script":"𒈦"},
+{ "recid":845, "got":"a1b1c2d2", "charName":"MÁŠ", "MesZL":"130","aBZL":"31","LHA":"76","HethZL":"38","transliteration":"masz2","script":"𒈧"},
+{ "recid":846, "concept":"null", "meaning":"to be pure", "transliteration":"masz3","script":"𒈦𒉺"},
+{ "recid":847, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"mat","script":"𒆳"},
+{ "recid":848, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"maz","script":"𒁁"},
+{ "recid":849, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","transliteration":"maş","script":"𒈦"},
+{ "recid":850, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1144", "meaning":"escape", "transliteration":"mdd","script":"𒈠𒁕𒁺"},
+{ "recid":851, "concept":"null", "meaning":"preserve (food) in salt", "transliteration":"mdl","script":"𒈠𒁕𒇻"},
+{ "recid":852, "concept":"null", "meaning":"(condition of eyes)", "transliteration":"mdr","script":"𒈠𒁕𒊒"},
+{ "recid":853, "concept":"null", "meaning":"become visible", "transliteration":"mdʾ","script":"𒈠𒁺"},
+{ "recid":854, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","concept":"https://www.wikidata.org/wiki/Q178561", "meaning":"combat", "transliteration":"me","script":"𒈨"},
+{ "recid":855, "charName":"MÈ (AG×ERIM)", "MesZL":"129","aBZL":"53","LHA":"98","HethZL":"82","transliteration":"me6","script":"𒀞"},
+{ "recid":856, "got":"a2b4c1d2", "charName":"MAḪ", "MesZL":"91","aBZL":"6","LHA":"57","HethZL":"10","transliteration":"meh","script":"𒈤"},
+{ "recid":857, "got":"a6b8c3", "charName":"MEN (GÁ× ME.EN)", "MesZL":"427","aBZL":"102","LHA":"270","HethZL":"","transliteration":"men","script":"𒃞"},
+{ "recid":858, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","transliteration":"men2","script":"𒈨"},
+{ "recid":859, "got":"a5b8c3", "charName":"LAGAB× ME.EN", "MesZL":"792","aBZL":"","LHA":"517","HethZL":"","concept":"https://www.wikidata.org/wiki/Q749249", "meaning":"tiara; type of crown", "transliteration":"men4","script":"𒇙"},
+{ "recid":860, "got":"a7b7", "charName":"DUǸGUNÛGUNÛ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"mer","script":"𒂇"},
+{ "recid":861, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","transliteration":"mesz2","script":"𒈨"},
+{ "recid":862, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"met","script":"𒁁"},
+{ "recid":863, "concept":"null", "meaning":"pick fruit", "transliteration":"mgd","script":"𒈠𒂵𒁺"},
+{ "recid":864, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2841", "meaning":"be(come) rigid; protrude; spread; have cramps; have an erection", "transliteration":"mgg","script":"𒈠𒂵𒄖"},
+{ "recid":865, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819", "meaning":"tear down; destroy", "transliteration":"mgr","script":"𒈮𒄖𒊒"},
+{ "recid":866, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"mgsz","script":"𒈮𒄖𒋗"},
+{ "recid":867, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_556", "meaning":"dissolve in liquid; soak", "transliteration":"mhh","script":"𒈠𒄩𒄷"},
+{ "recid":868, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"mhl","script":"𒈠𒄩𒇻"},
+{ "recid":869, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2756", "meaning":"receive; face; oppose; confront; accept; welcome", "transliteration":"mhr","script":"𒈠𒄩𒊒"},
+{ "recid":870, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"weave", "transliteration":"mhs,","script":"𒈠𒄩𒍮"},
+{ "recid":871, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2095", "meaning":"go in trance; rave; frenzy; (D) craze", "transliteration":"mhʾ","script":"𒈠𒄷"},
+{ "recid":872, "got":"b8c1", "charName":"MI", "MesZL":"681","aBZL":"348","LHA":"427","HethZL":"267","transliteration":"mi","script":"𒈪"},
+{ "recid":873, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"mi2","script":"𒊩"},
+{ "recid":874, "got":"a2b4c1d2", "charName":"MAḪ", "MesZL":"91","aBZL":"6","LHA":"57","HethZL":"10","transliteration":"mih","script":"𒈤"},
+{ "recid":875, "got":"a2b4c1", "charName":"IŠ", "MesZL":"357","aBZL":"162","LHA":"212","HethZL":"151","transliteration":"mil","script":"𒅖"},
+{ "recid":876, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"mim","script":"𒊩"},
+{ "recid":877, "got":"a2", "charName":"MIN (2)", "MesZL":"825","aBZL":"465","LHA":"570","HethZL":"361","transliteration":"min","script":"𒈫"},
+{ "recid":878, "got":"a7b7", "charName":"DUǸGUNÛGUNÛ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"mir","script":"𒂇"},
+{ "recid":879, "got":"a8b4", "charName":"MES (RID)", "MesZL":"486","aBZL":"112a","LHA":"314","HethZL":"112","transliteration":"mis","script":"𒈩"},
+{ "recid":880, "got":"a8b4", "charName":"MES (RID)", "MesZL":"486","aBZL":"112a","LHA":"314","HethZL":"112","transliteration":"misz","script":"𒈩"},
+{ "recid":881, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"mit","script":"𒁁"},
+{ "recid":882, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"mit,","script":"𒁁"},
+{ "recid":883, "got":"a8b4", "charName":"MES (RID)", "MesZL":"486","aBZL":"112a","LHA":"314","HethZL":"112","transliteration":"miş","script":"𒈩"},
+{ "recid":884, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"miţ","script":"𒁁"},
+{ "recid":885, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3705", "meaning":"extend; expand", "transliteration":"mkk","script":"𒈠𒅗𒆪"},
+{ "recid":886, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"mkl","script":"𒈨𒆠𒇻"},
+{ "recid":887, "concept":"null", "meaning":"irrigate", "transliteration":"mkr","script":"𒈠𒅗𒊒"},
+{ "recid":888, "concept":"null", "meaning":"levy customs; collect taxes", "transliteration":"mks","script":"𒈠𒅗𒋢"},
+{ "recid":889, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"mksz","script":"𒈠𒅗𒋗"},
+{ "recid":890, "concept":"null", "meaning":"be lazy; be negligent", "transliteration":"mkʾ","script":"𒈠𒆪"},
+{ "recid":891, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1614", "meaning":"give birth; bear; beget; fashion", "transliteration":"mld","script":"𒈠𒆷𒁺"},
+{ "recid":892, "concept":"null", "meaning":"tear out; (D) reduce", "transliteration":"mlh","script":"𒈠𒆷𒄷"},
+{ "recid":893, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1295", "meaning":"plan; take counsel; propose", "transliteration":"mlk","script":"𒈠𒆷𒆪"},
+{ "recid":894, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1288", "meaning":"play", "transliteration":"mll","script":"𒈨𒇻𒇻"},
+{ "recid":895, "concept":"null", "meaning":"pluck out", "transliteration":"mls","script":"𒈠𒆷𒋢"},
+{ "recid":896, "concept":"null", "meaning":"pluck out", "transliteration":"mlsz","script":"𒈠𒆷𒋗"},
+{ "recid":897, "concept":"null", "meaning":"(action regarding entrails)", "transliteration":"mlt","script":"𒈠𒆷𒌅"},
+{ "recid":898, "concept":"null", "meaning":"become full", "transliteration":"mlʾ","script":"𒈠𒇻"},
+{ "recid":899, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2706", "meaning":"count; calculate; reckon", "transliteration":"mnʾ","script":"𒈠𒉡"},
+{ "recid":900, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2841", "meaning":"protrude; spread; have cramps; have an erection", "transliteration":"mqq","script":"𒈠𒋡𒄣"},
+{ "recid":901, "concept":"null", "meaning":"become rare; scarce; expensive", "transliteration":"mqr","script":"𒈠𒋡𒊒"},
+{ "recid":902, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2945", "meaning":"fall off; desert", "transliteration":"mqt","script":"𒈠𒋡𒌅"},
+{ "recid":903, "concept":"null", "meaning":"be weary; be slow", "transliteration":"mqʾ","script":"𒈮𒄣"},
+{ "recid":904, "concept":"null", "meaning":"(N) suffer damage", "transliteration":"mrd","script":"𒈠𒊏𒁺"},
+{ "recid":905, "concept":"null", "meaning":"allow (something) to spoil", "transliteration":"mrh","script":"𒈠𒊏𒄷"},
+{ "recid":906, "concept":"null", "meaning":"be delayed; fall behind", "transliteration":"mrkʾ","script":"𒈾𒈥𒆪"},
+{ "recid":907, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1100", "meaning":"grind; rub; pulverize", "transliteration":"mrq","script":"𒈠𒊏𒄣"},
+{ "recid":908, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_285", "meaning":"be(come) bitter; sour", "transliteration":"mrr","script":"𒈠𒊏𒊒"},
+{ "recid":909, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2462", "meaning":"crush", "transliteration":"mrs","script":"𒈠𒊏𒋢"},
+{ "recid":910, "concept":"null", "meaning":"become ill; become sick; become", "transliteration":"mrs,","script":"𒈠𒊏𒍮"},
+{ "recid":911, "concept":"null", "meaning":"be(come) dirty", "transliteration":"mrsz","script":"𒈠𒊏𒋗"},
+{ "recid":912, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1873", "meaning":"scratch; scrape; rub", "transliteration":"mrt,","script":"𒈠𒊏𒂅"},
+{ "recid":913, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1958", "meaning":"be fat; do slowly; be", "transliteration":"mrʾ","script":"𒈠𒊒"},
+{ "recid":914, "concept":"null", "meaning":"spend a day resting", "transliteration":"ms,l","script":"𒋳𒍮𒇻"},
+{ "recid":915, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2267", "meaning":"I obstruct; II stride about; limit", "transliteration":"ms,r","script":"𒈠𒍝𒊒"},
+{ "recid":916, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ms,s,","script":"ṣ𒍮𒍮"},
+{ "recid":917, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3476", "meaning":"match; correspond; be sufficient; (D) provide", "transliteration":"ms,ʾ","script":"𒈠𒍮"},
+{ "recid":918, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3929", "meaning":"treat badly; treat", "transliteration":"msh","script":"𒈲𒋢𒄷"},
+{ "recid":919, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_374", "meaning":"worsen; be(come) bad; ugly; rotten", "transliteration":"msk","script":"𒈠𒊓𒆪"},
+{ "recid":920, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3628", "meaning":"I obstruct; II stride about; limit", "transliteration":"msr","script":"𒈠𒊓𒊒"},
+{ "recid":921, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"beat cloth; wool; strike with disease; comb (out)", "transliteration":"mszd","script":"𒈠𒊭𒁺"},
+{ "recid":922, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"shine; glow; flare up", "transliteration":"mszh","script":"𒈠𒊭𒄷"},
+{ "recid":923, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_374", "meaning":"worsen; be(come) bad", "transliteration":"mszk","script":"𒈠𒊭𒆪"},
+{ "recid":924, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3298", "meaning":"be(come) equal; copy", "transliteration":"mszl","script":"𒈨𒊺𒇻"},
+{ "recid":925, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1726", "meaning":"drag across (garments); delay", "transliteration":"mszr","script":"𒈠𒊭𒊒"},
+{ "recid":926, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3213", "meaning":"wipe off; clean", "transliteration":"mszsz","script":"𒈠𒊭𒋗"},
+{ "recid":927, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2282", "meaning":"find out", "transliteration":"mszʾ","script":"𒈲𒋗"},
+{ "recid":928, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2282", "meaning":"find out", "transliteration":"msʾ","script":"𒈲𒋢"},
+{ "recid":929, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_545", "meaning":"lessen; diminish; decrease", "transliteration":"mt,ʾ","script":"𒈠𒂅"},
+{ "recid":930, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_505", "meaning":"lift; pick up; fetch", "transliteration":"mth","script":"𒈠𒋫𒄷"},
+{ "recid":931, "concept":"null", "meaning":"be(come) sweet; (D) sweeten", "transliteration":"mtq","script":"𒈠𒋫𒄣"},
+{ "recid":932, "concept":"null", "meaning":"be excessive; (D) enlarge", "transliteration":"mtr","script":"𒈠𒋫𒊒"},
+{ "recid":933, "got":"b1c6", "charName":"MU", "MesZL":"98","aBZL":"20","LHA":"61","HethZL":"17","concept":"https://www.wikidata.org/wiki/Q58", "meaning":"male", "transliteration":"mu","script":"𒈬"},
+{ "recid":934, "got":"b1c6", "charName":"MU", "MesZL":"98","aBZL":"20","LHA":"61","HethZL":"17","transliteration":"mu'","script":"𒈬"},
+{ "recid":935, "got":"a2b2c9", "charName":"SAR", "MesZL":"541","aBZL":"385","LHA":"331e, 152iv","HethZL":"353","transliteration":"mu2","script":"𒊬"},
+{ "recid":936, "got":"a5b9c5d1", "charName":"KA×ŠÈ", "MesZL":"62","aBZL":"327","LHA":"33","HethZL":"","transliteration":"mu3","script":"𒅡"},
+{ "recid":937, "got":"a2b4", "charName":"TÚG (NÁM)", "MesZL":"809","aBZL":"417","LHA":"536","HethZL":"212","transliteration":"mu4","script":"𒌆"},
+{ "recid":938, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","concept":"https://www.wikidata.org/wiki/Q7873", "meaning":"blood", "transliteration":"mud2","script":"𒁁"},
+{ "recid":939, "got":"a2b1c1d1", "charName":"MUG", "MesZL":"12","aBZL":"12","LHA":"3","HethZL":"22","transliteration":"mug","script":"𒈮"},
+{ "recid":940, "got":"a2b1c1d1", "charName":"MUG", "MesZL":"12","aBZL":"12","LHA":"3","HethZL":"22","transliteration":"muk","script":"𒈮"},
+{ "recid":941, "got":"a3b3c3d3", "charName":"MUL (ANoverAN .AN)", "MesZL":"247","aBZL":"10","LHA":"129a","HethZL":"101","transliteration":"mul","script":"𒀯"},
+{ "recid":942, "got":"a2c2d2", "charName":"TE", "MesZL":"589","aBZL":"289","LHA":"376","HethZL":"249","concept":"https://www.wikidata.org/wiki/Q523", "meaning":"4. to radiate", "transliteration":"mul2","script":"𒋼"},
+{ "recid":943, "got":"a2b6c4d4", "charName":"UMUM×KASKAL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"mum","script":"𒌤"},
+{ "recid":944, "got":"a2b1c6d2", "charName":"DIM×ŠE, later DIM×KUR", "MesZL":"168","aBZL":"15","LHA":"95, 095v","HethZL":"18","transliteration":"mun","script":"𒁵"},
+{ "recid":945, "transliteration":"mun11","script":"₁"},
+{ "recid":946, "got":"a2b6c4d4", "charName":"UMUM×KASKAL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"mun2","script":"𒌤"},
+{ "recid":947, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","concept":"https://www.wikidata.org/wiki/Q11254", "meaning":"salt", "transliteration":"mun4","script":"𒋀"},
+{ "recid":948, "got":"a2b1c1d1", "charName":"MUG", "MesZL":"12","aBZL":"12","LHA":"3","HethZL":"22","transliteration":"muq","script":"𒈮"},
+{ "recid":949, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","transliteration":"mur","script":"𒄯"},
+{ "recid":950, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"mus","script":"𒈲"},
+{ "recid":951, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"musz","script":"𒈲"},
+{ "recid":952, "got":"a3b5c1", "charName":"MÚŠ (MÙŠ-gunû)", "MesZL":"152","aBZL":"45","LHA":"102","HethZL":"","concept":"https://www.wikidata.org/wiki/Q37017", "meaning":"face; appearance", "transliteration":"musz2","script":"𒈽"},
+{ "recid":953, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"muz","script":"𒈲"},
+{ "recid":954, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_719", "meaning":"suck; (D) suck out", "transliteration":"mzq","script":"𒈠𒍝𒄣"},
+{ "recid":955, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3628", "meaning":"I obstruct; II stride about; limit", "transliteration":"mzr","script":"𒈠𒍝𒊒"},
+{ "recid":956, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"mzz","script":"𒈲𒍪𒍪"},
+{ "recid":957, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2711", "meaning":"squeeze; (D) rape", "transliteration":"mzʾ","script":"𒈠𒍪"},
+{ "recid":958, "concept":"null", "meaning":"be much; become many", "transliteration":"mʾd","script":"𒈠𒀀𒁺"},
+{ "recid":959, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3076", "meaning":"depart", "transliteration":"mʾh","script":"𒈠𒄷"},
+{ "recid":960, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_152", "meaning":"nourish; support", "transliteration":"mʾn","script":"𒈠𒌋𒉡"},
+{ "recid":961, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3247", "meaning":"tire; be(come) weary", "transliteration":"mʾq","script":"𒈬𒌋𒄣"},
+{ "recid":962, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3450", "meaning":"send; guide", "transliteration":"mʾr","script":"𒈬𒌋𒊒"},
+{ "recid":963, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819", "meaning":"destroy; crush", "transliteration":"mʾs","script":"𒈠𒋢"},
+{ "recid":964, "concept":"null", "meaning":"I churn; II be(come) insufficient; little", "transliteration":"mʾs,","script":"𒈬𒀀𒍮"},
+{ "recid":965, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_902", "meaning":"feel; grope (about)", "transliteration":"mʾsz","script":"𒈬𒀀𒋗"},
+{ "recid":966, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3942", "meaning":"die; (Š) cause death; execute", "transliteration":"mʾt","script":"𒈬𒀀𒌅"},
+{ "recid":967, "concept":"null", "meaning":"refuse (to do something)", "transliteration":"mʾz","script":"𒈠𒍪"},
+{ "recid":968, "concept":"null", "meaning":"not to want", "transliteration":"mʾʾ","script":"𒈬𒀀𒌝"},
+{ "recid":969, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","transliteration":"n","script":"𒉡"},
+{ "recid":970, "got":"b4c3d2", "charName":"NA", "MesZL":"110","aBZL":"24","LHA":"70","HethZL":"15","concept":"https://www.wikidata.org/wiki/Q22731", "meaning":"stone weight", "transliteration":"na","script":"𒈾"},
+{ "recid":971, "got":"b4c3d2", "charName":"NA", "MesZL":"110","aBZL":"24","LHA":"70","HethZL":"15","transliteration":"na'","script":"𒈾"},
+{ "recid":972, "got":"a2b6c7d1", "charName":"NÁ", "MesZL":"689","aBZL":"364","LHA":"431","HethZL":"314","transliteration":"na2","script":"𒈿"},
+{ "recid":973, "got":"a2b4c1d1", "charName":"ŠA", "MesZL":"566","aBZL":"203","LHA":"353","HethZL":"158","transliteration":"na5","script":"𒊭"},
+{ "recid":974, "got":"a2b2c2d2", "charName":"NAB (ANoverAN)", "MesZL":"246","aBZL":"","LHA":"129","HethZL":"100","transliteration":"nab","script":"𒀮"},
+{ "recid":975, "got":"a6b2c5d1", "charName":"NAG (KA×A)", "MesZL":"64","aBZL":"328","LHA":"35","HethZL":"148","transliteration":"nag","script":"𒅘"},
+{ "recid":976, "got":"a4b4", "charName":"LUḪ", "MesZL":"494","aBZL":"196","LHA":"321","HethZL":"198","transliteration":"nah","script":"𒈛"},
+{ "recid":977, "got":"a6b2c5d1", "charName":"NAG (KA×A)", "MesZL":"64","aBZL":"328","LHA":"35","HethZL":"148","transliteration":"nak","script":"𒅘"},
+{ "recid":978, "got":"a3b1c9", "charName":"NAM", "MesZL":"134","aBZL":"42","LHA":"79","HethZL":"39","transliteration":"nam","script":"𒉆"},
+{ "recid":979, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"nan","script":"𒋀"},
+{ "recid":980, "got":"a2b2c2d2", "charName":"NAB (ANoverAN)", "MesZL":"246","aBZL":"","LHA":"129","HethZL":"100","transliteration":"nap","script":"𒀮"},
+{ "recid":981, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"nar","script":"𒈜"},
+{ "recid":982, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"nat","script":"𒆳"},
+{ "recid":983, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_516", "meaning":"pipe; play the flute", "transliteration":"nbb","script":"𒈾𒁀𒁍"},
+{ "recid":984, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2481", "meaning":"bark (of dog; demon); yelp; (D ~ G)", "transliteration":"nbh","script":"𒈾𒁀𒄷"},
+{ "recid":985, "concept":"null", "meaning":"bring in", "transliteration":"nbk","script":"𒈾𒁀𒆪"},
+{ "recid":986, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819", "meaning":"destroy", "transliteration":"nbl","script":"𒈾𒁀𒇻"},
+{ "recid":987, "concept":"null", "meaning":"bring in", "transliteration":"nbq","script":"𒈾𒁀𒄣"},
+{ "recid":988, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"shine; (Š) make", "transliteration":"nbt,","script":"𒈾𒁀𒂅"},
+{ "recid":989, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2548", "meaning":"bleat", "transliteration":"nbz","script":"𒈾𒁀𒍪"},
+{ "recid":990, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"call; name; nominate", "transliteration":"nbʾ","script":"𒈾𒁍"},
+{ "recid":991, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3876", "meaning":"cede; give way(?)", "transliteration":"ndd","script":"𒈾𒁕𒁺"},
+{ "recid":992, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ndk","script":"𒈾𒁕𒆪"},
+{ "recid":993, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857", "meaning":"give; (Št) intermingle", "transliteration":"ndn","script":"𒈾𒁕𒉡"},
+{ "recid":994, "concept":"null", "meaning":"tickle(?)", "transliteration":"ndq","script":"𒈾𒁕𒄣"},
+{ "recid":995, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_176", "meaning":"roar; growl; be furious; wild", "transliteration":"ndr","script":"𒈾𒁕𒊒"},
+{ "recid":996, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ndsz","script":"𒈾𒁕𒋗"},
+{ "recid":997, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2629", "meaning":"throw; lay down; throw down; drop", "transliteration":"ndʾ","script":"𒈾𒁺"},
+{ "recid":998, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"ne","script":"𒉈"},
+{ "recid":999, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"ne2","script":"𒉌"},
+{ "recid":1000, "got":"a3b2c1", "charName":"UŠ (NITA)", "MesZL":"381","aBZL":"68","LHA":"211","HethZL":"132","transliteration":"ned","script":"𒍑"},
+{ "recid":1001, "got":"a1c3d1", "charName":"NIM", "MesZL":"690","aBZL":"355","LHA":"433","HethZL":"74","transliteration":"nem","script":"𒉏"},
+{ "recid":1002, "got":"a3b2c1", "charName":"UŠ (NITA)", "MesZL":"381","aBZL":"68","LHA":"211","HethZL":"132","transliteration":"net","script":"𒍑"},
+{ "recid":1003, "concept":"null", "meaning":"store up", "transliteration":"ngb","script":"𒈾𒂵𒁍"},
+{ "recid":1004, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3781", "meaning":"bray; neigh; whinny; bellow", "transliteration":"ngg","script":"𒈾𒂵𒄖"},
+{ "recid":1005, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2971", "meaning":"glisten; glow", "transliteration":"ngl","script":"𒈾𒂵𒇻"},
+{ "recid":1006, "concept":"null", "meaning":"(G) (meaning unknown); (D) denounce", "transliteration":"ngr","script":"𒈾𒂵𒊒"},
+{ "recid":1007, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590", "meaning":"go; (Gtn) wander", "transliteration":"ngsz","script":"𒈾𒂵𒋗"},
+{ "recid":1008, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527", "meaning":"sing joyfully; rejoice; be hilarious", "transliteration":"ngʾ","script":"𒈾𒄖"},
+{ "recid":1009, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1132", "meaning":"transfer property", "transliteration":"nhl","script":"𒈾𒄩𒇻"},
+{ "recid":1010, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3130", "meaning":"hoot; snore; snort", "transliteration":"nhr","script":"𒈾𒄩𒊒"},
+{ "recid":1011, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_596", "meaning":"recede; return", "transliteration":"nhs","script":"𒈾𒄩𒋢"},
+{ "recid":1012, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845", "meaning":"shake", "transliteration":"nhs,","script":"𒄷𒍮"},
+{ "recid":1013, "concept":"ttp://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1710", "meaning":"prosper; thrive; be(come) luxuriant; (D) grant health", "transliteration":"nhsz","script":"𒈾𒄩𒋗"},
+{ "recid":1014, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3672", "meaning":"be(come) diminished; small; (D) reduce; castrate", "transliteration":"nht","script":"𒈾𒄩𒌅"},
+{ "recid":1015, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_669", "meaning":"(have a) hiccup; sob", "transliteration":"nht,","script":"𒄷𒂅"},
+{ "recid":1016, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"nhʾ","script":"𒈾𒄷"},
+{ "recid":1017, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"ni","script":"𒉌"},
+{ "recid":1018, "got":"a4b1c2d3", "charName":"NÍ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"ni2","script":"𒉎"},
+{ "recid":1019, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"nig2","script":"𒃻"},
+{ "recid":1020, "got":"a1c3d1", "charName":"NIM", "MesZL":"690","aBZL":"355","LHA":"433","HethZL":"74","transliteration":"nim","script":"𒉏"},
+{ "recid":1021, "got":"a2b4", "charName":"TÚG (NÁM)", "MesZL":"809","aBZL":"417","LHA":"536","HethZL":"212","transliteration":"nin","script":"𒌆"},
+{ "recid":1022, "got":"a3b2c1", "charName":"UŠ (NITA)", "MesZL":"381","aBZL":"68","LHA":"211","HethZL":"132","transliteration":"nit","script":"𒍑"},
+{ "recid":1023, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"niĝ","script":"𒉌"},
+{ "recid":1024, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"niĝ2","script":"𒃻"},
+{ "recid":1025, "concept":"null", "meaning":"beat (of the heart); become disturbed; palpitate", "transliteration":"nkd","script":"𒈾𒅗𒁺"},
+{ "recid":1026, "concept":"null", "meaning":"be artful; clever; be dexterous", "transliteration":"nkl","script":"𒈾𒅗𒇻"},
+{ "recid":1027, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_415", "meaning":"stock; heap up; pile", "transliteration":"nkm","script":"𒈾𒅗𒈬"},
+{ "recid":1028, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2057", "meaning":"push; thrust; butt; (D) knock down", "transliteration":"nkp","script":"𒈾𒅗𒁍"},
+{ "recid":1029, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2404", "meaning":"be(come) different; strange; become hostile", "transliteration":"nkr","script":"𒈾𒅗𒊒"},
+{ "recid":1030, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1569", "meaning":"cut off; fell; mutilate; qaqqadu ~ decapitate", "transliteration":"nks","script":"𒈾𒅗𒋢"},
+{ "recid":1031, "concept":"null", "meaning":"set aside", "transliteration":"nksz","script":"𒈾𒅗𒋗"},
+{ "recid":1032, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1672", "meaning":"nettle", "transliteration":"nkt","script":"𒈾𒅗𒌅"},
+{ "recid":1033, "concept":"null", "meaning":"(fall as) dew; (D) bedew", "transliteration":"nlsz","script":"𒈾𒆷𒋗"},
+{ "recid":1034, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"shine; be bright; (D) illuminate; (ŠD) gladden", "transliteration":"nmr","script":"𒈾𒈠𒊒"},
+{ "recid":1035, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1713", "meaning":"be agile; move; move on; start out", "transliteration":"nmsz","script":"𒈾𒈠𒋗"},
+{ "recid":1036, "concept":"null", "meaning":"be desolated; abandoned; (D) lay waste", "transliteration":"nmʾ","script":"𒈾𒈬"},
+{ "recid":1037, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1947", "meaning":"separate", "transliteration":"npd","script":"𒈾𒉺𒁺"},
+{ "recid":1038, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2071", "meaning":"disappear", "transliteration":"npg","script":"𒈾𒉺𒄖"},
+{ "recid":1039, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2508", "meaning":"blow; hiss; puff; ignite", "transliteration":"nph","script":"𒈾𒉺𒄷"},
+{ "recid":1040, "concept":"null", "meaning":"bring in", "transliteration":"npk","script":"𒈾𒉺𒆪"},
+{ "recid":1041, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2954", "meaning":"I raze; dig out; demolish; II pay balance", "transliteration":"npl","script":"𒈾𒉺𒇻"},
+{ "recid":1042, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1989", "meaning":"bring in", "transliteration":"npq","script":"𒈾𒉺𒄣"},
+{ "recid":1043, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"npr","script":"𒈾𒉺𒊒"},
+{ "recid":1044, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1376", "meaning":"push away; push down", "transliteration":"nps,","script":"𒈾𒉺𒍮"},
+{ "recid":1045, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3339", "meaning":"become broad; spread (intrans.); breathe", "transliteration":"npsz","script":"𒈾𒉺𒋗"},
+{ "recid":1046, "concept":"null", "meaning":"look at(?)", "transliteration":"npt","script":"𒈾𒉺𒌅"},
+{ "recid":1047, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1132", "meaning":"sift; sieve", "transliteration":"npʾ","script":"𒈾𒁍"},
+{ "recid":1048, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_686", "meaning":"deflower; penetrate sexually", "transliteration":"nqb","script":"𒈾𒋡𒁍"},
+{ "recid":1049, "concept":"null", "meaning":"be in danger; (D) alert; be anxious", "transliteration":"nqd","script":"𒈾𒋡𒁺"},
+{ "recid":1050, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1419", "meaning":"caw; croak; peck", "transliteration":"nqh","script":"𒈾𒋡𒄷"},
+{ "recid":1051, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1352", "meaning":"cleave (to); haunt", "transliteration":"nqp","script":"𒈾𒋡𒁍"},
+{ "recid":1052, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3819", "meaning":"destroy; scratch; dismantle; demolish", "transliteration":"nqr","script":"𒈾𒋡𒊒"},
+{ "recid":1053, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_245", "meaning":"pour out; make a libation; offer; sacrifice; shed", "transliteration":"nqʾ","script":"𒈾𒄣"},
+{ "recid":1054, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_503", "meaning":"dissolve (intrans.); soften", "transliteration":"nrb","script":"𒈾𒊏𒁍"},
+{ "recid":1055, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_841", "meaning":"quake; shake; tremble", "transliteration":"nrt,","script":"𒈾𒊏𒂅"},
+{ "recid":1056, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1826", "meaning":"suck (liquids); lick", "transliteration":"ns,b","script":"𒈾𒍝𒁍"},
+{ "recid":1057, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_43", "meaning":"guard; preserve; keep; watch (over)", "transliteration":"ns,r","script":"𒈾𒍝𒊒"},
+{ "recid":1058, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3730", "meaning":"strive(?); contend", "transliteration":"ns,ʾ","script":"𒈾𒍮"},
+{ "recid":1059, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2444", "meaning":"tear out; uproot; transfer; deduct", "transliteration":"nsh","script":"𒈾𒊓𒄷"},
+{ "recid":1060, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_433", "meaning":"lay down; throw down; toss", "transliteration":"nsk","script":"𒈾𒊓𒆪"},
+{ "recid":1061, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_937", "meaning":"choose; select; elect", "transliteration":"nsq","script":"𒈾𒊓𒄣"},
+{ "recid":1062, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_431", "meaning":"saw", "transliteration":"nsr","script":"𒈾𒊓𒊒"},
+{ "recid":1063, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845", "meaning":"shake; wave", "transliteration":"nss","script":"𒉭𒋢𒋢"},
+{ "recid":1064, "concept":"null", "meaning":"blow away; clear off", "transliteration":"nszb","script":"𒈾𒊭𒁍"},
+{ "recid":1065, "concept":"null", "meaning":"have diarrhoea", "transliteration":"nszh","script":"𒈾𒊭𒄷"},
+{ "recid":1066, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3068", "meaning":"bite; (D) bite up", "transliteration":"nszk","script":"𒈾𒊭𒆪"},
+{ "recid":1067, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3111", "meaning":"kiss (D ~ G)", "transliteration":"nszq","script":"𒈾𒊭𒄣"},
+{ "recid":1068, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3423", "meaning":"take away; remove; withdraw", "transliteration":"nszr","script":"𒈾𒊭𒊒"},
+{ "recid":1069, "concept":"null", "meaning":"I sniff; II shake; (D) separate", "transliteration":"nszsz","script":"𒈾𒊭𒋗"},
+{ "recid":1070, "concept":"null", "meaning":"vomit (D ~ G)", "transliteration":"nszʾ","script":"𒉈𒋗"},
+{ "recid":1071, "concept":"null", "meaning":"go far; be distant", "transliteration":"nsʾ","script":"𒈾𒋢"},
+{ "recid":1072, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_639", "meaning":"look at; glance at; see", "transliteration":"nt,l","script":"𒈾𒁕𒇻"},
+{ "recid":1073, "concept":"null", "meaning":"tear out (wool)", "transliteration":"nt,p","script":"𒈾𒁕𒁍"},
+{ "recid":1074, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"beat; spank; slash; whip; scourge; flagellate", "transliteration":"nt,ʾ","script":"𒈾𒂅"},
+{ "recid":1075, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_41", "meaning":"drip; drop; trickle", "transliteration":"ntk","script":"𒈾𒋫𒆪"},
+{ "recid":1076, "concept":"null", "meaning":"tear out (wool)", "transliteration":"ntp","script":"𒈾𒋫𒁍"},
+{ "recid":1077, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_915", "meaning":"cleave; demolish; split intestine", "transliteration":"ntr","script":"𒈾𒋫𒊒"},
+{ "recid":1078, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_715", "meaning":"(N) overlap; go parallel", "transliteration":"ntʾ","script":"𒊩𒌆𒌅"},
+{ "recid":1079, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","transliteration":"nu","script":"𒉡"},
+{ "recid":1080, "got":"a2b6c7d1", "charName":"NÁ", "MesZL":"689","aBZL":"364","LHA":"431","HethZL":"314","transliteration":"nu2","script":"𒈿"},
+{ "recid":1081, "got":"a5b1", "charName":"NUN", "MesZL":"143","aBZL":"47","LHA":"87","HethZL":"36","transliteration":"nu6","script":"𒉣"},
+{ "recid":1082, "got":"b4c3d2", "charName":"NA", "MesZL":"110","aBZL":"24","LHA":"70","HethZL":"15","transliteration":"nu8","script":"𒈾"},
+{ "recid":1083, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","transliteration":"nu?","script":"𒉡"},
+{ "recid":1084, "got":"a7c5d2", "charName":"ŠIM×DIN", "MesZL":"366","aBZL":"","LHA":"221","HethZL":"","concept":"null", "meaning":"an aromatic plant", "transliteration":"nug2","script":"𒋊"},
+{ "recid":1085, "got":"a1c3d1", "charName":"NIM", "MesZL":"690","aBZL":"355","LHA":"433","HethZL":"74","transliteration":"num","script":"𒉏"},
+{ "recid":1086, "got":"c8d4", "charName":"LUM", "MesZL":"900","aBZL":"248","LHA":"565","HethZL":"310","transliteration":"num2","script":"𒈝"},
+{ "recid":1087, "got":"a5b1", "charName":"NUN", "MesZL":"143","aBZL":"47","LHA":"87","HethZL":"36","transliteration":"nun","script":"𒉣"},
+{ "recid":1088, "got":"a10b2", "charName":"NIR (NUNoverNUN)", "MesZL":"502","aBZL":"148","LHA":"325","HethZL":"204","transliteration":"nur","script":"𒉪"},
+{ "recid":1089, "got":"a2c4d4", "charName":"NUNUZ", "MesZL":"614","aBZL":"371","LHA":"394","HethZL":"328","transliteration":"nus","script":"𒉭"},
+{ "recid":1090, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"shine; be bright; (D) illuminate; (ŠD) gladden", "transliteration":"nwr","script":"𒈾𒉿𒊒"},
+{ "recid":1091, "concept":"null", "meaning":"be desolated; abandoned; (D) lay waste", "transliteration":"nwʾ","script":"𒈾𒉿"},
+{ "recid":1092, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1651", "meaning":"pour out; drain", "transliteration":"nzl","script":"𒈾𒍝𒇻"},
+{ "recid":1093, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3127", "meaning":"creak; grouch; grouse", "transliteration":"nzm","script":"𒈾𒍝𒈬"},
+{ "recid":1094, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"nzp","script":"𒈾𒍝𒁍"},
+{ "recid":1095, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_767", "meaning":"worry; despair; creak; (Š) upset; annoy", "transliteration":"nzq","script":"𒈾𒍝𒄣"},
+{ "recid":1096, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1493", "meaning":"curse; cuss; damn", "transliteration":"nzr","script":"𒈾𒍝𒊒"},
+{ "recid":1097, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845", "meaning":"moan; grunt; rustle; make a swishing sound", "transliteration":"nzz","script":"𒈾𒍝𒍪"},
+{ "recid":1098, "concept":"null", "meaning":"void (urine; excrement)", "transliteration":"nzʾ","script":"𒉈𒍪"},
+{ "recid":1099, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1954", "meaning":"pay attention to; be careful", "transliteration":"nʾd","script":"𒈾𒁺"},
+{ "recid":1100, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2859", "meaning":"be calm; be quiet; (D) pacify pain; anger", "transliteration":"nʾh","script":"𒈾𒄷"},
+{ "recid":1101, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_301", "meaning":"rape; ravish; have sexual intercourse; commit adultery; (Gtn) have illicit sex repeatedly; (Š) permit intercourse", "transliteration":"nʾk","script":"𒈾𒆪"},
+{ "recid":1102, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_992", "meaning":"lie down; sleep; (D) strike down", "transliteration":"nʾl","script":"𒈾𒇻"},
+{ "recid":1103, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1329", "meaning":"doze; doze off; drowse", "transliteration":"nʾm","script":"𒈾𒈬"},
+{ "recid":1104, "concept":"null", "meaning":"I sway (of sky); II make additional payment", "transliteration":"nʾp","script":"𒈾𒁍"},
+{ "recid":1105, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_217", "meaning":"cry; groan; wail; whimper", "transliteration":"nʾq","script":"𒈾𒄣"},
+{ "recid":1106, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"kill; assassinate; slay", "transliteration":"nʾr","script":"𒈾𒊒"},
+{ "recid":1107, "concept":"null", "meaning":"chew up; gnaw (drugs)", "transliteration":"nʾs","script":"𒈾𒀀𒋧"},
+{ "recid":1108, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1480", "meaning":"despise; look down on", "transliteration":"nʾs,","script":"𒈾𒍮"},
+{ "recid":1109, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3678", "meaning":"live; revive", "transliteration":"nʾsz","script":"𒉈𒂊𒋗"},
+{ "recid":1110, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_506", "meaning":"chop", "transliteration":"nʾt","script":"𒉈𒂊𒌅"},
+{ "recid":1111, "concept":"null", "meaning":"have a bowel disorder", "transliteration":"nʾt,","script":"𒈾𒂅"},
+{ "recid":1112, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3595", "meaning":"mew", "transliteration":"nʾw","script":"𒈾𒉿"},
+{ "recid":1113, "concept":"null", "meaning":"turn back; turn away; deflect", "transliteration":"nʾʾ","script":"𒉈𒌝"},
+{ "recid":1114, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","concept":"https://www.wikidata.org/wiki/Q9635", "meaning":"mouth", "transliteration":"p","script":"𒁍"},
+{ "recid":1115, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","transliteration":"pa","script":"𒉺"},
+{ "recid":1116, "concept":"null", "meaning":"(small) canal; irrigation ditch", "transliteration":"pa6","script":"𒉽𒅖"},
+{ "recid":1117, "got":"a14b6c2", "charName":"SA6", "MesZL":"571","aBZL":"228","LHA":"356","HethZL":"70","concept":"https://www.wikidata.org/wiki/Q161358", "meaning":"branch; frond", "transliteration":"pa9","script":"𒊷"},
+{ "recid":1118, "got":"a2b1c1", "charName":"ḪU", "MesZL":"132","aBZL":"34","LHA":"78","HethZL":"24","transliteration":"pag","script":"𒄷"},
+{ "recid":1119, "got":"a1b3c3", "charName":"BAL", "MesZL":"5","aBZL":"3","LHA":"9","HethZL":"4","transliteration":"pal","script":"𒁄"},
+{ "recid":1120, "got":"c2d2", "charName":"PAN", "MesZL":"685","aBZL":"27","LHA":"439","HethZL":"118","transliteration":"pan","script":"𒉼"},
+{ "recid":1121, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"par","script":"𒌓"},
+{ "recid":1122, "got":"a4b5c1d1", "charName":"DAG (PÀR)", "MesZL":"438","aBZL":"168","LHA":"280","HethZL":"243","transliteration":"par3","script":"𒁖"},
+{ "recid":1123, "transliteration":"pasz","script":"š"},
+{ "recid":1124, "got":"a3c1d1", "charName":"PAD (ŠUK)", "MesZL":"746","aBZL":"362","LHA":"469","HethZL":"295","transliteration":"pat","script":"𒉻"},
+{ "recid":1125, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3637", "meaning":"absolve; forgive; pardon", "transliteration":"pdʾ","script":"𒉺𒁺"},
+{ "recid":1126, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"pe","script":"𒉿"},
+{ "recid":1127, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"pel","script":"𒉈"},
+{ "recid":1128, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"per","script":"𒌓"},
+{ "recid":1129, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"pes","script":"𒄫"},
+{ "recid":1130, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","concept":"null", "meaning":"fig tree", "transliteration":"pesz","script":"𒄫"},
+{ "recid":1131, "got":"a1b4c5d5", "charName":"PÉŠ", "MesZL":"741","aBZL":"418","LHA":"461x","HethZL":"3","transliteration":"pesz2","script":"𒉾"},
+{ "recid":1132, "got":"a2b6c1d1", "charName":"KAD4", "MesZL":"568","aBZL":"227a","LHA":"354b","HethZL":"68","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3923", "meaning":"10.", "transliteration":"pesz5","script":"𒆒"},
+{ "recid":1133, "concept":"null", "meaning":"be strong", "transliteration":"pgl","script":"𒉺𒂵𒇻"},
+{ "recid":1134, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_254", "meaning":"slander; lie", "transliteration":"pgʾ","script":"𒉺𒄖"},
+{ "recid":1135, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2626", "meaning":"abate; be weakened", "transliteration":"phh","script":"𒉺𒄩𒄷"},
+{ "recid":1136, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"gather; assemble; congregate", "transliteration":"phr","script":"𒉺𒄩𒊒"},
+{ "recid":1137, "concept":"null", "meaning":"(meaning unclear); (Ntn) be constantly disappointed", "transliteration":"phs,","script":"𒉺𒄩𒍮"},
+{ "recid":1138, "concept":"null", "meaning":"be insolent; be loose", "transliteration":"phz","script":"𒉺𒄩𒍪"},
+{ "recid":1139, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1467", "meaning":"block; close; confine; lock", "transliteration":"phʾ","script":"𒉺𒄷"},
+{ "recid":1140, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"pi","script":"𒉿"},
+{ "recid":1141, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"pil","script":"𒉈"},
+{ "recid":1142, "got":"a1b4c7", "charName":"BÍL (GIBIL; NE×PAB, NE-šeššig)", "MesZL":"312","aBZL":"117","LHA":"173","HethZL":"172","transliteration":"pil2","script":"𒉋"},
+{ "recid":1143, "got":"a2b8c1", "charName":"APIN (ENGAR)", "MesZL":"90","aBZL":"5","LHA":"56","HethZL":"9","transliteration":"pin","script":"𒀳"},
+{ "recid":1144, "got":"b5", "charName":"I", "MesZL":"252","aBZL":"192","LHA":"142","HethZL":"217","transliteration":"pin i","script":"𒄿"},
+{ "recid":1145, "got":"b2c4", "charName":"AMAR (ZUR)", "MesZL":"695","aBZL":"367","LHA":"437","HethZL":"155","transliteration":"pin sur","script":"𒀫"},
+{ "recid":1146, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"piq","script":"𒋝"},
+{ "recid":1147, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"pir","script":"𒌓"},
+{ "recid":1148, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"pir2","script":"𒂟"},
+{ "recid":1149, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"pis","script":"𒄫"},
+{ "recid":1150, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"pisz","script":"𒄫"},
+{ "recid":1151, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","transliteration":"pit","script":"𒂍"},
+{ "recid":1152, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1752", "meaning":"I tie up; tether; II present", "transliteration":"pkr","script":"𒉺𒅗𒊒"},
+{ "recid":1153, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"pld","script":"𒉺𒆷𒁺"},
+{ "recid":1154, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_845", "meaning":"fear; be afraid of; respect; revere", "transliteration":"plh","script":"𒉺𒆷𒄷"},
+{ "recid":1155, "concept":"null", "meaning":"divide off; demarcate", "transliteration":"plk","script":"𒉺𒆷𒆪"},
+{ "recid":1156, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_43", "meaning":"guard; watch over", "transliteration":"pll","script":"𒉺𒆷𒇻"},
+{ "recid":1157, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_629", "meaning":"slaughter; smite; strike down (animal; people)", "transliteration":"plq","script":"𒉺𒆷𒄣"},
+{ "recid":1158, "concept":"null", "meaning":"look at; gaze at; (D) direct vision", "transliteration":"pls","script":"𒉺𒆷𒋢"},
+{ "recid":1159, "concept":"null", "meaning":"fall to the ground; (Š) make prostrate", "transliteration":"plsh","script":"𒈾𒁄𒋢𒈝"},
+{ "recid":1160, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1014", "meaning":"pierce; perforate; puncture", "transliteration":"plsz","script":"𒉺𒆷𒋗"},
+{ "recid":1161, "concept":"null", "meaning":"go past; (N) miss with a weapon", "transliteration":"plt,ʾ","script":"𒈾𒁄𒌈"},
+{ "recid":1162, "concept":"null", "meaning":"be red", "transliteration":"plʾ","script":"𒉿𒇻"},
+{ "recid":1163, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1415", "meaning":"cap; wrap; decorate (D) complete(?)", "transliteration":"png","script":"𒉺𒈾𒄖"},
+{ "recid":1164, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1415", "meaning":"cap; wrap; decorate (D) complete(?)", "transliteration":"pnk","script":"𒉺𒈾𒆪"},
+{ "recid":1165, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"pnn","script":"𒉡𒉡"},
+{ "recid":1166, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2805", "meaning":"face; go in front; go ahead", "transliteration":"pnʾ","script":"𒉺𒉡"},
+{ "recid":1167, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2140", "meaning":"entrust; turn over (to); take care", "transliteration":"pqd","script":"𒉺𒋡𒁺"},
+{ "recid":1168, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_919", "meaning":"claim; lay claim to; arrogate", "transliteration":"pqr","script":"𒉺𒋡𒊒"},
+{ "recid":1169, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"pqʾ","script":"𒉿𒄣"},
+{ "recid":1170, "concept":"null", "meaning":"I be scared; terrified; terrify (in D); II separate; cut off", "transliteration":"prd","script":"𒉺𒊏𒁺"},
+{ "recid":1171, "concept":"null", "meaning":"shine brightly; (Š) illuminate; cheer up (mood; heart)", "transliteration":"prdʾ","script":"𒈾𒌓𒁺"},
+{ "recid":1172, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3635", "meaning":"I lie across; obstruct; forbid access; II ferment (beer)", "transliteration":"prh","script":"𒉺𒊏𒄷"},
+{ "recid":1173, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1201", "meaning":"lie across; bar; forbid access; (D) bring to an end", "transliteration":"prk","script":"𒉺𒊏𒆪"},
+{ "recid":1174, "concept":"null", "meaning":"stop working", "transliteration":"prkʾ","script":"𒈾𒌓𒄣"},
+{ "recid":1175, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2844", "meaning":"hack; rend; shred", "transliteration":"prm","script":"𒉺𒊏𒈬"},
+{ "recid":1176, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1188", "meaning":"divide off; isolate; segregate", "transliteration":"prq","script":"𒉺𒊏𒄣"},
+{ "recid":1177, "concept":"null", "meaning":"lie on back", "transliteration":"prqd","script":"𒈾𒌓𒄣𒌈"},
+{ "recid":1178, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2025", "meaning":"be dissolved; broken up; (D) disperse; scatter; be powerless", "transliteration":"prr","script":"𒉺𒊏𒊒"},
+{ "recid":1179, "concept":"null", "meaning":"spread out", "transliteration":"prrr","script":"𒈾𒌓𒊒𒀸"},
+{ "recid":1180, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; separate; divide; decide", "transliteration":"prs","script":"𒉺𒊏𒋢"},
+{ "recid":1181, "concept":"null", "meaning":"contravene an oath; breach; to tell lies", "transliteration":"prs,","script":"𒉺𒊏𒍮"},
+{ "recid":1182, "concept":"null", "meaning":"fall to the ground; (Š) make prostrate", "transliteration":"prsh","script":"𒈾𒌓𒋢𒈝"},
+{ "recid":1183, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2509", "meaning":"flatter; cajole; hype", "transliteration":"prsz","script":"𒉺𒊏𒋗"},
+{ "recid":1184, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3635", "meaning":"flee", "transliteration":"prszd","script":"𒈾𒌓𒋗𒌈"},
+{ "recid":1185, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1768", "meaning":"grow old; age", "transliteration":"prszm","script":"𒈾𒌓𒋗𒌤"},
+{ "recid":1186, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1251", "meaning":"tear; clear away; flicker", "transliteration":"prt,","script":"𒉺𒊏𒂅"},
+{ "recid":1187, "concept":"null", "meaning":"winnow(?)", "transliteration":"prz","script":"𒉺𒊏𒍪"},
+{ "recid":1188, "concept":"null", "meaning":"make abundant", "transliteration":"przh","script":"𒈾𒌓𒍪𒈝"},
+{ "recid":1189, "concept":"https://www.wikidata.org/wiki/Q41692", "meaning":"speak basely; (D) contaminate", "transliteration":"prʾ","script":"𒉺𒊒"},
+{ "recid":1190, "concept":"null", "meaning":"cut into; (Dtt) crack", "transliteration":"ps,d","script":"𒉺𒍝𒁺"},
+{ "recid":1191, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ps,m","script":"𒉺𒍝𒈬"},
+{ "recid":1192, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3648", "meaning":"withdraw; disappear", "transliteration":"ps,s,","script":"𒉺𒍝𒍮"},
+{ "recid":1193, "concept":"null", "meaning":"become white; become clean", "transliteration":"ps,ʾ","script":"𒉺𒍮"},
+{ "recid":1194, "concept":"null", "meaning":"drive away evil; (N) march on", "transliteration":"psh","script":"𒉺𒊓𒄷"},
+{ "recid":1195, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3208", "meaning":"clear away; clear", "transliteration":"psk","script":"𒄫𒋢𒆪"},
+{ "recid":1196, "concept":"null", "meaning":"turn back; turn around", "transliteration":"psl","script":"𒉺𒊓𒇻"},
+{ "recid":1197, "concept":"null", "meaning":"cover up; (D) veil; disguise (woman)", "transliteration":"psm","script":"𒉺𒊓𒈬"},
+{ "recid":1198, "concept":"null", "meaning":"cover up; (D) veil; disguise (woman)", "transliteration":"psn","script":"𒉺𒊓𒉡"},
+{ "recid":1199, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"psq","script":"𒉺𒊓𒄣"},
+{ "recid":1200, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_929", "meaning":"bring; send; deliver", "transliteration":"psr","script":"𒄫𒋢𒊒"},
+{ "recid":1201, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2983", "meaning":"annihilate; annul; blot; destroy; (Dt) become collapsed", "transliteration":"pss","script":"𒉺𒊓𒋢"},
+{ "recid":1202, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_511", "meaning":"be tranquil; calm; (Š) allow to rest", "transliteration":"pszh","script":"𒉺𒊭𒄷"},
+{ "recid":1203, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_718", "meaning":"doubt; suspect", "transliteration":"pszk","script":"𒉺𒊭𒆪"},
+{ "recid":1204, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3194", "meaning":"creep; crawl; cringe", "transliteration":"pszl","script":"𒉺𒊭𒇻"},
+{ "recid":1205, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1832", "meaning":"yank; pull violently (ears)", "transliteration":"pszn","script":"𒉺𒊭𒉡"},
+{ "recid":1206, "concept":"null", "meaning":"be narrow; difficult", "transliteration":"pszq","script":"𒉺𒊭𒄣"},
+{ "recid":1207, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3645", "meaning":"solve; explain; interpret; release; free", "transliteration":"pszr","script":"𒉺𒊭𒊒"},
+{ "recid":1208, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3237", "meaning":"smear; anoint; grease", "transliteration":"pszsz","script":"𒉺𒊭𒋗"},
+{ "recid":1209, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3668", "meaning":"abrade; delete; efface", "transliteration":"pszt,","script":"𒉺𒊭𒂅"},
+{ "recid":1210, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3729", "meaning":"exhale", "transliteration":"pszʾ","script":"𒉺𒋗"},
+{ "recid":1211, "concept":"null", "meaning":"enclose in fat", "transliteration":"pt,m","script":"𒉺𒁕𒈬"},
+{ "recid":1212, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_764", "meaning":"loosen; untie; solve; redeem", "transliteration":"pt,r","script":"𒉺𒁕𒊒"},
+{ "recid":1213, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1014", "meaning":"pierce; puncture; bore", "transliteration":"pth","script":"𒉺𒋫𒄷"},
+{ "recid":1214, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1090", "meaning":"twine; twist; wind", "transliteration":"ptl","script":"𒉺𒋫𒇻"},
+{ "recid":1215, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_128", "meaning":"be strong; (D) strengthen", "transliteration":"ptn","script":"𒉺𒋫𒉡"},
+{ "recid":1216, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3639", "meaning":"fashion; form; cast", "transliteration":"ptq","script":"𒉺𒋫𒄣"},
+{ "recid":1217, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1969", "meaning":"open; bare; detect; (Št) express openly", "transliteration":"ptʾ","script":"𒉿𒌅"},
+{ "recid":1218, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","concept":"https://www.wikidata.org/wiki/Q9635", "meaning":"mouth", "transliteration":"pu","script":"𒁍"},
+{ "recid":1219, "got":"a2b2c1", "charName":"TÚL (LAGAB×U)", "MesZL":"786","aBZL":"410","LHA":"511","HethZL":"180","transliteration":"pu2","script":"𒇥"},
+{ "recid":1220, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"puh","script":"𒈜"},
+{ "recid":1221, "got":"a2b1c1d1", "charName":"MUG", "MesZL":"12","aBZL":"12","LHA":"3","HethZL":"22","transliteration":"puk","script":"𒈮"},
+{ "recid":1222, "got":"a2b2c3", "charName":"BUL (LAGAB×EŠ)", "MesZL":"788","aBZL":"411","LHA":"515","HethZL":"","transliteration":"pul","script":"𒇧"},
+{ "recid":1223, "got":"a8b2c7d1", "charName":"PÙ (KA×KÁR)", "MesZL":"33","aBZL":"321","LHA":"19","HethZL":"","transliteration":"pum","script":"𒅤"},
+{ "recid":1224, "got":"a1b6c1d1", "charName":"BUR (NÍG-gunû)", "MesZL":"559","aBZL":"223","LHA":"349","HethZL":"245","transliteration":"pur","script":"𒁓"},
+{ "recid":1225, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"pus","script":"𒄫"},
+{ "recid":1226, "transliteration":"put al","script":"𒀠"},
+{ "recid":1227, "got":"a4b5", "charName":"RA", "MesZL":"511","aBZL":"192","LHA":"328","HethZL":"233","transliteration":"puz","script":"𒊏"},
+{ "recid":1228, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_932", "meaning":"conceal; hide", "transliteration":"pzr","script":"𒍪𒊒"},
+{ "recid":1229, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3786", "meaning":"shut in; confine; imprison", "transliteration":"pʾd","script":"𒉺𒁺"},
+{ "recid":1230, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_254", "meaning":"slander; lie", "transliteration":"pʾg","script":"𒉺𒄖"},
+{ "recid":1231, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2410", "meaning":"exchange; (Š) substitute", "transliteration":"pʾh","script":"𒁍𒌋𒄷"},
+{ "recid":1232, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1043", "meaning":"rule; hold sway", "transliteration":"pʾl","script":"𒉿𒀀𒇻"},
+{ "recid":1233, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1100", "meaning":"grind", "transliteration":"pʾn","script":"𒉺𒉡"},
+{ "recid":1234, "concept":"null", "meaning":"be narrow; slight; (D) compress", "transliteration":"pʾq","script":"𒉿𒀀𒄣"},
+{ "recid":1235, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3341", "meaning":"sell; redeem (property); release", "transliteration":"pʾr","script":"𒉺𒊒"},
+{ "recid":1236, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2077", "meaning":"break up; crush (minerals)", "transliteration":"pʾs,","script":"𒉺𒍮"},
+{ "recid":1237, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2077", "meaning":"break up; crush (ingredients)", "transliteration":"pʾsz","script":"𒉺𒋗"},
+{ "recid":1238, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"pʾt","script":"𒉺𒌅"},
+{ "recid":1239, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","concept":"https://www.wikidata.org/wiki/Q45108", "meaning":"flax", "transliteration":"q","script":"𒄣"},
+{ "recid":1240, "got":"a1c1d1", "charName":"SÌLA", "MesZL":"99","aBZL":"269","LHA":"62","HethZL":"21","transliteration":"qa","script":"𒋡"},
+{ "recid":1241, "got":"a1c1d1", "charName":"SÌLA", "MesZL":"99","aBZL":"269","LHA":"62","HethZL":"21","transliteration":"qa'","script":"𒋡"},
+{ "recid":1242, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"qab","script":"𒃮"},
+{ "recid":1243, "got":"a1b5", "charName":"GAL", "MesZL":"553","aBZL":"213","LHA":"343","HethZL":"242","transliteration":"qal","script":"𒃲"},
+{ "recid":1244, "got":"c2", "charName":"GAM", "MesZL":"576","aBZL":"359","LHA":"362","HethZL":"247","transliteration":"qam","script":"𒃵"},
+{ "recid":1245, "got":"a8b2c2d2", "charName":"GAN", "MesZL":"253","aBZL":"120","LHA":"143","HethZL":"113","transliteration":"qan","script":"𒃶"},
+{ "recid":1246, "got":"a8b2c2d2", "charName":"GAN", "MesZL":"253","aBZL":"120","LHA":"143","HethZL":"113","transliteration":"qan tu","script":"𒃶"},
+{ "recid":1247, "got":"a1c1d1", "charName":"GAG (KAK)", "MesZL":"379","aBZL":"260","LHA":"230","HethZL":"75","transliteration":"qaq","script":"𒆕"},
+{ "recid":1248, "got":"b4c2d1", "charName":"GÀR (QAR)", "MesZL":"543","aBZL":"209","LHA":"333","HethZL":"240","transliteration":"qar","script":"𒃼"},
+{ "recid":1249, "got":"a1b5", "charName":"ŠU", "MesZL":"567","aBZL":"225","LHA":"354","HethZL":"68","transliteration":"qat","script":"𒋗"},
+{ "recid":1250, "concept":"null", "meaning":"(Gt) engage in combat", "transliteration":"qbl","script":"𒋡𒁀𒇻"},
+{ "recid":1251, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1399", "meaning":"bury; dig", "transliteration":"qbr","script":"𒋡𒁀𒊒"},
+{ "recid":1252, "concept":"null", "meaning":"(Gt) decay", "transliteration":"qbt","script":"𒋡𒁀𒌅"},
+{ "recid":1253, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2021", "meaning":"speak; say; command; order", "transliteration":"qbʾ","script":"𒋡𒁍"},
+{ "recid":1254, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1251", "meaning":"bow; bend down", "transliteration":"qdd","script":"𒋡𒁕𒁺"},
+{ "recid":1255, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"qdp","script":"𒋡𒁕𒁍"},
+{ "recid":1256, "concept":"null", "meaning":"be(come) pure; (D) purify", "transliteration":"qdsz","script":"𒋡𒁕𒋗"},
+{ "recid":1257, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2888", "meaning":"screech like an owl", "transliteration":"qdʾ","script":"𒋡𒁺"},
+{ "recid":1258, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","transliteration":"qe","script":"𒆥"},
+{ "recid":1259, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"qel","script":"𒆸"},
+{ "recid":1260, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","transliteration":"qer","script":"𒄫"},
+{ "recid":1261, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","transliteration":"qi","script":"𒆥"},
+{ "recid":1262, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"qil","script":"𒆸"},
+{ "recid":1263, "got":"a2b2c1d2", "charName":"GIM (DÍM)", "MesZL":"686","aBZL":"67","LHA":"440","HethZL":"165","transliteration":"qim","script":"𒁶"},
+{ "recid":1264, "got":"a3b5c1d1", "charName":"KIN", "MesZL":"815","aBZL":"447","LHA":"538","HethZL":"47","transliteration":"qin","script":"𒆥"},
+{ "recid":1265, "got":"c3d3", "charName":"GIŠKREUZTGIŠ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"qip","script":"𒄒"},
+{ "recid":1266, "got":"a2b7c5d3", "charName":"KIŠ", "MesZL":"678","aBZL":"291a","LHA":"425","HethZL":"273","transliteration":"qisz","script":"𒆧"},
+{ "recid":1267, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"qit","script":"𒆤"},
+{ "recid":1268, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1919", "meaning":"be small; be light; (D) reduce; (Dt) humiliate", "transliteration":"qll","script":"𒋡𒆷𒇻"},
+{ "recid":1269, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3701", "meaning":"peel; peel off; pare off", "transliteration":"qlp","script":"𒋡𒆷𒁍"},
+{ "recid":1270, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_648", "meaning":"(N) float; glide; (Š) sail downstream", "transliteration":"qlpʾ","script":"𒉈𒆸𒅤"},
+{ "recid":1271, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"qlt","script":"𒆰𒇻𒌅"},
+{ "recid":1272, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"burn; roast; sear; burn to death (as punishment)", "transliteration":"qlʾ","script":"𒋡𒇻"},
+{ "recid":1273, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3555", "meaning":"stand up (of hair)", "transliteration":"qmm","script":"𒋡𒈠𒈬"},
+{ "recid":1274, "concept":"null", "meaning":"strap(?)", "transliteration":"qmr","script":"𒋡𒈠𒊒"},
+{ "recid":1275, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"qmsz","script":"𒄣𒈬𒋗"},
+{ "recid":1276, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"burn; cauterize; destroy (cities; enemies; people)", "transliteration":"qmʾ","script":"𒋡𒈬"},
+{ "recid":1277, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2891", "meaning":"nest; make a nest; nestle", "transliteration":"qnn","script":"𒋡𒈾𒉡"},
+{ "recid":1278, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"qnp","script":"𒆲𒉡𒁍"},
+{ "recid":1279, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2014", "meaning":"acquire; buy; gain", "transliteration":"qnʾ","script":"𒋡𒉡"},
+{ "recid":1280, "concept":"null", "meaning":"wind up; roll up (reed mat)", "transliteration":"qpl","script":"𒋡𒉺𒇻"},
+{ "recid":1281, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_243", "meaning":"brood; incubate; sit", "transliteration":"qpp","script":"𒋡𒉺𒁍"},
+{ "recid":1282, "concept":"null", "meaning":"turn upward", "transliteration":"qpʾ","script":"𒋡𒁍"},
+{ "recid":1283, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1695", "meaning":"become near; approach", "transliteration":"qrb","script":"𒋡𒊏𒁍"},
+{ "recid":1284, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_875", "meaning":"be warlike; be courageous; (D) strengthen; encourage", "transliteration":"qrd","script":"𒋡𒊏𒁺"},
+{ "recid":1285, "concept":"null", "meaning":"be frozen; freeze (intr.)", "transliteration":"qrh","script":"𒋡𒊏𒄷"},
+{ "recid":1286, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909", "meaning":"cover; overlay", "transliteration":"qrm","script":"𒋡𒊏𒈬"},
+{ "recid":1287, "concept":"null", "meaning":"stack up; pile on; (Št) heap up goods", "transliteration":"qrn","script":"𒋡𒊏𒉡"},
+{ "recid":1288, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2640", "meaning":"chuckle; clack", "transliteration":"qrq","script":"𒋡𒊏𒄣"},
+{ "recid":1289, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_156", "meaning":"writhe; grovel; undulate; be wavy; drip (D)", "transliteration":"qrr","script":"𒋡𒊏𒊒"},
+{ "recid":1290, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3598", "meaning":"I carve; trim; chop up (wood; meat); (D) knock down; II move towards", "transliteration":"qrsz","script":"𒋡𒊏𒋗"},
+{ "recid":1291, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_512", "meaning":"call; invite (people to deity for something)", "transliteration":"qrʾ","script":"𒋡𒊒"},
+{ "recid":1292, "concept":"null", "meaning":"be(come) pure; (D) purify", "transliteration":"qszd","script":"𒋡𒊭𒁺"},
+{ "recid":1293, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"pluck; pick off (fruit); enjoy sexual charms", "transliteration":"qt,p","script":"𒋡𒁕𒁍"},
+{ "recid":1294, "concept":"null", "meaning":"come up", "transliteration":"qt,ʾ","script":"𒋡𒂅"},
+{ "recid":1295, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"kill", "transliteration":"qtl","script":"𒋡𒋫𒇻"},
+{ "recid":1296, "concept":"null", "meaning":"be thin; be fine; (D) make thin", "transliteration":"qtn","script":"𒋡𒋫𒉡"},
+{ "recid":1297, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"pluck; pick off (fruit); enjoy sexual charms", "transliteration":"qtp","script":"𒋡𒋫𒁍"},
+{ "recid":1298, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2556", "meaning":"smoke; reek; steam; (Dt) blacken; darken", "transliteration":"qtr","script":"𒋡𒋫𒊒"},
+{ "recid":1299, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2436", "meaning":"end; finish; (D) bring to an end", "transliteration":"qtʾ","script":"𒋡𒌅"},
+{ "recid":1300, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","concept":"https://www.wikidata.org/wiki/Q45108", "meaning":"flax", "transliteration":"qu","script":"𒄣"},
+{ "recid":1301, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"qu'","script":"𒄣"},
+{ "recid":1302, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"qu?","script":"𒄣"},
+{ "recid":1303, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"qub","script":"𒁺"},
+{ "recid":1304, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"qud","script":"𒋻"},
+{ "recid":1305, "got":"b2c3", "charName":"NUMUN", "MesZL":"117","aBZL":"26","LHA":"72","HethZL":"12","transliteration":"qul","script":"𒆰"},
+{ "recid":1306, "got":"a2b4c4", "charName":"KUM (GUM)", "MesZL":"339","aBZL":"138","LHA":"191","HethZL":"120","transliteration":"qum","script":"𒄣"},
+{ "recid":1307, "got":"a5b2c2d2", "charName":"KUN", "MesZL":"131","aBZL":"32","LHA":"77","HethZL":"35","transliteration":"qun","script":"𒆲"},
+{ "recid":1308, "got":"a2b2", "charName":"GUR", "MesZL":"180","aBZL":"92","LHA":"111","HethZL":"185","transliteration":"qur","script":"𒄥"},
+{ "recid":1309, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"qut","script":"𒋻"},
+{ "recid":1310, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","concept":"null", "meaning":"await for", "transliteration":"qwʾ","script":"𒉿"},
+{ "recid":1311, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3799", "meaning":"fall down; collapse; (D) collapse something completely", "transliteration":"qʾb","script":"𒋡𒁍"},
+{ "recid":1312, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3461", "meaning":"ignite; kindle; burn", "transliteration":"qʾd","script":"𒋡𒁺"},
+{ "recid":1313, "concept":"null", "meaning":"be silent; be attentive", "transliteration":"qʾl","script":"𒋡𒇻"},
+{ "recid":1314, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1884", "meaning":"fall down; collapse; (D) collapse something completely", "transliteration":"qʾp","script":"𒋡𒁍"},
+{ "recid":1315, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2959", "meaning":"grant; bestow; present", "transliteration":"qʾsz","script":"𒋡𒋗"},
+{ "recid":1316, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_546", "meaning":"wait on; await; wait", "transliteration":"qʾʾ","script":"𒋡𒌋"},
+{ "recid":1317, "got":"b2c2d2", "charName":"RU", "MesZL":"111","aBZL":"60","LHA":"68","HethZL":"43","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_356", "meaning":"9. to lead away", "transliteration":"r","script":"𒊒"},
+{ "recid":1318, "got":"a4b5", "charName":"RA", "MesZL":"511","aBZL":"192","LHA":"328","HethZL":"233","transliteration":"ra","script":"𒊏"},
+{ "recid":1319, "got":"a3", "charName":"A", "MesZL":"839","aBZL":"470","LHA":"579","HethZL":"364; 365","transliteration":"ra a","script":"𒀀"},
+{ "recid":1320, "transliteration":"ra10","script":"₁"},
+{ "recid":1321, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"ra2","script":"𒁺"},
+{ "recid":1322, "got":"a2b2", "charName":"ŠÌTA (RAD)", "MesZL":"139","aBZL":"38","LHA":"83","HethZL":"29","transliteration":"ra4","script":"𒋥"},
+{ "recid":1323, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","transliteration":"ra5","script":"𒁍"},
+{ "recid":1324, "got":"a1b9", "charName":"RAB", "MesZL":"262","aBZL":"221b","LHA":"149","HethZL":"","transliteration":"rab","script":"𒊐"},
+{ "recid":1325, "got":"a2b2", "charName":"ŠÌTA (RAD)", "MesZL":"139","aBZL":"38","LHA":"83","HethZL":"29","transliteration":"rad","script":"𒋥"},
+{ "recid":1326, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"rag","script":"𒊩"},
+{ "recid":1327, "got":"a4b4", "charName":"LUḪ", "MesZL":"494","aBZL":"196","LHA":"321","HethZL":"198","transliteration":"rah","script":"𒈛"},
+{ "recid":1328, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"rak","script":"𒊩"},
+{ "recid":1329, "got":"a1b8c6", "charName":"ÁG (NÍNDA×NE)", "MesZL":"326","aBZL":"136","LHA":"183","HethZL":"121","transliteration":"ram","script":"𒉘"},
+{ "recid":1330, "got":"a5b7", "charName":"LA", "MesZL":"89","aBZL":"177","LHA":"55","HethZL":"95","transliteration":"ran la","script":"𒆷"},
+{ "recid":1331, "got":"c10", "charName":"ŠE", "MesZL":"579","aBZL":"378","LHA":"367","HethZL":"338","transliteration":"ran sze","script":"𒊺"},
+{ "recid":1332, "got":"a1b9", "charName":"RAB", "MesZL":"262","aBZL":"221b","LHA":"149","HethZL":"","transliteration":"rap","script":"𒊐"},
+{ "recid":1333, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"raq","script":"𒊩"},
+{ "recid":1334, "got":"c2d2", "charName":"KASKAL", "MesZL":"302","aBZL":"271","LHA":"166","HethZL":"259","transliteration":"rasz","script":"𒆜"},
+{ "recid":1335, "got":"a2b1c1d1", "charName":"TUK (TUG)", "MesZL":"827","aBZL":"444","LHA":"574","HethZL":"53","transliteration":"rasz2","script":"𒌇"},
+{ "recid":1336, "got":"a2b2", "charName":"ŠÌTA (RAD)", "MesZL":"139","aBZL":"38","LHA":"83","HethZL":"29","transliteration":"rat,","script":"𒋥"},
+{ "recid":1337, "concept":"null", "meaning":"be weak; submissive; soft; feeble; (D) make submit; make obedient", "transliteration":"rbb","script":"𒊏𒁀𒁍"},
+{ "recid":1338, "concept":"null", "meaning":"decoct; boil away (wine; drugs)", "transliteration":"rbk","script":"𒊏𒁀𒆪"},
+{ "recid":1339, "concept":"null", "meaning":"(meaning unknown); of cattle?", "transliteration":"rbq","script":"𒊏𒁀𒄣"},
+{ "recid":1340, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1618", "meaning":"beat", "transliteration":"rbs","script":"𒊏𒁀𒋢"},
+{ "recid":1341, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_992", "meaning":"lie down; lie in wait (for); camp; (Gtn) ~ regularly", "transliteration":"rbs,","script":"𒊏𒁀𒍮"},
+{ "recid":1342, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3479", "meaning":"protest; raise objections", "transliteration":"rbsz","script":"𒊏𒁀𒋗"},
+{ "recid":1343, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_916", "meaning":"set (of heavenly body); (D) submerge", "transliteration":"rbʾ","script":"𒊏𒁍"},
+{ "recid":1344, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2321", "meaning":"chase; drive away; pursue (people; army)", "transliteration":"rdd","script":"𒊏𒁕𒁺"},
+{ "recid":1345, "concept":"null", "meaning":"(meaning unknown); (Š) cause liquid to flow", "transliteration":"rdm","script":"𒊏𒁕𒈬"},
+{ "recid":1346, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_377", "meaning":"pursue; persecute", "transliteration":"rdp","script":"𒊏𒁕𒁍"},
+{ "recid":1347, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2134", "meaning":"lead; accompany; escort; (D) make additional payment; (Š) make convoy", "transliteration":"rdʾ","script":"𒊑𒁺"},
+{ "recid":1348, "got":"a3b1c1", "charName":"RI", "MesZL":"142","aBZL":"39","LHA":"86","HethZL":"32","transliteration":"re","script":"𒊑"},
+{ "recid":1349, "concept":"https://www.wikidata.org/wiki/Q81710", "meaning":"a shepherd", "transliteration":"re u","script":"𒊑𒌋"},
+{ "recid":1350, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"req","script":"𒋆"},
+{ "recid":1351, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"resz","script":"𒊕"},
+{ "recid":1352, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2079", "meaning":"furnish", "transliteration":"rgb","script":"𒊿𒄖𒁍"},
+{ "recid":1353, "concept":"null", "meaning":"be mischievous; bad", "transliteration":"rgg","script":"𒊏𒂵𒄖"},
+{ "recid":1354, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3282", "meaning":"cry (out); shout; claim; make a legal complaint; (Gt) ~ against each other", "transliteration":"rgm","script":"𒊏𒂵𒈬"},
+{ "recid":1355, "concept":"null", "meaning":"be aware; be in commotion; (N) be excited or disturbed", "transliteration":"rgsz","script":"𒊏𒂵𒋗"},
+{ "recid":1356, "concept":"null", "meaning":"make false claim", "transliteration":"rgʾ","script":"𒊿𒄖"},
+{ "recid":1357, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_841", "meaning":"quake; tremble; shake (in anger)", "transliteration":"rhb","script":"𒊒𒀀𒁍"},
+{ "recid":1358, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3906", "meaning":"mix", "transliteration":"rhh","script":"𒊏𒄩𒄷"},
+{ "recid":1359, "concept":"null", "meaning":"(meaning uncertain) ~ with malt", "transliteration":"rhp","script":"𒈛𒄷𒁍"},
+{ "recid":1360, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_323", "meaning":"be confident; trust", "transliteration":"rhs,","script":"𒊏𒄩𒍮"},
+{ "recid":1361, "concept":"null", "meaning":"be in motion", "transliteration":"rhsz","script":"𒊏𒄩𒋗"},
+{ "recid":1362, "concept":"null", "meaning":"(meaning unknown) ~ of stone", "transliteration":"rht","script":"𒊏𒄩𒌅"},
+{ "recid":1363, "concept":"null", "meaning":"(meaning unknown) ~ of stone", "transliteration":"rht,","script":"𒊏𒄩𒂅"},
+{ "recid":1364, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_213", "meaning":"pour in; ejaculate; impregnate; have sexual intercourse; (Gt) sprinkle; (Gtn) affect repeatedly", "transliteration":"rhʾ","script":"𒊑𒄷"},
+{ "recid":1365, "got":"a3b1c1", "charName":"RI", "MesZL":"142","aBZL":"39","LHA":"86","HethZL":"32","concept":"null", "meaning":"10.", "transliteration":"ri","script":"𒊑"},
+{ "recid":1366, "got":"b4c3d2", "charName":"NA", "MesZL":"110","aBZL":"24","LHA":"70","HethZL":"15","transliteration":"ri na","script":"𒈾"},
+{ "recid":1367, "transliteration":"ri16","script":"₁"},
+{ "recid":1368, "transliteration":"ri17","script":"₁"},
+{ "recid":1369, "got":"a3b3", "charName":"URU (IRI)", "MesZL":"71","aBZL":"181","LHA":"38","HethZL":"229","transliteration":"ri2","script":"𒌷"},
+{ "recid":1370, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"ri3","script":"𒆸"},
+{ "recid":1371, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"ri6","script":"𒁺"},
+{ "recid":1372, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"rib","script":"𒆗"},
+{ "recid":1373, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"rig","script":"𒋆"},
+{ "recid":1374, "concept":"null", "meaning":"concoction; infusion", "transliteration":"rig10","script":"𒉺𒁖"},
+{ "recid":1375, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"rig2","script":"𒍮"},
+{ "recid":1376, "got":"a4b4", "charName":"LUḪ", "MesZL":"494","aBZL":"196","LHA":"321","HethZL":"198","transliteration":"rih","script":"𒈛"},
+{ "recid":1377, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"rik","script":"𒋆"},
+{ "recid":1378, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"rim","script":"𒆸"},
+{ "recid":1379, "got":"a2b2", "charName":"LAGAB", "MesZL":"755","aBZL":"402","LHA":"483","HethZL":"179","transliteration":"rin","script":"𒆸"},
+{ "recid":1380, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"rip","script":"𒆗"},
+{ "recid":1381, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"riq","script":"𒋆"},
+{ "recid":1382, "got":"a3b1c1", "charName":"RI", "MesZL":"142","aBZL":"39","LHA":"86","HethZL":"32","transliteration":"rir","script":"𒊑"},
+{ "recid":1383, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"ris","script":"𒊕"},
+{ "recid":1384, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"risz","script":"𒊕"},
+{ "recid":1385, "got":"a8b4", "charName":"MES (RID)", "MesZL":"486","aBZL":"112a","LHA":"314","HethZL":"112","transliteration":"rit","script":"𒈩"},
+{ "recid":1386, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3565", "meaning":"pasture; (N) be herded", "transliteration":"rjʾ","script":"𒊑𒌝"},
+{ "recid":1387, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2996", "meaning":"ride; mount; surmount; ride (sexually); (D) fertilize; (Š) load cargo", "transliteration":"rkb","script":"𒊏𒅗𒁍"},
+{ "recid":1388, "concept":"null", "meaning":"(meaning unknown) ~ temple", "transliteration":"rkk","script":"𒊏𒅗𒆪"},
+{ "recid":1389, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"rkn","script":"𒊏𒅗𒉡"},
+{ "recid":1390, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2996", "meaning":"ride; mount; surmount; ride (sexually); (D) fertilize; (Š) load cargo", "transliteration":"rkp","script":"𒊏𒅗𒁍"},
+{ "recid":1391, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"bind; tie; prepare; (N) be attached", "transliteration":"rks","script":"𒊏𒅗𒋢"},
+{ "recid":1392, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"bind; tie; prepare; (N) be attached", "transliteration":"rksz","script":"𒊏𒅗𒋗"},
+{ "recid":1393, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_444", "meaning":"bathe; wash oneself; (Gt) drench; (Š) cause to ~", "transliteration":"rmk","script":"𒊏𒈠𒆪"},
+{ "recid":1394, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_176", "meaning":"roar; rumble (battle; storm; living entities; buildings)", "transliteration":"rmm","script":"𒊏𒈠𒈬"},
+{ "recid":1395, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2341", "meaning":"mount; enclose", "transliteration":"rms,","script":"𒊏𒈠𒍮"},
+{ "recid":1396, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2629", "meaning":"be loose; be limp; slacken; abandon", "transliteration":"rmʾ","script":"𒊏𒈬"},
+{ "recid":1397, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_173", "meaning":"roam; run away; wander; (D) keep moving", "transliteration":"rpd","script":"𒊏𒉺𒁺"},
+{ "recid":1398, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1862", "meaning":"hoe; fix; nail; rivet; secure; (D) fasten", "transliteration":"rpq","script":"𒊏𒉺𒄣"},
+{ "recid":1399, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3026", "meaning":"beat together; clap; thresh grain", "transliteration":"rps","script":"𒊏𒉺𒋢"},
+{ "recid":1400, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3794", "meaning":"be(come) broad; wide; (D) give or define width; (Dt) be extended", "transliteration":"rpsz","script":"𒊏𒉺𒋗"},
+{ "recid":1401, "concept":"null", "meaning":"(meaning unknown) ~ medicine", "transliteration":"rpt","script":"𒊏𒉺𒌅"},
+{ "recid":1402, "concept":"null", "meaning":"(meaning unknown) ~ medicine", "transliteration":"rpt,","script":"𒊏𒉺𒂅"},
+{ "recid":1403, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_493", "meaning":"heal", "transliteration":"rpʾ","script":"𒊏𒁍"},
+{ "recid":1404, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_223", "meaning":"decay", "transliteration":"rqb","script":"𒊏𒋡𒁍"},
+{ "recid":1405, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_435", "meaning":"dance; skip; hop; (D) make ~", "transliteration":"rqd","script":"𒊏𒋡𒁺"},
+{ "recid":1406, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3740", "meaning":"floor; lay a floor", "transliteration":"rqp","script":"𒊏𒋡𒁍"},
+{ "recid":1407, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3015", "meaning":"be thin; fine; be sparse; (Gtn) become even thinner; (D) roll out thin", "transliteration":"rqq","script":"𒊏𒋡𒄣"},
+{ "recid":1408, "concept":"null", "meaning":"make perfume; add aromatics to oil", "transliteration":"rqʾ","script":"𒊿𒄣"},
+{ "recid":1409, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_647", "meaning":"spy; watch undetected; eavesdrop?", "transliteration":"rs,d","script":"𒊏𒍝𒁺"},
+{ "recid":1410, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_556", "meaning":"be powerful; awesome (of voice); make a loud noise", "transliteration":"rs,n","script":"𒊏𒍝𒉡"},
+{ "recid":1411, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2214", "meaning":"smite; strike down; trash; fell (criminals; enemies)", "transliteration":"rs,p","script":"𒊏𒍝𒁍"},
+{ "recid":1412, "concept":"null", "meaning":"give house (as a payment for something)", "transliteration":"rs,ʾ","script":"𒊏𒍮"},
+{ "recid":1413, "concept":"null", "meaning":"smite; strike down; trash; fell (criminals; enemies)", "transliteration":"rsb","script":"𒊏𒊓𒁍"},
+{ "recid":1414, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_556", "meaning":"soak; steep; brew", "transliteration":"rsn","script":"𒊏𒊓𒉡"},
+{ "recid":1415, "concept":"null", "meaning":"smite; strike down; trash; fell (criminals; enemies)", "transliteration":"rsp","script":"𒊏𒊓𒁍"},
+{ "recid":1416, "concept":"null", "meaning":"smite; strike down; trash; fell (criminals; enemies)", "transliteration":"rszb","script":"𒊏𒊭𒁍"},
+{ "recid":1417, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2773", "meaning":"found; (Š) lay foundations", "transliteration":"rszd","script":"𒊏𒊭𒁺"},
+{ "recid":1418, "concept":"null", "meaning":"dry out (intrans.)", "transliteration":"rszk","script":"𒊏𒊭𒆪"},
+{ "recid":1419, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2193", "meaning":"to glow; radiate (with heat); (D) heat up (kiln; oven)", "transliteration":"rszsz","script":"𒊏𒊭𒋗"},
+{ "recid":1420, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1650", "meaning":"slacken; weaken; (D) mistreat; (Dtn) ~ repeatedly", "transliteration":"rszʾ","script":"𒊏𒋗"},
+{ "recid":1421, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","concept":"null", "meaning":"dissolve (by witchcraft; sorcery)", "transliteration":"rsʾ","script":"𒋢"},
+{ "recid":1422, "concept":"null", "meaning":"be moist; damp; be wet; damp; (D) moisten", "transliteration":"rt,b","script":"𒊏𒁕𒁍"},
+{ "recid":1423, "concept":"null", "meaning":"begin work; have sexual intercourse", "transliteration":"rt,p","script":"𒊏𒁕𒁍"},
+{ "recid":1424, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"rth","script":"𒌅𒄷"},
+{ "recid":1425, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_934", "meaning":"whisper; stammer; mumble", "transliteration":"rtm","script":"𒊏𒋫𒈬"},
+{ "recid":1426, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_934", "meaning":"whisper; stammer; mumble", "transliteration":"rtn","script":"𒊏𒋫𒉡"},
+{ "recid":1427, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2854", "meaning":"shiver; tremble; vibrate (of body)", "transliteration":"rtt","script":"𒊏𒋫𒌅"},
+{ "recid":1428, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3010", "meaning":"rig; drive in; set in; fix in place; (N) be fastened", "transliteration":"rtʾ","script":"𒊑𒌅"},
+{ "recid":1429, "got":"b2c2d2", "charName":"RU", "MesZL":"111","aBZL":"60","LHA":"68","HethZL":"43","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_356", "meaning":"9. to lead away", "transliteration":"ru","script":"𒊒"},
+{ "recid":1430, "got":"a2b4c2d2", "charName":"GUR8 (TE-gunû)", "MesZL":"88","aBZL":"283","LHA":"58","HethZL":"315","transliteration":"ru10","script":"𒋽"},
+{ "recid":1431, "got":"a8b3c2", "charName":"URU×KÁR", "MesZL":"74","aBZL":"187","LHA":"43v","HethZL":"","transliteration":"ru11","script":"𒌾"},
+{ "recid":1432, "got":"a6b3", "charName":"URU×A", "MesZL":"81","aBZL":"","LHA":"46xxx","HethZL":"","transliteration":"ru14","script":"𒌸"},
+{ "recid":1433, "transliteration":"ru18","script":"₁"},
+{ "recid":1434, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","transliteration":"ru3","script":"𒀸"},
+{ "recid":1435, "got":"a3b3c2d2", "charName":"ÚRU (URU×UD)", "MesZL":"77","aBZL":"","LHA":"43","HethZL":"","transliteration":"ru4","script":"𒍍"},
+{ "recid":1436, "got":"a1b2c2d1", "charName":"UL (DU7)", "MesZL":"698","aBZL":"344","LHA":"441","HethZL":"275","transliteration":"ru5","script":"𒌌"},
+{ "recid":1437, "got":"b2c2d2", "charName":"RU", "MesZL":"111","aBZL":"60","LHA":"68","HethZL":"43","transliteration":"ru?","script":"𒊒"},
+{ "recid":1438, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"rub","script":"𒆗"},
+{ "recid":1439, "got":"a2b2", "charName":"ŠÌTA (RAD)", "MesZL":"139","aBZL":"38","LHA":"83","HethZL":"29","transliteration":"rud","script":"𒋥"},
+{ "recid":1440, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"rug","script":"𒊿"},
+{ "recid":1441, "got":"a4b4", "charName":"LUḪ", "MesZL":"494","aBZL":"196","LHA":"321","HethZL":"198","transliteration":"ruh","script":"𒈛"},
+{ "recid":1442, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"ruk","script":"𒊿"},
+{ "recid":1443, "got":"b1", "charName":"AŠ", "MesZL":"1","aBZL":"1","LHA":"1","HethZL":"1","transliteration":"rum","script":"𒀸"},
+{ "recid":1444, "got":"a1c3d1", "charName":"NIM", "MesZL":"690","aBZL":"355","LHA":"433","HethZL":"74","transliteration":"rum3","script":"𒉏"},
+{ "recid":1445, "got":"a2c6d5", "charName":"LUL (NAR)", "MesZL":"570","aBZL":"296","LHA":"355","HethZL":"19; 351","transliteration":"rup lib","script":"𒈜"},
+{ "recid":1446, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"ruq","script":"𒊿"},
+{ "recid":1447, "transliteration":"rusz4","script":"š"},
+{ "recid":1448, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3565", "meaning":"pasture; (N) be herded", "transliteration":"rwʾ","script":"𒊑𒌝"},
+{ "recid":1449, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3412", "meaning":"(N) make off; scram; depart", "transliteration":"rzʾ","script":"𒊏𒍪"},
+{ "recid":1450, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2258", "meaning":"restore; replace; make up for; requite; (D) recompensate", "transliteration":"rʾb","script":"𒊏𒁍"},
+{ "recid":1451, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_841", "meaning":"quake; shake; tremble", "transliteration":"rʾd","script":"𒊏𒁺"},
+{ "recid":1452, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_326", "meaning":"remain; be left over; (D) allow to remain; (Š) spare", "transliteration":"rʾh","script":"𒊑𒀀𒄷"},
+{ "recid":1453, "concept":"null", "meaning":"pour out; (D ~ G)", "transliteration":"rʾk","script":"𒊏𒆪"},
+{ "recid":1454, "concept":"null", "meaning":"strike off (hands; wings?)", "transliteration":"rʾm","script":"𒊒𒌋𒈬"},
+{ "recid":1455, "concept":"null", "meaning":"be distant; be profound", "transliteration":"rʾq","script":"𒊒𒀀𒄣"},
+{ "recid":1456, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2323", "meaning":"strike; impact (of meteor); (D) smite enemy lands", "transliteration":"rʾs","script":"𒊏𒋢"},
+{ "recid":1457, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_145", "meaning":"rush to aid; help; reinforce (in battle)", "transliteration":"rʾs,","script":"𒊏𒍮"},
+{ "recid":1458, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2323", "meaning":"rejoice; exult; (Gtn) ~ constantly", "transliteration":"rʾsz","script":"𒊏𒋗"},
+{ "recid":1459, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"rʾt,","script":"𒊏𒂅"},
+{ "recid":1460, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3727", "meaning":"inlay; embed? with carnelian", "transliteration":"rʾz","script":"𒊏𒀀𒍪"},
+{ "recid":1461, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3565", "meaning":"pasture; feed (animals)", "transliteration":"rʾʾ","script":"𒊑𒌋"},
+{ "recid":1462, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"s","script":"𒍮"},
+{ "recid":1463, "concept":"null", "meaning":"flutter (about); (D) spread wings; (Š) teach young birds to spread wings", "transliteration":"s,bb","script":"𒍝𒁀𒁍"},
+{ "recid":1464, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185", "meaning":"carry; haul; transport", "transliteration":"s,bl","script":"𒍝𒁀𒇻"},
+{ "recid":1465, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2013", "meaning":"twinkle; blink; (Š) cause to spread news", "transliteration":"s,br","script":"𒍝𒁀𒊒"},
+{ "recid":1466, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2838", "meaning":"seize; grasp; clasp; grip; (D) enclose; (St2) make to gather; (N) litigate", "transliteration":"s,bt","script":"𒍝𒁀𒌅"},
+{ "recid":1467, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2838", "meaning":"seize; grasp; clasp; grip; (D) enclose; (St2) make to gather; (N) litigate", "transliteration":"s,bt,","script":"𒍝𒁀𒂅"},
+{ "recid":1468, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_993", "meaning":"wish; desire; (Gtn) have chronic urge (of intestines) to pass water", "transliteration":"s,bʾ","script":"𒍝𒁍"},
+{ "recid":1469, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3552", "meaning":"squint; twitch; blink; slant; be crooked; (D) make squint", "transliteration":"s,dr","script":"𒍝𒁕𒊒"},
+{ "recid":1470, "concept":"null", "meaning":"receive as sustenance; (D) supply with food", "transliteration":"s,dʾ","script":"𒍝𒁺"},
+{ "recid":1471, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1919", "meaning":"be small; be young; (D) deplete; reduce", "transliteration":"s,hr","script":"𒍝𒄩𒊒"},
+{ "recid":1472, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_966", "meaning":"press (out); squeeze (wine; oil; juice); blackmail", "transliteration":"s,ht","script":"𒍝𒄩𒌅"},
+{ "recid":1473, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3519", "meaning":"lie asleep; fall asleep; remain inactive; lie (sexually)", "transliteration":"s,ll","script":"𒍝𒆷𒇻"},
+{ "recid":1474, "concept":"null", "meaning":"be black; (D) blacken; (Dt) become obscured (of planets; stars)", "transliteration":"s,lm","script":"𒍝𒆷𒈬"},
+{ "recid":1475, "concept":"null", "meaning":"cut (at an angle); dissect; dissect; (D) cut into portions", "transliteration":"s,lp","script":"𒍝𒆷𒁍"},
+{ "recid":1476, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_773", "meaning":"fight; object", "transliteration":"s,lʾ","script":"𒍢𒇻"},
+{ "recid":1477, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3386", "meaning":"hitch; make ready; yoke; harness; (Š) hitch horse to chariot", "transliteration":"s,md","script":"𒍝𒈠𒁺"},
+{ "recid":1478, "concept":"null", "meaning":"(meaning unclear)", "transliteration":"s,mn","script":"𒍮𒈬𒉡"},
+{ "recid":1479, "concept":"null", "meaning":"swell up; be swollen", "transliteration":"s,mr","script":"𒍢𒈨𒊒"},
+{ "recid":1480, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3434", "meaning":"sell; transfer property", "transliteration":"s,mt","script":"𒍝𒈠𒌅"},
+{ "recid":1481, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_325", "meaning":"become thirsty", "transliteration":"s,mʾ","script":"𒍝𒈬"},
+{ "recid":1482, "concept":"null", "meaning":"excrete; have diarrhea", "transliteration":"s,nh","script":"𒍝𒈾𒄷"},
+{ "recid":1483, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1440", "meaning":"disperse; ruin; destroy; catter; spill; (D) squander", "transliteration":"s,ph","script":"𒍝𒉺𒄷"},
+{ "recid":1484, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3847", "meaning":"rescue; recover; shelter", "transliteration":"s,pn","script":"𒍝𒉺𒉡"},
+{ "recid":1485, "concept":"null", "meaning":"flutter (about); (D) spread wings; (Š) teach young birds to spread wings", "transliteration":"s,pp","script":"𒍝𒉺𒁍"},
+{ "recid":1486, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3727", "meaning":"press down; inlay; inset; wink (eye)", "transliteration":"s,pr","script":"𒍝𒉺𒊒"},
+{ "recid":1487, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_556", "meaning":"soak; drench; color; tinge", "transliteration":"s,pʾ","script":"𒍝𒁍"},
+{ "recid":1488, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3157", "meaning":"fart; break wind; (D) fart chronically", "transliteration":"s,rd","script":"𒍝𒊏𒁺"},
+{ "recid":1489, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_549", "meaning":"flare up; flash; scud; (Š) make lightning", "transliteration":"s,rh","script":"𒍝𒊏𒄷"},
+{ "recid":1490, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_985", "meaning":"disembowel; gut", "transliteration":"s,rk","script":"𒍝𒊏𒆪"},
+{ "recid":1491, "concept":"null", "meaning":"endeavor; make an effort", "transliteration":"s,rm","script":"𒍝𒊏𒈬"},
+{ "recid":1492, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"I refine (metals); fire or bake (bricks); dye (red); (D ~ G) torture by burning", "transliteration":"s,rp","script":"𒍝𒊏𒁍"},
+{ "recid":1493, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3502", "meaning":"drip; ooze; trickle; (D) drip liquid", "transliteration":"s,rr","script":"𒍝𒊏𒊒"},
+{ "recid":1494, "concept":"null", "meaning":"(meaning unknown); (D) spread out; make rays of light", "transliteration":"s,rsz","script":"𒍝𒊏𒋗"},
+{ "recid":1495, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3157", "meaning":"fart; break wind; (D) fart chronically", "transliteration":"s,rt","script":"𒍝𒊏𒌅"},
+{ "recid":1496, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_288", "meaning":"melt (down); fuse; (D) refine", "transliteration":"s,ʾd","script":"𒍮𒀀𒁺"},
+{ "recid":1497, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_286", "meaning":"laugh; smile; cry; (D) amuse", "transliteration":"s,ʾh","script":"𒍢𒀀𒄷"},
+{ "recid":1498, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"s,ʾj","script":"𒍢"},
+{ "recid":1499, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_773", "meaning":"fight; contradict; object; (Š) put into conflict", "transliteration":"s,ʾl","script":"𒍝𒇻"},
+{ "recid":1500, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_486", "meaning":"fill up with liquid", "transliteration":"s,ʾn","script":"𒍢𒂊𒉡"},
+{ "recid":1501, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"s,ʾp","script":"𒍮𒌋𒁍"},
+{ "recid":1502, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3166", "meaning":"spread out; widen", "transliteration":"s,ʾr","script":"𒍢𒂊𒊒"},
+{ "recid":1503, "concept":"null", "meaning":"repulse; rout; repel (horses; chariots)", "transliteration":"s,ʾʾ","script":"𒍢𒌋"},
+{ "recid":1504, "got":"a4", "charName":"ZA", "MesZL":"851","aBZL":"474","LHA":"586","HethZL":"366","transliteration":"sa","script":"𒍝"},
+{ "recid":1505, "transliteration":"sa'","script":"ṣ"},
+{ "recid":1506, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"sa2","script":"𒁲"},
+{ "recid":1507, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_132", "meaning":"(to be) red; brown", "transliteration":"sa5","script":"𒋛𒀀"},
+{ "recid":1508, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"sab","script":"𒂟"},
+{ "recid":1509, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"sad","script":"𒆳"},
+{ "recid":1510, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"sag","script":"𒊕"},
+{ "recid":1511, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2323", "meaning":"weave", "transliteration":"sag2","script":"𒉺𒃶"},
+{ "recid":1512, "got":"a1b2", "charName":"PA", "MesZL":"464","aBZL":"143","LHA":"295","HethZL":"174","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2025", "meaning":"to kill; to beat", "transliteration":"sag3","script":"𒉺"},
+{ "recid":1513, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","concept":"null", "meaning":"(to be) rare; precious", "transliteration":"sag8","script":"𒆗"},
+{ "recid":1514, "got":"a14b6c2", "charName":"SA6", "MesZL":"571","aBZL":"228","LHA":"356","HethZL":"70","concept":"null", "meaning":"goodness; good", "transliteration":"sag9","script":"𒊷"},
+{ "recid":1515, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"sah","script":"𒆤"},
+{ "recid":1516, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"sak","script":"𒊕"},
+{ "recid":1517, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"sal","script":"𒊩"},
+{ "recid":1518, "got":"a1c1d1", "charName":"SÌLA", "MesZL":"99","aBZL":"269","LHA":"62","HethZL":"21","transliteration":"sal4","script":"𒋡"},
+{ "recid":1519, "got":"a4b2", "charName":"Ú", "MesZL":"490","aBZL":"146","LHA":"318","HethZL":"195","transliteration":"sam","script":"𒌑"},
+{ "recid":1520, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"san","script":"𒊕"},
+{ "recid":1521, "got":"a1b5c3d1", "charName":"ŠÀM (NÍNDA×AN)", "MesZL":"320","aBZL":"","LHA":"178aa","HethZL":"103","transliteration":"san3","script":"𒉓"},
+{ "recid":1522, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"sap","script":"𒂟"},
+{ "recid":1523, "got":"a2b2c9", "charName":"SAR", "MesZL":"541","aBZL":"385","LHA":"331e, 152iv","HethZL":"353","transliteration":"sar","script":"𒊬"},
+{ "recid":1524, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"sas","script":"𒋀"},
+{ "recid":1525, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"sat","script":"𒆳"},
+{ "recid":1526, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"saĝ","script":"𒊕"},
+{ "recid":1527, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1496", "meaning":"to beget", "transliteration":"saĝ du11","script":"𒊕𒅗"},
+{ "recid":1528, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2028", "meaning":"I assail; attack; II interweave; (D) plait; seize", "transliteration":"sbk","script":"𒊓𒁀𒆪"},
+{ "recid":1529, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185", "meaning":"carry; haul; transport", "transliteration":"sbl","script":"𒊓𒁀𒇻"},
+{ "recid":1530, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1553", "meaning":"be angry; (Š) make angry; antagonize", "transliteration":"sbs","script":"𒊓𒁀𒋢"},
+{ "recid":1531, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1005", "meaning":"clasp; enfold; (Gt) wrestle; grapple; (D) keep enfolded", "transliteration":"sbs,","script":"𒊓𒁀𒍮"},
+{ "recid":1532, "concept":"null", "meaning":"brew beer", "transliteration":"sbʾ","script":"𒊓𒁍"},
+{ "recid":1533, "concept":"null", "meaning":"I provide with (something); II make a raid", "transliteration":"sdd","script":"𒊓𒁕𒁺"},
+{ "recid":1534, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"sdh","script":"𒊓𒁕𒄷"},
+{ "recid":1535, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_468", "meaning":"put in order; arrange; do regularly; do usually", "transliteration":"sdr","script":"𒊓𒁕𒊒"},
+{ "recid":1536, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"se","script":"𒍢"},
+{ "recid":1537, "got":"a5b3c3d3", "charName":"SED (MÙŠ× A.DI)", "MesZL":"155","aBZL":"","LHA":"103b","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3300", "meaning":"winter", "transliteration":"sed","script":"𒈻"},
+{ "recid":1538, "got":"a5b3c3d2", "charName":"ŠUBUR", "MesZL":"22","aBZL":"4","LHA":"53","HethZL":"","transliteration":"seh","script":"𒋚"},
+{ "recid":1539, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"sek","script":"𒋝"},
+{ "recid":1540, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","transliteration":"ser","script":"𒋤"},
+{ "recid":1541, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_592", "meaning":"go about; go along; roam; wander; proceed according to law; (Š) enforce", "transliteration":"sgʾ","script":"𒋛𒄖"},
+{ "recid":1542, "concept":"null", "meaning":"be terrified; (D) frighten", "transliteration":"shh","script":"𒊓𒄩𒄷"},
+{ "recid":1543, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1014", "meaning":"pierce; prick (with weapon; sorcery; pain)", "transliteration":"shl","script":"𒋛𒄭𒇻"},
+{ "recid":1544, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2569", "meaning":"oppress; trouble", "transliteration":"shm","script":"𒊓𒄩𒈬"},
+{ "recid":1545, "concept":"null", "meaning":"draw (dagger; weapon)", "transliteration":"shn","script":"𒊓𒄩𒉡"},
+{ "recid":1546, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909", "meaning":"cover; overwhelm; overthrow; envelop", "transliteration":"shp","script":"𒊓𒄩𒁍"},
+{ "recid":1547, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3441", "meaning":"turn (intrans.); return; seek; (Š) surround", "transliteration":"shr","script":"𒊓𒄩𒊒"},
+{ "recid":1548, "concept":"null", "meaning":"catch in a net", "transliteration":"shsz","script":"𒊓𒄩𒋗"},
+{ "recid":1549, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1390", "meaning":"rise up; rebel; revolt; (D) ruin; wreck; (N) be(come) confused; (Ntn) be constantly confused", "transliteration":"shʾ","script":"𒋛𒄷"},
+{ "recid":1550, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"si","script":"𒍢"},
+{ "recid":1551, "got":"c10", "charName":"SUM", "MesZL":"292","aBZL":"388","LHA":"164","HethZL":"350","transliteration":"si3","script":"𒋧"},
+{ "recid":1552, "got":"c4", "charName":"ZIB", "MesZL":"628","aBZL":"","LHA":"395","HethZL":"","transliteration":"sib","script":"𒍦"},
+{ "recid":1553, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"sig","script":"𒋝"},
+{ "recid":1554, "got":"a1b5c1", "charName":"SIG7 (IGI-gunû)", "MesZL":"564","aBZL":"198","LHA":"351","HethZL":"239","transliteration":"sig7","script":"𒅊"},
+{ "recid":1555, "concept":"null", "meaning":"(to be) trimmed; pruned", "transliteration":"sig8","script":"𒃰𒋺𒄑"},
+{ "recid":1556, "got":"a2b2", "charName":"SI", "MesZL":"181","aBZL":"164","LHA":"112","HethZL":"86","transliteration":"sig9","script":"𒋛"},
+{ "recid":1557, "got":"a5b3c3d2", "charName":"ŠUBUR", "MesZL":"22","aBZL":"4","LHA":"53","HethZL":"","transliteration":"sih","script":"𒋚"},
+{ "recid":1558, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"sik","script":"𒋝"},
+{ "recid":1559, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"sil","script":"𒋻"},
+{ "recid":1560, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"sim","script":"𒍮"},
+{ "recid":1561, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"sim3","script":"𒁲"},
+{ "recid":1562, "got":"c3", "charName":"EŠ (3×U)", "MesZL":"711","aBZL":"366","LHA":"472","HethZL":"331","transliteration":"sin","script":"𒌍"},
+{ "recid":1563, "got":"a3b1c9", "charName":"NAM", "MesZL":"134","aBZL":"42","LHA":"79","HethZL":"39","transliteration":"sin2","script":"𒉆"},
+{ "recid":1564, "got":"c4", "charName":"ZIB", "MesZL":"628","aBZL":"","LHA":"395","HethZL":"","transliteration":"sip","script":"𒍦"},
+{ "recid":1565, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"sir","script":"𒈲"},
+{ "recid":1566, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"to bind", "transliteration":"sir2","script":"𒁍"},
+{ "recid":1567, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"sis","script":"𒋀"},
+{ "recid":1568, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"sisz","script":"𒋀"},
+{ "recid":1569, "transliteration":"sisz3","script":"š"},
+{ "recid":1570, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"skd","script":"𒊓𒅗𒁺"},
+{ "recid":1571, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1467", "meaning":"block; be blocked; be impenetrable; (Dt) be blocked (of ears)", "transliteration":"skk","script":"𒊓𒅗𒆪"},
+{ "recid":1572, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1753", "meaning":"I acquire; hoard; appropriate; II balk; be shy", "transliteration":"skl","script":"𒊓𒅗𒇻"},
+{ "recid":1573, "concept":"null", "meaning":"care for; (D) settle; keep settled", "transliteration":"skn","script":"𒊓𒅗𒉡"},
+{ "recid":1574, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_548", "meaning":"lie down; rest", "transliteration":"skp","script":"𒊓𒅗𒁍"},
+{ "recid":1575, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3137", "meaning":"dam; block (a river or canal); (Ntn) be persistently blocked (urine)", "transliteration":"skr","script":"𒋛𒆠𒊒"},
+{ "recid":1576, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_571", "meaning":"be silent; perch; (D) tranquilize", "transliteration":"skt","script":"𒊓𒅗𒌅"},
+{ "recid":1577, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3905", "meaning":"slit; slice; cut in half; (D) trim away", "transliteration":"sld","script":"𒊓𒆷𒁺"},
+{ "recid":1578, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2082", "meaning":"jerk; twitch; be paralyzed(?)", "transliteration":"slh","script":"𒊓𒆷𒄷"},
+{ "recid":1579, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3520", "meaning":"be at or make peace; capitulate; become reconciled; (D) propitiate; conciliate", "transliteration":"slm","script":"𒊓𒆷𒈬"},
+{ "recid":1580, "concept":"null", "meaning":"make plentiful; abundant", "transliteration":"sln","script":"𒂄𒇻𒉡"},
+{ "recid":1581, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_944", "meaning":"boil", "transliteration":"slq","script":"𒊓𒆷𒄣"},
+{ "recid":1582, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3905", "meaning":"slit; slice; cut in half; (D) trim away", "transliteration":"slt","script":"𒊓𒆷𒌅"},
+{ "recid":1583, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3905", "meaning":"slit; slice; cut in half; (D) trim away", "transliteration":"slt,","script":"𒊓𒆷𒂅"},
+{ "recid":1584, "concept":"null", "meaning":"be negligent; careless; inattentive", "transliteration":"slʾ","script":"𒋛𒇻"},
+{ "recid":1585, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1100", "meaning":"grind (finely)", "transliteration":"smd","script":"𒊓𒈠𒁺"},
+{ "recid":1586, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_674", "meaning":"merge; mingle; (D) mix; confuse; give share; (Dtt) receive share", "transliteration":"smh","script":"𒊓𒈠𒄷"},
+{ "recid":1587, "concept":"null", "meaning":"I bury; cover up (D) incapacitate; II be bad (D) treat harshly", "transliteration":"smk","script":"𒊓𒈠𒆪"},
+{ "recid":1588, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1947", "meaning":"set aside; separate", "transliteration":"smr","script":"𒊓𒈠𒊒"},
+{ "recid":1589, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2302", "meaning":"hide; (D) conceal", "transliteration":"smsz","script":"𒊓𒈠𒋗"},
+{ "recid":1590, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3885", "meaning":"hesitate; vacillate; be undecided; (Gtn) deviate; (D) cause to stray", "transliteration":"smʾ","script":"𒊓𒈬"},
+{ "recid":1591, "concept":"null", "meaning":"tie on (weapon; hair pin)", "transliteration":"snb","script":"𒊓𒈾𒁍"},
+{ "recid":1592, "concept":"null", "meaning":"(meaning unknown); (D) make flow", "transliteration":"snn","script":"𒊓𒈾𒉡"},
+{ "recid":1593, "concept":"null", "meaning":"tie on (weapon; hair pin)", "transliteration":"snp","script":"𒊓𒈾𒁍"},
+{ "recid":1594, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1695", "meaning":"approach; come close; set off to; (D) check; control; torture; inflict agony (Š) make to reach", "transliteration":"snq","script":"𒊓𒈾𒄣"},
+{ "recid":1595, "concept":"null", "meaning":"thrust in; drive in", "transliteration":"sns","script":"𒊓𒈾𒋢"},
+{ "recid":1596, "concept":"null", "meaning":"thrust in; drive in", "transliteration":"snsz","script":"𒊓𒈾𒋗"},
+{ "recid":1597, "concept":"null", "meaning":"be angry(?)", "transliteration":"snʾ","script":"𒊓𒉡"},
+{ "recid":1598, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2383", "meaning":"mourn; (Š) cause to ~", "transliteration":"spd","script":"𒊓𒉺𒁺"},
+{ "recid":1599, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1440", "meaning":"disperse; ruin; destroy; catter; spill; (D) squander", "transliteration":"sph","script":"𒊓𒉺𒄷"},
+{ "recid":1600, "concept":"null", "meaning":"(meaning uncertain); (N) be ensnared; (Ntn) writhe", "transliteration":"spk","script":"𒊓𒉺𒆪"},
+{ "recid":1601, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_708", "meaning":"level; deface; flatten; (Š) cause to overthrow", "transliteration":"spn","script":"𒊓𒉺𒉡"},
+{ "recid":1602, "concept":"null", "meaning":"suffice; be enough; be strong enough (of garrison)", "transliteration":"spq","script":"𒊓𒉺𒄣"},
+{ "recid":1603, "concept":"null", "meaning":"write in Aramaic script", "transliteration":"spr","script":"𒋛𒉿𒊒"},
+{ "recid":1604, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1902", "meaning":"pull; pluck (hair; wool); (Gtn) pluck persistently", "transliteration":"spʾ","script":"𒊓𒁍"},
+{ "recid":1605, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"sqd","script":"𒊓𒋡𒁺"},
+{ "recid":1606, "concept":"null", "meaning":"take away; kidnap (a person from someone)", "transliteration":"sql","script":"𒊓𒋡𒇻"},
+{ "recid":1607, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_729", "meaning":"fix upright; impale (human on stake); crucify; plant; (N) be set up", "transliteration":"sqp","script":"𒊓𒋡𒁍"},
+{ "recid":1608, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1085", "meaning":"project; build high; be high; culminate", "transliteration":"sqr","script":"𒊓𒋡𒊒"},
+{ "recid":1609, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2036", "meaning":"pack; tie up", "transliteration":"srd","script":"𒊓𒊏𒁺"},
+{ "recid":1610, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2423", "meaning":"ruin; destroy; demolish", "transliteration":"srh","script":"𒊓𒊏𒄷"},
+{ "recid":1611, "concept":"null", "meaning":"cut open (roof; skull)", "transliteration":"srm","script":"𒊓𒊏𒈬"},
+{ "recid":1612, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_891", "meaning":"sup; sip (porridge)", "transliteration":"srp","script":"𒊓𒊏𒁍"},
+{ "recid":1613, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1308", "meaning":"strew; scatter; pour; sprinkle", "transliteration":"srq","script":"𒊓𒊏𒄣"},
+{ "recid":1614, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_208", "meaning":"pray; implore; worship", "transliteration":"srr","script":"𒊬𒊒𒊒"},
+{ "recid":1615, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3773", "meaning":"confirm; check", "transliteration":"srʾ","script":"𒋩𒊒"},
+{ "recid":1616, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3282", "meaning":"read (out); shout; call; address; demand; (D) have a proclamation made", "transliteration":"ssʾ","script":"𒊓𒋢"},
+{ "recid":1617, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"st,h","script":"𒊓𒁕𒄷"},
+{ "recid":1618, "concept":"null", "meaning":"write down; inscribe tablet; stele; copy tablet; (D) put down in writing", "transliteration":"st,r","script":"𒊓𒁕𒊒"},
+{ "recid":1619, "concept":"null", "meaning":"plant (reed-bed)", "transliteration":"stl","script":"𒊓𒋫𒇻"},
+{ "recid":1620, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"su","script":"𒍮"},
+{ "recid":1621, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"su'","script":"𒍮"},
+{ "recid":1622, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2082", "meaning":"to adorn; decorate", "transliteration":"su13","script":"𒁍"},
+{ "recid":1623, "got":"a5b1c1d1", "charName":"ZU", "MesZL":"15","aBZL":"304","LHA":"6","HethZL":"209","transliteration":"su2","script":"𒍪"},
+{ "recid":1624, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","transliteration":"su3","script":"𒋤"},
+{ "recid":1625, "got":"a7b6c5d1", "charName":"SU6 (KA×SA)", "MesZL":"32","aBZL":"316","LHA":"18x","HethZL":"136","concept":"null", "meaning":"date-palm fibers", "transliteration":"su6","script":"𒅾"},
+{ "recid":1626, "got":"a2b4c4", "charName":"DU/DU", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"su8","script":"𒁻"},
+{ "recid":1627, "got":"a8b8c6d2", "charName":"KAxGA", "MesZL":"44","aBZL":"318","LHA":"25","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_719", "meaning":"to rub", "transliteration":"sub","script":"𒅢"},
+{ "recid":1628, "got":"a2b4c4", "charName":"DU/DU", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"sub2","script":"𒁻"},
+{ "recid":1629, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","concept":"null", "meaning":"(to be) profound", "transliteration":"sud","script":"𒋤"},
+{ "recid":1630, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","transliteration":"sug4","script":"𒋤"},
+{ "recid":1631, "got":"a3b5c1", "charName":"MÚŠ (MÙŠ-gunû)", "MesZL":"152","aBZL":"45","LHA":"102","HethZL":"","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3063", "meaning":"to choose", "transliteration":"suh","script":"𒈽"},
+{ "recid":1632, "got":"a2b3", "charName":"KU (DÚR, TUKUL, TUŠ)", "MesZL":"808","aBZL":"415","LHA":"536","HethZL":"206","transliteration":"suh5","script":"𒆪"},
+{ "recid":1633, "got":"a5b2", "charName":"SUG (LAGAB×A)", "MesZL":"795","aBZL":"414","LHA":"522","HethZL":"182","transliteration":"suk","script":"𒆹"},
+{ "recid":1634, "got":"a5b2c3d2", "charName":"ŠUL (DUN)", "MesZL":"744","aBZL":"ŠUL:438","LHA":"467","HethZL":"46","transliteration":"sul","script":"𒂄"},
+{ "recid":1635, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","concept":"null", "meaning":"salted; pickled meat", "transliteration":"sul2","script":"𒉌"},
+{ "recid":1636, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"sum","script":"𒍮"},
+{ "recid":1637, "got":"c4", "charName":"ZIB", "MesZL":"628","aBZL":"","LHA":"395","HethZL":"","concept":"https://www.wikidata.org/wiki/Q33767", "meaning":"hand", "transliteration":"sum5","script":"𒍦"},
+{ "recid":1638, "got":"a2b4c2", "charName":"GUL (SÚN)", "MesZL":"682","aBZL":"343","LHA":"429","HethZL":"271","transliteration":"sun2","script":"𒄢"},
+{ "recid":1639, "got":"a2b8c1", "charName":"APIN (ENGAR)", "MesZL":"90","aBZL":"5","LHA":"56","HethZL":"9","transliteration":"sup","script":"𒀳"},
+{ "recid":1640, "got":"a5b2", "charName":"SUG (LAGAB×A)", "MesZL":"795","aBZL":"414","LHA":"522","HethZL":"182","transliteration":"suq","script":"𒆹"},
+{ "recid":1641, "got":"a3b1d1", "charName":"SUR (ŠUR)", "MesZL":"151","aBZL":"56","LHA":"101","HethZL":"42","transliteration":"sur","script":"𒋩"},
+{ "recid":1642, "got":"b1c2d2", "charName":"SÙR (ḪI.AŠ, ḪI×AŠ)", "MesZL":"634","aBZL":"278","LHA":"405v2","HethZL":"","concept":"https://www.wikidata.org/wiki/Q13147", "meaning":"half", "transliteration":"sur3","script":"𒄮"},
+{ "recid":1643, "concept":"null", "meaning":"foundation pit of a building", "transliteration":"sur6","script":"𒆠𒃲"},
+{ "recid":1644, "got":"a2b2c10", "charName":"ZAR (LAGAB×SUM)", "MesZL":"767","aBZL":"413","LHA":"491","HethZL":"181","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_304", "meaning":"5. to milk", "transliteration":"sur8","script":"𒇡"},
+{ "recid":1645, "got":"a3b5c1", "charName":"MÚŠ (MÙŠ-gunû)", "MesZL":"152","aBZL":"45","LHA":"102","HethZL":"","transliteration":"sus","script":"𒈽"},
+{ "recid":1646, "got":"a1b5", "charName":"ŠU", "MesZL":"567","aBZL":"225","LHA":"354","HethZL":"68","concept":"null", "meaning":"a stone; he", "transliteration":"sz","script":"𒋗"},
+{ "recid":1647, "got":"a2b4c1d1", "charName":"ŠA", "MesZL":"566","aBZL":"203","LHA":"353","HethZL":"158","concept":"https://www.wikidata.org/wiki/Q1072", "meaning":"in; inside", "transliteration":"sza","script":"𒊭"},
+{ "recid":1648, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_560", "meaning":"4. to clear out; cut out", "transliteration":"sza di","script":"𒊭𒁲"},
+{ "recid":1649, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"sza2","script":"𒃻"},
+{ "recid":1650, "got":"c3d3", "charName":"ŠÀ (ŠAG4)", "MesZL":"599","aBZL":"433","LHA":"384","HethZL":"294","transliteration":"sza3","script":"𒊮"},
+{ "recid":1651, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"sza4","script":"𒁺"},
+{ "recid":1652, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"szad","script":"𒆳"},
+{ "recid":1653, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"szag","script":"𒊕"},
+{ "recid":1654, "got":"c3d3", "charName":"ŠÀ (ŠAG4)", "MesZL":"599","aBZL":"433","LHA":"384","HethZL":"294","transliteration":"szag4","script":"𒊮"},
+{ "recid":1655, "got":"a5b3c3d2", "charName":"ŠUBUR", "MesZL":"22","aBZL":"4","LHA":"53","HethZL":"","transliteration":"szah","script":"𒋚"},
+{ "recid":1656, "got":"a3b2c1d1", "charName":"SAG", "MesZL":"184","aBZL":"309","LHA":"115","HethZL":"192","transliteration":"szak","script":"𒊕"},
+{ "recid":1657, "got":"a1b1c1d1", "charName":"MUNUS (SAL)", "MesZL":"883","aBZL":"450","LHA":"554","HethZL":"297","transliteration":"szal","script":"𒊩"},
+{ "recid":1658, "got":"a4b2", "charName":"Ú", "MesZL":"490","aBZL":"146","LHA":"318","HethZL":"195","transliteration":"szam","script":"𒌑"},
+{ "recid":1659, "got":"a1b5c3d1", "charName":"ŠÀM (NÍNDA×AN)", "MesZL":"320","aBZL":"","LHA":"178aa","HethZL":"103","transliteration":"szan","script":"𒉓"},
+{ "recid":1660, "got":"a2b2c9", "charName":"SAR", "MesZL":"541","aBZL":"385","LHA":"331e, 152iv","HethZL":"353","concept":"https://www.wikidata.org/wiki/Q2445511", "meaning":"3600", "transliteration":"szar","script":"𒊬"},
+{ "recid":1661, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"szas","script":"𒋀"},
+{ "recid":1662, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"szasz","script":"𒋀"},
+{ "recid":1663, "got":"c3", "charName":"KUR", "MesZL":"578","aBZL":"369","LHA":"366","HethZL":"329","transliteration":"szat","script":"𒆳"},
+{ "recid":1664, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_340", "meaning":"I glow; burn (of eyes); be parched; II proclaim", "transliteration":"szbb","script":"𒊭𒁀𒁍"},
+{ "recid":1665, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2082", "meaning":"settle; be deposited; (Š) cover eyes", "transliteration":"szbh","script":"𒊭𒁀𒄷"},
+{ "recid":1666, "concept":"null", "meaning":"break (grain; bones; limbs; neck); (D) injure", "transliteration":"szbr","script":"𒊭𒁀𒊒"},
+{ "recid":1667, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"be angry; (Š) make angry; antagonize", "transliteration":"szbs","script":"𒊭𒁀𒋢"},
+{ "recid":1668, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1005", "meaning":"clasp; enfold; (Gt) wrestle; grapple; (D) keep enfolded", "transliteration":"szbs,","script":"𒊭𒁀𒍮"},
+{ "recid":1669, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_712", "meaning":"gather; collect; (D) gather together", "transliteration":"szbsz","script":"𒊭𒁀𒋗"},
+{ "recid":1670, "concept":"null", "meaning":"be malicious; treacherous", "transliteration":"szbt","script":"𒊭𒁀𒌅"},
+{ "recid":1671, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3478", "meaning":"blast; hit; sweep; (N) be blasted by wind", "transliteration":"szbt,","script":"𒊭𒁀𒂅"},
+{ "recid":1672, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2120", "meaning":"be dense; thick; loud; (D) make loud noise", "transliteration":"szbʾ","script":"𒊭𒁍"},
+{ "recid":1673, "concept":"null", "meaning":"rush upon", "transliteration":"szbʾʾ","script":"𒋗𒁁𒌋"},
+{ "recid":1674, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1902", "meaning":"pull; drag; haul; tug; stretch out; measure", "transliteration":"szdd","script":"𒊭𒁕𒁺"},
+{ "recid":1675, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2136", "meaning":"march; walk; stride; (D) pass along", "transliteration":"szdh","script":"𒊭𒁕𒄷"},
+{ "recid":1676, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3387", "meaning":"be(come) broad; wide; (D) widen; increase", "transliteration":"szdl","script":"𒊭𒁕𒇻"},
+{ "recid":1677, "concept":"null", "meaning":"make known", "transliteration":"szdʾ","script":"𒋤𒁺"},
+{ "recid":1678, "got":"c10", "charName":"ŠE", "MesZL":"579","aBZL":"378","LHA":"367","HethZL":"338","transliteration":"sze","script":"𒊺"},
+{ "recid":1679, "got":"a2b2", "charName":"SI", "MesZL":"181","aBZL":"164","LHA":"112","HethZL":"86","transliteration":"sze2","script":"𒋛"},
+{ "recid":1680, "got":"a2b7", "charName":"ŠÈ (ÉŠ, GI7, ZÌ)", "MesZL":"810","aBZL":"420","LHA":"536","HethZL":"212","transliteration":"sze3","script":"𒂠"},
+{ "recid":1681, "got":"a11b9", "charName":"ŠÉŠ (SÍG.LAM)", "MesZL":"821","aBZL":"","LHA":"544","HethZL":"63","transliteration":"sze8","script":"𒋁"},
+{ "recid":1682, "got":"a6b7c5d1", "charName":"KA×ŠID", "MesZL":"42","aBZL":"319","LHA":"24","HethZL":"","concept":"null", "meaning":"voice; cry; noise", "transliteration":"szeg10","script":"𒆂"},
+{ "recid":1683, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"szel","script":"𒋻"},
+{ "recid":1684, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"szem","script":"𒋆"},
+{ "recid":1685, "got":"a5c4d1", "charName":"ÁB×KÁR", "MesZL":"674","aBZL":"354","LHA":"423","HethZL":"","concept":"https://www.wikidata.org/wiki/Q11404", "meaning":"a drum", "transliteration":"szem5","script":"𒀘"},
+{ "recid":1686, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"szen","script":"𒊿"},
+{ "recid":1687, "got":"b2c2d2", "charName":"ŠIR", "MesZL":"115","aBZL":"28","LHA":"71","HethZL":"5","transliteration":"szer","script":"𒋓"},
+{ "recid":1688, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"szesz","script":"𒋀"},
+{ "recid":1689, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3255", "meaning":"stiffen; be tense; harden; (Gtn) stiffen continually", "transliteration":"szgg","script":"𒊭𒂵𒄖"},
+{ "recid":1690, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_44", "meaning":"misappropriate", "transliteration":"szgl","script":"𒊭𒂵𒇻"},
+{ "recid":1691, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_176", "meaning":"roar; thunder; resound; shout", "transliteration":"szgm","script":"𒊭𒂵𒈬"},
+{ "recid":1692, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_176", "meaning":"roar; thunder; resound; shout", "transliteration":"szgn","script":"𒊭𒂵𒉡"},
+{ "recid":1693, "concept":"null", "meaning":"seal tablet", "transliteration":"szgrr","script":"𒋗𒃻𒊒𒀸"},
+{ "recid":1694, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"kill; murder; slay; mistreat; annihilate", "transliteration":"szgsz","script":"𒊭𒂵𒋗"},
+{ "recid":1695, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2095", "meaning":"be wild; rave; rage; be rabid", "transliteration":"szgʾ","script":"𒊭𒄖"},
+{ "recid":1696, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857", "meaning":"give; present", "transliteration":"szhd","script":"𒊭𒄩𒁺"},
+{ "recid":1697, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3548", "meaning":"disintegrate; erode; become loose (wool; teeth; hair); (D) waste flesh; corrode", "transliteration":"szhh","script":"𒊭𒄩𒄷"},
+{ "recid":1698, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1132", "meaning":"pierce; prick (with weapon; sorcery; pain)", "transliteration":"szhl","script":"𒊭𒄩𒇻"},
+{ "recid":1699, "concept":"null", "meaning":"be warm; heat up", "transliteration":"szhn","script":"𒊭𒄩𒉡"},
+{ "recid":1700, "concept":"null", "meaning":"marry(?)", "transliteration":"szhr","script":"𒊭𒄩𒊒"},
+{ "recid":1701, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2913", "meaning":"I (Š) lay waste; devastate; II be dazed; be deathly still", "transliteration":"szhrr","script":"𒈽𒊒𒊒"},
+{ "recid":1702, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_900", "meaning":"be afraid; fear; (D) intimidate; scare", "transliteration":"szht","script":"𒊭𒄩𒌅"},
+{ "recid":1703, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1518", "meaning":"fear; be afraid", "transliteration":"szht,","script":"𒊭𒄩𒂅"},
+{ "recid":1704, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1153", "meaning":"spoil; ruin", "transliteration":"szhʾ","script":"𒈽𒄷"},
+{ "recid":1705, "got":"a1b1c1", "charName":"IGI (ŠI, LIM)", "MesZL":"724","aBZL":"233","LHA":"449","HethZL":"288","concept":"https://www.wikidata.org/wiki/Q3", "meaning":"life", "transliteration":"szi","script":"𒅆"},
+{ "recid":1706, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"szi6","script":"𒋆"},
+{ "recid":1707, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","transliteration":"szib","script":"𒈨"},
+{ "recid":1708, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"szid","script":"𒋃"},
+{ "recid":1709, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"szig","script":"𒋝"},
+{ "recid":1710, "transliteration":"szig2","script":"š"},
+{ "recid":1711, "got":"a5b3c3d2", "charName":"ŠUBUR", "MesZL":"22","aBZL":"4","LHA":"53","HethZL":"","transliteration":"szih","script":"𒋚"},
+{ "recid":1712, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"szik","script":"𒋝"},
+{ "recid":1713, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"szil","script":"𒋻"},
+{ "recid":1714, "transliteration":"szil2","script":"š"},
+{ "recid":1715, "got":"a7b2c2d1", "charName":"ŠIM", "MesZL":"362","aBZL":"83","LHA":"215","HethZL":"154","transliteration":"szim","script":"𒋆"},
+{ "recid":1716, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"szin","script":"𒊿"},
+{ "recid":1717, "got":"a1b1", "charName":"ME", "MesZL":"753","aBZL":"392","LHA":"532","HethZL":"357","transliteration":"szip","script":"𒈨"},
+{ "recid":1718, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"sziq","script":"𒋝"},
+{ "recid":1719, "got":"b2c2d2", "charName":"ŠIR", "MesZL":"115","aBZL":"28","LHA":"71","HethZL":"5","transliteration":"szir","script":"𒋓"},
+{ "recid":1720, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"szisz","script":"𒋀"},
+{ "recid":1721, "got":"a3b5", "charName":"ŠID (LAG)", "MesZL":"485","aBZL":"212; 207a","LHA":"314","HethZL":"231","transliteration":"szit","script":"𒋃"},
+{ "recid":1722, "got":"b1c4d2", "charName":"ŠEŠ (ÙRI)", "MesZL":"535","aBZL":"21b","LHA":"331","HethZL":"79","transliteration":"sziz","script":"𒋀"},
+{ "recid":1723, "concept":"null", "meaning":"harrow; thread on string", "transliteration":"szkk","script":"𒊭𒅗𒆪"},
+{ "recid":1724, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"szkl","script":"𒊭𒅗𒇻"},
+{ "recid":1725, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3013", "meaning":"perfect; complete", "transliteration":"szkll","script":"𒊕𒇻𒇻"},
+{ "recid":1726, "concept":"null", "meaning":"(meaning uncertain); do something with textiles?", "transliteration":"szkm","script":"𒊭𒅗𒈬"},
+{ "recid":1727, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1826", "meaning":"place; set; put; establish; found; pronounce; issue", "transliteration":"szkn","script":"𒊭𒅗𒉡"},
+{ "recid":1728, "concept":"null", "meaning":"be drunk; be inebriated", "transliteration":"szkr","script":"𒊭𒅗𒊒"},
+{ "recid":1729, "concept":"null", "meaning":"dry out; (D) dry off", "transliteration":"szks","script":"𒊭𒅗𒋢"},
+{ "recid":1730, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3912", "meaning":"kill; murder; slay; mistreat; annihilate", "transliteration":"szksz","script":"𒊭𒅗𒋗"},
+{ "recid":1731, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2665", "meaning":"(meaning unknown)", "transliteration":"szkt","script":"𒊭𒅗𒌅"},
+{ "recid":1732, "concept":"null", "meaning":"prostrate o.s.", "transliteration":"szkʾn","script":"𒋗𒆠𒉡"},
+{ "recid":1733, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_787", "meaning":"snow", "transliteration":"szlg","script":"𒊭𒆷𒄖"},
+{ "recid":1734, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3169", "meaning":"I pull out; take out; retrieve; II dispatch; send off; II carry off (as booty); plunder", "transliteration":"szlh","script":"𒊭𒆷𒄷"},
+{ "recid":1735, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3194", "meaning":"commit an act of impudence", "transliteration":"szll","script":"𒊭𒆷𒇻"},
+{ "recid":1736, "concept":"null", "meaning":"become whole; become sound; be(come) healthy", "transliteration":"szlm","script":"𒊭𒆷𒈬"},
+{ "recid":1737, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2463", "meaning":"pull out; tear out; extract; (D) take away; (N) be pulled out (of tongue)", "transliteration":"szlp","script":"𒊭𒆷𒁍"},
+{ "recid":1738, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_648", "meaning":"glide; slither (of snake)", "transliteration":"szlpʾ","script":"𒉈𒊩𒁍"},
+{ "recid":1739, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; slit open; lacerate", "transliteration":"szlq","script":"𒊭𒆷𒄣"},
+{ "recid":1740, "concept":"null", "meaning":"do for a third time; do three times", "transliteration":"szlsz","script":"𒊭𒆷𒋗"},
+{ "recid":1741, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1798", "meaning":"have authority over; dispose", "transliteration":"szlt,","script":"𒊭𒆷𒂅"},
+{ "recid":1742, "concept":"null", "meaning":"be negligent; careless; inattentive", "transliteration":"szlʾ","script":"𒊺𒇻"},
+{ "recid":1743, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2237", "meaning":"apply", "transliteration":"szmd","script":"𒊭𒈠𒁺"},
+{ "recid":1744, "concept":"null", "meaning":"I grow abundantly; flourish; (D) make flourish; II break an agreement", "transliteration":"szmh","script":"𒊭𒈠𒄷"},
+{ "recid":1745, "concept":"null", "meaning":"I grow abundantly; flourish; (D) make flourish; II break an agreement", "transliteration":"szmk","script":"𒊭𒈠𒆪"},
+{ "recid":1746, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_465", "meaning":"injure; lame; paralyze; numb", "transliteration":"szmm","script":"𒊭𒈠𒈬"},
+{ "recid":1747, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_154", "meaning":"anoint", "transliteration":"szmn","script":"𒋳𒈬𒉡"},
+{ "recid":1748, "concept":"null", "meaning":"(Št) pray devoutly", "transliteration":"szmq","script":"𒋗𒋼𒈬𒄣"},
+{ "recid":1749, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3831", "meaning":"be wild; fierce; furious; (Š) make rage", "transliteration":"szmr","script":"𒊭𒈠𒊒"},
+{ "recid":1750, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3104", "meaning":"bask", "transliteration":"szmsz","script":"𒋳𒈬𒋗"},
+{ "recid":1751, "concept":"null", "meaning":"stay overnight", "transliteration":"szmszʾ","script":"𒋳𒋗"},
+{ "recid":1752, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1516", "meaning":"mark ownership; brand (slaves; cattle); paint", "transliteration":"szmt","script":"𒊭𒈠𒌅"},
+{ "recid":1753, "concept":"null", "meaning":"pluck out; brush off", "transliteration":"szmt,","script":"𒊭𒈠𒂅"},
+{ "recid":1754, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2344", "meaning":"ponder; reflect; consider", "transliteration":"szmʾ","script":"𒋳𒈬"},
+{ "recid":1755, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1467", "meaning":"block; stifle; (D) suffuse", "transliteration":"sznh","script":"𒊭𒈾𒄷"},
+{ "recid":1756, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1096", "meaning":"rival; equal; vie; oppose", "transliteration":"sznn","script":"𒊭𒈾𒉡"},
+{ "recid":1757, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1695", "meaning":"approach; come close; set off to; (D) check; control; torture; inflict agony (Š) make to reach", "transliteration":"sznq","script":"𒊭𒈾𒄣"},
+{ "recid":1758, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_645", "meaning":"sneer (at); scorn; scoff", "transliteration":"szns,","script":"𒊭𒈾𒍮"},
+{ "recid":1759, "concept":"null", "meaning":"thrust in; drive in", "transliteration":"sznsz","script":"𒊭𒈾𒋗"},
+{ "recid":1760, "concept":"null", "meaning":"(meaning unclear) ~ action of movement", "transliteration":"sznʾ","script":"𒊺𒉡"},
+{ "recid":1761, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1440", "meaning":"disperse; ruin; destroy; scatter; spill; (D) squander", "transliteration":"szph","script":"𒊭𒉺𒄷"},
+{ "recid":1762, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2731", "meaning":"pour on; stack; pile up; heap up", "transliteration":"szpk","script":"𒊭𒉺𒆪"},
+{ "recid":1763, "concept":"null", "meaning":"be low; be humble; (D) dig deep; (Š) abase", "transliteration":"szpl","script":"𒊭𒉺𒇻"},
+{ "recid":1764, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1787", "meaning":"move along; drift; glide", "transliteration":"szpp","script":"𒊭𒉺𒁍"},
+{ "recid":1765, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2388", "meaning":"(Gt only) outfit o.s.; attire", "transliteration":"szpr","script":"𒋃𒁍𒊒"},
+{ "recid":1766, "concept":"null", "meaning":"deploy", "transliteration":"szprr","script":"𒋗𒌓𒊒𒀸"},
+{ "recid":1767, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1005", "meaning":"clasp; enfold; (Gt) wrestle; grapple; (D) keep enfolded", "transliteration":"szps","script":"𒊭𒉺𒋢"},
+{ "recid":1768, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1005", "meaning":"clasp; enfold; (Gt) wrestle; grapple; (D) keep enfolded", "transliteration":"szps,","script":"𒊭𒉺𒍮"},
+{ "recid":1769, "concept":"null", "meaning":"(meaning unknown); cease?", "transliteration":"szpsz","script":"𒊭𒉺𒋗"},
+{ "recid":1770, "concept":"null", "meaning":"be malicious; treacherous", "transliteration":"szpt","script":"𒊭𒉺𒌅"},
+{ "recid":1771, "concept":"null", "meaning":"proclaim judgement; exercise authority", "transliteration":"szpt,","script":"𒊭𒉺𒂅"},
+{ "recid":1772, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1993", "meaning":"ask; question; interrogate (D) cross-question", "transliteration":"szpʾ","script":"𒊺𒁍"},
+{ "recid":1773, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2133", "meaning":"change", "transliteration":"szpʾl","script":"𒋗𒉿𒈝"},
+{ "recid":1774, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1144", "meaning":"weigh (out); measure; pay; balance", "transliteration":"szql","script":"𒊭𒋡𒇻"},
+{ "recid":1775, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1932", "meaning":"hang (down)", "transliteration":"szqll","script":"𒋗𒃲𒇻𒈝"},
+{ "recid":1776, "concept":"null", "meaning":"be dead silent", "transliteration":"szqmm","script":"𒋗𒃵𒈬𒌤"},
+{ "recid":1777, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1014", "meaning":"pierce (of arrow)", "transliteration":"szqr","script":"𒊭𒋡𒊒"},
+{ "recid":1778, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2221", "meaning":"be high; elevated; (D) raise up", "transliteration":"szqʾ","script":"𒊭𒄣"},
+{ "recid":1779, "concept":"null", "meaning":"wander about", "transliteration":"szrb","script":"𒊭𒊏𒁍"},
+{ "recid":1780, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_439", "meaning":"flit; chase about", "transliteration":"szrbs,","script":"𒈾𒇡𒁍𒍮"},
+{ "recid":1781, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_439", "meaning":"flit; chase about", "transliteration":"szrbt,","script":"𒈾𒇡𒁍𒂅"},
+{ "recid":1782, "concept":"null", "meaning":"(Gt) (meaning unknown)", "transliteration":"szrd","script":"𒋃𒊒𒁺"},
+{ "recid":1783, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2851", "meaning":"drool; dribble", "transliteration":"szrh","script":"𒋩𒊒𒄷"},
+{ "recid":1784, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857", "meaning":"fester; suppurate; pus; discharge", "transliteration":"szrk","script":"𒊭𒊏𒆪"},
+{ "recid":1785, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; cut size; trim", "transliteration":"szrm","script":"𒊺𒊑𒈬"},
+{ "recid":1786, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_605", "meaning":"burn (tablet); city; wood; corpses; light", "transliteration":"szrp","script":"𒊭𒊏𒁍"},
+{ "recid":1787, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_967", "meaning":"steal", "transliteration":"szrq","script":"𒊭𒊏𒄣"},
+{ "recid":1788, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1385", "meaning":"go ahead (in battle; prayer); (D) encourage", "transliteration":"szrr","script":"𒊭𒊏𒊒"},
+{ "recid":1789, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_897", "meaning":"clutch; claw on", "transliteration":"szrs,","script":"𒊭𒊏𒍮"},
+{ "recid":1790, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2454", "meaning":"shred; tear; (D) tear in", "transliteration":"szrt,","script":"𒊭𒊏𒂅"},
+{ "recid":1791, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2131", "meaning":"bend forwards", "transliteration":"szrʾ","script":"𒋩𒊒"},
+{ "recid":1792, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3824", "meaning":"dispatch", "transliteration":"szszkt","script":"𒋀𒆪𒌅"},
+{ "recid":1793, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3282", "meaning":"read (out); shout; call; address; demand; (D) have a proclamation made", "transliteration":"szsʾ","script":"𒊭𒋢"},
+{ "recid":1794, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2707", "meaning":"preserve life; save", "transliteration":"szt,p","script":"𒊭𒁕𒁍"},
+{ "recid":1795, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3538", "meaning":"write; write down; inscribe", "transliteration":"szt,r","script":"𒊭𒁕𒊒"},
+{ "recid":1796, "concept":"null", "meaning":"rip open", "transliteration":"szt,t,","script":"𒊭𒁕𒂅"},
+{ "recid":1797, "concept":"null", "meaning":"spread out; lay out", "transliteration":"szt,ʾ","script":"𒊺𒂅"},
+{ "recid":1798, "concept":"null", "meaning":"be tall; elongated; stretch out", "transliteration":"szth","script":"𒊭𒋫𒄷"},
+{ "recid":1799, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_816", "meaning":"urinate", "transliteration":"sztn","script":"𒊭𒋫𒉡"},
+{ "recid":1800, "concept":"null", "meaning":"hollow out", "transliteration":"sztp","script":"𒊭𒋫𒁍"},
+{ "recid":1801, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"cut; split; tear", "transliteration":"sztq","script":"𒊭𒋫𒄣"},
+{ "recid":1802, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_270", "meaning":"weave; spin; entangle", "transliteration":"sztʾ","script":"𒊭𒌅"},
+{ "recid":1803, "got":"a1b5", "charName":"ŠU", "MesZL":"567","aBZL":"225","LHA":"354","HethZL":"68","concept":"null", "meaning":"a stone; he", "transliteration":"szu","script":"𒋗"},
+{ "recid":1804, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1534", "meaning":"to erase", "transliteration":"szu gur10","script":"𒋗𒆥"},
+{ "recid":1805, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_358", "meaning":"to rub", "transliteration":"szu sa2","script":"𒋗𒁲"},
+{ "recid":1806, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_925", "meaning":"to accept", "transliteration":"szu teĝ3","script":"𒋗𒋼"},
+{ "recid":1807, "got":"a1b5", "charName":"ŠU", "MesZL":"567","aBZL":"225","LHA":"354","HethZL":"68","transliteration":"szu'","script":"𒋗"},
+{ "recid":1808, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","transliteration":"szu11","script":"𒋢"},
+{ "recid":1809, "got":"a1c1", "charName":"ŠÚ", "MesZL":"869","aBZL":"422","LHA":"545","HethZL":"251","transliteration":"szu2","script":"𒋙"},
+{ "recid":1810, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","transliteration":"szu4","script":"𒌋"},
+{ "recid":1811, "got":"a1b5", "charName":"ŠU", "MesZL":"567","aBZL":"225","LHA":"354","HethZL":"68","transliteration":"szu?","script":"𒋗"},
+{ "recid":1812, "got":"b2c2d2", "charName":"RU", "MesZL":"111","aBZL":"60","LHA":"68","HethZL":"43","transliteration":"szub","script":"𒊒"},
+{ "recid":1813, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","transliteration":"szud","script":"𒋤"},
+{ "recid":1814, "got":"a3b5c1", "charName":"MÚŠ (MÙŠ-gunû)", "MesZL":"152","aBZL":"45","LHA":"102","HethZL":"","transliteration":"szuh","script":"𒈽"},
+{ "recid":1815, "got":"a3c1d1", "charName":"PAD (ŠUK)", "MesZL":"746","aBZL":"362","LHA":"469","HethZL":"295","transliteration":"szuk","script":"𒉻"},
+{ "recid":1816, "got":"a5b2c3d2", "charName":"ŠUL (DUN)", "MesZL":"744","aBZL":"ŠUL:438","LHA":"467","HethZL":"46","transliteration":"szul","script":"𒂄"},
+{ "recid":1817, "got":"a6b2c2d2", "charName":"TAG (ŠUM)", "MesZL":"221","aBZL":"122","LHA":"126","HethZL":"91","transliteration":"szum","script":"𒋳"},
+{ "recid":1818, "got":"c10", "charName":"SUM", "MesZL":"292","aBZL":"388","LHA":"164","HethZL":"350","transliteration":"szum2","script":"𒋧"},
+{ "recid":1819, "got":"b2c2d2", "charName":"RU", "MesZL":"111","aBZL":"60","LHA":"68","HethZL":"43","transliteration":"szup","script":"𒊒"},
+{ "recid":1820, "got":"a3b1d1", "charName":"SUR (ŠUR)", "MesZL":"151","aBZL":"56","LHA":"101","HethZL":"42","transliteration":"szur","script":"𒋩"},
+{ "recid":1821, "got":"a3b1d1", "charName":"SUR (ŠUR)", "MesZL":"151","aBZL":"56","LHA":"101","HethZL":"42","transliteration":"szur a","script":"𒋩"},
+{ "recid":1822, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2909", "meaning":"7. to raise", "transliteration":"szusz","script":"𒌋"},
+{ "recid":1823, "got":"a1c1", "charName":"ŠÚ", "MesZL":"869","aBZL":"422","LHA":"545","HethZL":"251","transliteration":"szusz2","script":"𒋙"},
+{ "recid":1824, "got":"a4b1c2d2", "charName":"SUD (BU-gunû)", "MesZL":"584","aBZL":"266","LHA":"373","HethZL":"341","transliteration":"szut","script":"𒋤"},
+{ "recid":1825, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2638", "meaning":"roast", "transliteration":"szwʾ","script":"𒊭𒉿"},
+{ "recid":1826, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3954", "meaning":"sway; swing; waver; tremble; quake", "transliteration":"szʾb","script":"𒊭𒁍"},
+{ "recid":1827, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2303", "meaning":"acquaint with; communicate", "transliteration":"szʾd","script":"𒊭𒌋𒁺"},
+{ "recid":1828, "concept":"null", "meaning":"blow (of wind)", "transliteration":"szʾh","script":"𒊭𒄷"},
+{ "recid":1829, "concept":"null", "meaning":"I (meaning unknown) ~ operation performed on textiles; II tremble", "transliteration":"szʾk","script":"𒊭𒆪"},
+{ "recid":1830, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1745", "meaning":"ask; question; consult; interrogate", "transliteration":"szʾl","script":"𒊭𒇻"},
+{ "recid":1831, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1498", "meaning":"buy; purchase", "transliteration":"szʾm","script":"𒊭𒈬"},
+{ "recid":1832, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"szʾn","script":"𒋗𒌋𒉡"},
+{ "recid":1833, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2416", "meaning":"stride", "transliteration":"szʾp","script":"𒊭𒁍"},
+{ "recid":1834, "concept":"null", "meaning":"I (meaning unknown) ~ operation performed on textiles; II tremble", "transliteration":"szʾq","script":"𒊭𒄣"},
+{ "recid":1835, "concept":"null", "meaning":"be hairy", "transliteration":"szʾr","script":"𒋗𒌋𒊒"},
+{ "recid":1836, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2457", "meaning":"decline; diminish; wane", "transliteration":"szʾs,","script":"𒅆𒀀𒍮"},
+{ "recid":1837, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2427", "meaning":"be spared; left over; escape", "transliteration":"szʾt","script":"𒊭𒌅"},
+{ "recid":1838, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1999", "meaning":"be negligent; neglect; miss (accidentally); commit crime; spurn", "transliteration":"szʾt,","script":"𒊺ṭ𒅆𒀀𒂅"},
+{ "recid":1839, "concept":"null", "meaning":"have (illicit) sexual intercourse", "transliteration":"szʾʾ","script":"𒋗𒌋"},
+{ "recid":1840, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"sʾb","script":"𒊓𒁍"},
+{ "recid":1841, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_145", "meaning":"help; aid; assist; support", "transliteration":"sʾd","script":"𒋛𒂊𒁺"},
+{ "recid":1842, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_436", "meaning":"pulverize; crush (plants; herbs)", "transliteration":"sʾk","script":"𒊓𒆪"},
+{ "recid":1843, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_272", "meaning":"appeal; pray to", "transliteration":"sʾl","script":"𒋢𒌋𒇻"},
+{ "recid":1844, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_132", "meaning":"be red; brown; (D) redden; dye red", "transliteration":"sʾm","script":"𒋛𒀀𒈬"},
+{ "recid":1845, "concept":"null", "meaning":"draw water", "transliteration":"sʾp","script":"𒊓𒁍"},
+{ "recid":1846, "concept":"null", "meaning":"be tight; be narrow; be hardpressed; (D) reduce", "transliteration":"sʾq","script":"𒋛𒀀𒄣"},
+{ "recid":1847, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_71", "meaning":"plaster; smear; rub down; (D) anoint", "transliteration":"sʾr","script":"𒋛𒀀𒊒"},
+{ "recid":1848, "concept":"null", "meaning":"(meaning unknown) ~ medical condition", "transliteration":"sʾs","script":"𒋢𒌋𒋢"},
+{ "recid":1849, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"sʾt,","script":"𒊓𒂅"},
+{ "recid":1850, "concept":"null", "meaning":"oppress; press down", "transliteration":"sʾʾ","script":"𒋛𒌋"},
+{ "recid":1851, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"t","script":"𒌅"},
+{ "recid":1852, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","transliteration":"t,","script":"𒂅"},
+{ "recid":1853, "got":"a2b8c1", "charName":"DA", "MesZL":"561","aBZL":"229","LHA":"335","HethZL":"214","transliteration":"t,a","script":"𒁕"},
+{ "recid":1854, "got":"b2", "charName":"TAB", "MesZL":"209","aBZL":"109","LHA":"124","HethZL":"90","transliteration":"t,ab","script":"𒋰"},
+{ "recid":1855, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3079", "meaning":"slaughter (animal; human); butcher", "transliteration":"t,bh","script":"𒁕𒁀𒄷"},
+{ "recid":1856, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1109", "meaning":"sink (intrans.); drown; submerge; be depressed", "transliteration":"t,bʾ","script":"𒁲𒁍"},
+{ "recid":1857, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"t,e","script":"𒁲"},
+{ "recid":1858, "got":"a2b1c2d2", "charName":"DIM", "MesZL":"167","aBZL":"14","LHA":"94","HethZL":"14","transliteration":"t,em","script":"𒁴"},
+{ "recid":1859, "concept":"null", "meaning":"be abundant; flourish; (Dt) burst out", "transliteration":"t,hd","script":"𒁕𒄩𒁺"},
+{ "recid":1860, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1695", "meaning":"approach; draw near; come near; (D) bring", "transliteration":"t,hʾ","script":"𒁲𒄷"},
+{ "recid":1861, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"t,i","script":"𒁲"},
+{ "recid":1862, "got":"a3b4", "charName":"DIB (DAB)", "MesZL":"813","aBZL":"419","LHA":"537","HethZL":"210?","transliteration":"t,ib","script":"𒁳"},
+{ "recid":1863, "concept":"null", "meaning":"do injustice", "transliteration":"t,lm","script":"𒇥𒇻𒈬"},
+{ "recid":1864, "concept":"null", "meaning":"block ears; make deaf", "transliteration":"t,mm","script":"𒌈𒈬𒈬"},
+{ "recid":1865, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2013", "meaning":"spin; plait; totter; go shakily", "transliteration":"t,mʾ","script":"𒁕𒈬"},
+{ "recid":1866, "concept":"null", "meaning":"be dirty; be stained", "transliteration":"t,np","script":"𒁕𒈾𒁍"},
+{ "recid":1867, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_254", "meaning":"slander; insult; revile; disdain oath", "transliteration":"t,pl","script":"𒁕𒉺𒇻"},
+{ "recid":1868, "concept":"null", "meaning":"be satisfied; be very full", "transliteration":"t,pp","script":"𒁕𒉺𒁍"},
+{ "recid":1869, "concept":"null", "meaning":"press towards; drive away (animate objects)", "transliteration":"t,pr","script":"𒁕𒉺𒊒"},
+{ "recid":1870, "concept":"null", "meaning":"be plump; chubby; fat", "transliteration":"t,psz","script":"𒁕𒉺𒋗"},
+{ "recid":1871, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3794", "meaning":"expand; extend; add; apply; (D) apply (plaster)", "transliteration":"t,pʾ","script":"𒁕𒁍"},
+{ "recid":1872, "concept":"null", "meaning":"send (animate objects); drive away", "transliteration":"t,rd","script":"𒁕𒊏𒁺"},
+{ "recid":1873, "concept":"null", "meaning":"be bearded", "transliteration":"t,rr","script":"𒁕𒊏𒊒"},
+{ "recid":1874, "concept":"null", "meaning":"send (person)", "transliteration":"t,rs","script":"𒁕𒊏𒋢"},
+{ "recid":1875, "concept":"null", "meaning":"send (person)", "transliteration":"t,rs,","script":"𒁕𒊏𒍮"},
+{ "recid":1876, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2323", "meaning":"strike; lash; beat; penetrate", "transliteration":"t,rʾ","script":"𒁕𒊒"},
+{ "recid":1877, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","transliteration":"t,u","script":"𒂅"},
+{ "recid":1878, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","transliteration":"t,ub","script":"𒁾"},
+{ "recid":1879, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"t,uh","script":"𒃮"},
+{ "recid":1880, "got":"a2b2c1", "charName":"TÚL (LAGAB×U)", "MesZL":"786","aBZL":"410","LHA":"511","HethZL":"180","transliteration":"t,ul","script":"𒇥"},
+{ "recid":1881, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"t,um","script":"𒌈"},
+{ "recid":1882, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","transliteration":"t,up","script":"𒁾"},
+{ "recid":1883, "got":"a4b2c2d2", "charName":"DUR (GÚxGAG, GÚ.GAG)", "MesZL":"178","aBZL":"88","LHA":"108","HethZL":"202","transliteration":"t,ur","script":"𒄙"},
+{ "recid":1884, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2013", "meaning":"spin; plait; totter; go shakily", "transliteration":"t,wʾ","script":"𒁕𒉿"},
+{ "recid":1885, "concept":"null", "meaning":"be(come) good; sweet", "transliteration":"t,ʾb","script":"𒁲𒀀𒁍"},
+{ "recid":1886, "concept":"null", "meaning":"look after; take care", "transliteration":"t,ʾm","script":"𒁲𒂊𒈬"},
+{ "recid":1887, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1100", "meaning":"grind; pulverize; (N) be ground", "transliteration":"t,ʾn","script":"𒁲𒀀𒉡"},
+{ "recid":1888, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1229", "meaning":"twist; wind thread", "transliteration":"t,ʾp","script":"𒁕𒁍"},
+{ "recid":1889, "got":"a2b2c1d1", "charName":"TA", "MesZL":"248","aBZL":"123","LHA":"139","HethZL":"160","concept":"https://www.wikidata.org/wiki/Q20656446", "meaning":"as much as", "transliteration":"ta","script":"𒋫"},
+{ "recid":1890, "got":"a2b8c1", "charName":"DA", "MesZL":"561","aBZL":"229","LHA":"335","HethZL":"214","transliteration":"ta2","script":"𒁕"},
+{ "recid":1891, "got":"b2", "charName":"TAB", "MesZL":"209","aBZL":"109","LHA":"124","HethZL":"90","transliteration":"tab","script":"𒋰"},
+{ "recid":1892, "got":"a4b1c2d2", "charName":"GÍR-gunû", "MesZL":"7","aBZL":"8","LHA":"10","HethZL":"6","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1409", "meaning":"to brand; mark", "transliteration":"tab2","script":"𒄉"},
+{ "recid":1893, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_84", "meaning":"companion; partner", "transliteration":"tab4","script":"𒌋𒌋"},
+{ "recid":1894, "got":"a6b2c2d2", "charName":"TAG (ŠUM)", "MesZL":"221","aBZL":"122","LHA":"126","HethZL":"91","transliteration":"tag","script":"𒋳"},
+{ "recid":1895, "got":"b2c12", "charName":"TAḪDAḪ (MUoverMU)", "MesZL":"301","aBZL":"142","LHA":"169","HethZL":"171","transliteration":"tah","script":"𒈭"},
+{ "recid":1896, "got":"a6b2c2d2", "charName":"TAG (ŠUM)", "MesZL":"221","aBZL":"122","LHA":"126","HethZL":"91","transliteration":"tak","script":"𒋳"},
+{ "recid":1897, "got":"a3b1c1", "charName":"RI", "MesZL":"142","aBZL":"39","LHA":"86","HethZL":"32","transliteration":"tal","script":"𒊑"},
+{ "recid":1898, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_323", "meaning":"to believe", "transliteration":"tam","script":"𒌓"},
+{ "recid":1899, "got":"a2b2c1d1", "charName":"KAL", "MesZL":"496","aBZL":"176","LHA":"322","HethZL":"196","transliteration":"tan","script":"𒆗"},
+{ "recid":1900, "got":"a6b8c3", "charName":"MEN (GÁ× ME.EN)", "MesZL":"427","aBZL":"102","LHA":"270","HethZL":"","concept":"null", "meaning":"4.", "transliteration":"tan2","script":"𒃞"},
+{ "recid":1901, "got":"a8b2c2", "charName":"GÁ×KÁR", "MesZL":"402","aBZL":"98","LHA":"248","HethZL":"","transliteration":"tan4","script":"𒃋"},
+{ "recid":1902, "got":"b2", "charName":"TAB", "MesZL":"209","aBZL":"109","LHA":"124","HethZL":"90","transliteration":"tap","script":"𒋰"},
+{ "recid":1903, "got":"a6b2c2d2", "charName":"TAG (ŠUM)", "MesZL":"221","aBZL":"122","LHA":"126","HethZL":"91","transliteration":"taq","script":"𒋳"},
+{ "recid":1904, "got":"a1c2", "charName":"TAR", "MesZL":"9","aBZL":"231","LHA":"12","HethZL":"7","transliteration":"tar","script":"𒋻"},
+{ "recid":1905, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","transliteration":"tas","script":"𒌨"},
+{ "recid":1906, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","transliteration":"tasz","script":"𒌨"},
+{ "recid":1907, "got":"a6b1c1", "charName":"KÍD (TAG4)", "MesZL":"106","aBZL":"58","LHA":"63d","HethZL":"227","transliteration":"tat","script":"𒋺"},
+{ "recid":1908, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","transliteration":"taş","script":"𒌨"},
+{ "recid":1909, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3400", "meaning":"pour; shed; infuse; lay flat", "transliteration":"tbk","script":"𒋫𒁀𒆪"},
+{ "recid":1910, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2071", "meaning":"take away; take for oneself; disappear", "transliteration":"tbl","script":"𒋫𒁀𒇻"},
+{ "recid":1911, "concept":"null", "meaning":"rise (up); revolt (intrans.); get up", "transliteration":"tbʾ","script":"𒋼𒋫𒁀𒌋"},
+{ "recid":1912, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1857", "meaning":"give; deliver; hand", "transliteration":"tdn","script":"𒋫𒁕𒉡"},
+{ "recid":1913, "concept":"null", "meaning":"make known", "transliteration":"tdʾ","script":"𒌅𒁺"},
+{ "recid":1914, "got":"a2c2d2", "charName":"TE", "MesZL":"589","aBZL":"289","LHA":"376","HethZL":"249","concept":"null", "meaning":"appropriate thing; ornament", "transliteration":"te","script":"𒋼"},
+{ "recid":1915, "got":"c4d1", "charName":"TIL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"tel","script":"𒌀"},
+{ "recid":1916, "got":"a2c2d2", "charName":"TE", "MesZL":"589","aBZL":"289","LHA":"376","HethZL":"249","concept":"null", "meaning":"to extinguish", "transliteration":"ten","script":"𒋼"},
+{ "recid":1917, "got":"a10b2c10", "charName":"TIR", "MesZL":"587","aBZL":"380","LHA":"375","HethZL":"344","transliteration":"ter","script":"𒌁"},
+{ "recid":1918, "concept":"null", "meaning":"be(come) secure; (D) put in order; (Dtn) keep in order", "transliteration":"tgn","script":"𒋫𒂵𒉡"},
+{ "recid":1919, "concept":"null", "meaning":"pour (over)(?); (D) drench", "transliteration":"thh","script":"𒋫𒄩𒄷"},
+{ "recid":1920, "got":"a1b2c2", "charName":"TI", "MesZL":"118","aBZL":"23","LHA":"73","HethZL":"37","transliteration":"ti","script":"𒋾"},
+{ "recid":1921, "got":"a2b8c7", "charName":"A2", "MesZL":"560","aBZL":"230","LHA":"334","HethZL":"215","transliteration":"ti8","script":"𒀉"},
+{ "recid":1922, "got":"a3b4", "charName":"DIB (DAB)", "MesZL":"813","aBZL":"419","LHA":"537","HethZL":"210?","transliteration":"tib","script":"𒁳"},
+{ "recid":1923, "got":"a3b2c2d2", "charName":"GÚ (TIK)", "MesZL":"176","aBZL":"89","LHA":"106","HethZL":"201","transliteration":"tik","script":"𒄘"},
+{ "recid":1924, "got":"c4d1", "charName":"TIL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"til","script":"𒌀"},
+{ "recid":1925, "got":"a1b2c2", "charName":"TI", "MesZL":"118","aBZL":"23","LHA":"73","HethZL":"37","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2436", "meaning":"to end", "transliteration":"til3","script":"𒋾"},
+{ "recid":1926, "got":"a2b1c2d2", "charName":"DIM", "MesZL":"167","aBZL":"14","LHA":"94","HethZL":"14","transliteration":"tim","script":"𒁴"},
+{ "recid":1927, "got":"c3d1", "charName":"DIN", "MesZL":"119","aBZL":"361","LHA":"465","HethZL":"330","transliteration":"tin","script":"𒁷"},
+{ "recid":1928, "got":"a3b2c2d2", "charName":"GÚ (TIK)", "MesZL":"176","aBZL":"89","LHA":"106","HethZL":"201","transliteration":"tiq","script":"𒄘"},
+{ "recid":1929, "got":"a10b2c10", "charName":"TIR", "MesZL":"587","aBZL":"380","LHA":"375","HethZL":"344","transliteration":"tir","script":"𒌁"},
+{ "recid":1930, "charName":"DIŠ (1)", "MesZL":"748","aBZL":"390","LHA":"480","HethZL":"356","transliteration":"tiz","script":"𒁹"},
+{ "recid":1931, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_465", "meaning":"injure; harm; oppress", "transliteration":"tkk","script":"𒋫𒅗𒆪"},
+{ "recid":1932, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_323", "meaning":"confide (in); trust; entrust; rely on", "transliteration":"tkl","script":"𒋫𒅗𒇻"},
+{ "recid":1933, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2797", "meaning":"prick; puncture; cup", "transliteration":"tkp","script":"𒋫𒅗𒁍"},
+{ "recid":1934, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_525", "meaning":"check; coerce; contain", "transliteration":"tkʾ","script":"𒌇𒆪"},
+{ "recid":1935, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"tlk","script":"𒌋𒌆𒇻𒆪"},
+{ "recid":1936, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1578", "meaning":"harness; equip", "transliteration":"tll","script":"𒌋𒌆𒇻𒇻"},
+{ "recid":1937, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2959", "meaning":"(S only) bestow generously; grant", "transliteration":"tlm","script":"𒋤𒇻𒈬"},
+{ "recid":1938, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3323", "meaning":"bedeck; adorn; decorate; accoutre (with jewelry)", "transliteration":"tlʾ","script":"𒌋𒌆𒇻"},
+{ "recid":1939, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2917", "meaning":"grasp; hold fast; control (D ~ G)", "transliteration":"tmh","script":"𒋫𒈠𒄷"},
+{ "recid":1940, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2917", "meaning":"grasp; hold fast; control (D ~ G)", "transliteration":"tmk","script":"𒋫𒈠𒆪"},
+{ "recid":1941, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"tmm","script":"𒋫𒈠𒈬"},
+{ "recid":1942, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1399", "meaning":"bury; cover in earth", "transliteration":"tmr","script":"𒋫𒈠𒊒"},
+{ "recid":1943, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3310", "meaning":"be amazed", "transliteration":"tmʾ","script":"𒋫𒈬"},
+{ "recid":1944, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3400", "meaning":"pour; shed; infuse; lay flat", "transliteration":"tpk","script":"𒋫𒉺𒆪"},
+{ "recid":1945, "concept":"null", "meaning":"take into custody", "transliteration":"tpsz","script":"𒋫𒉺𒋗"},
+{ "recid":1946, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_551", "meaning":"join in partnership with", "transliteration":"tpʾ","script":"𒋰𒁍"},
+{ "recid":1947, "concept":"null", "meaning":"be(come) secure; (D) put in order; (Dtn) keep in order", "transliteration":"tqm","script":"𒋫𒋡𒈬"},
+{ "recid":1948, "concept":"null", "meaning":"be(come) secure; (D) put in order; (Dtn) keep in order", "transliteration":"tqn","script":"𒋫𒋡𒉡"},
+{ "recid":1949, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1929", "meaning":"interpret; translate", "transliteration":"trgm","script":"𒋻𒄖𒈬"},
+{ "recid":1950, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2015", "meaning":"delve; dig up; grub", "transliteration":"trh","script":"𒋫𒊏𒄷"},
+{ "recid":1951, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_336", "meaning":"I be dark; II beat; thump", "transliteration":"trk","script":"𒋫𒊏𒆪"},
+{ "recid":1952, "concept":"null", "meaning":"be covered with color; be painted", "transliteration":"trp","script":"𒋫𒊏𒁍"},
+{ "recid":1953, "concept":"null", "meaning":"relent; take pity", "transliteration":"trq","script":"𒋫𒊏𒄣"},
+{ "recid":1954, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3845", "meaning":"shake; shiver; thrill", "transliteration":"trr","script":"𒋫𒊏𒊒"},
+{ "recid":1955, "concept":"null", "meaning":"send (person)", "transliteration":"trs","script":"𒋫𒊏𒋢"},
+{ "recid":1956, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3705", "meaning":"be(come) proper; feasible; in order", "transliteration":"trs,","script":"𒋫𒊏𒍮"},
+{ "recid":1957, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"trsz","script":"𒋫𒊏𒋗"},
+{ "recid":1958, "concept":"null", "meaning":"lead away", "transliteration":"trʾ","script":"𒋫𒊒"},
+{ "recid":1959, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2434", "meaning":"defecate; shit", "transliteration":"ts,ʾ","script":"𒋼𒍮"},
+{ "recid":1960, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2117", "meaning":"sit down", "transliteration":"tszb","script":"𒋫𒊭𒁍"},
+{ "recid":1961, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"tu","script":"𒌅"},
+{ "recid":1962, "got":"a3b1c4d3", "charName":"ḪUB (ḪÚB×UD)", "MesZL":"150","aBZL":"446","LHA":"89","HethZL":"50","concept":"null", "meaning":"to strike down", "transliteration":"tu10","script":"𒄽"},
+{ "recid":1963, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"tu2","script":"𒌓"},
+{ "recid":1964, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"tu3","script":"𒁺"},
+{ "recid":1965, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"tu?","script":"𒌅"},
+{ "recid":1966, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","transliteration":"tub","script":"𒁾"},
+{ "recid":1967, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"tud","script":"𒌅"},
+{ "recid":1968, "got":"a2b1c1d1", "charName":"TUK (TUG)", "MesZL":"827","aBZL":"444","LHA":"574","HethZL":"53","transliteration":"tug","script":"𒌇"},
+{ "recid":1969, "got":"a2b4", "charName":"TÚG (NÁM)", "MesZL":"809","aBZL":"417","LHA":"536","HethZL":"212","transliteration":"tug2","script":"𒌆"},
+{ "recid":1970, "got":"b2c8", "charName":"GABA", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"tuh","script":"𒃮"},
+{ "recid":1971, "got":"a2b1c1d1", "charName":"TUK (TUG)", "MesZL":"827","aBZL":"444","LHA":"574","HethZL":"53","transliteration":"tuk","script":"𒌇"},
+{ "recid":1972, "got":"a2b2c1", "charName":"TÚL (LAGAB×U)", "MesZL":"786","aBZL":"410","LHA":"511","HethZL":"180","transliteration":"tul2","script":"𒇥"},
+{ "recid":1973, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"tum","script":"𒌈"},
+{ "recid":1974, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"tum wus","script":"𒌈"},
+{ "recid":1975, "got":"a4b4c3d1", "charName":"TUM", "MesZL":"354","aBZL":"75","LHA":"207","HethZL":"125","transliteration":"tum wuş","script":"𒌈"},
+{ "recid":1976, "got":"a1c12d2", "charName":"TU", "MesZL":"86","aBZL":"382","LHA":"58","HethZL":"346","transliteration":"tum12","script":"𒌅"},
+{ "recid":1977, "got":"a1b2c2", "charName":"DU", "MesZL":"350","aBZL":"64, 197","LHA":"206","HethZL":"128","transliteration":"tum2","script":"𒁺"},
+{ "recid":1978, "got":"a6c5d1", "charName":"TÙM (NIM×KÁR)", "MesZL":"691","aBZL":"356","LHA":"434","HethZL":"279","transliteration":"tum3","script":"𒉐"},
+{ "recid":1979, "got":"a3b1c4d3", "charName":"ḪUB (ḪÚB×UD)", "MesZL":"150","aBZL":"446","LHA":"89","HethZL":"50","transliteration":"tun","script":"𒄽"},
+{ "recid":1980, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","concept":"https://www.wikidata.org/wiki/Q39397", "meaning":"a container", "transliteration":"tun3","script":"𒂅"},
+{ "recid":1981, "got":"a9b4", "charName":"DUB", "MesZL":"242","aBZL":"112b","LHA":"138","HethZL":"99","transliteration":"tup","script":"𒁾"},
+{ "recid":1982, "got":"a2b1c1d1", "charName":"TUK (TUG)", "MesZL":"827","aBZL":"444","LHA":"574","HethZL":"53","transliteration":"tuq","script":"𒌇"},
+{ "recid":1983, "got":"a1b2c2d2", "charName":"TUR (DUMU)", "MesZL":"255","aBZL":"393","LHA":"144","HethZL":"237","transliteration":"tur","script":"𒌉"},
+{ "recid":1984, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"twʾ","script":"𒋫𒉿"},
+{ "recid":1985, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2434", "meaning":"defecate; shit", "transliteration":"tzʾ","script":"𒋼𒍪"},
+{ "recid":1986, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1061", "meaning":"distrust", "transliteration":"tʾb","script":"𒋼𒂊𒁍"},
+{ "recid":1987, "concept":"null", "meaning":"pronounce exactly; (D) mark exactly", "transliteration":"tʾl","script":"𒋫𒇻"},
+{ "recid":1988, "concept":"null", "meaning":"reconsider", "transliteration":"tʾm","script":"𒌅𒌋𒈬"},
+{ "recid":1989, "concept":"null", "meaning":"devote o.s.", "transliteration":"tʾp","script":"𒋫𒁍"},
+{ "recid":1990, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2943", "meaning":"return (intrans); recur; turn; (D) send; give; pay back", "transliteration":"tʾr","script":"𒌅𒀀𒊒"},
+{ "recid":1991, "got":"c1", "charName":"U", "MesZL":"","aBZL":"","LHA":"","HethZL":"261","concept":"null", "meaning":"also", "transliteration":"u","script":"𒌋"},
+{ "recid":1992, "got":"a5b3", "charName":"GIŠGAL (URU×MIN)", "MesZL":"80","aBZL":"189","LHA":"49x","HethZL":"","transliteration":"u18","script":"𒍇"},
+{ "recid":1993, "got":"a4b2", "charName":"Ú", "MesZL":"490","aBZL":"146","LHA":"318","HethZL":"195","concept":"https://www.wikidata.org/wiki/Q14631121", "meaning":"defeat", "transliteration":"u2","script":"𒌑"},
+{ "recid":1994, "concept":"null", "meaning":"to be difficult; obstinate", "transliteration":"u2 hub2","script":"𒌑𒄸"},
+{ "recid":1995, "got":"a4b5c1", "charName":"Ù (IGI.DIB)", "MesZL":"731","aBZL":"239b","LHA":"455","HethZL":"265","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3383", "meaning":"to cry; groan", "transliteration":"u3","script":"𒅇"},
+{ "recid":1996, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"u4","script":"𒌓"},
+{ "recid":1997, "concept":"https://www.wikidata.org/wiki/Q2445511", "meaning":"container for oil", "transliteration":"u5","script":"𒄷𒋛"},
+{ "recid":1998, "got":"a4b6c2d2", "charName":"U8 (LAGAB× GU4overGU4", "MesZL":"766","aBZL":"399","LHA":"494","HethZL":"45","transliteration":"u8","script":"𒇇"},
+{ "recid":1999, "got":"a1c2d2", "charName":"UB", "MesZL":"504","aBZL":"288","LHA":"306","HethZL":"152","transliteration":"ub","script":"𒌒"},
+{ "recid":2000, "got":"a2b7", "charName":"ŠÈ (ÉŠ, GI7, ZÌ)", "MesZL":"810","aBZL":"420","LHA":"536","HethZL":"212","transliteration":"ub2","script":"𒂠"},
+{ "recid":2001, "got":"a4b6c4d1", "charName":"MEZE (ÁB× ME.EN)", "MesZL":"679","aBZL":"","LHA":"426","HethZL":"","concept":"https://www.wikidata.org/wiki/Q11404", "meaning":"a drum", "transliteration":"ub6","script":"𒀙"},
+{ "recid":2002, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"ud","script":"𒌓"},
+{ "recid":2003, "got":"a10b9c4d4", "charName":"UG (PIRIG×UD)", "MesZL":"296","aBZL":"179","LHA":"130","HethZL":"93","transliteration":"ug","script":"𒊌"},
+{ "recid":2004, "got":"a10b9c2d2", "charName":"PIRIG", "MesZL":"","aBZL":"","LHA":"","HethZL":"","concept":"https://www.wikidata.org/wiki/Q79871", "meaning":"anger", "transliteration":"ug2","script":"𒊊"},
+{ "recid":2005, "got":"a10b9", "charName":"BÀD (UG5 (EZEN×BAD))", "MesZL":"275","aBZL":"153","LHA":"152_8","HethZL":"114","concept":"null", "meaning":"plural and imperfect singular stem of uš[to die]", "transliteration":"ug5","script":"𒂦"},
+{ "recid":2006, "got":"a5b1c2d2", "charName":"AḪ (ḪI×NUN)", "MesZL":"636","aBZL":"280","LHA":"398","HethZL":"332","transliteration":"uh","script":"𒄴"},
+{ "recid":2007, "got":"a2b1c4d3", "charName":"ÚḪ (UD.KÚŠU)", "MesZL":"611","aBZL":"333","LHA":"392","HethZL":"","transliteration":"uh2","script":"𒌔"},
+{ "recid":2008, "got":"a2b1c2d1", "charName":"KÚŠU", "MesZL":"896","aBZL":"457","LHA":"562","HethZL":"","concept":"https://www.wikidata.org/wiki/Q215414", "meaning":"5. poison", "transliteration":"uh3","script":"𒆵"},
+{ "recid":2009, "got":"a10b9c4d4", "charName":"UG (PIRIG×UD)", "MesZL":"296","aBZL":"179","LHA":"130","HethZL":"93","transliteration":"uk","script":"𒊌"},
+{ "recid":2010, "got":"a1b2c2d1", "charName":"UL (DU7)", "MesZL":"698","aBZL":"344","LHA":"441","HethZL":"275","concept":"null", "meaning":"a demonstrative pronoun", "transliteration":"ul","script":"𒌌"},
+{ "recid":2011, "got":"a1b1d1", "charName":"NU", "MesZL":"112","aBZL":"19","LHA":"75","HethZL":"11","concept":"null", "meaning":"", "transliteration":"ul2","script":"𒉡"},
+{ "recid":2012, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3849", "meaning":"to become bright; shine", "transliteration":"ul6","script":"𒌓"},
+{ "recid":2013, "got":"a6b4", "charName":"UM", "MesZL":"238","aBZL":"113","LHA":"134","HethZL":"98","transliteration":"um","script":"𒌝"},
+{ "recid":2014, "got":"a6b5c2d2", "charName":"UN", "MesZL":"","aBZL":"","LHA":"","HethZL":"197","transliteration":"un","script":"𒌦"},
+{ "recid":2015, "got":"a1c2d2", "charName":"UB", "MesZL":"504","aBZL":"288","LHA":"306","HethZL":"152","transliteration":"up","script":"𒌒"},
+{ "recid":2016, "got":"a10b9c4d4", "charName":"UG (PIRIG×UD)", "MesZL":"296","aBZL":"179","LHA":"130","HethZL":"93","transliteration":"uq","script":"𒊌"},
+{ "recid":2017, "got":"a3b2", "charName":"UR", "MesZL":"828","aBZL":"400","LHA":"575","HethZL":"51","concept":"https://www.wikidata.org/wiki/Q1196074", "meaning":"6. like", "transliteration":"ur","script":"𒌨"},
+{ "recid":2018, "got":"a4b3c1d1", "charName":"ARḪUŠ (GÁÉ×MUNUS)", "MesZL":"432","aBZL":"104","LHA":"271","HethZL":"","transliteration":"ur14","script":"𒃣"},
+{ "recid":2019, "got":"c2", "charName":"GAM", "MesZL":"576","aBZL":"359","LHA":"362","HethZL":"247","transliteration":"ur2","script":"𒃵"},
+{ "recid":2020, "got":"a1b4c2d2", "charName":"ḪAR (ḪI×ÁŠ)", "MesZL":"644","aBZL":"281","LHA":"401","HethZL":"333","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1967", "meaning":"loin; lap", "transliteration":"ur5","script":"𒄯"},
+{ "recid":2021, "got":"a2b1c11", "charName":"US", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"us","script":"𒊻"},
+{ "recid":2022, "got":"a3b2c1", "charName":"UŠ (NITA)", "MesZL":"381","aBZL":"68","LHA":"211","HethZL":"132","transliteration":"us2","script":"𒍑"},
+{ "recid":2023, "got":"a3b2c1", "charName":"UŠ (NITA)", "MesZL":"381","aBZL":"68","LHA":"211","HethZL":"132","transliteration":"usz","script":"𒍑"},
+{ "recid":2024, "got":"c4d1", "charName":"TIL", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"usz2","script":"𒌀"},
+{ "recid":2025, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_348", "meaning":"to release", "transliteration":"usz2 g","script":"𒌀𒅥"},
+{ "recid":2026, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_348", "meaning":"to release", "transliteration":"usz2 gu7","script":"𒌀𒅥"},
+{ "recid":2027, "got":"a8b2c2d2", "charName":"ŠILAM (NUN. LAGAR×MUNUS)", "MesZL":"147","aBZL":"49","LHA":"87b; 460x","HethZL":"","concept":"https://www.wikidata.org/wiki/Q9612", "meaning":"afterbirth", "transliteration":"usz5","script":"𒉦"},
+{ "recid":2028, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"ut","script":"𒌓"},
+{ "recid":2029, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"ut,","script":"𒌓"},
+{ "recid":2030, "got":"a2b1c11", "charName":"US", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"uz","script":"𒊻"},
+{ "recid":2031, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","transliteration":"uţ","script":"𒌓"},
+{ "recid":2032, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"w","script":"𒉿"},
+{ "recid":2033, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"wa","script":"𒉿"},
+{ "recid":2034, "got":"a1b1c1d1", "charName":"BA", "MesZL":"14","aBZL":"303","LHA":"5","HethZL":"205","transliteration":"wa2","script":"𒁀"},
+{ "recid":2035, "got":"a1b1", "charName":"BAR", "MesZL":"121","aBZL":"57","LHA":"74","HethZL":"20","transliteration":"war","script":"𒁇"},
+{ "recid":2036, "got":"a1b1", "charName":"MAŠ", "MesZL":"120","aBZL":"29","LHA":"74","HethZL":"20","transliteration":"wasz","script":"𒈦"},
+{ "recid":2037, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wbd","script":"𒉿𒁀𒁺"},
+{ "recid":2038, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185", "meaning":"carry; bring; (Gtn) look after; (Š) deliver; (St1) be delivered; (St2) stir", "transliteration":"wbl","script":"𒉿𒁀𒌋𒁀𒇻"},
+{ "recid":2039, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1002", "meaning":"accuse; denounce", "transliteration":"wbr","script":"𒌒𒁍𒊒"},
+{ "recid":2040, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wbt","script":"𒉿𒁀𒌅"},
+{ "recid":2041, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wbt,","script":"𒉿𒁀𒂅"},
+{ "recid":2042, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1360", "meaning":"weed", "transliteration":"wbʾ","script":"𒉿𒁀𒌋"},
+{ "recid":2043, "transliteration":"wdʾ","script":"'"},
+{ "recid":2044, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2187", "meaning":"be late; tarry", "transliteration":"whr","script":"𒄴𒄷𒊒"},
+{ "recid":2045, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"wi","script":"𒉿"},
+{ "recid":2046, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3249", "meaning":"arrive; draw close", "transliteration":"wkb","script":"𒊌𒆪𒁍"},
+{ "recid":2047, "concept":"null", "meaning":"appoint as overseer", "transliteration":"wkl","script":"𒉿𒅗𒇻"},
+{ "recid":2048, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2821", "meaning":"notice; observe", "transliteration":"wkm","script":"𒉿𒅗𒈬"},
+{ "recid":2049, "concept":"null", "meaning":"move on; progress", "transliteration":"wksz","script":"𒊌𒆪𒋗"},
+{ "recid":2050, "concept":"null", "meaning":"give birth; bear (young)", "transliteration":"wld","script":"𒉿𒆷𒁺"},
+{ "recid":2051, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_267", "meaning":"lick", "transliteration":"wlʾ","script":"𒀀𒆷𒌋"},
+{ "recid":2052, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2965", "meaning":"scintillate; twinkle", "transliteration":"wml","script":"𒌝𒈬𒇻"},
+{ "recid":2053, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3310", "meaning":"swear", "transliteration":"wmʾ","script":"𒉿𒈬"},
+{ "recid":2054, "concept":"null", "meaning":"be dim; be faint", "transliteration":"wnt","script":"𒌦𒉡𒌅"},
+{ "recid":2055, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wpd","script":"𒉿𒉺𒁺"},
+{ "recid":2056, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_329", "meaning":"insult", "transliteration":"wpsz","script":"𒉿𒉺𒋗"},
+{ "recid":2057, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wpt","script":"𒉿𒉺𒌅"},
+{ "recid":2058, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"wpt,","script":"𒉿𒉺𒂅"},
+{ "recid":2059, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_259", "meaning":"be(come) visible; appear; (Š) make manifest", "transliteration":"wpʾ","script":"𒉿𒁍"},
+{ "recid":2060, "concept":"null", "meaning":"become rare; scarce; expensive", "transliteration":"wqr","script":"𒉿𒋡𒌋𒋡𒊒"},
+{ "recid":2061, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2469", "meaning":"incise; inscribe; prescribe", "transliteration":"wqʾ","script":"𒊌𒄣"},
+{ "recid":2062, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_921", "meaning":"descend; go down", "transliteration":"wrd","script":"𒌋𒊏𒁺"},
+{ "recid":2063, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2300", "meaning":"hasten; be urgent; (D) speed up; scare away", "transliteration":"wrh","script":"𒉿𒊏𒄷"},
+{ "recid":2064, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1917", "meaning":"become yellowish green; pale", "transliteration":"wrq","script":"𒉿𒊏𒄣"},
+{ "recid":2065, "concept":"null", "meaning":"be(come) dirty", "transliteration":"wrsz","script":"𒉿𒊏𒋗"},
+{ "recid":2066, "concept":"null", "meaning":"make dirty; muck", "transliteration":"wrz","script":"𒌨𒊒𒍪"},
+{ "recid":2067, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2134", "meaning":"lead; bring; take to; (Gt) lead away; (Gtn) guide; steer", "transliteration":"wrʾ","script":"𒉿𒊒"},
+{ "recid":2068, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1789", "meaning":"add; increase; augment(D) multiply", "transliteration":"ws,b","script":"𒉿𒍝𒁍"},
+{ "recid":2069, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3736", "meaning":"investigate; interrogate", "transliteration":"ws,s,","script":"ṣ𒍮𒍮"},
+{ "recid":2070, "concept":"null", "meaning":"go out; set forth", "transliteration":"ws,ʾ","script":"𒌋𒍮"},
+{ "recid":2071, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3390", "meaning":"ascribe; assign; attribute", "transliteration":"wsk","script":"𒊻𒋢𒆪"},
+{ "recid":2072, "concept":"null", "meaning":"be fitting; suitable; (D) adorn building", "transliteration":"wsm","script":"𒉿𒊓𒈬"},
+{ "recid":2073, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_193", "meaning":"raise up; strengthen", "transliteration":"wsq","script":"𒉿𒊓𒄣"},
+{ "recid":2074, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_730", "meaning":"release; set free; relinquish; abandon", "transliteration":"wszr","script":"𒍑𒋗𒊒"},
+{ "recid":2075, "concept":"null", "meaning":"be(come) difficult; stiff", "transliteration":"wszt,","script":"𒉿𒊭𒂅"},
+{ "recid":2076, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2641", "meaning":"stand; (Gtn) stand around", "transliteration":"wszz","script":"𒌋𒍪"},
+{ "recid":2077, "concept":"null", "meaning":"forget; leave behind", "transliteration":"wszʾ","script":"𒉿𒋗"},
+{ "recid":2078, "got":"a5b2c1d1", "charName":"SU", "MesZL":"16","aBZL":"305","LHA":"7","HethZL":"213","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_155", "meaning":"identify; distinguish; discriminate", "transliteration":"wsʾ","script":"𒋢"},
+{ "recid":2079, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3519", "meaning":"lie down; sleep", "transliteration":"wtl","script":"𒌋𒌅𒇻"},
+{ "recid":2080, "concept":"null", "meaning":"be excessive; additional; (D) enlarge", "transliteration":"wtr","script":"𒌋𒋫𒉿𒋫𒊒"},
+{ "recid":2081, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2980", "meaning":"discover; find; (St1) meet one another; converge", "transliteration":"wtʾ","script":"𒉿𒌅"},
+{ "recid":2082, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"wu","script":"𒉿"},
+{ "recid":2083, "got":"a1b1c2", "charName":"PI", "MesZL":"598","aBZL":"370","LHA":"383","HethZL":"317","transliteration":"wu'","script":"𒉿"},
+{ "recid":2084, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"wusz","script":"𒈲"},
+{ "recid":2085, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1214", "meaning":"listen", "transliteration":"wzn","script":"𒍪𒉏"},
+{ "recid":2086, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2136", "meaning":"go forward; march; (D) instruct", "transliteration":"wʾr","script":"𒉿𒊒"},
+{ "recid":2087, "concept":"null", "meaning":"become insufficient; little", "transliteration":"wʾs,","script":"𒉿𒍮"},
+{ "recid":2088, "transliteration":"wʾsz","script":"'"},
+{ "recid":2089, "concept":"null", "meaning":"falsify; counterfeit (tablet; sealing)", "transliteration":"wʾʾ","script":"𒉿𒌝"},
+{ "recid":2090, "transliteration":"xkwu318","script":"₃"},
+{ "recid":2091, "transliteration":"xlak490","script":"₄"},
+{ "recid":2092, "got":"a3b5", "charName":"IA (I.A)", "MesZL":"260","aBZL":"193","LHA":"142a","HethZL":"218","transliteration":"ya","script":"𒅀"},
+{ "recid":2093, "got":"a5", "charName":"IÁ (5)", "MesZL":"861","aBZL":"476","LHA":"598a","HethZL":"371","transliteration":"ya2","script":"𒐊"},
+{ "recid":2094, "got":"a5b1c1d1", "charName":"ZU", "MesZL":"15","aBZL":"304","LHA":"6","HethZL":"209","concept":"https://www.wikidata.org/wiki/Q496", "meaning":"excrement", "transliteration":"z","script":"𒍪"},
+{ "recid":2095, "got":"a4", "charName":"ZA", "MesZL":"851","aBZL":"474","LHA":"586","HethZL":"366","transliteration":"za","script":"𒍝"},
+{ "recid":2096, "got":"a4", "charName":"ZA", "MesZL":"851","aBZL":"474","LHA":"586","HethZL":"366","transliteration":"za'","script":"𒍝"},
+{ "recid":2097, "concept":"null", "meaning":"bead; gem", "transliteration":"za2","script":"𒉌𒌓"},
+{ "recid":2098, "got":"a4b6c2d2", "charName":"ZAG", "MesZL":"540","aBZL":"206","LHA":"332","HethZL":"238","transliteration":"za3","script":"𒍠"},
+{ "recid":2099, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"zab","script":"𒂟"},
+{ "recid":2100, "got":"a4b6c2d2", "charName":"ZAG", "MesZL":"540","aBZL":"206","LHA":"332","HethZL":"238","transliteration":"zag","script":"𒍠"},
+{ "recid":2101, "got":"a1b4c4", "charName":"NE", "MesZL":"313","aBZL":"116","LHA":"172","HethZL":"169","transliteration":"zah","script":"𒉈"},
+{ "recid":2102, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2071", "meaning":"5.", "transliteration":"zah2","script":"𒄩𒀀"},
+{ "recid":2103, "got":"a4b6c2d2", "charName":"ZAG", "MesZL":"540","aBZL":"206","LHA":"332","HethZL":"238","transliteration":"zak","script":"𒍠"},
+{ "recid":2104, "got":"a2c1d1", "charName":"NI", "MesZL":"380","aBZL":"261","LHA":"231","HethZL":"72","transliteration":"zal","script":"𒉌"},
+{ "recid":2105, "got":"a2b2c10", "charName":"ZAR (LAGAB×SUM)", "MesZL":"767","aBZL":"413","LHA":"491","HethZL":"181","transliteration":"zal2","script":"𒇡"},
+{ "recid":2106, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"zap","script":"𒂟"},
+{ "recid":2107, "got":"a4b6c2d2", "charName":"ZAG", "MesZL":"540","aBZL":"206","LHA":"332","HethZL":"238","transliteration":"zaq","script":"𒍠"},
+{ "recid":2108, "got":"a2b2c10", "charName":"ZAR (LAGAB×SUM)", "MesZL":"767","aBZL":"413","LHA":"491","HethZL":"181","concept":"null", "meaning":"sheaf of barley); stack of sheaves", "transliteration":"zar","script":"𒇡"},
+{ "recid":2109, "got":"c10", "charName":"SUM", "MesZL":"292","aBZL":"388","LHA":"164","HethZL":"350","transliteration":"zar3","script":"𒋧"},
+{ "recid":2110, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"zaz","script":"𒁁"},
+{ "recid":2111, "got":"a2b2c9", "charName":"SAR", "MesZL":"541","aBZL":"385","LHA":"331e, 152iv","HethZL":"353","transliteration":"zaz szar","script":"𒊬"},
+{ "recid":2112, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3185", "meaning":"carry; haul; transport", "transliteration":"zbl","script":"𒍝𒁀𒇻"},
+{ "recid":2113, "got":"a2b1c10", "charName":"ZI", "MesZL":"140","aBZL":"41","LHA":"84","HethZL":"33","transliteration":"ze","script":"𒍣"},
+{ "recid":2114, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"ze2","script":"𒍢"},
+{ "recid":2115, "got":"a1b3c5d3", "charName":"AB×ŠEŠ", "MesZL":"226","aBZL":"","LHA":"200c","HethZL":"","concept":"https://www.wikidata.org/wiki/Q64386", "meaning":"bile", "transliteration":"ze4","script":"𒀓"},
+{ "recid":2116, "got":"b2c3", "charName":"NUMUN", "MesZL":"117","aBZL":"26","LHA":"72","HethZL":"12","transliteration":"zer","script":"𒆰"},
+{ "recid":2117, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"zer3","script":"𒈲"},
+{ "recid":2118, "got":"a2b1c10", "charName":"ZI", "MesZL":"140","aBZL":"41","LHA":"84","HethZL":"33","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3227", "meaning":"to erase", "transliteration":"zi","script":"𒍣"},
+{ "recid":2119, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"zi2","script":"𒍢"},
+{ "recid":2120, "got":"b7c2", "charName":"ZÌ", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"zi3","script":"𒍥"},
+{ "recid":2121, "got":"c4", "charName":"ZIB", "MesZL":"628","aBZL":"","LHA":"395","HethZL":"","transliteration":"zib","script":"𒍦"},
+{ "recid":2122, "got":"a2b1c10", "charName":"ZI", "MesZL":"140","aBZL":"41","LHA":"84","HethZL":"33","transliteration":"zid","script":"𒍣"},
+{ "recid":2123, "got":"c11d5", "charName":"SÙḪ (GUoverGUcrossed)", "MesZL":"892","aBZL":"251","LHA":"569","HethZL":"","transliteration":"zih","script":"𒄗"},
+{ "recid":2124, "got":"b4c4", "charName":"ZIGZIK (NÍNDA×EŠ)", "MesZL":"336","aBZL":"140","LHA":"190","HethZL":"","transliteration":"zik","script":"𒍨"},
+{ "recid":2125, "got":"a5b1", "charName":"NUN", "MesZL":"143","aBZL":"47","LHA":"87","HethZL":"36","concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2801", "meaning":"to split; slit", "transliteration":"zil","script":"𒉣"},
+{ "recid":2126, "got":"a14b6", "charName":"ŠEN (SU×A)", "MesZL":"17","aBZL":"306","LHA":"8","HethZL":"230","transliteration":"zin","script":"𒊿"},
+{ "recid":2127, "got":"b4c4", "charName":"ZIGZIK (NÍNDA×EŠ)", "MesZL":"336","aBZL":"140","LHA":"190","HethZL":"","transliteration":"ziq","script":"𒍨"},
+{ "recid":2128, "got":"b2c3", "charName":"NUMUN", "MesZL":"117","aBZL":"26","LHA":"72","HethZL":"12","transliteration":"zir","script":"𒆰"},
+{ "recid":2129, "got":"b1c1d1", "charName":"BAD", "MesZL":"113","aBZL":"25","LHA":"69","HethZL":"13","transliteration":"ziz","script":"𒁁"},
+{ "recid":2130, "got":"b1c2d2", "charName":"SÙR (ḪI.AŠ, ḪI×AŠ)", "MesZL":"634","aBZL":"278","LHA":"405v2","HethZL":"","concept":"https://www.wikidata.org/wiki/Q1390", "meaning":"an insect", "transliteration":"ziz3","script":"𒄮"},
+{ "recid":2131, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"zkd","script":"𒍝𒅗𒁺"},
+{ "recid":2132, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_729", "meaning":"fix upright; impale (human on stake); crucify; plant; (N) be set up", "transliteration":"zkp","script":"𒍝𒅗𒁍"},
+{ "recid":2133, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2794", "meaning":"declare; name; invoke; mention; speak; pronounce", "transliteration":"zkr","script":"𒍝𒅗𒊒"},
+{ "recid":2134, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3208", "meaning":"be(come) clean; clear; free; pure; (D) exempt; free", "transliteration":"zkʾ","script":"𒍝𒆪"},
+{ "recid":2135, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_531", "meaning":"glare; glitter; spangle", "transliteration":"zlq","script":"𒍝𒆷𒄣"},
+{ "recid":2136, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1252", "meaning":"buzz; tinkle; whir", "transliteration":"zmm","script":"𒍝𒈠𒈬"},
+{ "recid":2137, "concept":"null", "meaning":"(meaning unclear)", "transliteration":"zmn","script":"𒍮𒈬𒉡"},
+{ "recid":2138, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1526", "meaning":"sing; chant; intone", "transliteration":"zmr","script":"𒍝𒈠𒊒"},
+{ "recid":2139, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2529", "meaning":"lack; miss; be deprived of", "transliteration":"zmʾ","script":"𒍮𒈬"},
+{ "recid":2140, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"znd","script":"𒍝𒈾𒁺"},
+{ "recid":2141, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2204", "meaning":"rain; (Š) bring rain", "transliteration":"znn","script":"𒍝𒈾𒉡"},
+{ "recid":2142, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"znq","script":"𒉡𒄣"},
+{ "recid":2143, "concept":"null", "meaning":"be angry; be offended", "transliteration":"znʾ","script":"𒍝𒉡"},
+{ "recid":2144, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_223", "meaning":"decay; rot; become", "transliteration":"zpr","script":"𒍝𒉺𒊒"},
+{ "recid":2145, "got":"b1c2d2", "charName":"BU (GÍD)", "MesZL":"580","aBZL":"265","LHA":"371","HethZL":"339","concept":"null", "meaning":"adulterate; counterfeit", "transliteration":"zpʾ","script":"𒁍"},
+{ "recid":2146, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"zqd","script":"𒍝𒋡𒁺"},
+{ "recid":2147, "concept":"null", "meaning":"be bearded", "transliteration":"zqn","script":"𒍝𒋡𒉡"},
+{ "recid":2148, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_729", "meaning":"fix upright; impale (human on stake); crucify; plant; (N) be set up", "transliteration":"zqp","script":"𒍝𒋡𒁍"},
+{ "recid":2149, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2794", "meaning":"project; build high; be high; culminate", "transliteration":"zqr","script":"𒍝𒋡𒊒"},
+{ "recid":2150, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2612", "meaning":"sting; goad; prick; bite (of insects)", "transliteration":"zqt","script":"𒍝𒋡𒌅"},
+{ "recid":2151, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2628", "meaning":"do legally; purchase; acquire", "transliteration":"zrb","script":"𒍝𒊏𒁍"},
+{ "recid":2152, "concept":"null", "meaning":"treble with rage (of monsters)", "transliteration":"zrbb","script":"𒈾𒇡𒁍𒅤"},
+{ "recid":2153, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2628", "meaning":"do legally; purchase; acquire", "transliteration":"zrp","script":"𒍝𒊏𒁍"},
+{ "recid":2154, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2025", "meaning":"scatter; sprinkle; spray; strew", "transliteration":"zrq","script":"𒍝𒊏𒄣"},
+{ "recid":2155, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_662", "meaning":"sow; seed; disseminate; scatter; winnow", "transliteration":"zrʾ","script":"𒍝𒊒"},
+{ "recid":2156, "got":"a5b1c1d1", "charName":"ZU", "MesZL":"15","aBZL":"304","LHA":"6","HethZL":"209","concept":"https://www.wikidata.org/wiki/Q496", "meaning":"excrement", "transliteration":"zu","script":"𒍪"},
+{ "recid":2157, "got":"a5b1c1d1", "charName":"ZU", "MesZL":"15","aBZL":"304","LHA":"6","HethZL":"209","transliteration":"zu'","script":"𒍪"},
+{ "recid":2158, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","transliteration":"zu2","script":"𒅗"},
+{ "recid":2159, "got":"a3b2c5d1", "charName":"KA", "MesZL":"24","aBZL":"312","LHA":"15","HethZL":"133","transliteration":"zu2?","script":"𒅗"},
+{ "recid":2160, "got":"a11b5c1d1", "charName":"ZU5", "MesZL":"","aBZL":"","LHA":"","HethZL":"","transliteration":"zu5","script":"𒍫"},
+{ "recid":2161, "got":"a5b2c3d2", "charName":"ŠUL (DUN)", "MesZL":"744","aBZL":"ŠUL:438","LHA":"467","HethZL":"46","transliteration":"zu7","script":"𒂄"},
+{ "recid":2162, "got":"a5b2", "charName":"SUG (LAGAB×A)", "MesZL":"795","aBZL":"414","LHA":"522","HethZL":"182","transliteration":"zug","script":"𒆹"},
+{ "recid":2163, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"zum","script":"𒍮"},
+{ "recid":2164, "got":"b2c4", "charName":"AMAR (ZUR)", "MesZL":"695","aBZL":"367","LHA":"437","HethZL":"155","transliteration":"zur","script":"𒀫"},
+{ "recid":2165, "got":"a1b1", "charName":"LAL (LÁ)", "MesZL":"750","aBZL":"391","LHA":"481","HethZL":"358","transliteration":"zur5","script":"𒇲"},
+{ "recid":2166, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_508", "meaning":"dissolve; flow (away)", "transliteration":"zʾb","script":"𒍝𒍪𒀀𒁍"},
+{ "recid":2167, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_436", "meaning":"pulverize; crush (plants; herbs)", "transliteration":"zʾk","script":"𒍝𒆪"},
+{ "recid":2168, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2016", "meaning":"hum; hustle; jostle", "transliteration":"zʾm","script":"𒍪𒀀𒈬"},
+{ "recid":2169, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3323", "meaning":"adorn; decorate", "transliteration":"zʾn","script":"𒍝𒀀𒉡"},
+{ "recid":2170, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"zʾp","script":"𒍪𒌋𒁍"},
+{ "recid":2171, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2508", "meaning":"blow; waft; gust; drift; bluster (of wind; demon; illness; laughter; scent)", "transliteration":"zʾq","script":"𒍣𒀀𒍝𒄣"},
+{ "recid":2172, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2032", "meaning":"hate; dislike; detest; reject", "transliteration":"zʾr","script":"𒍣𒍣𒀀𒊒"},
+{ "recid":2173, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3686", "meaning":"transpire", "transliteration":"zʾt","script":"𒍪𒀀𒌅"},
+{ "recid":2174, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1366", "meaning":"divide; share; allot; (D) distribute", "transliteration":"zʾz","script":"𒍝𒍪𒀀𒍪"},
+{ "recid":2175, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1198", "meaning":"perfume; make smell good", "transliteration":"zʾʾ","script":"𒍪𒌋"},
+{ "recid":2176, "transliteration":"|la","script":"@"},
+{ "recid":2177, "got":"a3b2", "charName":"GÁ (MAL)", "MesZL":"387","aBZL":"93","LHA":"233","HethZL":"56","concept":"https://www.wikidata.org/wiki/Q3947", "meaning":"7. estate", "transliteration":"ĝa2","script":"𒂷"},
+{ "recid":2178, "got":"a6b2", "charName":"GÁN", "MesZL":"174","aBZL":"106","LHA":"105","HethZL":"61","transliteration":"ĝa3","script":"𒃷"},
+{ "recid":2179, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"ĝa4","script":"𒃻"},
+{ "recid":2180, "got":"a3b6c2", "charName":"IG (GÁL)", "MesZL":"136","aBZL":"61","LHA":"80","HethZL":"67","transliteration":"ĝal2","script":"𒅅"},
+{ "recid":2181, "got":"a3d1", "charName":"NÍG (GAR, NINDA)", "MesZL":"859","aBZL":"473","LHA":"597","HethZL":"369","transliteration":"ĝar","script":"𒃻"},
+{ "recid":2182, "got":"a5b1", "charName":"NUN", "MesZL":"143","aBZL":"47","LHA":"87","HethZL":"36","transliteration":"ĝar6","script":"𒉣"},
+{ "recid":2183, "got":"a1b1c5d2", "charName":"GI", "MesZL":"141","aBZL":"40","LHA":"85","HethZL":"30","transliteration":"ĝe","script":"𒄀"},
+{ "recid":2184, "got":"a1b2", "charName":"GIŠ (GEŠ)", "MesZL":"469","aBZL":"160","LHA":"296","HethZL":"178","transliteration":"ĝesz","script":"𒄑"},
+{ "recid":2185, "got":"a1b1c5d2", "charName":"GI", "MesZL":"141","aBZL":"40","LHA":"85","HethZL":"30","transliteration":"ĝi","script":"𒄀"},
+{ "recid":2186, "got":"b8c1", "charName":"MI", "MesZL":"681","aBZL":"348","LHA":"427","HethZL":"267","transliteration":"ĝi6","script":"𒈪"},
+{ "recid":2187, "got":"a6b4", "charName":"KID (LÍL)", "MesZL":"484","aBZL":"163","LHA":"313","HethZL":"194","transliteration":"ĝid","script":"𒆤"},
+{ "recid":2188, "got":"a1b2c6", "charName":"KAŠ4 (DU-šeššig)", "MesZL":"352","aBZL":"66","LHA":"202","HethZL":"129","transliteration":"ĝir5","script":"𒁽"},
+{ "recid":2189, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"ş","script":"𒍮"},
+{ "recid":2190, "got":"a4", "charName":"ZA", "MesZL":"851","aBZL":"474","LHA":"586","HethZL":"366","transliteration":"şa","script":"𒍝"},
+{ "recid":2191, "got":"c2d2", "charName":"ERIM (ZÁLAG)", "MesZL":"612","aBZL":"247","LHA":"393","HethZL":"327","transliteration":"şab","script":"𒂟"},
+{ "recid":2192, "transliteration":"şam i","script":"ṣ"},
+{ "recid":2193, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"şe","script":"𒍢"},
+{ "recid":2194, "got":"a4b4c1d1", "charName":"ZÍ( AB×PA)", "MesZL":"259","aBZL":"126","LHA":"147","HethZL":"108","transliteration":"şi","script":"𒍢"},
+{ "recid":2195, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"şim","script":"𒍮"},
+{ "recid":2196, "got":"c3", "charName":"EŠ (3×U)", "MesZL":"711","aBZL":"366","LHA":"472","HethZL":"331","transliteration":"şin","script":"𒌍"},
+{ "recid":2197, "got":"c4", "charName":"ZIB", "MesZL":"628","aBZL":"","LHA":"395","HethZL":"","transliteration":"şip","script":"𒍦"},
+{ "recid":2198, "got":"a4b1c3d2", "charName":"MUŠ", "MesZL":"585","aBZL":"267","LHA":"374","HethZL":"342","transliteration":"şir","script":"𒈲"},
+{ "recid":2199, "got":"a1b1c3d3", "charName":"ZUM", "MesZL":"884","aBZL":"456","LHA":"555","HethZL":"300","transliteration":"şu","script":"𒍮"},
+{ "recid":2200, "transliteration":"şum","script":"ṣ"},
+{ "recid":2201, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","transliteration":"ţ","script":"𒂅"},
+{ "recid":2202, "got":"a2b8c1", "charName":"DA", "MesZL":"561","aBZL":"229","LHA":"335","HethZL":"214","transliteration":"ţa","script":"𒁕"},
+{ "recid":2203, "got":"b2c2d2", "charName":"DI", "MesZL":"736","aBZL":"431","LHA":"457","HethZL":"312","transliteration":"ţe","script":"𒁲"},
+{ "recid":2204, "got":"a3b3", "charName":"GÍN (TÙN)", "MesZL":"836","aBZL":"TÙN:401a, GÍN:401b","LHA":"595","HethZL":"223; 209.2","transliteration":"ţu","script":"𒂅"},
+{ "recid":2205, "concept":"null", "meaning":"become (ritually) clean; become", "transliteration":"ʾbb","script":"𒂊𒁁𒁍"},
+{ "recid":2206, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1735", "meaning":"gird; surround", "transliteration":"ʾbh","script":"𒂊𒁁𒄷"},
+{ "recid":2207, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2134", "meaning":"I send; lead; II uproot; upset; overturn", "transliteration":"ʾbk","script":"𒀀𒁀𒆪"},
+{ "recid":2208, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1866", "meaning":"carry; bring; (Gtn) look after; (Š) deliver; (St1) be delivered; (St2) stir", "transliteration":"ʾbl","script":"𒀀𒁀𒇻"},
+{ "recid":2209, "concept":"https://www.wikidata.org/wiki/Q8", "meaning":"cross over", "transliteration":"ʾbr","script":"𒂊𒁁𒊒"},
+{ "recid":2210, "concept":"null", "meaning":"fringe", "transliteration":"ʾbs","script":"𒌒𒁍𒋢"},
+{ "recid":2211, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_994", "meaning":"I destroy; ruin; lay waste; II (N) flee", "transliteration":"ʾbt","script":"𒀀𒁀𒌅"},
+{ "recid":2212, "concept":"null", "meaning":"take as pledge", "transliteration":"ʾbt,","script":"𒌒𒁍𒂅"},
+{ "recid":2213, "concept":"null", "meaning":"become veiled; cloudy", "transliteration":"ʾbʾ","script":"𒀀𒁍"},
+{ "recid":2214, "concept":"null", "meaning":"blow away (of demons; storms)", "transliteration":"ʾdb","script":"𒂊𒁲𒁍"},
+{ "recid":2215, "concept":"null", "meaning":"become spiky", "transliteration":"ʾdd","script":"𒂊𒁲𒁺"},
+{ "recid":2216, "concept":"null", "meaning":"cover with patches; (D) cover objects with a network", "transliteration":"ʾdh","script":"𒂊𒁲𒄷"},
+{ "recid":2217, "concept":"null", "meaning":"cover with patches; (D) cover objects with a network", "transliteration":"ʾdk","script":"𒂊𒁲𒆪"},
+{ "recid":2218, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2063", "meaning":"lock", "transliteration":"ʾdl","script":"𒂊𒁲𒇻"},
+{ "recid":2219, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2508", "meaning":"blow away (of demons; storms)", "transliteration":"ʾdp","script":"𒂊𒁲𒁍"},
+{ "recid":2220, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2259", "meaning":"dress", "transliteration":"ʾdq","script":"𒀀𒁕𒄣"},
+{ "recid":2221, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_845", "meaning":"I become worried; become disturbed; fear; II be dark; gloomy", "transliteration":"ʾdr","script":"𒀀𒁕𒊒"},
+{ "recid":2222, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2258", "meaning":"become new; (D) resume; restore", "transliteration":"ʾdsz","script":"𒂊𒁲𒋗"},
+{ "recid":2223, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1873", "meaning":"scratch", "transliteration":"ʾgg","script":"𒂊𒄀𒄖"},
+{ "recid":2224, "concept":"null", "meaning":"be furious", "transliteration":"ʾgm","script":"𒀀𒂵𒈬"},
+{ "recid":2225, "concept":"null", "meaning":"lie across", "transliteration":"ʾgr","script":"𒂊𒄀𒊒"},
+{ "recid":2226, "concept":"null", "meaning":"be careless; be negligent", "transliteration":"ʾgʾ","script":"𒂊𒄖"},
+{ "recid":2227, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1726", "meaning":"be behind; (D) hold back; delay", "transliteration":"ʾhr","script":"𒀀𒄩𒊒"},
+{ "recid":2228, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3167", "meaning":"take; grasp; embrace; seize; marry; learn", "transliteration":"ʾhz","script":"𒀀𒄩𒍪"},
+{ "recid":2229, "concept":"null", "meaning":"(Gt) become brothers; (Št) pair off; stand opposite to each other. (N) fraternize", "transliteration":"ʾhʾ","script":"𒀀𒄷"},
+{ "recid":2230, "concept":"null", "meaning":"come close; approach (sexually); (Gt) come very close; (Št) pack tightly together", "transliteration":"ʾkb","script":"𒂊𒆠𒁍"},
+{ "recid":2231, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2470", "meaning":"revile; slander", "transliteration":"ʾkd","script":"𒂊𒆠𒁺"},
+{ "recid":2232, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1873", "meaning":"scratch", "transliteration":"ʾkk","script":"𒂊𒆠𒆪"},
+{ "recid":2233, "concept":"null", "meaning":"become dark", "transliteration":"ʾkl","script":"𒂊𒆠𒇻"},
+{ "recid":2234, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_536", "meaning":"take away (by force)", "transliteration":"ʾkm","script":"𒂊𒆠𒈬"},
+{ "recid":2235, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ʾks,","script":"𒂊𒆠𒍮"},
+{ "recid":2236, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590", "meaning":"go; move; walk", "transliteration":"ʾksz","script":"𒀀𒅗𒋗"},
+{ "recid":2237, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3580", "meaning":"starve; deprive; (D) shortage of rain", "transliteration":"ʾkʾ","script":"𒂊𒆪"},
+{ "recid":2238, "concept":"null", "meaning":"give birth; bear (young)", "transliteration":"ʾld","script":"𒌋𒆷𒁺"},
+{ "recid":2239, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2082", "meaning":"sprinkle; strew (flour); (D) adorn", "transliteration":"ʾlh","script":"𒂊𒇷𒄷"},
+{ "recid":2240, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1590", "meaning":"go; walk; move about (vent)", "transliteration":"ʾlk","script":"𒀀𒆷𒆪"},
+{ "recid":2241, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2542", "meaning":"become pure; become free", "transliteration":"ʾll","script":"𒂊𒇷𒇻"},
+{ "recid":2242, "concept":"null", "meaning":"(N) roam around", "transliteration":"ʾllʾ","script":"𒉈𒂖𒇻"},
+{ "recid":2243, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1208", "meaning":"spout; grow; (Dt) multiply; (Št) interlock", "transliteration":"ʾlp","script":"𒂊𒇷𒁍"},
+{ "recid":2244, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1527", "meaning":"rejoice; swell", "transliteration":"ʾls,","script":"𒂊𒇷𒍮"},
+{ "recid":2245, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3795", "meaning":"absorb; swallow (up)", "transliteration":"ʾlt","script":"𒀀𒆷𒌅"},
+{ "recid":2246, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2345", "meaning":"go up; become high", "transliteration":"ʾlʾ","script":"𒂊𒇻"},
+{ "recid":2247, "concept":"null", "meaning":"(Št) make lick up", "transliteration":"ʾlʾʾ","script":"𒋗𒋼𒇻𒌋"},
+{ "recid":2248, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2652", "meaning":"lean against; impose (taxes; punishments)", "transliteration":"ʾmd","script":"𒂊𒈨𒁺"},
+{ "recid":2249, "concept":"null", "meaning":"be(come) hot; (Gtn) have fever or temperature continually", "transliteration":"ʾmm","script":"𒂊𒈨𒈬"},
+{ "recid":2250, "concept":"null", "meaning":"I be wise; (Stn) pray devoutly; II care for", "transliteration":"ʾmq","script":"𒂊𒈨𒄣"},
+{ "recid":2251, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2519", "meaning":"I be red; II swell; enlarge", "transliteration":"ʾmr","script":"𒂊𒈨𒊒"},
+{ "recid":2252, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ʾms","script":"𒀀𒈠𒋢"},
+{ "recid":2253, "concept":"null", "meaning":"be hungry", "transliteration":"ʾms,","script":"𒂊𒈨𒍮"},
+{ "recid":2254, "concept":"null", "meaning":"strive", "transliteration":"ʾmsz","script":"𒂊𒈨𒋗"},
+{ "recid":2255, "concept":"null", "meaning":"become; turn into; change (intrans.)", "transliteration":"ʾmʾ","script":"𒂊𒈬"},
+{ "recid":2256, "concept":"null", "meaning":"(bear) fruit; (Dtn) gather fruit repeatedly", "transliteration":"ʾnb","script":"𒂊𒉈𒁍"},
+{ "recid":2257, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3799", "meaning":"be weary; be tired; collapse", "transliteration":"ʾnh","script":"𒀀𒈾𒄷"},
+{ "recid":2258, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_208", "meaning":"pray", "transliteration":"ʾnn","script":"𒌓𒉈𒉏"},
+{ "recid":2259, "concept":"null", "meaning":"be weak; dilapidated", "transliteration":"ʾnsz","script":"𒀀𒈾𒋗"},
+{ "recid":2260, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2501", "meaning":"flatten; (Dt) be(come) faint (of stars)", "transliteration":"ʾnt","script":"𒂊𒉈𒌅"},
+{ "recid":2261, "concept":"null", "meaning":"change (trans.)", "transliteration":"ʾnʾ","script":"𒂊𒉡"},
+{ "recid":2262, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_566", "meaning":"delouse", "transliteration":"ʾpl","script":"𒌒𒁍𒇻"},
+{ "recid":2263, "concept":"null", "meaning":"(meaning unclear) infiltrate?", "transliteration":"ʾpp","script":"𒀀𒉺𒁍"},
+{ "recid":2264, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_659", "meaning":"embrace; grow over", "transliteration":"ʾpq","script":"𒂊𒉿𒄣"},
+{ "recid":2265, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_898", "meaning":"feed; provide", "transliteration":"ʾpr","script":"𒂊𒉿𒊒"},
+{ "recid":2266, "concept":"null", "meaning":"fringe", "transliteration":"ʾps","script":"𒌒𒁍𒋢"},
+{ "recid":2267, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2160", "meaning":"make; do; act; perform", "transliteration":"ʾpsz","script":"𒂊𒉿𒋗"},
+{ "recid":2268, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3426", "meaning":"bake bread", "transliteration":"ʾpʾ","script":"𒂊𒁍"},
+{ "recid":2269, "concept":"null", "meaning":"come close; approach (sexually); (Gt) come very close; (Št) pack tightly together", "transliteration":"ʾqb","script":"𒂊𒆥𒁍"},
+{ "recid":2270, "concept":"null", "meaning":"paralyse", "transliteration":"ʾqq","script":"𒂊𒆥𒄣"},
+{ "recid":2271, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_154", "meaning":"anoint; smear (eyes)", "transliteration":"ʾqʾ","script":"𒂊𒄣"},
+{ "recid":2272, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2427", "meaning":"(N) flee; escape", "transliteration":"ʾrb","script":"𒉈𒊒𒅤"},
+{ "recid":2273, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_921", "meaning":"to go down; descend", "transliteration":"ʾrd","script":"𒂊𒊑𒁺"},
+{ "recid":2274, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2028", "meaning":"act aggressively; attack", "transliteration":"ʾrh","script":"𒂊𒊑𒄷"},
+{ "recid":2275, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1811", "meaning":"be(come) long", "transliteration":"ʾrk","script":"𒀀𒊏𒆪"},
+{ "recid":2276, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1050", "meaning":"envelop; cover", "transliteration":"ʾrm","script":"𒀀𒊏𒈬"},
+{ "recid":2277, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1080", "meaning":"be cloudy; overcast", "transliteration":"ʾrp","script":"𒀀𒊏𒁍"},
+{ "recid":2278, "concept":"null", "meaning":"(N) go assist", "transliteration":"ʾrr","script":"𒈾𒅈𒊒𒀸"},
+{ "recid":2279, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1993", "meaning":"ask; request; desire", "transliteration":"ʾrsz","script":"𒂊𒊑𒋗"},
+{ "recid":2280, "concept":"null", "meaning":"(Št) make ready; prepare", "transliteration":"ʾrsʾ","script":"𒋗𒌁𒋧"},
+{ "recid":2281, "concept":"https://www.wikidata.org/wiki/Q753", "meaning":"be naked; empty (D) strip; bare head", "transliteration":"ʾrʾ","script":"𒂊𒊒"},
+{ "recid":2282, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1789", "meaning":"add; increase; (D) multiply", "transliteration":"ʾs,b","script":"𒀀𒍝𒁍"},
+{ "recid":2283, "concept":"null", "meaning":"harvest", "transliteration":"ʾs,d","script":"𒂊𒍢𒁺"},
+{ "recid":2284, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3006", "meaning":"paralyse", "transliteration":"ʾs,l","script":"𒂊𒍢𒇻"},
+{ "recid":2285, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3005", "meaning":"fit; befit; suit; be proper; (D) adorn building", "transliteration":"ʾs,m","script":"𒀀𒍝𒈬"},
+{ "recid":2286, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3883", "meaning":"smell (trans.)", "transliteration":"ʾs,n","script":"𒂊𒍢𒉡"},
+{ "recid":2287, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_84", "meaning":"double; multiply", "transliteration":"ʾs,p","script":"𒂊𒍢𒁍"},
+{ "recid":2288, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1425", "meaning":"enclose; confine", "transliteration":"ʾs,r","script":"𒂊𒍢𒊒"},
+{ "recid":2289, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3905", "meaning":"slit; cut into (forehead or head)", "transliteration":"ʾs,ʾ","script":"𒂊𒍮"},
+{ "recid":2290, "concept":"null", "meaning":"(meaning unknown)", "transliteration":"ʾsd","script":"𒊻𒋢𒁺"},
+{ "recid":2291, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1364", "meaning":"I gird on; strap on a weapon; II assign; allocate", "transliteration":"ʾsh","script":"𒂊𒋛𒄷"},
+{ "recid":2292, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1364", "meaning":"I assign; allocate; II incise; carve", "transliteration":"ʾsk","script":"𒂊𒋛𒆪"},
+{ "recid":2293, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_588", "meaning":"blow up; inflate", "transliteration":"ʾsl","script":"𒂊𒋛𒇻"},
+{ "recid":2294, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3943", "meaning":"gather together; (D) scrape up earth from furrows", "transliteration":"ʾsp","script":"𒂊𒋛𒁍"},
+{ "recid":2295, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_193", "meaning":"raise up; strengthen", "transliteration":"ʾsq","script":"𒂊𒋛𒄣"},
+{ "recid":2296, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1664", "meaning":"I press for payment; collect; II enclose; confine", "transliteration":"ʾsr","script":"𒂊𒋛𒊒"},
+{ "recid":2297, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1632", "meaning":"sit (down); dwell; be (located); (D) settle", "transliteration":"ʾszb","script":"𒌋𒊭𒁍"},
+{ "recid":2298, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1118", "meaning":"enchant; cast a spell; (D) exorcise", "transliteration":"ʾszp","script":"𒀀𒊭𒁍"},
+{ "recid":2299, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1710", "meaning":"go straight; prosper; (Š) put in order; (St1) pass of S; (St2) keep in order", "transliteration":"ʾszr","script":"𒂊𒊺𒊒"},
+{ "recid":2300, "concept":"null", "meaning":"be(come) disturbed", "transliteration":"ʾszsz","script":"𒂊𒊺𒋗"},
+{ "recid":2301, "concept":"null", "meaning":"be stiff; be obdurate", "transliteration":"ʾszt,","script":"𒀀𒊭𒂅"},
+{ "recid":2302, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2055", "meaning":"have; possess; suffer from disease; ilness", "transliteration":"ʾszʾ","script":"𒄿𒋳"},
+{ "recid":2303, "concept":"null", "meaning":"effectuate; bring to pass", "transliteration":"ʾsʾ","script":"𒂊𒋢"},
+{ "recid":2304, "concept":"null", "meaning":"be manly", "transliteration":"ʾt,l","script":"𒂊𒁲𒇻"},
+{ "recid":2305, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2707", "meaning":"I take away; save; II pay", "transliteration":"ʾt,r","script":"𒂊𒁲𒊒"},
+{ "recid":2306, "concept":"null", "meaning":"become dark; become dim", "transliteration":"ʾt,ʾ","script":"𒂊𒂅"},
+{ "recid":2307, "concept":"null", "meaning":"be on guard; (D) alert", "transliteration":"ʾtk","script":"𒂊𒋼𒆪"},
+{ "recid":2308, "concept":"null", "meaning":"be smitten; affected; (D) mix together; bring into contact; (Št) bring against each other", "transliteration":"ʾtm","script":"𒂊𒋼𒈬"},
+{ "recid":2309, "concept":"null", "meaning":"be smitten; affected; (D) mix together; bring into contact; (Št) bring against each other", "transliteration":"ʾtn","script":"𒂊𒋼𒉡"},
+{ "recid":2310, "concept":"null", "meaning":"pass by; pass through; go beyond", "transliteration":"ʾtq","script":"𒂊𒋼𒄣"},
+{ "recid":2311, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2641", "meaning":"stand; (Gtn) stand around", "transliteration":"ʾts","script":"𒄿𒋢"},
+{ "recid":2312, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3016", "meaning":"find; discover; locate", "transliteration":"ʾtʾ","script":"𒀀𒌅"},
+{ "recid":2313, "concept":"null", "meaning":"I become; turn into; change (intrans.); II impose on", "transliteration":"ʾwʾ","script":"𒂊𒉿"},
+{ "recid":2314, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2674", "meaning":"leave behind; abandon; divorce", "transliteration":"ʾzb","script":"𒂊𒍣𒁍"},
+{ "recid":2315, "concept":"null", "meaning":"gird on; strap on a weapon", "transliteration":"ʾzh","script":"𒂊𒍣𒄷"},
+{ "recid":2316, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1493", "meaning":"curse", "transliteration":"ʾzr","script":"𒂊𒍣𒊒"},
+{ "recid":2317, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_2641", "meaning":"stand; (Gtn) stand around", "transliteration":"ʾzz","script":"𒄿𒍮"},
+{ "recid":2318, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1509", "meaning":"be hasty; hurry", "transliteration":"ʾzʾ","script":"𒂊𒍪"},
+{ "recid":2319, "concept":"null", "meaning":"take notice; (D) inform", "transliteration":"ʾʾd","script":"𒀀𒁺"},
+{ "recid":2320, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3171", "meaning":"bind; (D) make contract; link", "transliteration":"ʾʾl","script":"𒂊𒂊𒈝"},
+{ "recid":2321, "concept":"null", "meaning":"become awake", "transliteration":"ʾʾr","script":"𒂊𒂊𒊒"},
+{ "recid":2322, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_1985", "meaning":"(Gtn) retch", "transliteration":"ʾʾsz","script":"𒀀𒀀𒋗"},
+{ "recid":2323, "concept":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_25", "meaning":"spew; spit out; vomit", "transliteration":"ʾʾʾ","script":"𒄩𒄷"}]}
