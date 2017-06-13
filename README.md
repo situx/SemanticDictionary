@@ -6,6 +6,6 @@ Current languages covered by the dictionary are:
 - Egyptian Hieroglyphes
 
 Specific export formats are provided for:
-- Anki Flashcard Learning
-- Ibus IME
+- [Anki](https://apps.ankiweb.net) Flashcard Learning
+- [Ibus IME] (https://github.com/ibus/ibus)
 - WebIME
