@@ -6,7 +6,7 @@ var akkadian_map={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%"},
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:akkadian"},
 {"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%"},
 {"field":"charName","caption":"SignName","sortable":true,"resizable":true,"size":"20%"},
 {"field":"meaning","caption":"Meaning","sortable":true,"resizable":true,"size":"20%",

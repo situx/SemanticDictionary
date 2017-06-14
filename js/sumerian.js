@@ -6,7 +6,7 @@ var sumerian={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%"},
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:sumerian"},
 {"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%",},
 {"field":"transcription","caption":"Transcription","sortable":true,"resizable":true,"size":"20%"},
 {"field":"translation","caption":"Translation","sortable":true,"resizable":true,"size":"20%",

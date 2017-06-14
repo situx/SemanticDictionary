@@ -6,28 +6,29 @@ var luwiancn={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%"},
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:luwiancn"},
 {"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%",},
 {"field":"transcription","caption":"Transcription","sortable":true,"resizable":true,"size":"20%"},
 {"field":"translation","caption":"Translation","sortable":true,"resizable":true,"size":"20%",
     render:function(record){
         result=""
-        if(record.concept!=undefined){
+        if(record.concept!=undefined && record.concept!=""){
             result+="<a href=\""+record.concept+"\" target=\"_blank\">"
             result+=record.translation
-            if(record.meaning!=undefined){
+            if(record.meaning!=undefined && record.meaning!=""){
                     result+=" ("+record.meaning+")"
             }
             result+="</a>"
         }else{
             result=record.translation
-             if(record.meaning!=undefined){
+             if(record.meaning!=undefined && record.meaning!=""){
                  result+=" ("+record.meaning+")"
              }
         }
         return result
 }},
-{"field":"pos","caption":"POSTag","sortable":true,"resizable":true,"size":"20%"}
+{"field":"pos","caption":"POSTag","sortable":true,"resizable":true,"size":"20%"},
+{"field":"ref","caption":"Reference","sortable":true,"resizable":true,"size":"20%"}
 ]
 ,"records":[
 {"recid":0,"concept":"https://www.wikidata.org/entity/Q178885","meaning":"","ref":"luvlex","pos":"DET","transcription":"D", "transliteration":"D","translation":"god","script":"𒀭"},
