@@ -1,0 +1,101 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+   integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ=="
+   crossorigin=""/>
+   <style>
+   #mapid { height: 550px; }
+   </style>
+   <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
+   integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg=="
+   crossorigin=""></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="js/wordmap.js"></script>
+   <script>
+   var mymap;
+   var gjlayer;
+   function onEachFeature(feature, layer) {
+    // does this feature have a property named popupContent?
+    if (feature.properties && feature.properties.tabletcount) {
+       popupbind="#Tablets: "+feature.properties.tabletcount+"<br>Place: "+feature.properties.place+"<br>Keywords: "
+       i=0;
+       for(item in feature.properties.keywords){
+            if(i>15){
+                continue;
+            }
+            popupbind+="<a href=\""+feature.properties.keywords[item]["uri"]+"\" target=\"_blank\">"+feature.properties.keywords[item]["translation"]+" ("+feature.properties.keywords[item]["occ"]+")</a><br/>"
+            i++;
+       }
+        layer.bindPopup(popupbind);
+    }
+}
+   function updateMapWithGeoJSON(epoch,language){
+            jsonarray=$.grep(wordmap["features"], function( n, i ) {
+                        //alert(n.properties.epoch==$('#epoch').val())
+                        //alert((n.properties.language==$('#language').val())+" - "+$('#language').val()+" - "+n.properties.language)
+                        return n.properties.epoch==$('#epoch').val() && n.properties.language==$('#language').val();
+            });
+            alert(JSON.stringify(jsonarray.length))
+            if(gjlayer!=undefined){
+                gjlayer.clearLayers()
+            }
+            gjlayer=L.geoJSON(jsonarray,{onEachFeature: onEachFeature}).addTo(mymap);
+            mymap.fitBounds(gjlayer.getBounds());
+   }
+   
+   function initmap() {
+	// set up the map
+	mymap = new L.Map('mapid');
+
+	// create the tile layer with correct attribution
+	var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+	var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+	var osm = new L.TileLayer(osmUrl, {minZoom: 1, maxZoom: 12, attribution: osmAttrib});		
+
+	// start the map in South-East England
+	mymap.setView(new L.LatLng(51.3, 0.7),9);
+	mymap.addLayer(osm);
+}
+   
+   function fillSelect(){
+            var epochs={}, langs={};
+            for(item  in wordmap["features"]){
+                    epochs[wordmap["features"][item]["properties"]["epoch"]]=true;
+                    langs[wordmap["features"][item]["properties"]["language"]]=true;
+            }
+            epch="",lngs="";
+            for(key in epochs){
+                    epch+="<option value=\""+key+"\">"+key+"</option>"
+            }
+            for(key in langs){
+                    lngs+="<option value=\""+key+"\">"+key+"</option>"
+            }
+            $('#epoch').html(epch);
+            $('#language').html(lngs);
+            $( "#epoch" ).change(function() {
+                    updateMapWithGeoJSON($('#epoch').val(),$('#language').val());
+            });
+            $( "#language" ).change(function() {
+                    updateMapWithGeoJSON($('#epoch').val(),$('#language').val());
+            });
+   }
+   $( document ).ready(function() {
+    initmap();
+    fillSelect();
+});
+   </script>
+</head>
+<body>
+   <div id="mapid"></div>
+<form>
+Epoch:
+<select id="epoch">
+<option value="Ur III">Ur III</option>
+</select>
+Language:
+<select id="language">
+<option value="Sumerian">Sumerian</option>
+</select>
+</form>
+</body>
+</html>
