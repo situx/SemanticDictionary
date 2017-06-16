@@ -19,7 +19,7 @@
     if (feature.properties && feature.properties.tabletcount) {
        popupbind="#Tablets: "+feature.properties.tabletcount+"<br>Place: "+feature.properties.place+"<br>Keywords: "
        i=0;
-       popupbind+="<a href=\"img/"+$('#language').val()+"_"+$('#epoch').val()+".png\"><img src=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" /></a>"
+       popupbind+="<a href=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" ><img src=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" /></a>"
         layer.bindPopup(popupbind,{
   maxWidth: "auto"
 });
