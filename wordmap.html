@@ -19,20 +19,14 @@
     if (feature.properties && feature.properties.tabletcount) {
        popupbind="#Tablets: "+feature.properties.tabletcount+"<br>Place: "+feature.properties.place+"<br>Keywords: "
        i=0;
-       for(item in feature.properties.keywords){
-            if(i>15){
-                continue;
-            }
-            popupbind+="<a href=\""+feature.properties.keywords[item]["uri"]+"\" target=\"_blank\">"+feature.properties.keywords[item]["translation"]+" ("+feature.properties.keywords[item]["occ"]+")</a><br/>"
-            i++;
-       }
-        layer.bindPopup(popupbind);
+       popupbind+="<a href=\"img/"+$('#language').val()+"_"+$('#epoch').val()+".png\"><img src=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" /></a>"
+        layer.bindPopup(popupbind,{
+  maxWidth: "auto"
+});
     }
 }
    function updateMapWithGeoJSON(epoch,language){
             jsonarray=$.grep(wordmap["features"], function( n, i ) {
-                        //alert(n.properties.epoch==$('#epoch').val())
-                        //alert((n.properties.language==$('#language').val())+" - "+$('#language').val()+" - "+n.properties.language)
                         return n.properties.epoch==$('#epoch').val() && n.properties.language==$('#language').val();
             });
             alert(JSON.stringify(jsonarray.length))
