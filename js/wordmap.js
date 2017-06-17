@@ -1648,5 +1648,5 @@ var wordmap={"type":"FeatureCollection",
 { "keyword":"antenna(e) - http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3592)", "translation":"antenna(e)", "uri":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_3592", "occ":"1"},
 { "keyword":"concatenates 2 signs] - http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_106)", "translation":"concatenates 2 signs]", "uri":"http://lemon-model.net/lexica/uby/vn/VN_LexicalEntry_106", "occ":"1"},]}},
 {"type":"Feature","geometry":{ "type":"Point","coordinates":[45.636111111,31.322222222]}, "properties":{"tabletID":"P000001 ", "tabletcount":4535, "language":"undetermined","place":"Uruk (mod. Warka)","matchpercent":"NaN%","currentwords":"0.0","matchedwords":"0.0", "epoch":"Uruk III", "keywords":[]}},
-{"type":"Feature","geometry":{ "type":"Point","coordinates":[45.636111111,31.322222222]}, "properties":{"tabletID":"P005312 ", "tabletcount":89, "language":"undetermined","place":"Uruk (mod. Warka) _","matchpercent":"NaN%","currentwords":"0.0","matchedwords":"0.0", "epoch":"Uruk III", "keywords":[]}},
+{"type":"Feature","geometry":{ "type":"Point","coordinates":[45.636111111,31.322222222]}, "properties":{"tabletID":"P005312 ", "tabletcount":89, "language":"undetermined","place":"Uruk (mod. Warka) _","matchpercent":"NaN%","currentwords":"0.0","matchedwords":"0.0", "epoch":"Uruk III", "keywords":[]}}
 ]}
