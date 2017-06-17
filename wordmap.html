@@ -17,7 +17,7 @@
    function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties && feature.properties.tabletcount) {
-       popupbind="#Tablets: "+feature.properties.tabletcount+"<br>Place: "+feature.properties.place+"<br>Keywords: "
+       popupbind="#Tablets: "+feature.properties.tabletcount+"<br>Place: "+feature.properties.place+"<br>Word Matches: "+feature.properties.matchedwords+"/"+feature.properties.currentwords+"("+feature.properties.matchpercent+")<br>Keywords: "
        i=0;
        popupbind+="<a href=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" ><img src=\"img/"+$('#language').val()+"_"+$('#epoch').val()+"_"+feature.properties.place+".png\" /></a>"
         layer.bindPopup(popupbind,{
@@ -29,7 +29,7 @@
             jsonarray=$.grep(wordmap["features"], function( n, i ) {
                         return n.properties.epoch==$('#epoch').val() && n.properties.language==$('#language').val();
             });
-            alert(JSON.stringify(jsonarray.length))
+            //alert(JSON.stringify(jsonarray.length))
             if(gjlayer!=undefined){
                 gjlayer.clearLayers()
             }
