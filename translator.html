@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/ime.css" />
+    <link href="css/jquery-linedtextarea.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/pos.css" />
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.js"></script>
+
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="js/jquery-linedtextarea.js"></script>
+<style>
+.header {width: 65%; margin: 50px auto;}
+.container {display: block; width: 100%; margin: 50px auto 0;}
+#left, #canvasSimpleDiv, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 50%; text-align:right;vertical-align:bottom;}
+#cent {width: 100%; text-align:center;vertical-align:bottom;}
+#right {width: 45%;}
+.cunei
+{
+    font-size:14pt;
+    font-family:Akkadian;
+}
+</style>
+<meta charset="UTF-8">
+<title>Translator</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Transliteration to Unicode Cuneiform Translator</h1>
+        <h2>Free and Open Source</h2>
+    </div>
+    <div class="container">
+    <div id="left">
+    Sample Texts:
+    <select id="langtextsel">
+    <option value="akk">Akkadian</option>
+    <option value="hit">Hittite</option>
+    <option value="sux">Sumerian</option>
+    </select>
+    <select id="textsel">
+    </select>
+    <div class="translation" id="translationdiv">
+<textarea id="lefttextarea" class="target lined" rows="19" cols="50">[na-as] [ma-ah-ha-an] [wa-ap-pu-i] [a-ri] [nu] [disz] 
+[NINDA-SIG] [wa-ap-pu-wa-as] [DINGIR-MAH] [par-si-ya] [na-at-sa-an] [wa-ap-pu-i] [da-a-i] 
+[NINDA-IA3-E-DE2-A] [me-ma-al] [se-er] [is-hu-u-wa-i] 
+[nu] [GESZ-TIN] [si-pa-an-ti] [nu] [me-ma-i] 
+
+[7(disz)] [wa-ap-pu-wa-as] [DINGIR-MAH-as] [ka-a-sa] [EGIR-pa] [tu-uk] [u2-wa-nu-un] 
+[nu-kan] [ka-a-sa] [IM-as] [ku-e-ez] [wa-ap-pu-wa-az] [da-an-za] [nu] [zi-ik] 
+[wa-ap-pu-as] [DINGIR-MAH] [tu-e-el] [SZU-TI-KA] [da-a] [nu] [ku-u-un] [EN-SIS-KUR] 
+[a-pe-e-ez] [sa-pi-ya-i] [na-an] [12] [UZU-U2R] [par-ku-nu-ut] 
+[nam-ma] [wa-ap-pu-wa-as] [IM-an] [da-a-i] 
+[nam-ma-as] [sa-ku-ni-ya] [pa-iz-zi] 
+[nu] [1] [NINDA-SIG] [par-si-ya] [na-at] [sa-ku-ni-ya-as] [pu-ru-ut] [da-a-i] 
+[NINDA-IA3-E-DE2-A] [me-ma-al] [su-uh-ha-i] 
+[nu] [GESZ-TIN] [si-pa-an-ti] [nu] [me-ma-i] 
+[8(disz)] [zi-ik-kan] [ma-ah-ha-an] [sa-ku-ni-is] [GE6-az] [KI-az] [pu-ru-ut] [EGIR] [sa-ra-a] 
+[sa-ku-ni-es-ke-si] [nu] [e-da-ni] [an-tu-uh-si] [A-NA] [EN-SISKUR] [ISZ-TU] [UZU-U2-RHI-A-SZU] 
+[i-da-lu] [pa-ap-ra-tar] [QA-TAM-MA] [ar-ha] [mu-ta-a-i] 
+</textarea>
+
+</div>
+</div>
+
+<div id="right" class="translation">
+<textarea id="righttextarea" class="cunei lined" rows="19" cols="25">
+empty
+</textarea>
+</div>
+</div>
+</div>
+    <div class="foot">
+    	<p id="cent">
+    	<select style="left:0px;" id="leftsel">
+<option value="akkadian">Akkadian</option>
+<option value="egyptian">Egyptian</option>
+<option value="hittite">Hittite</option>
+<option value="sumerian">Sumerian</option>
+</select>
+<button id="postagbutton">POSTag</button>
+<button id="translatebutton">Translate</button>
+<select style="right:0px;" id="rightsel"><option value="cunei">Cuneiform</option>
+</select><input type="checkbox" id="escapechars"/>Special Characters</p>
+    	<p id="cent">If you cannot see any cuneiform characters you are probably missing a cuneiform font. Download it <a href="http://users.teilar.gr/~g1951d/">here</a>!</p>
+        <p id="cent">A Free, Easy-to-use, Cuneiform Translator.<br> By Timo Homburg</p>
+        <p id="cent">Check out the <a href="https://github.com/situx/webime">source</a> of this jQuery plugin at Github</p>
+    </div>
+  <script src="js/trie.js"></script>
+  <script src="js/helper.js"></script>
+<script src="js/jquery.textarea-highlighter2.js"></script>
+<script src="js/textarea-helper.js"></script>
+<script src="lang/akk/pos/akk_matches.js"></script>
+<script src="lang/hit/pos/hit_matches.js"></script>
+<script src="lang/sux/pos/sux_matches.js"></script>
+<script src="lang/akk/pos/akk_matches_groups.js"></script>
+<script src="lang/hit/pos/hit_matches_groups.js"></script>
+<script src="lang/sux/pos/sux_matches_groups.js"></script>
+<script src="js/index2.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script> 
+ <script type="text/javascript" src="js/translator.js"></script>
+        <script type="text/javascript">
+    $(document).ready(function(){
+        prepareTranslation("akkadian");
+    });
+    </script>
+    <script>
+  $(function () {
+    // Target a single one
+  //$("#righttextarea").linedtextarea();
+    //$("#lefttextarea").linedtextarea();
+   //$(".lined").linedtextarea(
+    //{selectedLine: 1}
+  //);
+   $(document).tooltip({
+      position: {
+        my: "center bottom-20",
+        at: "center top",
+        using: function( position, feedback ) {
+          $( this ).css( position );
+          $( "<div>" )
+            .addClass( "arrow" )
+            .addClass( feedback.vertical )
+            .addClass( feedback.horizontal )
+            .appendTo( this );
+        }
+      },
+          content: function () {
+              return $(this).prop('title');
+          }
+      });
+  });
+/*$('.translation').find('.target').textareaHighlighter({	
+matches: [
+		{
+		"match":/ma-ah-ha-an/,
+		"matchClass":"conjunction"
+		}
+		]
+});
+
+  
+});*/
+</script>
+</body>
+</html>
