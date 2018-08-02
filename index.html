@@ -16,6 +16,7 @@
     <script src="js/luwiancn.js"></script>
     <script src="js/maya.js"></script>
     <script src="js/sumerian.js"></script>
+    <script src="pat/sumerian.js"></script>
       <script src="js/akkadian_map.js"></script>
     <script src="js/elamite_map.js"></script>
       <script src="js/egyptian_map.js"></script>
@@ -24,9 +25,9 @@
     <script src="js/luwiancn_map.js"></script>
     <script src="js/maya_map.js"></script>
     <script src="js/sumerian_map.js">//width: 700px; </script>
+    <script src="js/tablesorter.js"></script>
   
   <style>dialog {  
-     
     background:#e8e8e8;
     border: 1px solid #dadada;
     font-family:sans-serif;
@@ -55,6 +56,7 @@ function isArray(what) {
     var posTagToPattern={}
     var strToMap={}
     var dictMap={}
+    var mapordict=false;
     var numconcepts=0;
     var dicttableheader2="[{field: \"script\", caption:\"Script\"},{field: \"transliteration\", caption:\"Transliteration\"},{field: \"transcription\", caption:\"Transcription\"},{field: \"translation\", caption:\"Translation\"},{field: \"postag\", caption:\"POSTag\"}"
     var dicttableheader="<tr class=\"tablesorter-headerRow\"><th bgcolor=\"white\"   class=\"tablesorter-header\">Script</th><th bgcolor=\"white\"   class=\"tablesorter-header\">Transliteration</th><th bgcolor=\"white\"   class=\"tablesorter-header\" id=\"transctd\">Transcription</th><th bgcolor=\"white\" id=\"transtd\"   class=\"tablesorter-header\">Translation</th><th bgcolor=\"white\" id=\"reftd\"   class=\"tablesorter-header\">POSTag</th>"
@@ -63,7 +65,7 @@ function isArray(what) {
     function getTransformationsForPosTag(postag,word){
             //alert(postag["content"])
             transformations=posTagToPattern[postag["content"]]
-            //alert(JSON.stringify(posTagToPattern))
+            alert(JSON.stringify(posTagToPattern))
             result=""
             for(trans in transformations){
                     curtrans=posTagToPattern[postag["content"]][trans];
@@ -75,22 +77,44 @@ function isArray(what) {
             return result
     }
     
+    function transformTransliteration(transliteration,pattern){
+            if(pattern=="~"){
+                return transliteration;
+            }
+            if(pattern.startsWith("~")){
+                return transliteration+pattern.substring(1);
+            }
+            if(pattern.endsWith("~")){
+                    if(transliteration.match(new RegExp("[A-z0-9]+"))){
+                        pattern.substring(0,pattern.length-1)+"-"+transliteration;
+                    }else{
+                        return pattern.substring(0,pattern.length-1)+transliteration;
+                    }
+                    
+            }
+            if(pattern.includes("~")){
+                spl=pattern.split("~")
+                return spl[0]+transliteration+spl[1];
+            }
+            return transliteration;
+    }
+        
     function getWordFormDialog(obj,translit,postag,anchor){
             //alert(obj+" - "+translit+" - "+postag);
-            map=dictMap;
+            map=window[$('#dictselect').val()]["records"]
             //alert(JSON.stringify(map))
             data2="[{field: \"script\", caption:\"Script\"},{field: \"transliteration\", caption:\"Transliteration\"},{field: \"transcription\", caption:\"Transcription\"},{field: \"translation\", caption:\"Translation\"}"
-            data="<h3>Word Forms</h3><table id=\"table_"+map[obj]["content"]+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th>"
+            data="<h3>Word Forms for "+translit+"</h3><table id=\"table_"+obj+"content"+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th>"
             //alert(data)
             tdcounter=0;
-            //alert("Pat: "+JSON.stringify(posTagToPattern[postag]))
+            //alert(JSON.stringify(posTagToPattern[postag]))
+            //alert("Pat: "+JSON.stringify(window[$('#dictselect').val()+"_pat"]))
             for(pattern in posTagToPattern[postag]){
                     //alert(JSON.stringify(posTagToPattern[postag][pattern]))
                     for(att in posTagToPattern[postag][pattern]){
                             //alert(att)
                             //alert(JSON.stringify(posTagToPattern[postag][pattern][att]))
-                            if(att!="cunei" && att!="transsuffix" && att!="transprefix" && att!="rep" && att!="content" && att!="transliteration"
-                            && att!="postag"){
+                            if(att!="transsuffix" && att!="transprefix" && att!="rep" && att!="content" && att!="transliteration" && att!="representation"){
                                             data2+=",{field: \""+att+"\", caption: \""+capitalizeFirstLetter(att)+"\"}"
                                            data+="<th>"+capitalizeFirstLetter(att)+"</th>";
                            }
@@ -102,35 +126,42 @@ function isArray(what) {
                             //alert(data)
             for(pattern in posTagToPattern[postag]){
                         if(map[obj]["logogram"]!=undefined){
-                                            alert(JSON.stringify(map[obj]["transliteration"]))
-                                                data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]["content"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
+                                            //alert(JSON.stringify(map[obj]["transliteration"]))
+                                                data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
                         }else{
                                         if(!mapordict){
-                                        data+="<tr><td>"+map[obj]["content"]+"</td><td>"+(map[obj]["transliteration"][translit]["cunei"]=="null"?"":map[obj]["transliteration"][translit]["cunei"])+"</td><td>"+map[obj]["transliteration"][translit]["content"]+"</td><td>"+map[obj]["transliteration"][translit]["transcription"].replace("-","")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in map[obj]["transliteration"][translit]?map[obj]["transliteration"][translit]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]["content"]:"")+("transsuffix" in map[obj]["transliteration"][translit]?map[obj]["transliteration"][translit]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
+                                        //alert(JSON.stringify(map[obj]))
+                                        translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[postag][pattern]["pattern"])
+                                        data+="<tr><td>"+("scriptpattern" in posTagToPattern[postag][pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[postag][pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
                                         
                                         }
                                         }
                                         for(att in posTagToPattern[postag][pattern]){
-                                                if(att!="cunei" && att!="transsuffix" && att!="transprefix" && att!="rep" && att!="content" && att!="representation" && att!="pattern"){
+                                                if(att!="cunei" && att!="transsuffix" && att!="transprefix" && att!="content" && att!="representation" && att!="scriptpattern"){
                                                     /*if(second==0){
                                                             extendedtitle+="<th>"+capitalizeFirstLetter(att)+"</th>"
                                                     }*/
                                                     data+="<td>"
                                                     if(posTagToPattern[postag][pattern][att]!=undefined){
-                                                        data+="<a href=\""+posTagToPattern[postag][pattern][att]+"\"  target=\"_blank\">"+(posTagToPattern[postag][pattern][att]==""?"":posTagToPattern[postag][pattern][att].toString().substring(posTagToPattern[postag][pattern][att].toString().indexOf('#')+1))+"</a>"
+                                                        data+="<a href=\""+posTagToPattern[postag][pattern][att]+"\"  target=\"_blank\">"+(posTagToPattern[postag][pattern][att]==""?"":posTagToPattern[postag][pattern][att].toString().substring(posTagToPattern[postag][pattern][att].toString().indexOf('#')+1))
+                                                        if(att=="pattern" && "scriptpattern" in posTagToPattern[postag][pattern]){
+                                                            data+="("+posTagToPattern[postag][pattern]["scriptpattern"]+")"
+                                                        }
+                                                        data+="</a>"
                                                     }
                                                     data+="</td>"
                                                 }
                                         }
                                         }
-                        return data+"</tbody></table><button type=\"button\" onclick=\"closeDialog('"+anchor+"')\">Exit</button>"
+                        return data+"</tbody></table><button type=\"button\" onclick=\"closeDialog('"+anchor+"')\">Close</button>"
     }
     
     function openDialog(anchor,obj,translit,postag){
             var dialogg = document.getElementById(anchor); 
+            $("#"+anchor).html("")
             $("#"+anchor).html(getWordFormDialog(obj,translit,postag,anchor))
             $('#table_'+anchor.replace("_dialog","")).tablesorter();
-            dialogg.show();
+            dialogg.showModal();  
     }
 
     function closeDialog(anchor){
@@ -423,6 +454,7 @@ else{
         posTagMap={}
         posTagToPattern={}
         strToMap={}
+        //alert("buildDict")
         $('#inputenglish').val("")
         $('#resultbody').html("").trigger('update', [true]);
         $('#refjson').attr("href","dict/"+value+".json")
@@ -433,10 +465,10 @@ else{
             $('#tranctd').text("Transcription")
         $('#transtd').text("Translation")
         $('#reftd').text("POSTag")
-        if("about" in window[value]["dictentries"] && "author" in window[value]["dictentries"]["about"]){$('#author').html("<a href=\""+window[value]["dictentries"]["about"]["author"]["uri"]+"\">"+window[value]["dictentries"]["about"]["author"]["content"]+"</a>")}
-        if("about" in window[value]["dictentries"] && "license" in window[value]["dictentries"]["about"]){$('#license').html("<a href=\""+window[value]["dictentries"]["about"]["license"]["val"]+"\">"+window[value]["dictentries"]["about"]["license"]["content"]+"</a>")}
-        if("about" in window[value]["dictentries"] && "comment" in window[value]["dictentries"]["about"]){$('#comment').html(window[value]["dictentries"]["about"]["comment"]["content"])}
-        if("about" in window[value]["dictentries"] && "references" in window[value]["dictentries"]["about"]){
+        if("dictentries" in window[value] && "about" in window[value]["dictentries"] && "author" in window[value]["dictentries"]["about"]){$('#author').html("<a href=\""+window[value]["dictentries"]["about"]["author"]["uri"]+"\">"+window[value]["dictentries"]["about"]["author"]["content"]+"</a>")}
+        if("dictentries" in window[value] && "about" in window[value]["dictentries"] && "license" in window[value]["dictentries"]["about"]){$('#license').html("<a href=\""+window[value]["dictentries"]["about"]["license"]["val"]+"\">"+window[value]["dictentries"]["about"]["license"]["content"]+"</a>")}
+        if("dictentries" in window[value] &&  "about" in window[value]["dictentries"] && "comment" in window[value]["dictentries"]["about"]){$('#comment').html(window[value]["dictentries"]["about"]["comment"]["content"])}
+        if("dictentries" in window[value] && "about" in window[value]["dictentries"] && "references" in window[value]["dictentries"]["about"]){
                 result="";
                 if(isArray(window[value]["dictentries"]["about"]["references"]["reference"])){
                     for(ref in window[value]["dictentries"]["about"]["references"]["reference"]){
@@ -453,17 +485,21 @@ else{
                 }
                 $("#references").html(result)
         }
-        if("pattern" in window[value]["dictentries"]){
-            for(pat in window[value]["dictentries"]["pattern"]){
+        
+        //alert(JSON.stringify(window[$('#dictselect').val()+"_pat"]["pattern"][0]["postag"]))
+        
+        if(window[value+"_pat"]){
+            for(pat in window[value+"_pat"]["pattern"]){
            // alert(JSON.stringify(window[value]["dictentries"]["patterns"]["pattern"]))
-                    postag=window[value]["dictentries"]["pattern"][pat]["postag"]
+                    postag=window[value+"_pat"]["pattern"][pat]["postag"]
                     //alert(postag)
                     if(!(postag in posTagToPattern)){
                             posTagToPattern[postag]=[]
                     }
-                    posTagToPattern[postag].push(window[value]["dictentries"]["pattern"][pat])
+                    posTagToPattern[postag].push(window[value+"_pat"]["pattern"][pat])
             }
         }
+        //alert(JSON.stringify(posTagToPattern))
                 jQuery.each(window[value]["records"], function() {
         combinedstring=""
         if(this["translation"]!=undefined){
@@ -552,7 +588,7 @@ else{
   <option value="luwiancn">Luwian (Cuneiform)</option>
   <option value="maya">Maya (coming soon)</option>
   <option value="sumerian" selected="selected">Sumerian</option>
-  </select><br/><table border="2" style="background:white;color:black"><tr><td>Download as:</td><td><a href="anki/sumerian.anki" id="refanki">&nbsp;Anki CSV&nbsp;</a></td><td><a href="ime/sumerian.ibus" id="refibus">&nbsp;Ibus Table&nbsp;</a></td><td><a href="dict/sumerian.js" id="refjson">&nbsp;JSON&nbsp;</a></td><td><a href="dict/sumerian.xml" id="refxml">&nbsp;XML&nbsp;</a></td><td><a href="dict/sumerian.rdf" id="reflemon">&nbsp;Lemon-RDF&nbsp;</a></td></tr></table><dialog id="window">  
+  </select><br/><table border="2" style="background:white;color:black"><tr><td>Download as:</td><td><a href="anki/sumerian.anki" id="refanki">&nbsp;Anki CSV&nbsp;</a></td><td><a href="ime/sumerian.ibus" id="refibus">&nbsp;Ibus Table&nbsp;</a></td><td><a href="dict/sumerian.js" id="refjson">&nbsp;JSON&nbsp;</a></td><td><a href="dict/sumerian.xml" id="refxml">&nbsp;XML&nbsp;</a></td><td><a href="dict/sumerian.rdf" id="reflemon">&nbsp;Lemon-RDF&nbsp;</a></td></tr></table><dialog id="wordform_dialog"></dialog><dialog id="window">  
     <h3>About...</h3>  
     <table style="color:black" border="1"><tr><td>Author:</td><td><span id="author"></span></td></tr><tr><td>License:</td><td><span id="license"></span></td></tr><tr><td>Description:</td><td><span id="comment"></span></td></tr><tr><td>References:</td><td><span id="references"></span></td></tr></table>  
     <button id="exit">Close Dialog</button>  
@@ -572,12 +608,14 @@ else{
                 $('#grid').w2grid(window[this.value]);
                 //alert("postagtable")
                 createPosTagTable(this.value);
+                buildDict($( "#dictselect" ).val())
         $('#charlist').text("CharList");
         togglecharlist=true;
     });
     $(function(){
         $('#grid').w2grid(sumerian);
          createPosTagTable($( "#dictselect" ).val());
+         buildDict($( "#dictselect" ).val())
     var dialog = document.getElementById('window');  
     $('#show').click(function() {  
         dialog.showModal();  
@@ -591,6 +629,7 @@ else{
                  }
                 $('#grid').w2grid(window[$( "#dictselect" ).val()+"_map"]);
                 createPosTagTable($( "#dictselect" ).val()+"_map");
+                buildDict($( "#dictselect" ).val())
         }else{
             $('#charlist').text("CharList");
             togglecharlist=true;
@@ -599,7 +638,7 @@ else{
                  }
                 $('#grid').w2grid(window[$( "#dictselect" ).val()]);
                 createPosTagTable($( "#dictselect" ).val());
-            //buildDict($( "#dictselect" ).val())
+                buildDict($( "#dictselect" ).val())
 
         }
     });  
