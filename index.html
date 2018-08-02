@@ -258,7 +258,7 @@ function isArray(what) {
                         }
                         result = result.substring(0, result.length - 2);
                     }else{
-                                if("translation" in map[obj] && "locale" in map[obj]["translation"]){
+                                if("translation" in map[obj] ){
                                         //result+=map[obj]["translation"]["locale"]+":"+map[obj]["translation"]["content"]
                                          result+=map[obj]["translation"]["content"]
                                         if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
