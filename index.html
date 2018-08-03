@@ -132,7 +132,9 @@ function isArray(what) {
                                         if(!mapordict){
                                         //alert(JSON.stringify(map[obj]))
                                         translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[postag][pattern]["pattern"])
-                                        data+="<tr><td>"+("scriptpattern" in posTagToPattern[postag][pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[postag][pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
+                                        data+="<tr><td>"+("scriptpattern" in posTagToPattern[postag][pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[postag][pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+
+                                        (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[postag][pattern] &&  posTagToPattern[postag][pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ",""):map[obj]["translation"]):"")
+                                        +("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
                                         
                                         }
                                         }
@@ -258,7 +260,8 @@ function isArray(what) {
                         }
                         result = result.substring(0, result.length - 2);
                     }else{
-                                if("translation" in map[obj] ){
+                    
+                               if("translation" in map[obj] && "locale" in map[obj]["translation"]){
                                         //result+=map[obj]["translation"]["locale"]+":"+map[obj]["translation"]["content"]
                                          result+=map[obj]["translation"]["content"]
                                         if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
@@ -266,11 +269,12 @@ function isArray(what) {
                                         }
                                 }
                                 else if("translation" in map[obj]){
-                                        result+=map[obj]["translation"]["content"]
+                                        result+=map[obj]["translation"]
                                         if(!mapordict && map[obj]["meaning"]!="" && map[obj]["meaning"]!=undefined){
                                                 result+=" ("+map[obj]["meaning"]+")"
                                         }
                                 }
+                                
                                 
                     }
                     }
@@ -615,7 +619,7 @@ else{
     $(function(){
         $('#grid').w2grid(sumerian);
          createPosTagTable($( "#dictselect" ).val());
-         buildDict($( "#dictselect" ).val())
+         //buildDict($( "#dictselect" ).val())
     var dialog = document.getElementById('window');  
     $('#show').click(function() {  
         dialog.showModal();  
