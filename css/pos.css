@@ -1,0 +1,203 @@
+/* apply a natural box layout model to all elements */
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin-bottom: 100px;
+  font-size: 16px;
+  color: #333;
+}
+h1 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+}
+#container {
+  width: 460px;
+  margin: 0 auto;
+}
+hr {
+  margin: 20px 0 30px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+.translation,
+.translation-max {
+  position: relative;
+  width: 100%;
+}
+.source {
+  margin-bottom: 6px;
+}
+.source,
+.target,#righttextarea {
+  width: 100%;
+  min-height: 24px;
+  padding: 3px 6px;
+  line-height: 24px;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+.target,#righttextarea  {
+    -webkit-appearance: none;
+  overflow: hidden;
+  white-space: pre-wrap;
+  resize: none;
+    border: 1px solid #ddd;
+  border-radius: 3px;
+ background-color: #f9f9f9;
+
+}
+.test{
+
+   
+}
+.target:focus {
+  border-color: #888;
+  outline: none;
+}
+
+.maxlength {
+  position: absolute;
+  right: 2px;
+  bottom: 6px;
+  padding: 2px 6px;
+  font-size: 13px;
+  color: #999;
+}
+
+.warning {
+  background-color: #fdd;
+}
+.warning.maxlength {
+  color: #f77;
+  background-color: inherit;
+}
+
+.match {
+  color: #09f;
+}
+.hoge {
+  color: #4c9;
+}
+.fuga {
+  color: #ff9d00;
+}
+
+.matchHighlight {
+  background-color: #09f;
+  opacity: .6;
+}
+.hogeHighlight {
+  border-bottom: 2px solid #4c9;
+  opacity: .6;
+}
+.fugaHighlight {
+  background-color: #ff9d00;
+  opacity: .6;
+}
+.nounoradj {
+background-color: #ffff00;
+  opacity: .6;
+}
+.particle {
+background-color: #9370db;
+  opacity: .6;
+}
+.conjunction {
+background-color: #ff0000;
+  opacity: .6;
+}
+.agent {
+background-color: #00ffff;
+  opacity: .6;
+}
+.possessive {
+background-color: #aaf1ff;
+  opacity: .6;
+}
+.verb {
+background-color: #00ff00;
+  opacity: .6;
+}
+.determinative {
+color: #ffa500;
+  opacity: .6;
+  
+}
+.namedentity {
+color: #ff2eb5;
+  opacity: .6; 
+}
+.pronoun {
+color: #0000ff;
+  opacity: .6;
+}
+.relativepronoun {
+color: #5fff8c;
+  opacity: .6;
+}
+.noun {
+color: #895f33;
+  opacity: .6;
+}
+.number {
+color: #ffc0cb;
+  opacity: .6;
+}
+
+.ui-tooltip, .arrow:after {
+    background: black;
+    border: 2px solid white;
+  }
+  .ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
+  }
+  .arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+  }
+  .arrow.top {
+    top: -16px;
+    bottom: auto;
+  }
+  .arrow.left {
+    left: 20%;
+  }
+  .arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .arrow.top:after {
+    bottom: -20px;
+    top: auto;
+  }

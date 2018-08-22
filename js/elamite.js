@@ -7,7 +7,7 @@ var elamite={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:elamite"},
+{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:elamite;font-size:18px;"},
 {"field":"transliteration","caption":"Transliteration","selectable":true,"sortable":true,"resizable":true,"size":"20%",},
 {"field":"transcription","caption":"Transcription","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
 {"field":"translation","caption":"Translation","selectable":true,"sortable":true,"resizable":true,"size":"20%",
@@ -28,7 +28,17 @@ var elamite={
         }
         return result
 }},
-{"field":"pos","caption":"POSTag","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
+{"field":"pos","caption":"POSTag","selectable":true,"sortable":true,"resizable":true,"size":"20%",   render:function(record){
+        result=""
+        if(record.pos!=undefined && record.pos!=""){
+            result+="<dialog id=\"el_"+record.transliteration+"_"+record.pos+"_dialog\"/><a href=\"javascript:openDialog('el_"+record.transliteration+"_"+record.pos+"_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\" target=\"_blank\">"
+            result+=record.pos
+            result+="</a>"
+        }else{
+            result+=record.pos
+        }
+        return result
+}},
 {"field":"ref","caption":"Reference","selectable":true,"sortable":true,"resizable":true,"size":"20%"}
 ]
 ,"records":[

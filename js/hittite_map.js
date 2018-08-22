@@ -6,7 +6,7 @@ var hittite_map={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:hittite"},
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:hittite;font-size:18px;"},
 {"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%"},
 {"field":"charName","caption":"SignName","sortable":true,"resizable":true,"size":"20%"},
 {"field":"meaning","caption":"Meaning","sortable":true,"resizable":true,"size":"20%",

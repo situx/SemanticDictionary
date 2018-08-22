@@ -7,7 +7,7 @@ var luwiancn={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:luwiancn"},
+{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:luwiancn;font-size:18px;"},
 {"field":"transliteration","caption":"Transliteration","selectable":true,"sortable":true,"resizable":true,"size":"20%",},
 {"field":"transcription","caption":"Transcription","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
 {"field":"translation","caption":"Translation","selectable":true,"sortable":true,"resizable":true,"size":"20%",
