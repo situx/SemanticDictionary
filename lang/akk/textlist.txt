@@ -1,0 +1,2 @@
+first20_translit.txt 
+next20.txt

@@ -128,7 +128,7 @@ function prepareTranslation(language){
 			//alert(JSON.stringify(window[$('#leftsel').val()+"_matches"]["matches"]));
 			if(highlighted){
                         $.ajax({
-                            url: "http://localhost:8080/IMETest2/"+$('#textsel').val(),
+                            url: "lang/"+$('#textsel').val()+"/pos/"+$('#textsel').val()+"_matches.js",
                             async: false,
                             dataType: 'text',
                             error: function (err) {
