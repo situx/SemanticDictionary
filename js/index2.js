@@ -2,7 +2,7 @@ $('#langtextsel').on('change', function (e) {
     var optionSelected = $("option:selected", this);
     var valueSelected = this.value;
     $.ajax({
-    	url: "http://localhost:8080/IMETest2/rest/lndwa/sampletextview?lang="+this.value,
+    	url: "lang/"+this.value+"/textlist.txt",
     	async: false,
     	dataType: 'text',
 	    error: function (err) {
@@ -18,7 +18,7 @@ $('#textsel').on('change', function (e) {
     var optionSelected = $("option:selected", this);
     var valueSelected = this.value;
     $.ajax({
-    	url: "http://localhost:8080/IMETest2/"+valueSelected,
+    	url: "lang/"+valueSelected+"/text",
     	async: false,
     	dataType: 'text',
 	    error: function (err) {
