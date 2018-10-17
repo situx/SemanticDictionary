@@ -1,2 +1,2 @@
-<li value="plague_prayer.txt">Plague Prayer</li>
-<li value="tunnawi.txt">Tunnawi</li> 
+<option value="plague_prayer.txt">Plague Prayer</option>
+<option value="tunnawi.txt">Tunnawi</option> 
