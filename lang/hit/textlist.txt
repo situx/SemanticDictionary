@@ -1,2 +1,2 @@
-plague_prayer.txt
-tunnawi.txt 
+<li value="plague_prayer.txt">Plague Prayer</li>
+<li value="tunnawi.txt">Tunnawi</li> 
