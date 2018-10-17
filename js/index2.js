@@ -18,7 +18,7 @@ $('#textsel').on('change', function (e) {
     var optionSelected = $("option:selected", this);
     var valueSelected = this.value;
     $.ajax({
-    	url: "lang/"+valueSelected+"/text",
+    	url: "lang/"+$('#langtextsel').val()+"/text/"+valueSelected,
     	async: false,
     	dataType: 'text',
 	    error: function (err) {
