@@ -231,11 +231,12 @@ function getHighlightedWord(text) {
   }
 
 $(document).ready(function(){
-$("#lefttextarea").on("click keyup", function () {
+$("#lefttextarea").on("click", function (event) {
     //alert("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
-    
+    xpos=event.clientX
+    ypos=event.clientY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
     //alert(JSON.stringify(caretXY));
@@ -246,8 +247,8 @@ $("#lefttextarea").on("click keyup", function () {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.top=caretXY.top+12;
-	  position.left=-$("#lefttextarea").width()+caretXY.left+300;
+	  position.top=ypos//caretXY.top+12;
+	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
             .addClass( "arrow" )
