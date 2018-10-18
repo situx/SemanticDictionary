@@ -14,8 +14,8 @@ function escapeRegExp(string) {
 
 function getRecord(syll,transmap){
      //alert("GetRec: "+JSON.stringify(transmap));
-
- tempmap=transmap["records"].filter(function (el) {
+tempmap=window[$('#langtextsel').val()+"_matches"]].filter(function (el) {
+ //tempmap=transmap["records"].filter(function (el) {
   return el.transliteration === syll || el.script === syll
 });    
  //alert("Filtered: "+syll+" "+JSON.stringify(tempmap));
@@ -142,7 +142,7 @@ function prepareTranslation(language){
 			  highlighter=$('.translation').find('.target')
 			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"]);
                         highlighted=true;
-			alert(JSON.stringify(window[$('#langtextsel').val()+"_matches"]))
+				alert(JSON.stringify(window[$('#langtextsel').val()+"_matches"]))
                     
                 })
 		//getRuleScriptForPOS("hit");
