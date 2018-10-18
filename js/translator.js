@@ -142,6 +142,7 @@ function prepareTranslation(language){
 			  highlighter=$('.translation').find('.target')
 			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"]);
                         highlighted=true;
+			alert(JSON.stringify(window[$('#langtextsel').val()+"_matches"]))
                     
                 })
 		//getRuleScriptForPOS("hit");
