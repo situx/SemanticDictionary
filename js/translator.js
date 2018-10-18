@@ -14,7 +14,7 @@ function escapeRegExp(string) {
 
 function getRecord(syll,transmap){
      //alert("GetRec: "+JSON.stringify(transmap));
-tempmap=window[$('#langtextsel').val()+"_matches"]].filter(function (el) {
+tempmap=window[$('#langtextsel').val()+"_matches"].filter(function (el) {
  //tempmap=transmap["records"].filter(function (el) {
   return el.transliteration === syll || el.script === syll
 });    
