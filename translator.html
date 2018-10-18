@@ -1,253 +1,171 @@
-var langToTransMap={};
-var transmap={};
-var markmap={};
-var lastWord;
-var highlighted=false;
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/ime.css" />
+    <link href="css/jquery-linedtextarea.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/pos.css" />
 
-function replaceAll(string, find, replace) {
-	  return string.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.js"></script>
+
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script src="js/jquery-linedtextarea.js"></script>
+<style>
+.header {width: 65%; margin: 50px auto;}
+.container {display: block; width: 100%; margin: 50px auto 0;}
+#left, #canvasSimpleDiv, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {width: 50%; text-align:right;vertical-align:bottom;}
+#cent {width: 100%; text-align:center;vertical-align:bottom;}
+#right {width: 45%;}
+.cunei
+{
+    font-size:14pt;
+    font-family:Akkadian;
 }
 
-function escapeRegExp(string) {
-    return string.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
-}
-
-function getRecord(syll,transmap){
-     //alert("GetRec: "+JSON.stringify(transmap));
-
- tempmap=transmap["records"].filter(function (el) {
-  return el.transliteration === syll || el.script === syll
-});    
- //alert("Filtered: "+syll+" "+JSON.stringify(tempmap));
- return tempmap;
-}
-
-function translate(originalText,language,language2,escapechars,transmap){
-	result="";
-	originalText=replaceAll(originalText,"[","");
-	originalText=replaceAll(originalText,"]","");
-	if(escapechars){
-		originalText=replaceAll(originalText,"#","-#-");
-	}else{
-		originalText=replaceAll(originalText,"#","");
-		originalText=replaceAll(originalText," x","");
-	}
-	originalText=replaceAll(originalText,"?","");	
-	originalText=replaceAll(originalText,"|","");
-	originalText=replaceAll(originalText,"}","-");
-	originalText=replaceAll(originalText,"{","");
-	originalText=replaceAll(originalText,".","-");
-	lines=originalText.split("\n");
-	for (i=0; i<lines.length; ++i) {
-		line=lines[i];
-		//alert("Line: "+line);
-		words=line.split(" ");
-		for(j=0; j<words.length; ++j){
-			word=words[j];
-			//alert("Word: "+word);
-			sylls=word.split("-");
-			for(k=0; k<sylls.length; ++k){
-				syll=sylls[k];
-				//alert("Syll: "+syll);
-                rec=getRecord(syll,transmap)
-                //alert(JSON.stringify(rec[0]))
-                //alert(JSON.stringify(rec[0].script))
-				if(rec!= undefined && rec.length>0){
-					result+=rec[0].script;					
-				}else{
-					result+=syll;
-				}
-			}
-			result+=" ";
-		}
-		result+="\n";
-	}
-	result=replaceAll(result,"(","");
-	result=replaceAll(result,")","");
-	return result;
-}
-
-function prepareTranslation(language){
-	$(document).ready(function(){
-            
-		$.ajax({
-	    	url: "https://situx.github.io/SemanticDictionary/js/"+language+"_map.js",
-	    	async: false,
-	    	dataType: 'json',
-		    error: function (err) {
-		    	console.log("AJAX error in request: " + JSON.stringify(err, null, 2));
-		    },
-	    	success: function(data) {
-	    		var transmap=data;  
-                        alert(transmap)
-	    	}
-
-	    });
-		$("#translatebutton").click(function() {
-                       alert($('#leftsel').val()+"_matches");
-                    if($('#leftsel').val() in langToTransMap){
-                        transmap=langToTransMap[$('#leftsel').val()]
-                            $('textarea#righttextarea').val(translate($('textarea#lefttextarea').val(),$('#leftsel').val(),$('#rightsel').val(),$("#escapechars").is(':checked'),transmap));
-                    }else{
-                        $.getScript( "https://situx.github.io/SemanticDictionary/js/"+$('#leftsel').val()+"_map.js", function( data, textStatus, jqxhr ) {
-                           // console.log( data ); // Data returned
-                            transmap=data;
-                            console.log( textStatus ); // Success
-                            console.log( jqxhr.status ); // 200
-                            console.log( "Load was performed." );
-                            langToTransMap[$('#leftsel').val()]=window[$('#leftsel').val()+"_map"];
-                            alert(JSON.stringify(langToTransMap[$('#leftsel').val()]))
-                           transmap=langToTransMap[$('#leftsel').val()]
-                            alert(JSON.stringify(transmap))
-                            $('textarea#righttextarea').val(translate($('textarea#lefttextarea').val(),$('#leftsel').val(),$('#rightsel').val(),$("#escapechars").is(':checked'),transmap));
-                    });
-                    
-                    }
-
-		      /* if(highlighted){
-                        $.ajax({
-                            url: "http://localhost:8080/IMETest2/"+$('#textsel').val(),
-                            async: false,
-                            dataType: 'text',
-                            error: function (err) {
-                                console.log("AJAX error in request: " + JSON.stringify(err, null, 2));
-                            },
-                            success: function(data) {
-    		  		$('#translationdiv').html("<textarea id=\"lefttextarea\" class=\"target\" rows=\"19\" cols=\"50\">"+data+"</textarea>");
-                            }
-                        });
-                       }
-			  highlighter=$('.translation').find('.target')
-			    .textareaHighlighter(window[$('#leftsel').val()+"_matches"]);
-                               */    
-                        highlighted=true;
-
-		});
-		$("#postagbutton").click(function(){
-                        //alert($('#leftsel').val()+"_matches");
-			//alert(JSON.stringify(window[$('#leftsel').val()+"_matches"]["matches"]));
-			if(highlighted){
-                        /*$.ajax({
-                            url: "lang/"+$('#langtextsel').val()+"/pos/"+$('#langtextsel').val()+"_matches.js",
-                            async: false,
-                            dataType: 'text',
-                            error: function (err) {
-                                console.log("AJAX error in request: " + JSON.stringify(err, null, 2));
-                            },
-                            success: function(data) {
-    		  		$('#translationdiv').html("<textarea id=\"lefttextarea\" class=\"target\" rows=\"19\" cols=\"50\">"+data+"</textarea>");
-                            }
-                        });*/
-                        }
-			  highlighter=$('.translation').find('.target')
-			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"]);
-                        highlighted=true;
-                    
-                })
-		//getRuleScriptForPOS("hit");
-	});
-}
-
-function getRuleScriptForPOS(language){
-$.getScript( "lang/"+language+"/pos/"+language+"_matches.js", function( data, textStatus, jqxhr ) {
-	  console.log( data ); // Data returned
-	  console.log( textStatus ); // Success
-	  console.log( jqxhr.status ); // 200
-	  console.log( "Load was performed." );
-	console.log("Textarea was initialized!");
-	});
-}
-
-function getCaretPosition(ctrl) {
-    var start, end;
-    if (ctrl.setSelectionRange) {
-        start = ctrl.selectionStart;
-        end = ctrl.selectionEnd;
-    } else if (document.selection && document.selection.createRange) {
-        var range = document.selection.createRange();
-        start = 0 - range.duplicate().moveStart('character', -100000);
-        end = start + range.text.length;
-    }
-    return {
-        start: start,
-        end: end
-    }
-}
-
-function getWordInformation(word,language,language2,escapechars,separator){
-  var result="";
-  result+=word+separator;  
-  result+="Translation: "+translate(word,language,language2,escapechars)+separator;
-  result+=getHighlightedWord(word);
-  return result;
-  
-}
-
-function getHighlightedWord(text) {
-    var list = window[$('#leftsel').val()+"_matches"]["matches"];
-    alert($('#leftsel').val()+"_matches");
-   alert(JSON.stringify(list));
-    var item;
-    var matches;
-    var result="";
-    for (var i = 0, imax = list.length; i < imax; i++) {
-      item = list[i];
-
-      if (item["match"]) {
-            alert(JSON.stringify(item));
-        //item._trie = new marexandre.Trie();
-        if (item["match"] instanceof RegExp) {
-	  if(text.match(item.match)!=null){
-            alert(item.match);
-	    alert(text.match(item.match));
-	    matches = text.match(item.match);
-	  }
-        } else {
-          matches = item.match;
-        }
-        if(matches!=null){
-        // HTML escape matching words
-        var matchgroup=window[$('#leftsel').val()+"_matches_groups"][item.tag];
-        alert(JSON.stringify(matches));
-        result="";
-        if(matchgroup!=null){
-        for(j=0;j<matchgroup.length;j++){
-            alert("Matchgroup["+j+"]");
-            if(matches[matchgroup[j]["group"]].match(matchgroup[j]["match"])){
-                alert("Matchgroup: "+matchgroup[j]["description"]);
-                result+=matchgroup[j]["description"];
-            }
-        }
-        }
-	  alert(item.description);
-          //alert(JSON.stringify(item));
-          result+=item.description;
-          alert(result);
-	  return result;
-	}
-      }
+.ui-tooltip, .arrow:after {
+    background: black;
+    border: 2px solid white;
   }
+  .ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
   }
+  .arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+  }
+  .arrow.top {
+    top: -16px;
+    bottom: auto;
+  }
+  .arrow.left {
+    left: 20%;
+  }
+  .arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .arrow.top:after {
+    bottom: -20px;
+    top: auto;
+  }
+</style>
+<meta charset="UTF-8">
+<title>Translator</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Transliteration to Unicode Cuneiform Translator</h1>
+        <h2>Free and Open Source</h2>
+    </div>
+    <div class="container">
+    <div id="left">
+    Sample Texts:
+    <select id="langtextsel">
+    <option value="akk">Akkadian</option>
+    <option value="hit">Hittite</option>
+    <option value="sux">Sumerian</option>
+    </select>
+    <select id="textsel">
+    </select>
+    <div class="translation" id="translationdiv">
+<textarea id="lefttextarea" class="target lined" rows="19" cols="50">[na-as] [ma-ah-ha-an] [wa-ap-pu-i] [a-ri] [nu] [disz] 
+[NINDA-SIG] [wa-ap-pu-wa-as] [DINGIR-MAH] [par-si-ya] [na-at-sa-an] [wa-ap-pu-i] [da-a-i] 
+[NINDA-IA3-E-DE2-A] [me-ma-al] [se-er] [is-hu-u-wa-i] 
+[nu] [GESZ-TIN] [si-pa-an-ti] [nu] [me-ma-i] 
 
-$(document).ready(function(){
-$("#lefttextarea").on("click keyup", function () {
-    alert("On Key Up");
-    var caret = getCaretPosition(this);
-    var caretXY=$(this).textareaHelper('caretPos');
-    
-    var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
-    lastWord = result ? result[0] : null;
-    alert(JSON.stringify(caretXY));
-    $("#lefttextarea").prop('title',lastWord);
-    $("#lefttextarea").prop('title2',caretXY);
-     $(document).tooltip({
+[7(disz)] [wa-ap-pu-wa-as] [DINGIR-MAH-as] [ka-a-sa] [EGIR-pa] [tu-uk] [u2-wa-nu-un] 
+[nu-kan] [ka-a-sa] [IM-as] [ku-e-ez] [wa-ap-pu-wa-az] [da-an-za] [nu] [zi-ik] 
+[wa-ap-pu-as] [DINGIR-MAH] [tu-e-el] [SZU-TI-KA] [da-a] [nu] [ku-u-un] [EN-SIS-KUR] 
+[a-pe-e-ez] [sa-pi-ya-i] [na-an] [12] [UZU-U2R] [par-ku-nu-ut] 
+[nam-ma] [wa-ap-pu-wa-as] [IM-an] [da-a-i] 
+[nam-ma-as] [sa-ku-ni-ya] [pa-iz-zi] 
+[nu] [1] [NINDA-SIG] [par-si-ya] [na-at] [sa-ku-ni-ya-as] [pu-ru-ut] [da-a-i] 
+[NINDA-IA3-E-DE2-A] [me-ma-al] [su-uh-ha-i] 
+[nu] [GESZ-TIN] [si-pa-an-ti] [nu] [me-ma-i] 
+[8(disz)] [zi-ik-kan] [ma-ah-ha-an] [sa-ku-ni-is] [GE6-az] [KI-az] [pu-ru-ut] [EGIR] [sa-ra-a] 
+[sa-ku-ni-es-ke-si] [nu] [e-da-ni] [an-tu-uh-si] [A-NA] [EN-SISKUR] [ISZ-TU] [UZU-U2-RHI-A-SZU] 
+[i-da-lu] [pa-ap-ra-tar] [QA-TAM-MA] [ar-ha] [mu-ta-a-i] 
+</textarea>
+
+</div>
+</div>
+
+<div id="right" class="translation">
+<textarea id="righttextarea" class="cunei lined" rows="19" cols="25">
+empty
+</textarea>
+</div>
+</div>
+</div>
+    <div class="foot">
+    	<p id="cent">
+    	<select style="left:0px;" id="leftsel">
+<option value="akkadian">Akkadian</option>
+<option value="egyptian">Egyptian</option>
+<option value="hittite">Hittite</option>
+<option value="sumerian">Sumerian</option>
+</select>
+<button id="postagbutton">POSTag</button>
+<button id="translatebutton">Translate</button>
+<select style="right:0px;" id="rightsel"><option value="cunei">Cuneiform</option>
+</select><input type="checkbox" id="escapechars"/>Special Characters</p>
+    	<p id="cent">If you cannot see any cuneiform characters you are probably missing a cuneiform font. Download it <a href="http://users.teilar.gr/~g1951d/">here</a>!</p>
+        <p id="cent">A Free, Easy-to-use, Cuneiform Translator.<br> By Timo Homburg</p>
+        <p id="cent">Check out the <a href="https://github.com/situx/webime">source</a> of this jQuery plugin at Github</p>
+    </div>
+  <script src="js/trie.js"></script>
+  <script src="js/helper.js"></script>
+<script src="js/jquery.textarea-highlighter.js"></script>
+<script src="js/textarea-helper.js"></script>
+<script src="lang/akk/pos/akk_matches.js"></script>
+<script src="lang/hit/pos/hit_matches.js"></script>
+<script src="lang/sux/pos/sux_matches.js"></script>
+<script src="lang/akk/pos/akk_matches_groups.js"></script>
+<script src="lang/hit/pos/hit_matches_groups.js"></script>
+<script src="lang/sux/pos/sux_matches_groups.js"></script>
+<script src="js/index2.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script> 
+ <script type="text/javascript" src="js/translator.js"></script>
+        <script type="text/javascript">
+    $(document).ready(function(){
+        prepareTranslation("akkadian");
+    });
+    </script>
+    <script>
+  $(function () {
+    // Target a single one
+  //$("#righttextarea").linedtextarea();
+    //$("#lefttextarea").linedtextarea();
+   //$(".lined").linedtextarea(
+    //{selectedLine: 1}
+  //);
+   $(document).tooltip({
       position: {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.top+=caretXY.top+12;
-	  position.left=-$("#lefttextarea").width()+caretXY.left+300;
-          $( this ).css( position);	  
+          $( this ).css( position );
           $( "<div>" )
             .addClass( "arrow" )
             .addClass( feedback.vertical )
@@ -256,12 +174,21 @@ $("#lefttextarea").on("click keyup", function () {
         }
       },
           content: function () {
-              return getWordInformation($(this).prop('title'),$('#leftsel').val(),
-            		  $('#rightsel').val(),false,"<br>");
+              return $(this).prop('title');
           }
       });
-	  $(this).mouseout();
-	  $(this).mouseover();
+  });
+/*$('.translation').find('.target').textareaHighlighter({	
+matches: [
+		{
+		"match":/ma-ah-ha-an/,
+		"matchClass":"conjunction"
+		}
+		]
+});
 
-    //alert(getWordInformation(lastWord,"hit","cunei",false));
-})});
+  
+});*/
+</script>
+</body>
+</html>
