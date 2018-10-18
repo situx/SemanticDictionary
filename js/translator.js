@@ -127,7 +127,7 @@ function prepareTranslation(language){
                         //alert($('#leftsel').val()+"_matches");
 			//alert(JSON.stringify(window[$('#leftsel').val()+"_matches"]["matches"]));
 			if(highlighted){
-                        $.ajax({
+                        /*$.ajax({
                             url: "lang/"+$('#langtextsel').val()+"/pos/"+$('#langtextsel').val()+"_matches.js",
                             async: false,
                             dataType: 'text',
@@ -137,7 +137,7 @@ function prepareTranslation(language){
                             success: function(data) {
     		  		$('#translationdiv').html("<textarea id=\"lefttextarea\" class=\"target\" rows=\"19\" cols=\"50\">"+data+"</textarea>");
                             }
-                        });
+                        });*/
                         }
 			  highlighter=$('.translation').find('.target')
 			    .textareaHighlighter(window[$('#leftsel').val()+"_matches"]);
