@@ -246,7 +246,7 @@ $("#lefttextarea").on("click keyup", function () {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.top+=caretXY.top+12;
+	  position.top=caretXY.top+12;
 	  position.left=-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
