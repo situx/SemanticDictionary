@@ -186,8 +186,8 @@ function getWordInformation(word,language,language2,escapechars,separator){
 
 function getHighlightedWord(text) {
     var list = window[$('#langtextsel').val()+"_matches"]["matches"];
-    alert($('#leftsel').val()+"_matches");
-   alert(JSON.stringify(list));
+    //alert($('#leftsel').val()+"_matches");
+   //alert(JSON.stringify(list));
     var item;
     var matches;
     var result="";
@@ -195,12 +195,12 @@ function getHighlightedWord(text) {
       item = list[i];
 
       if (item["match"]) {
-            alert(JSON.stringify(item));
+            //alert(JSON.stringify(item));
         //item._trie = new marexandre.Trie();
         if (item["match"] instanceof RegExp) {
 	  if(text.match(item.match)!=null){
-            alert(item.match);
-	    alert(text.match(item.match));
+            //alert(item.match);
+	    //alert(text.match(item.match));
 	    matches = text.match(item.match);
 	  }
         } else {
@@ -209,7 +209,7 @@ function getHighlightedWord(text) {
         if(matches!=null){
         // HTML escape matching words
         var matchgroup=window[$('#leftsel').val()+"_matches_groups"][item.tag];
-        alert(JSON.stringify(matches));
+        //alert(JSON.stringify(matches));
         result="";
         if(matchgroup!=null){
         for(j=0;j<matchgroup.length;j++){
@@ -220,7 +220,7 @@ function getHighlightedWord(text) {
             }
         }
         }
-	  alert(item.description);
+	  //alert(item.description);
           //alert(JSON.stringify(item));
           result+=item.description;
           alert(result);
@@ -232,13 +232,13 @@ function getHighlightedWord(text) {
 
 $(document).ready(function(){
 $("#lefttextarea").on("click keyup", function () {
-    alert("On Key Up");
+    //alert("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
     
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
-    alert(JSON.stringify(caretXY));
+    //alert(JSON.stringify(caretXY));
     $("#lefttextarea").prop('title',lastWord);
     $("#lefttextarea").prop('title2',caretXY);
      $(document).tooltip({
