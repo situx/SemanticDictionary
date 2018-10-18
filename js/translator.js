@@ -213,9 +213,9 @@ function getHighlightedWord(text) {
         result="";
         if(matchgroup!=null){
         for(j=0;j<matchgroup.length;j++){
-            alert("Matchgroup["+j+"]");
+            //alert("Matchgroup["+j+"]");
             if(matches[matchgroup[j]["group"]].match(matchgroup[j]["match"])){
-                alert("Matchgroup: "+matchgroup[j]["description"]);
+               // alert("Matchgroup: "+matchgroup[j]["description"]);
                 result+=matchgroup[j]["description"];
             }
         }
@@ -223,7 +223,7 @@ function getHighlightedWord(text) {
 	  //alert(item.description);
           //alert(JSON.stringify(item));
           result+=item.description;
-          alert(result);
+          //alert(result);
 	  return result;
 	}
       }
