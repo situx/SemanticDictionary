@@ -235,8 +235,8 @@ $("#lefttextarea").on("click", function (event) {
     //alert("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
-    xpos=event.clientX
-    ypos=event.clientY
+    xpos=event.pageX
+    ypos=event.pageY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
     //alert(JSON.stringify(caretXY));
