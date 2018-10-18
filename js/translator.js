@@ -208,7 +208,7 @@ function getHighlightedWord(text) {
         }
         if(matches!=null){
         // HTML escape matching words
-        var matchgroup=window[$('#leftsel').val()+"_matches_groups"][item.tag];
+        var matchgroup=window[$('#langtextsel').val()+"_matches_groups"][item.tag];
         //alert(JSON.stringify(matches));
         result="";
         if(matchgroup!=null){
