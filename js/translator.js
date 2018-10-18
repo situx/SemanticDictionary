@@ -185,7 +185,7 @@ function getWordInformation(word,language,language2,escapechars,separator){
 }
 
 function getHighlightedWord(text) {
-    var list = window[$('#leftsel').val()+"_matches"]["matches"];
+    var list = window[$('#langtextsel').val()+"_matches"]["matches"];
     alert($('#leftsel').val()+"_matches");
    alert(JSON.stringify(list));
     var item;
