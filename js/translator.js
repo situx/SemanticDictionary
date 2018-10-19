@@ -247,7 +247,7 @@ $("#lefttextarea").on("click", function (event) {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.top=ypos//caretXY.top+12;
+	  position.bottom=ypos//caretXY.top+12;
 	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
