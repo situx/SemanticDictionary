@@ -235,8 +235,8 @@ $("#lefttextarea").on("click", function (event) {
     //alert("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
-    xpos=event.clientX
-    ypos=event.clientY
+    xpos=event.pageX
+    ypos=event.pageY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
     //alert(JSON.stringify(caretXY));
@@ -247,7 +247,7 @@ $("#lefttextarea").on("click", function (event) {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.bottom=ypos//caretXY.top+12;
+	  position.top=ypos+12//caretXY.top+12;
 	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
