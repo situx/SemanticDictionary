@@ -2,7 +2,7 @@
 <head>
 <script>
 var curposx=10;
-var curposy=10;
+var curposy=0;
 function strokeParser(input){
     clearCanvas();
     curposx=10;
@@ -10,10 +10,10 @@ function strokeParser(input){
     for (var i = 0; i < input.length; i++) {
         switch(input.charAt(i)){
                 case "a":
-                    drawVerticalLine(curposx,curposy,"myCanvas");
+                    drawVerticalLine(curposx,curposy,"myCanvas",true);
                     break;
                 case "b":
-                        drawHorizontalLine(curposx,curposy,"myCanvas");
+                        drawHorizontalLine(curposx,curposy,"myCanvas",true);
                         break;
                 case "c":
                         drawDiagonalLine1(curposx,curposy,"myCanvas");
@@ -26,8 +26,15 @@ function strokeParser(input){
                         break;
                 case "-":
                         curposx+=10;
+                        curposy=10;
                         break;
                 case ":": curposy+=5;
+                        break;
+                case ";": curposy+=30;
+                        break;
+                case "_": curposx+=30;
+                        break;
+                case " ": curposx+=50;
                         break;
                 default: 
         }
@@ -35,7 +42,10 @@ function strokeParser(input){
     }
 }
 
-function drawVerticalLine(start,starty,canvas){
+function drawVerticalLine(start,starty,canvas,strokeparse){
+       // alert(strokeparse)
+                if(strokeparse==false)
+            curposx+=10
         var c = document.getElementById("myCanvas");
         //alert(c)
         var ctx = c.getContext("2d");
@@ -47,10 +57,12 @@ ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
         ctx.moveTo(start,starty+20);
         ctx.lineTo(start,starty+50);
         ctx.stroke();
-        curposx+=10
+
         //alert("Draw from "+start+" to 100")
 }
-function drawHorizontalLine(start,starty,canvas){
+function drawHorizontalLine(start,starty,canvas,strokeparse){
+        if(strokeparse==false)
+            curposy+=10
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
 ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
@@ -60,7 +72,7 @@ ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 
         ctx.moveTo(start,starty+20);
         ctx.lineTo(start+25,starty+20);
         ctx.stroke();
-        curposy+=10
+
 }
 function drawDiagonalLine1(start,starty,canvas){
         var c = document.getElementById("myCanvas");
@@ -119,15 +131,17 @@ function drawWedge(start,starty,canvas){
 <canvas id="myCanvas" width="500" height="200" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 <br/>
-Stroke Order Input: <input type="text" id="canvasinput"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button>
-<button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas')">Horizontal Stroke</button>
-<button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas')">Vertical Stroke</button>
-<button id="vertical" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas')">Diagonal Stroke1</button>
-<button id="vertical" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas')">Diagonal Stroke2</button>
+Stroke Order Input: <input type="text" id="canvasinput"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><br/>
+Drawing Examples:<br/>
+<button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button>
+<button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button>
+<button id="vertical" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
+<button id="vertical" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
 </td><td>
 <ul>
-<li><b>-</b> right of the current stroke not passing through other strokes</li>
-<li><b>:</b> under of the current stroke not passing through other strokes</li>
+<li><b>-</b> right of the current stroke passing through other strokes</li>
+<li><b>_</b> right of the current stroke NOT passing through other strokes</li>
+<li><b>:</b> under of the current stroke passing through other strokes</li>
 </ul>
 </td></tr><tr><th>Examples:</th></tr><tr>
 <td></td></tr></table>
