@@ -131,7 +131,7 @@ function drawWedge(start,starty,canvas){
 <canvas id="myCanvas" width="500" height="200" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 <br/>
-Stroke Order Input: <input type="text" id="canvasinput"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><br/>
+Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><br/>
 Drawing Examples:<br/>
 <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button>
 <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button>
