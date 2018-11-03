@@ -22,17 +22,21 @@ function strokeParser(input){
                         drawDiagonalLine2(curposx,curposy,"myCanvas");
                         break;
                 case "w":
+                        drawWedge2(curposx,curposy,"myCanvas");
+                        break;
+                case "w2":
                         drawWedge(curposx,curposy,"myCanvas");
                         break;
                 case "-":
                         curposx+=10;
                         curposy=10;
                         break;
-                case ":": curposy+=5;
+                case ":": curposy+=7;
                         break;
                 case ";": curposy+=30;
                         break;
                 case "_": curposx+=30;
+                        curposy=10;
                         break;
                 case " ": curposx+=50;
                         break;
@@ -119,33 +123,63 @@ function clearCanvas(){
 
 
 function drawWedge(start,starty,canvas){
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
         ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
     ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
     ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
     ctx.fill(); // connect and fill
 }
+
+function drawWedge2(start,starty,canvas){
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+    ctx.moveTo(start+10, starty+15); // pick up "pen," reposition at 300 (horiz), 200 (vert)
+    ctx.lineTo(start+10, starty+25); // draw straight down by 200px (200 + 200)
+    ctx.lineTo(start, starty+20); // draw up toward left (100 less than 300, so left)
+    ctx.fill(); // connect and fill
+     /*   ctx.moveTo(start+10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+    ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
+    ctx.lineTo(start, starty-20); // draw up toward right (100 half of 200)
+    ctx.fill(); // connect and fill*/
+}
 </script>
 </head>
 <body>
 <table><tr><td>
-<canvas id="myCanvas" width="500" height="200" style="border:1px solid #d3d3d3;">
+<canvas id="myCanvas" width="500" height="100" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 <br/>
 Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><br/>
 Drawing Examples:<br/>
 <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button>
 <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button>
-<button id="vertical" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
-<button id="vertical" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
+<button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
+<button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
+<button id="wedge" onClick="drawWedge(curposx,curposy,'myCanvas',false)">Wedge</button>
+<button id="wedge" onClick="drawWedge2(curposx,curposy,'myCanvas',false)">Wedge2</button>
 </td><td>
 <ul>
 <li><b>-</b> right of the current stroke passing through other strokes</li>
 <li><b>_</b> right of the current stroke NOT passing through other strokes</li>
 <li><b>:</b> under of the current stroke passing through other strokes</li>
 </ul>
-</td></tr><tr><th>Examples:</th></tr><tr>
-<td></td></tr></table>
-
+</td></tr></table>
+Examples:
+<table>
+<tr><th>Sign</th><th>Code point</th><th>"Primary" transliteration</th><th>Borger</th><th>Comment</th><th>Homburg Codage</th></tr><tr>
+<tr><td>𒀀</td><td>U+12000</td><td>A</td><td>839</td><td></td><td><button id="1" onClick="strokeParser(document.getElementById('1').value)" value="a-a:a">a-a:a</a></td></tr>
+<tr><td>𒀁</td><td>U+12001</td><td>A x A</td><td>845</td><td>EDURU</td><td><button id="2" onClick="strokeParser(document.getElementById('2').value)" value="a-a-a:a-a:a">a-a-a:a-a:a</td></tr>
+<tr><td>𒀂</td><td>U+12002</td><td>A x BAD</td><td>840</td><td>AGAM</td><td><button id="3" onClick="strokeParser(document.getElementById('3').value)" value="a-b-w-a:a">a-b-w-a:a</td></tr>
+<tr><td>𒋰</td><td>U+122F0</td><td>TAB</td><td>209</td><td></td><td><button id="4" onClick="strokeParser(document.getElementById('4').value)" value="b:b">b:b</td></tr>
+<tr><td>𒌑</td><td>U+12311</td><td>U2</td><td>490</td><td></td><td><button id="5" onClick="strokeParser(document.getElementById('5').value)" value="b:b-a-a-a-a">b:b-a-a-a-a</td></tr>
+<tr><td>𒀾</td><td>U+1203E</td><td>AŠ2</td><td>548</td><td></td><td><button id="6" onClick="strokeParser(document.getElementById('6').value)" value="b:b:b:b-a">b:b:b:b-a</td></tr>
+<tr><td>𒇲</td><td>U+121F2</td><td>LAL</td><td>750</td><td></td><td><button id="7" onClick="strokeParser(document.getElementById('7').value)" value="a-b">a-b</td></tr>
+<tr><td>𒁇</td><td>U+12047</td><td>BAR</td><td>121</td><td></td><td><button id="8" onClick="strokeParser(document.getElementById('8').value)" value="b-a">b-a</td></tr>
+<tr><td>𒂃</td><td>U+12083</td><td>DUḪ</td><td>298</td><td>GAB, DU8, TUḪ</td><td><button id="9" onClick="strokeParser(document.getElementById('9').value)" value="b:b_w:w-w:w-w:w-w:w">b:b_w:w-w:w-w:w-w:w</td></tr>
+<tr><td>𒂉</td><td>U+12089</td><td>DUR2</td><td>808</td><td>DURU2, DURUN, TUKUL, TUŠ</td><td><button id="10" onClick="strokeParser(document.getElementById('10').value)" value="a-b::::b-::b_a">a-b::::b-::b_a</td></tr>
+<tr><td>𒃲</td><td>U+120F2</td><td>GAL</td><td>553</td><td></td><td><button id="11" onClick="strokeParser(document.getElementById('11').value)" value="b:b:b:b_a-:b">b:b:b:b_a-:b</td></tr>
+</table>
 <script>
 var c = document.getElementById("myCanvas");
 /*drawVerticalLine(30,10,"myCanvas")
