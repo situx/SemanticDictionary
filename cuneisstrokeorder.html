@@ -4,6 +4,9 @@
 var curposx=10;
 var curposy=10;
 function strokeParser(input){
+    clearCanvas();
+    curposx=10;
+    curposy=10;
     for (var i = 0; i < input.length; i++) {
         switch(input.charAt(i)){
                 case "a":
@@ -97,8 +100,9 @@ function drawDiagonalLine4(start,starty,canvas){
 
 function clearCanvas(){
     var c=document.getElementById("myCanvas");
-    const context = c.getContext('2d');
-    context.clearRect(0, 0, c.width, c.height);
+    c.width = c.width;
+    //const context = c.getContext('2d');
+    //context.clearRect(0, 0, c.width, c.height);
 }
 
 
@@ -125,7 +129,9 @@ Stroke Order Input: <input type="text" id="canvasinput"/><button id="strokebutto
 <li><b>-</b> right of the current stroke not passing through other strokes</li>
 <li><b>:</b> under of the current stroke not passing through other strokes</li>
 </ul>
-</td></tr></table>
+</td></tr><tr><th>Examples:</th></tr><tr>
+<td></td></tr></table>
+
 <script>
 var c = document.getElementById("myCanvas");
 /*drawVerticalLine(30,10,"myCanvas")
