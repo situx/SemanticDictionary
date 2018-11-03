@@ -14,8 +14,8 @@ function escapeRegExp(string) {
 
 function getRecord(syll,transmap){
      //alert("GetRec: "+JSON.stringify(transmap));
-
- tempmap=transmap["records"].filter(function (el) {
+tempmap=window[$('#langtextsel').val()+"_matches"]["matches"].filter(function (el) {
+ //tempmap=transmap["records"].filter(function (el) {
   return el.transliteration === syll || el.script === syll
 });    
  //alert("Filtered: "+syll+" "+JSON.stringify(tempmap));
@@ -49,9 +49,9 @@ function translate(originalText,language,language2,escapechars,transmap){
 			for(k=0; k<sylls.length; ++k){
 				syll=sylls[k];
 				//alert("Syll: "+syll);
-                                rec=getRecord(syll,transmap)
-                                //alert(JSON.stringify(rec[0]))
-                                //alert(JSON.stringify(rec[0].script))
+                rec=getRecord(syll,transmap)
+                //alert(JSON.stringify(rec[0]))
+                //alert(JSON.stringify(rec[0].script))
 				if(rec!= undefined && rec.length>0){
 					result+=rec[0].script;					
 				}else{
@@ -127,7 +127,7 @@ function prepareTranslation(language){
                         //alert($('#leftsel').val()+"_matches");
 			//alert(JSON.stringify(window[$('#leftsel').val()+"_matches"]["matches"]));
 			if(highlighted){
-                        $.ajax({
+                        /*$.ajax({
                             url: "lang/"+$('#langtextsel').val()+"/pos/"+$('#langtextsel').val()+"_matches.js",
                             async: false,
                             dataType: 'text',
@@ -137,11 +137,12 @@ function prepareTranslation(language){
                             success: function(data) {
     		  		$('#translationdiv').html("<textarea id=\"lefttextarea\" class=\"target\" rows=\"19\" cols=\"50\">"+data+"</textarea>");
                             }
-                        });
+                        });*/
                         }
 			  highlighter=$('.translation').find('.target')
-			    .textareaHighlighter(window[$('#leftsel').val()+"_matches"]);
+			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"]);
                         highlighted=true;
+				//alert(JSON.stringify(window[$('#langtextsel').val()+"_matches"]))
                     
                 })
 		//getRuleScriptForPOS("hit");
@@ -184,9 +185,9 @@ function getWordInformation(word,language,language2,escapechars,separator){
 }
 
 function getHighlightedWord(text) {
-    var list = window[$('#leftsel').val()+"_matches"]["matches"];
-   // alert($('#leftsel').val()+"_matches");
-   // alert(JSON.stringify(list));
+    var list = window[$('#langtextsel').val()+"_matches"]["matches"];
+    //alert($('#leftsel').val()+"_matches");
+   //alert(JSON.stringify(list));
     var item;
     var matches;
     var result="";
@@ -198,8 +199,8 @@ function getHighlightedWord(text) {
         //item._trie = new marexandre.Trie();
         if (item["match"] instanceof RegExp) {
 	  if(text.match(item.match)!=null){
-            alert(item.match);
-	    alert(text.match(item.match));
+            //alert(item.match);
+	    //alert(text.match(item.match));
 	    matches = text.match(item.match);
 	  }
         } else {
@@ -207,14 +208,14 @@ function getHighlightedWord(text) {
         }
         if(matches!=null){
         // HTML escape matching words
-        var matchgroup=window[$('#leftsel').val()+"_matches_groups"][item.tag];
+        var matchgroup=window[$('#langtextsel').val()+"_matches_groups"][item.tag];
         //alert(JSON.stringify(matches));
         result="";
         if(matchgroup!=null){
         for(j=0;j<matchgroup.length;j++){
-            alert("Matchgroup["+j+"]");
+            //alert("Matchgroup["+j+"]");
             if(matches[matchgroup[j]["group"]].match(matchgroup[j]["match"])){
-                alert("Matchgroup: "+matchgroup[j]["description"]);
+               // alert("Matchgroup: "+matchgroup[j]["description"]);
                 result+=matchgroup[j]["description"];
             }
         }
@@ -230,11 +231,12 @@ function getHighlightedWord(text) {
   }
 
 $(document).ready(function(){
-$("#lefttextarea").on("click keyup", function () {
+$("#lefttextarea").on("click", function (event) {
     //alert("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
-    
+    xpos=event.pageX
+    ypos=event.pageY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
     //alert(JSON.stringify(caretXY));
@@ -245,8 +247,8 @@ $("#lefttextarea").on("click keyup", function () {
         my: "center bottom-20",
         at: "center top",
         using: function( position, feedback ) {
-	  position.top+=caretXY.top+12;
-	  position.left=-$("#lefttextarea").width()+caretXY.left+300;
+	  position.top=ypos+12//caretXY.top+12;
+	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
             .addClass( "arrow" )
