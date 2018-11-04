@@ -105,9 +105,9 @@ ctx.moveTo(start, starty);
 function drawDiagonalLine2(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-        ctx.moveTo(start+strokelength, starty);
-    ctx.lineTo(start+strokelength-10, starty-10);
-    ctx.lineTo(start+strokelength-10, starty);
+        ctx.moveTo(start+10, starty+strokelength-10);
+    ctx.lineTo(start, starty+strokelength-10);
+    ctx.lineTo(start+10, starty+strokelength);
     ctx.fill(); // connect and fill
         ctx.moveTo(start+strokelength,starty);
         ctx.lineTo(start,starty+strokelength);
@@ -129,9 +129,9 @@ function drawDiagonalLine3(start,starty,canvas){
 function drawDiagonalLine4(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-                 ctx.moveTo(start,starty+strokelength);
-        ctx.lineTo(start, starty+strokelength+wedgelength);
-        ctx.lineTo(start+wedgelength, starty+strokelength);
+                 ctx.moveTo(start+strokelength,starty);
+        ctx.lineTo(start+strokelength, starty-wedgelength);
+        ctx.lineTo(start+strokelength+wedgelength, starty);
         ctx.fill();
         ctx.moveTo(start+strokelength,starty);
         ctx.lineTo(start,starty+strokelength);
