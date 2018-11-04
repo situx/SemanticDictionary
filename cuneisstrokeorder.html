@@ -1,6 +1,11 @@
 <html>
 <head>
 <script src="http://hongru.github.io/proj/canvas2image/canvas2image.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="js/tablesorter.js"></script>
 <script>
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
@@ -193,8 +198,10 @@ Tutorial:
 <li><b>;</b> under the current stroke NOT passing through other strokes</li>
 </ul>
 </td><td>
-<table align="center">
-<tr><th>Sign</th><th>Code point</th><th>"Primary" transliteration</th><th>Borger</th><th>Comment</th><th>Code</th></tr><tr>
+<table align="center" id="examples" class="tablesorter">
+<thead>
+<tr><th>Sign</th><th>Code point</th><th>Transliteration</th><th>Borger</th><th>Comment</th><th>Code</th></tr><tr>
+</thead><tbody>
 <tr><td>𒀀</td><td>U+12000</td><td>A</td><td>839</td><td></td><td><button onClick="showCharacter('a-a:a')">a-a:a</a></td></tr>
 <tr><td>𒀁</td><td>U+12001</td><td>A x A</td><td>845</td><td>EDURU</td><td><button onClick="showCharacter('a-a-a:a-a:a')">a-a-a:a-a:a</td></tr>
 <tr><td>𒀂</td><td>U+12002</td><td>A x BAD</td><td>840</td><td>AGAM</td><td><button onClick="showCharacter('a-b-w-a:a')">a-b-w-a:a</td></tr>
@@ -215,9 +222,14 @@ Tutorial:
 <tr><td>𒆚</td><td>U+1219A</td><td>KAM2</td><td>595</td><td></td><td><button onClick="showCharacter('c:c-c:c:c-c')">c:c-c:c:c-c</td></tr>
 <tr><td>𒈛</td><td>U+1221B</td><td>LUḪ</td><td>494</td><td></td><td><button onClick="showCharacter('b:b:b:b_a-a-a-a')">b:b:b:b_a-a-a-a</td></tr>
 <tr><td>𒈠</td><td>U+12220</td><td>MA</td><td>552</td><td></td><td><button onClick="showCharacter('b_a;b-:b_a')">b_a;b-:b_a</td></tr>
-</table>
+<tr><td>𒉡</td><td>U+12261</td><td>NU</td><td>112</td><td></td><td><button onClick="showCharacter(':b-a:::d')">:b-a:::d</td></tr>
+</tbody></table>
 </td></tr></table>
-
+<script>
+$(function() {
+  $("#examples").tablesorter();
+});
+</script>
 
 </body>
 </html>
