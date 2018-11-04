@@ -8,8 +8,10 @@ function to_image(){
                 Canvas2Image.saveAsPNG(canvas);
                 document.getElementById("canvasImg").style.visibility = 'hidden';
 }
-var curposx=10;
-var curposy=0;
+var curposx=30;
+var curposy=30;
+var strokelength=30;
+var wedgelength=10;
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input){
@@ -28,8 +30,14 @@ function strokeParser(input){
                         drawDiagonalLine1(curposx,curposy,"myCanvas");
                         break;
                 case "d":
-                        drawDiagonalLine2(curposx,curposy,"myCanvas");
+                        drawDiagonalLine2(curposx,curposy,"myCanvas",true);
                         break;
+                case "e":
+                        drawDiagonalLine3(curposx,curposy,"myCanvas",true);
+                        break;
+                case "f":
+                        drawDiagonalLine4(curposx,curposy,"myCanvas",true);
+                break;
                 case "w":
                         drawWedge2(curposx,curposy,"myCanvas");
                         break;
@@ -56,22 +64,17 @@ function strokeParser(input){
 }
 
 function drawVerticalLine(start,starty,canvas,strokeparse){
-       // alert(strokeparse)
                 if(strokeparse==false)
             curposx+=10
         var c = document.getElementById("myCanvas");
-        //alert(c)
         var ctx = c.getContext("2d");
-            //    alert(ctx)
 ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
     ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
     ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
     ctx.fill();
         ctx.moveTo(start,starty+20);
-        ctx.lineTo(start,starty+50);
+        ctx.lineTo(start,starty+20+strokelength);
         ctx.stroke();
-
-        //alert("Draw from "+start+" to 100")
 }
 function drawHorizontalLine(start,starty,canvas,strokeparse){
         if(strokeparse==false)
@@ -83,51 +86,61 @@ ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 
     ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
     ctx.fill(); // connect and fill
         ctx.moveTo(start,starty+20);
-        ctx.lineTo(start+25,starty+20);
+        ctx.lineTo(start+strokelength,starty+20);
         ctx.stroke();
 
 }
 function drawDiagonalLine1(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-        ctx.moveTo(start, starty); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-    ctx.lineTo(start-10, starty+15); // draw straight down (from 300,0) to 200px
-    ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+ctx.moveTo(start, starty);
+    ctx.lineTo(start, starty-wedgelength);
+    ctx.lineTo(start-wedgelength, starty);
     ctx.fill(); // connect and fill
         ctx.moveTo(start,starty);
-        ctx.lineTo(start+50,starty+50);
+        ctx.lineTo(start+strokelength,starty+strokelength);
         ctx.stroke();
 }
 
 function drawDiagonalLine2(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-        ctx.moveTo(start+50,starty+50);
-        ctx.lineTo(start,starty);
+        ctx.moveTo(start+strokelength, starty);
+    ctx.lineTo(start+strokelength-10, starty-10);
+    ctx.lineTo(start+strokelength-10, starty);
+    ctx.fill(); // connect and fill
+        ctx.moveTo(start+strokelength,starty);
+        ctx.lineTo(start,starty+strokelength);
         ctx.stroke();
 }
 
 function drawDiagonalLine3(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-        ctx.moveTo(start+50,starty+50);
-        ctx.lineTo(start,starty);
+         ctx.moveTo(start+strokelength,starty+strokelength);
+        ctx.lineTo(start+strokelength+wedgelength, starty+strokelength);
+        ctx.lineTo(start+strokelength, starty+strokelength+wedgelength);
+        ctx.fill();
+        ctx.moveTo(start,starty);
+        ctx.lineTo(start+strokelength,starty+strokelength);
         ctx.stroke();
 }
 
 function drawDiagonalLine4(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
-        ctx.moveTo(start+50,starty+50);
-        ctx.lineTo(start,starty);
+                 ctx.moveTo(start,starty+strokelength);
+        ctx.lineTo(start, starty+strokelength+wedgelength);
+        ctx.lineTo(start+wedgelength, starty+strokelength);
+        ctx.fill();
+        ctx.moveTo(start+strokelength,starty);
+        ctx.lineTo(start,starty+strokelength);
         ctx.stroke();
 }
 
 function clearCanvas(){
     var c=document.getElementById("myCanvas");
     c.width = c.width;
-    //const context = c.getContext('2d');
-    //context.clearRect(0, 0, c.width, c.height);
 }
 
 
@@ -147,10 +160,6 @@ function drawWedge2(start,starty,canvas){
     ctx.lineTo(start+10, starty+25); // draw straight down by 200px (200 + 200)
     ctx.lineTo(start, starty+20); // draw up toward left (100 less than 300, so left)
     ctx.fill(); // connect and fill
-     /*   ctx.moveTo(start+10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-    ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-    ctx.lineTo(start, starty-20); // draw up toward right (100 half of 200)
-    ctx.fill(); // connect and fill*/
 }
 
 function showCharacter(character){
@@ -166,21 +175,22 @@ function showCharacter(character){
 Your browser does not support the HTML5 canvas tag.</canvas>
 <img id="canvasImg"/>
 <br/>
-Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="strokebutton" onClick="strokeParser(document.getElementById('canvasinput').value)">StrokeParser</button><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><button id="downloadImage" onClick="to_image()">Download Image</button><br/>
-Drawing Examples:<br/>
-<button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
-<button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
+Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><button id="downloadImage" onClick="to_image()">Download Image</button><br/>
 <br/>
 Tutorial:
 <ul>
 <li><b>a</b> <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button></li>
 <li><b>b</b> <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button></li>
+<li><b>c</b> <button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button></li>
+<li><b>d</b> <button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button></li>
+<li><b>e</b> <button id="diagonal3" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',false)">Diagonal Stroke3</button></li>
+<li><b>f</b> <button id="diagonal4" onClick="drawDiagonalLine4(curposx,curposy,'myCanvas',false)">Diagonal Stroke4</button></li>
 <li><b>w</b> <button id="wedge" onClick="drawWedge(curposx,curposy,'myCanvas',false)">Wedge</button></li>
 <li><b>w2</b> <button id="wedge" onClick="drawWedge2(curposx,curposy,'myCanvas',false)">Wedge 180° rotated</button></li>
 <li><b>-</b> right of the current stroke passing through other strokes</li>
 <li><b>_</b> right of the current stroke NOT passing through other strokes</li>
-<li><b>:</b> under of the current stroke passing through other strokes</li>
-<li><b>;</b> under of the current stroke NOT passing through other strokes</li>
+<li><b>:</b> under the current stroke passing through other strokes</li>
+<li><b>;</b> under the current stroke NOT passing through other strokes</li>
 </ul>
 </td><td>
 <table align="center">
@@ -192,12 +202,14 @@ Tutorial:
 <tr><td>𒌑</td><td>U+12311</td><td>U2</td><td>490</td><td></td><td><button onClick="showCharacter('b:b-a-a-a-a')">b:b-a-a-a-a</td></tr>
 <tr><td>𒀾</td><td>U+1203E</td><td>AŠ2</td><td>548</td><td></td><td><button onClick="showCharacter('b:b:b:b-a')">b:b:b:b-a</td></tr>
 <tr><td>𒇲</td><td>U+121F2</td><td>LAL</td><td>750</td><td></td><td><button onClick="showCharacter('a-b')">a-b</td></tr>
-<tr><td>𒁇</td><td>U+12047</td><td>BAR</td><td>121</td><td></td><td><button onClick="showCharacter('b-a')">b-a</td></tr>
+<tr><td>𒁇</td><td>U+12047</td><td>BAR</td><td>121</td><td></td><td><button onClick="showCharacter('::::b-a')">::::b-a</td></tr>
 <tr><td>𒂃</td><td>U+12083</td><td>DUḪ</td><td>298</td><td>GAB, DU8, TUḪ</td><td><button onClick="showCharacter('b:b_w:w-w:w-w:w-w:w')" >b:b_w:w-w:w-w:w-w:w</td></tr>
 <tr><td>𒂉</td><td>U+12089</td><td>DUR2</td><td>808</td><td>DURU2, DURUN, TUKUL, TUŠ</td><td><button onClick="showCharacter('a-b::::b-::b_a')">a-b::::b-::b_a</td></tr>
 <tr><td>𒃲</td><td>U+120F2</td><td>GAL</td><td>553</td><td></td><td><button onClick="showCharacter('b:b:b:b_a-:b')">b:b:b:b_a-:b</td></tr>
 <tr><td>𒇹</td><td>U+121F9</td><td>LIMMU2</td><td>215</td><td></td><td><button onClick="showCharacter('b:b_b:b')">b:b_b:b</td></tr>
 <tr><td>𒄩</td><td>U+12129</td><td>ḪA</td><td>856</td><td>KU6</td><td><button onClick="showCharacter('a:a::::w-a:a-w')">a:a-:::w-a:a-w</td></tr>
+<tr><td>𒆳</td><td>U+121B3</td><td>KUR</td><td>578</td><td></td><td><button onClick="showCharacter('w:w-w')">w:w-w</td></tr>
+<tr><td>𒈦</td><td>U+12226</td><td>MAŠ</td><td>120</td><td></td><td><button onClick="showCharacter(':b-a')">:b-a</td></tr>
 </table>
 </td></tr></table>
 
