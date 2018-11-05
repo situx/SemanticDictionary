@@ -55,7 +55,15 @@ function strokeParser(input){
                         break;
                 case ":": curposy+=7;
                         break;
+                case "/": curposy+=3.5;
+                        break;
                 case ";": curposy+=strokelength;
+                        break;
+                case ".": curposy+=7;
+                        curposx+=7;
+                        break;
+                case ",": curposy-=7;
+                        curposx-=7;
                         break;
                 case "_": curposx+=strokelength;
                         curposy=10;
@@ -172,6 +180,16 @@ function showCharacter(character){
         document.getElementById('canvasinput').value=character
 }
 </script>
+<!--<style>
+div.scrollable {
+    width: 100%;
+    height: 10%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    table-layout: fixed;
+}
+</style>-->
 </head>
 <body>
 <table><tr><td valign="top">
@@ -196,6 +214,9 @@ Tutorial:
 <li><b>_</b> right of the current stroke NOT passing through other strokes</li>
 <li><b>:</b> under the current stroke passing through other strokes</li>
 <li><b>;</b> under the current stroke NOT passing through other strokes</li>
+<li><b>.</b> diagonal right under the current stroke</li>
+<li><b>,</b> diagonal left above the current stroke</li>
+<li><b>Whitespace</b> Enough distance to start a new character</li>
 </ul>
 </td><td>
 <table align="center" id="examples" class="tablesorter">
@@ -223,6 +244,18 @@ Tutorial:
 <tr><td>𒈛</td><td>U+1221B</td><td>LUḪ</td><td>494</td><td></td><td><button onClick="showCharacter('b:b:b:b_a-a-a-a')">b:b:b:b_a-a-a-a</td></tr>
 <tr><td>𒈠</td><td>U+12220</td><td>MA</td><td>552</td><td></td><td><button onClick="showCharacter('b_a;b-:b_a')">b_a;b-:b_a</td></tr>
 <tr><td>𒉡</td><td>U+12261</td><td>NU</td><td>112</td><td></td><td><button onClick="showCharacter(':b-a:::d')">:b-a:::d</td></tr>
+<tr><td>𒀫</td><td>U+1202B</td><td>AMAR</td><td>695</td><td></td><td><button onClick="showCharacter('w:w_b:b_w:w')">w:w_b:b_w:w</td></tr>
+<tr><td>𒃵</td><td>U+120F5</td><td>GAM</td><td>576</td><td></td><td><button onClick="showCharacter('c.c')">c.c</td></tr>
+<tr><td>𒊸</td><td>U+122B8</td><td>ŠAB6</td><td></td><td></td><td><button onClick="showCharacter(':b:b_b:b:b_:b')">b:b_b:b:b_:b</td></tr>
+<tr><td>𒄑</td><td>U+12111</td><td>GIŠ</td><td>469</td><td></td><td><button onClick="showCharacter('b::b_a')">b::b_a</td></tr>
+<tr><td>𒄨</td><td>U+12128</td><td>GURUŠ</td><td></td><td></td><td><button onClick="showCharacter('b:::b-a--a')">b:::b-a--a</td></tr>
+<tr><td>𒄷</td><td>U+12137</td><td>ḪU</td><td>132</td><td></td><td><button onClick="showCharacter(':b-a-::w-a')">:b-a-::w-a</td></tr>
+<tr><td>𒄿</td><td>U+1213F</td><td>I</td><td>252</td><td></td><td><button onClick="showCharacter('b:b:b_b:b')">b:b:b_b:b</td></tr>
+<tr><td>𒈨</td><td>U+12228</td><td>ME</td><td>753</td><td></td><td><button onClick="showCharacter('a-:b')">a-:b</td></tr>
+<tr><td>𒈫</td><td>U+1222B</td><td>MIN</td><td>825</td><td></td><td><button onClick="showCharacter('a-a')">a-a</td></tr>
+<tr><td>𒋙</td><td>U+122D9</td><td>ŠU2</td><td>869</td><td></td><td><button onClick="showCharacter('a::::w')">a::::w</td></tr>
+<tr><td>𒌷</td><td>U+12337</td><td>URU</td><td>071</td><td></td><td><button onClick="showCharacter('::b::b-a--a')">::b::b-a--a</td></tr>
+<tr><td>𒍝</td><td>U+1235D</td><td>ZA</td><td>851</td><td></td><td><button onClick="showCharacter('a::a-a::a')">a::a-a::a</td></tr>
 </tbody></table>
 </td></tr></table>
 <script>
