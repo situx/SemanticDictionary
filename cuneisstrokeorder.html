@@ -239,8 +239,8 @@ function drawDiagonalLine3(start,starty,canvas,big){
         }else if(smaller){
 			length=smallermultiplier*strokelength;
 			ctx.moveTo(start+length,starty+length);
-			ctx.lineTo(start+length+wedgelength, starty+length);
-			ctx.lineTo(start+length, starty+length+wedgelength);
+			ctx.lineTo(start+length+wedgelength-5, starty+length);
+			ctx.lineTo(start+length, starty+length+wedgelength-5);
 			ctx.fill();
 			smaller=false;
 		}else{
@@ -267,8 +267,8 @@ function drawDiagonalLine4(start,starty,canvas,big){
         }else if(smaller){
 			length=smallermultiplier*strokelength;
 			ctx.moveTo(start+length,starty);
-			ctx.lineTo(start+length, starty-wedgelength);
-			ctx.lineTo(start+length+wedgelength, starty);
+			ctx.lineTo(start+length, starty-wedgelength+5);
+			ctx.lineTo(start+length+wedgelength-5, starty);
 			ctx.fill();
 			smaller=false;
 		}else{
