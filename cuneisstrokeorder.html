@@ -342,12 +342,18 @@ Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(do
 <br/>
 Tutorial:
 <ul>
-<li><b>a A</b> <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button><button id="D" onClick="drawVerticalLine(curposx,curposy,'myCanvas',true)">Big</button></li>
-<li><b>b B</b> <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button><button id="D" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',true)">Big</button></li>
-<li><b>c C</b> <button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button><button id="C" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button></li>
-<li><b>d D</b> <button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button><button id="D" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',true)">Big</button></li>
-<li><b>e E</b> <button id="diagonal3" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',false)">Diagonal Stroke3</button><button id="E" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',true)">Big</button></li>
-<li><b>f F</b> <button id="diagonal4" onClick="drawDiagonalLine4(curposx,curposy,'myCanvas',false)">Diagonal Stroke4</button><button id="F" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button></li>
+<li><b>a A</b> <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button><button id="D" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false,true)">Big</button>
+<button id="sa" onClick="strokeParser('sa')">Small</button></li>
+<li><b>b B</b> <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button>
+<button id="D" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false,true)">Big</button><button id="sb" onClick="strokeParser('sb')">Small</button></li>
+<li><b>c C</b> <button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
+<button id="C" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button><button id="sc" onClick="strokeParser('sc')">Small</button></li>
+<li><b>d D</b> <button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
+<button id="D" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',true)">Big</button><button id="sd" onClick="strokeParser('sd')">Small</button></li>
+<li><b>e E</b> <button id="diagonal3" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',false)">Diagonal Stroke3</button>
+<button id="E" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',true)">Big</button><button id="se" onClick="strokeParser('se')">Small</button></li>
+<li><b>f F</b> <button id="diagonal4" onClick="drawDiagonalLine4(curposx,curposy,'myCanvas',false)">Diagonal Stroke4</button>
+<button id="F" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button><button id="sf" onClick="strokeParser('sf')">Small</button></li>
 <li><b>w W</b> <button id="wedge" onClick="drawWedge(curposx,curposy,'myCanvas',false)">Winkelhaken</button></li>
 <li><b>w2</b> <button id="wedge" onClick="drawWedge2(curposx,curposy,'myCanvas',false)">Winkelhaken 180Â° rotated</button></li>
 <li><b>-</b> right of the current stroke passing through other strokes</li>
