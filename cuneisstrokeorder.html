@@ -23,7 +23,7 @@ var smaller=false;
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input){
-    clearCanvas();
+    clearCanvas(true);
     smaller=false;
     curposx=10;
     curposy=10;
@@ -102,7 +102,7 @@ function strokeParser(input){
                         break;
                 default: 
         }
-        console.log(input.charAt(i));
+        //console.log(input.charAt(i));
     }
 }
 
@@ -284,10 +284,11 @@ function drawDiagonalLine4(start,starty,canvas,big){
         ctx.stroke();
 }
 
-function clearCanvas(){
+function clearCanvas(strokeParser){
     var c=document.getElementById("myCanvas");
     c.width = c.width;
-    document.getElementById('canvasinput').value=""
+    if(!strokeParser)
+        document.getElementById('canvasinput').value=""
 }
 
 
@@ -339,7 +340,7 @@ function showCharacter(character){
 Your browser does not support the HTML5 canvas tag.</canvas>
 <img id="canvasImg"/>
 <br/>
-Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="clearcanvas" onClick="clearCanvas()">Clear Canvas</button><button id="downloadImage" onClick="to_image()">Download Image</button><br/>
+Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="clearcanvas" onClick="clearCanvas(false)">Clear Canvas</button><button id="downloadImage" onClick="to_image()">Download Image</button><br/>
 <br/>
 Tutorial:
 <ul>
@@ -472,6 +473,7 @@ Tutorial:
 <tr><td>𒅕</td><td>U+12155</td><td>IR</td><td>437</td><td></td><td><button onClick="showCharacter('c;d-a-a-a')">c;d-a-a-a</td></tr>
 <tr><td>𒆗</td><td>U+12197</td><td>KAL</td><td>496</td><td></td><td><button onClick="showCharacter('b:::b-a--a::a')">b:::b-a--a::a</td></tr>
 <tr><td>𒆰</td><td>U+121B0</td><td>KUL</td><td>117</td><td></td><td><button onClick="showCharacter('b-w-b-w:w')">b-w-b-w:w</td></tr>
+<tr><td>𒀝</td><td>U+1201D</td><td>AK</td><td>127</td><td></td><td><button onClick="showCharacter('W-b:b:b:b-b:b:b:b-a-::bb')">W-b:b:b:b-b:b:b:b-a-::bb</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
