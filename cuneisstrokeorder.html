@@ -342,20 +342,19 @@ Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(do
 <br/>
 Tutorial:
 <ul>
-<li><b>a A</b> <button id="vertical" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false)">Vertical Stroke</button><button id="D" onClick="drawVerticalLine(curposx,curposy,'myCanvas',false,true)">Big</button>
-<button id="sa" onClick="strokeParser('sa')">Small</button></li>
-<li><b>b B</b> <button id="horizontal" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false)">Horizontal Stroke</button>
-<button id="D" onClick="drawHorizontalLine(curposx,curposy,'myCanvas',false,true)">Big</button><button id="sb" onClick="strokeParser('sb')">Small</button></li>
-<li><b>c C</b> <button id="diagonal1" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',false)">Diagonal Stroke1</button>
-<button id="C" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button><button id="sc" onClick="strokeParser('sc')">Small</button></li>
-<li><b>d D</b> <button id="diagonal2" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',false)">Diagonal Stroke2</button>
-<button id="D" onClick="drawDiagonalLine2(curposx,curposy,'myCanvas',true)">Big</button><button id="sd" onClick="strokeParser('sd')">Small</button></li>
-<li><b>e E</b> <button id="diagonal3" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',false)">Diagonal Stroke3</button>
-<button id="E" onClick="drawDiagonalLine3(curposx,curposy,'myCanvas',true)">Big</button><button id="se" onClick="strokeParser('se')">Small</button></li>
-<li><b>f F</b> <button id="diagonal4" onClick="drawDiagonalLine4(curposx,curposy,'myCanvas',false)">Diagonal Stroke4</button>
-<button id="F" onClick="drawDiagonalLine1(curposx,curposy,'myCanvas',true)">Big</button><button id="sf" onClick="strokeParser('sf')">Small</button></li>
-<li><b>w W</b> <button id="wedge" onClick="drawWedge(curposx,curposy,'myCanvas',false)">Winkelhaken</button></li>
-<li><b>w2</b> <button id="wedge" onClick="drawWedge2(curposx,curposy,'myCanvas',false)">Winkelhaken 180Â° rotated</button></li>
+<li><b>a</b> <button id="vertical" onClick="strokeParser('a')">Vertical Stroke (a)</button><button id="D" onClick="strokeParser('A')">Big (A)</button>
+<button id="sa" onClick="strokeParser('sa')">Small (sa)</button></li>
+<li><b>b</b> <button id="horizontal" onClick="strokeParser('b')">Horizontal Stroke (b)</button>
+<button id="D" onClick="strokeParser('B')">Big (B)</button><button id="sb" onClick="strokeParser('sb')">Small (sb)</button></li>
+<li><b>c</b> <button id="diagonal1" onClick="strokeParser('c')">Diagonal Stroke1 (c)</button>
+<button id="C" onClick="strokeParser('C')">Big (C)</button><button id="sc" onClick="strokeParser('sc')">Small (sc)</button></li>
+<li><b>d</b> <button id="diagonal2" onClick="strokeParser('d')">Diagonal Stroke2 (d)</button>
+<button id="D" onClick="strokeParser('D')">Big (D)</button><button id="sd" onClick="strokeParser('sd')">Small (sd)</button></li>
+<li><b>e</b> <button id="diagonal3" onClick="strokeParser('e')">Diagonal Stroke3 (e)</button>
+<button id="E" onClick="strokeParser('E')">Big (E)</button><button id="se" onClick="strokeParser('se')">Small (se)</button></li>
+<li><b>f</b> <button id="diagonal4" onClick="strokeParser('f')">Diagonal Stroke4 (f)</button>
+<button id="F" onClick="strokeParser('F')">Big (F)</button><button id="sf" onClick="strokeParser('sf')">Small (sf)</button></li>
+<li><b>w</b> <button id="wedge" onClick="strokeParser('w')">Winkelhaken (w)</button><button id="F" onClick="strokeParser('W')">Big (W)</button></li>
 <li><b>-</b> right of the current stroke passing through other strokes</li>
 <li><b>_</b> right of the current stroke NOT passing through other strokes</li>
 <li><b>:</b> under the current stroke passing through other strokes</li>
