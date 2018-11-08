@@ -204,21 +204,21 @@ function drawDiagonalLine2(start,starty,canvas,big){
         if(big){
             length=multiplier*strokelength;
 			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length-10);
-			ctx.lineTo(start+10, starty+length);
+			ctx.lineTo(start, starty+length+15);
+			ctx.lineTo(start-15, starty+length);
 			ctx.fill(); // connect and fill
         }else if(smaller){
 			length=smallermultiplier*strokelength;
 			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length-10);
-			ctx.lineTo(start+10, starty+length);
+			ctx.lineTo(start, starty+length+5);
+			ctx.lineTo(start-5, starty+length);
 			ctx.fill(); // connect and fill
 			smaller=false;
 		}else{
             length=strokelength;
 			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length-10);
-			ctx.lineTo(start+10, starty+length);
+			ctx.lineTo(start, starty+length+10);
+			ctx.lineTo(start-10, starty+length);
 			ctx.fill(); // connect and fill
         }
 
