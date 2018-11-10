@@ -6,7 +6,8 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
   <script src="js/tablesorter.js"></script>
-<script>
+  <script src="js/canvas2svg.js"></script>
+  <script>
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
                 document.getElementById("canvasImg").src = canvas.toDataURL();
@@ -91,6 +92,9 @@ function strokeParser(input){
                         break;
                 case ".": curposy+=7;
                         curposx+=7;
+                        break;
+                case "\\": curposy+=7;
+                        curposx-=7;
                         break;
                 case ",": curposy-=7;
                         curposx-=7;
@@ -188,12 +192,12 @@ function drawDiagonalLine1(start,starty,canvas,big){
         }else{
             length=strokelength;
 			wlength=wedgelength
-            ctx.moveTo(start+wedgelength, starty+wedgelength);
-            ctx.lineTo(start+wedgelength, starty);
-            ctx.lineTo(start, starty+wedgelength);
+            ctx.moveTo(start, starty);
+            ctx.lineTo(start-wedgelength, starty);
+            ctx.lineTo(start, starty-wedgelength);
             ctx.fill(); // connect and fill
         }
-        ctx.moveTo(start+wlength,starty+wlength);
+        ctx.moveTo(start,starty);
         ctx.lineTo(start+length,starty+length);
         ctx.stroke();
 }
@@ -483,6 +487,16 @@ Tutorial:
 <tr><td>𒆏</td><td>U+1218F</td><td>KAB</td><td>148</td><td></td><td><button onClick="showCharacter('sb:sb:sb:sb:sb:B-a:::sb-:::w-a')">sb:sb:sb:sb:sb:B-a:::sb-:::w-a</td></tr>
 <tr><td>𒆐</td><td>U+12190</td><td>KAD2</td><td>108</td><td></td><td><button onClick="showCharacter(':sbsc-a;w')">:sbsc-a;w</td></tr>
 <tr><td>𒆑</td><td>U+12191</td><td>KAD3</td><td>109</td><td></td><td><button onClick="showCharacter(':sbsc-a;w-a;w-a;w')">:sbsc-a;w-a;w-a;w</td></tr>
+<tr><td>𒃮</td><td>U+120EE</td><td>GABA</td><td></td><td></td><td><button onClick="showCharacter('b:b_w:w-w:w-w:w-w:w')">b:b_w:w-w:w-w:w-w:w</td></tr>
+<tr><td>𒄓</td><td>U+12113</td><td>GIŠ x BAD</td><td>471</td><td></td><td><button onClick="showCharacter('b:sb-sw:b_a')">b:sb-sw:b_a</td></tr>
+<tr><td>𒁁</td><td>U+12041</td><td>BAD</td><td>113</td><td></td><td><button onClick="showCharacter('b_:::sc\'sd')">b_:::sc'sd</td></tr>
+<tr><td>𒁀</td><td>U+12040</td><td>BA</td><td>014</td><td></td><td><button onClick="showCharacter('cd-::b-a')">cd-::b-a</td></tr>
+<tr><td>𒁍</td><td>U+1204D</td><td>BU</td><td>580</td><td></td><td><button onClick="showCharacter('cd_cd_b')">cd_cd_b</td></tr>
+<tr><td>𒁎</td><td>U+1204E</td><td>BU / BU AB</td><td>582</td><td></td><td><button onClick="showCharacter('cd;cd_cd;cd_b:::b_:b:b_;::c\'d_a')">cd;cd_cd;cd_b:::b_:b:b_;::c'd_a</td></tr>
+<tr><td>𒁑</td><td>U+12051</td><td>BULUG</td><td>169</td><td></td><td><button onClick="showCharacter('b-a;w-bsc_W')">b-a;w-bsc_W</td></tr>
+<tr><td>𒁓</td><td>U+12053</td><td>BUR</td><td>559</td><td></td><td><button onClick="showCharacter('b:b:b:b:b_ac;f')">b:b:b:b:b_ac;f</td></tr>
+<tr><td>𒁔</td><td>U+12054</td><td>BUR2</td><td>008</td><td></td><td><button onClick="showCharacter(':b_ac;d-a_/b--w:w')">:b_ac;d-a_/b--w:w</td></tr>
+𒁂	U+12042	BAG3
 </tbody></table>
 </div>
 </td></tr></table>
