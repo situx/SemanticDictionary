@@ -86,6 +86,11 @@ function strokeParser(input){
                         break;
                 case "'": curposy=10;
                         break;
+		case "\"": curposy=0;
+                        break;
+		case "~": curposx-=10;
+                        curposy=10;
+                        break;
                 case "/": curposy+=3.5;
                         break;
                 case ";": curposy+=strokelength;
@@ -523,6 +528,8 @@ Tutorial:
 <tr><td>𒍴</td><td>U+12374</td><td>DAG3</td><td></td><td></td><td><button onClick="showCharacter('b::b-::sa-::sa-:::sc:sc--sa::sa')">b::b-::sa-::sa-:::sc:sc--sa::sa</td></tr>
 <tr><td>𒀪</td><td>U+1202A</td><td>aleph</td><td>635</td><td></td><td><button onClick="showCharacter('f;c_-c:b\';d')">f;c_-c:b';d</td></tr>
 <tr><td>𒅁</td><td>U+12141</td><td>IB</td><td>807</td><td></td><td><button onClick="showCharacter(';B\'a-:B\':sa-:sa-:sa-:sa-a')">;B'a-:B':sa-:sa-:sa-:sa-a</td></tr>
+<tr><td>𒂽</td><td>U+120BD</td><td>GÁ×AŠ</td><td>389</td><td></td><td><button onClick="showCharacter('b;b\';sa-;sa-::sb-a')">b;b';sa-;sa-::sb-a</td></tr>
+<tr><td>𒃢</td><td>U+120E2</td><td>SILA4 (GÁ×PA)</td><td>408</td><td></td><td><button onClick="showCharacter('b;b\';sa-;sa-:sb:sb-:sa-a')">b;b\';sa-;sa-:sb:sb-:sa-a</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
