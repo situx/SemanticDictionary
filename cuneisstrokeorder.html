@@ -84,6 +84,8 @@ function strokeParser(input){
                         break;
                 case ":": curposy+=7;
                         break;
+                case "!": //mirror character
+                        break;
                 case "'": curposy=10;
                         break;
 		case "\"": curposy=0;
@@ -115,7 +117,7 @@ function strokeParser(input){
     }
 }
 
-function drawVerticalLine(start,starty,canvas,strokeparse,big){
+function drawVerticalLine(start,starty,canvas,strokeparse,big,mirror){
                 if(strokeparse==false)
             curposx+=10
         var c = document.getElementById("myCanvas");
@@ -145,7 +147,7 @@ function drawVerticalLine(start,starty,canvas,strokeparse,big){
         ctx.lineTo(start,starty+20+length);
         ctx.stroke();
 }
-function drawHorizontalLine(start,starty,canvas,strokeparse,big){
+function drawHorizontalLine(start,starty,canvas,strokeparse,big,mirror){
         if(strokeparse==false)
             curposy+=10
         var c = document.getElementById("myCanvas");
@@ -423,7 +425,7 @@ Tutorial:
 <tr><td>𒅆</td><td>U+12146</td><td>IGI</td><td>724</td><td></td><td><button onClick="showCharacter(':w-a-:b')">:w-a-:b</td></tr>
 <tr><td>𒅈</td><td>U+12148</td><td>IGI RI</td><td>726</td><td></td><td><button onClick="showCharacter(':w-a-:b_-:b-a-a-:::w-a')">:w-a-:b_-:b-a-a-:::w-a</td></tr>
 <tr><td>𒈥</td><td>U+12225</td><td>MAR</td><td>483</td><td></td><td><button onClick="showCharacter('b:::b_a-a-:b')">b:::b_a-a-:b</td></tr>
-<tr><td>𒈪</td><td>U+1222A</td><td>MI</td><td>681</td><td></td><td><button onClick="showCharacter('w_/b:b:b:b_b:b:b:b')">w_/b:b:b:b_b:b:b:b</td></tr>
+<tr><td>𒈪</td><td>U+1222A</td><td>MI</td><td>681</td><td></td><td><button onClick="showCharacter(':W_/b:b:b:b_b:b:b:b')">:W_/b:b:b:b_b:b:b:b</td></tr>
 <tr><td>𒈬</td><td>U+1222C</td><td>MU</td><td>098</td><td></td><td><button onClick="showCharacter('::b-w:w-w:w_w:w')">::b-w:w-w:w_w:w</td></tr>
 <tr><td>𒉼</td><td>U+1227C</td><td>PAN</td><td>685</td><td></td><td><button onClick="showCharacter('c_d_c_d')">c_d_c_d</td></tr>
 <tr><td>𒊩</td><td>U+122A9</td><td>SAL</td><td>883</td><td></td><td><button onClick="showCharacter('a::bcb::d')">a::bcb::d</td></tr>
@@ -477,7 +479,7 @@ Tutorial:
 <tr><td>𒋥</td><td>U+122E5</td><td>SUD2</td><td>139</td><td></td><td><button onClick="showCharacter(':b_a-a-:b')">:b_a-a-:b</td></tr>
 <tr><td>𒋡</td><td>U+122E1</td><td>SILA3</td><td>099</td><td></td><td><button onClick="showCharacter('c;d_a')">c;d_a</td></tr>
 <tr><td>𒄞</td><td>U+1211E</td><td>GUD</td><td>472</td><td></td><td><button onClick="showCharacter('b:::b_a:c::d')">b:::b_a:c::d</td></tr>
-<tr><td>𒃾</td><td>U+120FE</td><td>GEŠTIN</td><td>212</td><td></td><td><button onClick="showCharacter('b::b-a-a-W::W-c;d')">b::b-a-a-W::W-c;d</td></tr>
+<tr><td>𒃾</td><td>U+120FE</td><td>GEŠTIN</td><td>212</td><td></td><td><button onClick="showCharacter('b:::b\'::sa-::sa-W:::W-c;d')">b:::b\'::sa-::sa-w:::w-c;d'</td></tr>
 <tr><td>𒄾</td><td>U+1213E</td><td>ḪUL2</td><td>877</td><td></td><td><button onClick="showCharacter('a;w_b:b:b:b-b_a')">a;w_b:b:b:b-b_a</td></tr>
 <tr><td>𒅕</td><td>U+12155</td><td>IR</td><td>437</td><td></td><td><button onClick="showCharacter('c;d-a-a-a')">c;d-a-a-a</td></tr>
 <tr><td>𒆗</td><td>U+12197</td><td>KAL</td><td>496</td><td></td><td><button onClick="showCharacter('b:::b-a--a::a')">b:::b-a--a::a</td></tr>
@@ -530,6 +532,13 @@ Tutorial:
 <tr><td>𒅁</td><td>U+12141</td><td>IB</td><td>807</td><td></td><td><button onClick="showCharacter(';B\'a-:B\':sa-:sa-:sa-:sa-a')">;B'a-:B':sa-:sa-:sa-:sa-a</td></tr>
 <tr><td>𒂽</td><td>U+120BD</td><td>GÁ×AŠ</td><td>389</td><td></td><td><button onClick="showCharacter('b;b\';sa-;sa-::sb-a')">b;b';sa-;sa-::sb-a</td></tr>
 <tr><td>𒃢</td><td>U+120E2</td><td>SILA4 (GÁ×PA)</td><td>408</td><td></td><td><button onClick="showCharacter('b;b\';sa-;sa-:sb:sb-:sa-a')">b;b\';sa-;sa-:sb:sb-:sa-a</td></tr>
+<tr><td>𒁕</td><td>U+12055</td><td>DA</td><td>561</td><td></td><td><button onClick="showCharacter('B:sb:sb:sb:sb:sb:b--:a-:::sb-:::w-A')">B:sb:sb:sb:sb:sb:b--:a-:::sb-:::w-A</td></tr>
+<tr><td>𒁷</td><td>U+12077</td><td>DIN</td><td>119</td><td></td><td><button onClick="showCharacter('W:::W\'-c;d')">W:::W'-c;d</td></tr>
+<tr><td>𒀿</td><td>U+1203F</td><td>AŠGAB</td><td>173</td><td></td><td><button onClick="showCharacter(';B\'a-:::sa-:::csa-:::sa-:::sa')">;B'a-:::sa-:::csa-:::sa-:::sa</td></tr>
+<tr><td>𒃼</td><td>U+120FC</td><td>GAR3</td><td>543</td><td></td><td><button onClick="showCharacter('b:b:b:b_Wc;d')">b:b:b:b_Wc;d</td></tr>
+<tr><td>𒃿</td><td>U+120FF</td><td>GEŠTIN x KUR</td><td>213</td><td></td><td><button onClick="showCharacter('b:::b\'::sa-::sa-W:::W-c;d\':w::w-::w')">b:::b'::sa-::sa-W:::W-c;d':w::w-::w</td></tr>
+<tr><td>𒂂</td><td>U+12082</td><td>DUGUD</td><td>704</td><td></td><td><button onClick="showCharacter('W-:b:b:b:b_b:b:b:b_::/b')">W-:b:b:b:b_b:b:b:b_::/b</td></tr>
+<tr><td>𒂅</td><td>U+12085</td><td>DUN3</td><td>836</td><td></td><td><button onClick="showCharacter('B;b'a--a::b_sa')">B;b'a--a::b_sa</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
