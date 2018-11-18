@@ -21,11 +21,13 @@ var wedgelength=10;
 var multiplier=1.5;
 var smallermultiplier=0.5
 var smaller=false;
+var mirror=false;
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input){
     clearCanvas(true);
     smaller=false;
+    mirror=false;
     curposx=10;
     curposy=10;
     for (var i = 0; i < input.length; i++) {
@@ -85,6 +87,7 @@ function strokeParser(input){
                 case ":": curposy+=7;
                         break;
                 case "!": //mirror character
+                        mirror=true;
                         break;
                 case "'": curposy=10;
                         break;
@@ -117,65 +120,118 @@ function strokeParser(input){
     }
 }
 
-function drawVerticalLine(start,starty,canvas,strokeparse,big,mirror){
+function drawVerticalLine(start,starty,canvas,strokeparse,big){
                 if(strokeparse==false)
             curposx+=10
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
-            ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
-            ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
-            ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+            if(mirror){
+                        ctx.moveTo(start-5, starty+10+length); // start at top left corner of canvas
+                        ctx.lineTo(start+5, starty+10+length); // go 200px to right (x), straight line from 0 to 0
+                        ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
+            }else{
+                        ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
+                        ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
+                        ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+            }
             ctx.fill();
         }else if(smaller){
             length=0.5*strokelength;
             smaller=false;
-            ctx.moveTo(start-5, starty+15); // start at top left corner of canvas
-            ctx.lineTo(start+5, starty+15); // go 200px to right (x), straight line from 0 to 0
-            ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+            if(mirror){
+                    ctx.moveTo(start-5, starty+5+length); // start at top left corner of canvas
+                    ctx.lineTo(start+5, starty+5+length); // go 200px to right (x), straight line from 0 to 0
+                    ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
+            }else{
+                ctx.moveTo(start-5, starty+15); // start at top left corner of canvas
+                ctx.lineTo(start+5, starty+15); // go 200px to right (x), straight line from 0 to 0
+                ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)            
+            }
             ctx.fill();
         }else{
             length=strokelength;
-            ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
-            ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
-            ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+            if(mirror){
+                        ctx.moveTo(start-5, starty+10+length); // start at top left corner of canvas
+                        ctx.lineTo(start+5, starty+10+length); // go 200px to right (x), straight line from 0 to 0
+                        ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
+            }else{
+                        ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
+                        ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
+                        ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+            }
+
             ctx.fill();
         }
+        if(mirror){
+                    ctx.moveTo(start,starty);
+                    ctx.lineTo(start,starty+length);
+                    ctx.stroke();
+            mirror=false;
+        }else{
+                    ctx.moveTo(start,starty+20);
+                    ctx.lineTo(start,starty+20+length);
+                    ctx.stroke();
+        }
 
-        ctx.moveTo(start,starty+20);
-        ctx.lineTo(start,starty+20+length);
-        ctx.stroke();
 }
-function drawHorizontalLine(start,starty,canvas,strokeparse,big,mirror){
+function drawHorizontalLine(start,starty,canvas,strokeparse,big){
         if(strokeparse==false)
             curposy+=10
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
-            ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-            ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-            ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            if(mirror){
+                        ctx.moveTo(start+10+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        ctx.lineTo(start+10+length, starty+25); // draw straight down (from 300,0) to 200px
+                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+            }else{
+                    ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                    ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
+                    ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            }
             ctx.fill(); // connect and fill
         }else if(smaller){
             length=smallermultiplier*strokelength;
             smaller=false;
-            ctx.moveTo(start-5, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-            ctx.lineTo(start-5, starty+25); // draw straight down (from 300,0) to 200px
-            ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            if(mirror){
+                        ctx.moveTo(start+5+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        ctx.lineTo(start+5+length, starty+25); // draw straight down (from 300,0) to 200px
+                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+            }else{
+                        ctx.moveTo(start-5, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        ctx.lineTo(start-5, starty+25); // draw straight down (from 300,0) to 200px
+                        ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            }
+
             ctx.fill(); // connect and fill
         }else{
             length=strokelength;
-            ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-            ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-            ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            if(mirror){
+                        ctx.moveTo(start+10+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        ctx.lineTo(start+10+length, starty+25); // draw straight down (from 300,0) to 200px
+                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+            }else{
+                        ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
+                        ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+            }
+
             ctx.fill(); // connect and fill
         }
+        if(mirror){
+                ctx.moveTo(start+length,starty+20);
+                ctx.lineTo(start,starty+20);
+                ctx.stroke();
+            mirror=false;
+        }else{
+                    ctx.moveTo(start,starty+20);
+                ctx.lineTo(start+length,starty+20);
+                ctx.stroke();
+        }
 
-        ctx.moveTo(start,starty+20);
-        ctx.lineTo(start+length,starty+20);
-        ctx.stroke();
 
 }
 function drawDiagonalLine1(start,starty,canvas,big){
@@ -375,6 +431,7 @@ Tutorial:
 <li><b>.</b> diagonal right under the current stroke</li>
 <li><b>,</b> diagonal left above the current stroke</li>
 <li><b>s</b> smaller version of the stroke (e.g. sb, sc)</li>
+<li><b>!</b> mirrored version of the stroke (e.g. !a, !A, !sa)</li>
 <li><b>Whitespace</b> Enough distance to start a new character</li>
 </ul>
 </td><td>
@@ -541,6 +598,7 @@ Tutorial:
 <tr><td>𒂅</td><td>U+12085</td><td>DUN3</td><td>836</td><td></td><td><button onClick="showCharacter('B;b'a--a::b_sa')">B;b'a--a::b_sa</td></tr>
 <tr><td>𒂢</td><td>U+120A2</td><td>EZEN x A</td><td>288</td><td></td><td><button onClick="showCharacter(':sa-:sb::sb-ab;b-:sa-:sa:sa-a-:sb::sb-:sa')">:sa-:sb::sb-ab;b-:sa-:sa:sa-a-:sb::sb-:sa</td></tr>
 <tr><td>𒅅</td><td>U+12145</td><td>IG</td><td>136</td><td></td><td><button onClick="showCharacter(';B-a-b:b:b:b-a-a_:::w:w')">;B-a-b:b:b:b-a-a_:::w:w</td></tr>
+<tr><td>𒅂</td><td>U+12142</td><td>IDIM</td><td></td><td></td><td><button onClick="showCharacter('!b:b')">!b:b</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
