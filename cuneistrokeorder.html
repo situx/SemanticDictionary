@@ -22,12 +22,14 @@ var multiplier=1.5;
 var smallermultiplier=0.5
 var smaller=false;
 var mirror=false;
+var halfangle=false;
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input){
     clearCanvas(true);
     smaller=false;
     mirror=false;
+    halfangle=false;
     curposx=10;
     curposy=10;
     for (var i = 0; i < input.length; i++) {
@@ -84,6 +86,10 @@ function strokeParser(input){
                         curposx+=10;
                         curposy=10;
                         break;
+                case "#":
+                        curposx+=5;
+                        curposy=10;
+                        break;
                 case ":": curposy+=7;
                         break;
                 case "!": //mirror character
@@ -97,6 +103,8 @@ function strokeParser(input){
                         curposy=10;
                         break;
                 case "/": curposy+=3.5;
+                    break;
+                case "|": halfangle=true;
                         break;
                 case ";": curposy+=strokelength;
                         break;
@@ -238,7 +246,7 @@ function drawDiagonalLine1(start,starty,canvas,big){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
         if(big){
-			wlength=wedgelength
+            wlength=wedgelength
             length=multiplier*strokelength;
             ctx.moveTo(start+wedgelength, starty+wedgelength);
             ctx.lineTo(start+wedgelength, starty);
@@ -246,7 +254,7 @@ function drawDiagonalLine1(start,starty,canvas,big){
             ctx.fill(); // connect and fill
         }else if(smaller){
             length=smallermultiplier*strokelength;
-			wlength=wedgelength-5
+            wlength=wedgelength-5
             ctx.moveTo(start+wlength, starty+wlength);
             ctx.lineTo(start+wlength, starty);
             ctx.lineTo(start, starty+wlength);
@@ -261,7 +269,11 @@ function drawDiagonalLine1(start,starty,canvas,big){
             ctx.fill(); // connect and fill
         }
         ctx.moveTo(start,starty);
-        ctx.lineTo(start+length,starty+length);
+        if(halfangle){
+                ctx.lineTo(start+length,starty+0.6*length);
+        }else{
+                ctx.lineTo(start+length,starty+length);
+        }
         ctx.stroke();
 }
 
@@ -270,27 +282,34 @@ function drawDiagonalLine2(start,starty,canvas,big){
         var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
+            if(halfangle)
+                length=0.6*length
 			ctx.moveTo(start, starty+length);
 			ctx.lineTo(start, starty+length+15);
 			ctx.lineTo(start-15, starty+length);
 			ctx.fill(); // connect and fill
         }else if(smaller){
 			length=smallermultiplier*strokelength;
+                        if(halfangle)
+                            length=0.6*length
 			ctx.moveTo(start, starty+length);
 			ctx.lineTo(start, starty+length+5);
 			ctx.lineTo(start-5, starty+length);
 			ctx.fill(); // connect and fill
 			smaller=false;
 		}else{
-            length=strokelength;
+                        length=strokelength;
+                        if(halfangle)
+                            length=0.6*length
 			ctx.moveTo(start, starty+length);
 			ctx.lineTo(start, starty+length+10);
 			ctx.lineTo(start-10, starty+length);
 			ctx.fill(); // connect and fill
         }
-
         ctx.moveTo(start+length,starty);
-        ctx.lineTo(start,starty+length);
+
+            ctx.lineTo(start,starty+length);
+        
         ctx.stroke();
 }
 
@@ -491,7 +510,7 @@ Tutorial:
 <tr><td>𒊺</td><td>U+122BA</td><td>ŠE</td><td>579</td><td></td><td><button onClick="showCharacter('W:W-w:w-w:w-w:w-W:W')">W:W-w:w-w:w-w:w-W:W</td></tr>
 <tr><td>𒌀</td><td>U+12300</td><td>TIL</td><td>114</td><td></td><td><button onClick="showCharacter('bc')">bc</td></tr>
 <tr><td>𒈝</td><td>U+1221D</td><td>LUM</td><td>900</td><td></td><td><button onClick="showCharacter('c:c:c_d:d:d_c:c:c')">c:c:c_d:d:d_c:c:c</td></tr>
-<tr><td>𒈣</td><td>U+12223</td><td>MA2</td><td>201</td><td></td><td><button onClick="showCharacter('b-a-:::b-a-a')">b-a-:::b-a-a</td></tr>
+<tr><td>𒈣</td><td>U+12223</td><td>MA2</td><td>201</td><td></td><td><button onClick="showCharacter('Bsa-;b\'::sa_a')">Bsa-;b'::sa_a</td></tr>
 <tr><td>𒁄</td><td>U+12044</td><td>BAL</td><td>005</td><td></td><td><button onClick="showCharacter(':b-:b_:W-a-:b--/w:w')">:b-:b_:W-a-:b--/w:w</td></tr>
 <tr><td>𒀹</td><td>U+12039</td><td>AŠ ZIDA tenû</td><td>575</td><td></td><td><button onClick="showCharacter('c')">c</td></tr>
 <tr><td>𒀺</td><td>U+1203A</td><td>AŠ KABA tenû</td><td>647?</td><td></td><td><button onClick="showCharacter('e')">e</td></tr>
@@ -615,6 +634,19 @@ Tutorial:
 <tr><td>𒇧</td><td>U+121E7</td><td>LAGAB x U + U + U</td><td>788</td><td></td><td><button onClick="showCharacter('a-b;b\'::w-::w-::w-a')">a-b;b'::w-::w-::w-a</td></tr>
 <tr><td>𒈖</td><td>U+12216</td><td>LU3</td><td>555</td><td></td><td><button onClick="showCharacter(':sb:sb:sb-a-b;b_a:sb:sb:sb')">:sb:sb:sb-a-b;b_a:sb:sb:sb</td></tr>
 <tr><td>𒆯</td><td>U+121AF</td><td>KU7</td><td>171</td><td></td><td><button onClick="showCharacter('b:::b_d;c_a::a')">b:::b_d;c_a::a</td></tr>
+<tr><td>𒄘</td><td>U+12118</td><td>GU2</td><td>176</td><td>TIK</td><td><button onClick="showCharacter('b:::b-::sa--d;c_::a\'c;d')">b:::b-::sa--d;c_::a'c;d</td></tr>
+<tr><td>𒋛</td><td>U+122DB</td><td>SI</td><td>181</td><td></td><td><button onClick="showCharacter('B-;b\'::sa_a')">B-;b'::sa_a</td></tr>
+<tr><td>𒋜</td><td>U+122DC</td><td>SU4</td><td>182</td><td>SI-gunû</td><td><button onClick="showCharacter('B-;b\'::sa--:sb:sb:sb-a')">B-;b'::sa--:sb:sb:sb-a</td></tr>
+<tr><td>𒊕</td><td>U+12295</td><td>SAG</td><td>184</td><td></td><td><button onClick="showCharacter('d;c-::a_a:b::b_a')">d;c-::a_a:b::b_a</td></tr>
+<tr><td>𒌉</td><td>U+12309</td><td>TUR</td><td>255</td><td>DUMU</td><td><button onClick="showCharacter('a#:sc::scsd::sd--#:b:b')">a#:sc::scsd::sd--#:b:b</td></tr>
+<!--<tr><td>𒀜</td><td>U+1221C</td><td>AD</td><td>258</td><td></td><td><button onClick="showCharacter('b::b-::a-::a')">B-;b'::sa_a</td></tr>
+AD	U+1201C 𒀜	-->
+<tr><td>𒊐</td><td>U+12290</td><td>RAB</td><td>262</td><td>RAB</td><td><button onClick="showCharacter('::b:b-sb:sb:sb_/b::/b-/sb::sa-/sb')">::b:b-sb:sb:sb_/b::/b-/sb::sa-/sb</td></tr>
+<tr><td>𒌫</td><td>U+1232B</td><td>UR2</td><td>341</td><td></td><td><button onClick="showCharacter('sa-b::b_;c::c_;b:::b_;a')">sa-b::b_;c::c_;b:::b_;a</td></tr>
+<tr><td>𒁉</td><td>U+12049</td><td>BI</td><td>358</td><td></td><td><button onClick="showCharacter('b;bsa-;sa_c;ad-a')">b;bsa-;sa_c;ad-a</td></tr>
+<tr><td>𒑊</td><td>U+1244A</td><td>TAB variant old</td><td>593</td><td></td><td><button onClick="showCharacter(':::sc-\'::sc')">:::sc-'::sc</td></tr>
+<tr><td>𒑢</td><td>U+12462</td><td>Number 1/4(Kültepe)</td><td>594</td><td></td><td><button onClick="showCharacter(':::sc-\'::sc-::b-:b')">:::sc-'::sc-::b-:b</td></tr>
+<tr><td>𒌌</td><td>U+1230C</td><td>UL</td><td>698</td><td>DU7</td><td><button onClick="showCharacter('W_b::b_ac;d')">W_b::b_ac;d</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
