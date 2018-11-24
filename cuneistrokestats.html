@@ -1,0 +1,104 @@
+<html>
+<head>
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script type="text/javascript" src="js/vis.js"></script>
+  <script src="js/paleocode.js"></script>
+<script>
+var edges=[]
+var nodes=[]
+var nodemap=[]
+
+function levenshteinDistance (s, t) {
+    if (!s.length) return t.length;
+    if (!t.length) return s.length;
+
+    return Math.min(
+        levenshteinDistance(s.substr(1), t) + 1,
+        levenshteinDistance(t.substr(1), s) + 1,
+        levenshteinDistance(s.substr(1), t.substr(1)) + (s[0] !== t[0] ? 1 : 0)
+    ) + 1;
+}
+
+function editdistancegraph(){
+var remembermap={}
+var i=1;
+	    for(let js of paleocode){
+			alert(i)
+			alert(JSON.stringify(remembermap))
+			i++;
+            for(let js2 of paleocode){
+				
+				if(!(js2["paleocode"] in remembermap)){
+					remembermap[js["paleocode"]]=js2["paleocode"]
+					//remembermap[js2["paleocode"]]=js["paleocode"]
+
+				var lev = levenshteinDistance(js["paleocode"], js2["paleocode"]);
+								console.log(js["paleocode"]+" - "+js2["paleocode"]+" - "+lev)
+                        //console.log("[ "+js["paleocode"]+" ] is in [ "+js2["paleocode"]+" ]");
+						nodemap[js["paleocode"]]=js["translit"]+"("+js["cunei"]+")\n"+js["paleocode"]
+						nodemap[js2["paleocode"]]=js2["translit"]+"("+js2["cunei"]+")\n"+js2["paleocode"]
+						edges.push({from:js["paleocode"], to:js2["paleocode"],label:lev})
+				//}
+            }
+    }
+		for(var node in nodemap){
+		nodes.push({id: node, label: nodemap[node]})
+	}
+}}
+  function substringgraph(){
+var similar={}
+//Â´graph.addLink(1, 2);
+    for(let js of paleocode){
+            for(let js2 of paleocode){
+                if(js2["paleocode"]!=js["paleocode"] && js2["paleocode"].includes(js["paleocode"])){
+                        //console.log("[ "+js["paleocode"]+" ] is in [ "+js2["paleocode"]+" ]");
+						if(similar[js["paleocode"]]==undefined){
+							similar[js["paleocode"]]=""
+						}
+						similar[js["paleocode"]]+=js2["cunei"]+" "
+						if(similar[js["paleocode"]]!=undefined){
+							nodemap[js["paleocode"]]=js["translit"]+"("+js["cunei"]+")\n"+js["paleocode"]+"\n["+similar[js["paleocode"]]+"]"
+						}else{
+							nodemap[js["paleocode"]]=js["translit"]+"("+js["cunei"]+")\n"+js["paleocode"]
+						}
+						if(similar[js2["paleocode"]]!=undefined){
+							nodemap[js2["paleocode"]]=js2["translit"]+"("+js2["cunei"]+")\n"+js2["paleocode"]+"\n["+similar[js2["paleocode"]]+"]"
+						}else{
+							nodemap[js2["paleocode"]]=js2["translit"]+"("+js2["cunei"]+")\n"+js2["paleocode"]
+						}
+						edges.push({from:js["paleocode"], to:js2["paleocode"]})
+                        /*graph.addNode(js["paleocode"],js["translit"])
+                        graph.addNode(js2["paleocode"],js2["translit"])
+                        graph.addLink(js["paleocode"],js2["paleocode"])*/
+                }
+            }
+    }
+	for(var node in nodemap){
+		nodes.push({id: node, label: nodemap[node]})
+	}
+	
+}
+</script>
+<link rel="stylesheet" type="text/css" href="css/vis.css">
+</head>
+<body>
+<div id="mynetwork"></div>
+<script>
+$(function() {
+    substringgraph();
+//editdistancegraph();
+
+var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  var options = { physics:false,interaction:{dragNodes:true,hover:true}, layout: {    improvedLayout:true,hierarchical:{enabled:true, levelSeparation:50, nodeSpacing:300,sortMethod:"hubsize",direction:"UD",edgeMinimization:true,parentCentralization:true,blockShifting:true}}};
+  var network = new vis.Network(container, data, options);
+});
+</script>
+</body>
+</html>
