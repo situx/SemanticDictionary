@@ -7,7 +7,26 @@
   crossorigin="anonymous"></script>
   <script src="js/tablesorter.js"></script>
   <script src="js/canvas2svg.js"></script>
+  <script src="js/paleocode.js"></script>
+  <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/graphdracula/1.2.1/dracula.min.js"></script>-->
+  <script type="text/javascript" src="js/vivagraph.js"></script>
   <script>
+var graph = Viva.Graph.graph();
+  function substringgraph(){
+
+//´graph.addLink(1, 2);
+    for(let js of paleocode){
+            for(let js2 of paleocode){
+                if(js2["paleocode"]!=js["paleocode"] && js2["paleocode"].includes(js["paleocode"])){
+                        console.log("[ "+js["paleocode"]+" ] is in [ "+js2["paleocode"]+" ]");
+                        graph.addNode(js["paleocode"],js["translit"])
+                        graph.addNode(js2["paleocode"],js2["translit"])
+                        graph.addLink(js["paleocode"],js2["paleocode"])
+                }
+            }
+    }
+}
+
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
                 document.getElementById("canvasImg").src = canvas.toDataURL();
@@ -647,14 +666,26 @@ AD	U+1201C 𒀜	-->
 <tr><td>𒑊</td><td>U+1244A</td><td>TAB variant old</td><td>593</td><td></td><td><button onClick="showCharacter(':::sc-\'::sc')">:::sc-'::sc</td></tr>
 <tr><td>𒑢</td><td>U+12462</td><td>Number 1/4(Kültepe)</td><td>594</td><td></td><td><button onClick="showCharacter(':::sc-\'::sc-::b-:b')">:::sc-'::sc-::b-:b</td></tr>
 <tr><td>𒌌</td><td>U+1230C</td><td>UL</td><td>698</td><td>DU7</td><td><button onClick="showCharacter('W_b::b_ac;d')">W_b::b_ac;d</td></tr>
+<tr><td>𒎙</td><td>U+12399</td><td>MAN</td><td>708</td><td>2xU</td><td><button onClick="showCharacter('W-W')">W-W</td></tr>
+<tr><td>𒊔</td><td>U+12294</td><td>KIŠI4</td><td>743</td><td></td><td><button onClick="showCharacter('d;c_a-:b::b_a')">d;c_a-:b::b_a</td></tr>
+<tr><td>𒍮</td><td>U+1236E</td><td>ZUM</td><td>884</td><td></td><td><button onClick="showCharacter('Ac::b::d_d:d;c:c')">Ac::b::d_d:d;c:c</td></tr>
 </tbody></table>
 </div>
 </td></tr></table>
+<div id="graphDiv" width="1000" height="600"></div>
 <script>
 $(function() {
   $("#examples").tablesorter();
   var count = $('#examples tr').length;
 	$('#amount').html((count-1)+" characters");
+    substringgraph();
+
+var graphics = Viva.Graph.View.webglGraphics();
+// specify where it should be rendered:
+var renderer = Viva.Graph.View.renderer(graph, {
+  container: document.getElementById('graphDiv')
+});
+renderer.run();
 });
 </script>
 
