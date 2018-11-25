@@ -7,8 +7,7 @@
   crossorigin="anonymous"></script>
   <script src="js/tablesorter.js"></script>
   <script src="js/canvas2svg.js"></script>
-  <script src="js/paleocode.js"></script>
-<script>
+  <script>
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
                 document.getElementById("canvasImg").src = canvas.toDataURL();
@@ -654,6 +653,13 @@ AD	U+1201C 𒀜	-->
 </tbody></table>
 </div>
 </td></tr></table>
+<div id="graphDiv" width="1000" height="600"></div>
+<script>
+$(function() {
+  $("#examples").tablesorter();
+  var count = $('#examples tr').length;
+	$('#amount').html((count-1)+" characters");
+</script>
 
 </body>
 </html>
