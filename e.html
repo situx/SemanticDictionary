@@ -20,9 +20,11 @@ var strokelength=30;
 var wedgelength=10;
 var multiplier=1.5;
 var smallermultiplier=0.5
+var rotmultiplier=5;
 var smaller=false;
 var mirror=false;
 var halfangle=false;
+var rot=0;
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input){
@@ -36,51 +38,66 @@ function strokeParser(input){
         switch(input.charAt(i)){
                 case "a":
                     drawVerticalLine(curposx,curposy,"myCanvas",true,false);
+					rot=0;
                     break;
                 case "A":
                     drawVerticalLine(curposx,curposy,"myCanvas",true,true);
+					rot=0;
                     break;
                 case "b":
                         drawHorizontalLine(curposx,curposy,"myCanvas",true,false);
+						rot=0;
                         break;
                 case "B":
                         drawHorizontalLine(curposx,curposy,"myCanvas",true,true);
+						rot=0;
                         break;
                 case "c":
                         drawDiagonalLine1(curposx,curposy,"myCanvas",false);
+						rot=0;
                         break;
                 case "C":
-                        drawDiagonalLine1(curposx,curposy,"myCanvas",true,);
+                        drawDiagonalLine1(curposx,curposy,"myCanvas",true);
+						rot=0;
                         break;
                 case "d":
                         drawDiagonalLine2(curposx,curposy,"myCanvas",false);
+						rot=0;
                         break;
                 case "D":
                         drawDiagonalLine2(curposx,curposy,"myCanvas",true);
+						rot=0;
                         break;
                 case "e":
                         drawDiagonalLine3(curposx,curposy,"myCanvas",false);
+						rot=0;
                         break;
                 case "E":
                         drawDiagonalLine3(curposx,curposy,"myCanvas",true);
+						rot=0;
                         break;
                 case "f":
                         drawDiagonalLine4(curposx,curposy,"myCanvas",false);
+						rot=0;
 						break;
                 case "F":
                         drawDiagonalLine4(curposx,curposy,"myCanvas",true);
+						rot=0;
 						break;
                 case "s":
                         smaller=true;
                         break;
                 case "w":
                         drawWedge2(curposx,curposy,"myCanvas",false);
+						rot=0;
                         break;
                 case "W":
                         drawWedge2(curposx,curposy,"myCanvas",true);
+						rot=0;
                         break;
                 case "w2":
                         drawWedge(curposx,curposy,"myCanvas");
+						rot=0;
                         break;
                 case "-":
                         curposx+=10;
@@ -97,9 +114,9 @@ function strokeParser(input){
                         break;
                 case "'": curposy=10;
                         break;
-		case "\"": curposy=0;
+				case "\"": curposy=0;
                         break;
-		case "~": curposx-=10;
+				case "~": curposx-=10;
                         curposy=10;
                         break;
                 case "/": curposy+=3.5;
@@ -110,6 +127,12 @@ function strokeParser(input){
                         break;
                 case ".": curposy+=7;
                         curposx+=7;
+                        break;
+				case "<": 
+				        rot--;
+                        break;
+				case ">": 
+						rot++;
                         break;
                 case "\\": curposy+=7;
                         curposx-=7;
@@ -127,9 +150,8 @@ function strokeParser(input){
         //console.log(input.charAt(i));
     }
 }
-
 function drawVerticalLine(start,starty,canvas,strokeparse,big){
-                if(strokeparse==false)
+        if(strokeparse==false)
             curposx+=10
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -169,7 +191,6 @@ function drawVerticalLine(start,starty,canvas,strokeparse,big){
                         ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
                         ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
             }
-
             ctx.fill();
         }
         if(mirror){
@@ -182,11 +203,11 @@ function drawVerticalLine(start,starty,canvas,strokeparse,big){
                     ctx.lineTo(start,starty+20+length);
                     ctx.stroke();
         }
-
 }
 function drawHorizontalLine(start,starty,canvas,strokeparse,big){
         if(strokeparse==false)
             curposy+=10
+		//alert(rot+" - "+start+" - "+starty)
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
         if(big){
@@ -213,7 +234,6 @@ function drawHorizontalLine(start,starty,canvas,strokeparse,big){
                         ctx.lineTo(start-5, starty+25); // draw straight down (from 300,0) to 200px
                         ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
             }
-
             ctx.fill(); // connect and fill
         }else{
             length=strokelength;
@@ -222,11 +242,19 @@ function drawHorizontalLine(start,starty,canvas,strokeparse,big){
                         ctx.lineTo(start+10+length, starty+25); // draw straight down (from 300,0) to 200px
                         ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
             }else{
-                        ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                        ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-                        ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+                        
+						if(rot>0){
+						   start2=Math.cos(rot)*length+10;
+						   starty2=Math.sin(rot)*length+10;
+						   ctx.moveTo(start+start2-10, starty+starty2+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+						   ctx.lineTo(start+start2-10, starty+starty2+25); // draw straight down (from 300,0) to 200px
+                           ctx.lineTo(start+start2, starty+starty2+20); // draw up toward right (100 half of 200)
+						}else{
+							ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+							ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
+							ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+						}
             }
-
             ctx.fill(); // connect and fill
         }
         if(mirror){
@@ -234,30 +262,37 @@ function drawHorizontalLine(start,starty,canvas,strokeparse,big){
                 ctx.lineTo(start,starty+20);
                 ctx.stroke();
             mirror=false;
-        }else{
-                    ctx.moveTo(start,starty+20);
+        }else if(rot>0){
+				console.log(rot)
+				start2=Math.cos(Math.PI/2+rot)*length;
+				starty2=Math.sin(Math.PI/2+rot)*length;
+				ctx.moveTo(start+start2,starty+20);
+				ctx.lineTo(start+length,starty+starty2+20);
+                ctx.stroke();
+		}else{
+                ctx.moveTo(start,starty+20);
                 ctx.lineTo(start+length,starty+20);
                 ctx.stroke();
         }
-
-
 }
 function drawDiagonalLine1(start,starty,canvas,big){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
         if(big){
             wlength=wedgelength
+			if(halfangle)
+                length=0.6*length
             length=multiplier*strokelength;
-            ctx.moveTo(start+wedgelength, starty+wedgelength);
-            ctx.lineTo(start+wedgelength, starty);
-            ctx.lineTo(start, starty+wedgelength);
+            ctx.moveTo(start+wlength-10, starty+wlength-10);
+            ctx.lineTo(start+wlength-10, starty-10);
+            ctx.lineTo(start-10, starty+wlength-10);
             ctx.fill(); // connect and fill
         }else if(smaller){
             length=smallermultiplier*strokelength;
             wlength=wedgelength-5
-            ctx.moveTo(start+wlength, starty+wlength);
-            ctx.lineTo(start+wlength, starty);
-            ctx.lineTo(start, starty+wlength);
+            ctx.moveTo(start+wlength-5, starty+wlength-5);
+            ctx.lineTo(start+wlength-5, starty-5);
+            ctx.lineTo(start-5, starty+wlength-5);
             ctx.fill(); // connect and fill
             smaller=false;
         }else{
@@ -276,7 +311,6 @@ function drawDiagonalLine1(start,starty,canvas,big){
         }
         ctx.stroke();
 }
-
 function drawDiagonalLine2(start,starty,canvas,big){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -285,8 +319,8 @@ function drawDiagonalLine2(start,starty,canvas,big){
             if(halfangle)
                 length=0.6*length
 			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length+15);
-			ctx.lineTo(start-15, starty+length);
+			ctx.lineTo(start, starty+length+10);
+			ctx.lineTo(start-10, starty+length);
 			ctx.fill(); // connect and fill
         }else if(smaller){
 			length=smallermultiplier*strokelength;
@@ -307,12 +341,10 @@ function drawDiagonalLine2(start,starty,canvas,big){
 			ctx.fill(); // connect and fill
         }
         ctx.moveTo(start+length,starty);
-
             ctx.lineTo(start,starty+length);
         
         ctx.stroke();
 }
-
 function drawDiagonalLine3(start,starty,canvas,big){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -340,7 +372,6 @@ function drawDiagonalLine3(start,starty,canvas,big){
         ctx.lineTo(start+length,starty+length);
         ctx.stroke();
 }
-
 function drawDiagonalLine4(start,starty,canvas,big){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -364,20 +395,16 @@ function drawDiagonalLine4(start,starty,canvas,big){
 			ctx.lineTo(start+length+wedgelength, starty);
 			ctx.fill();
         }
-
         ctx.moveTo(start+length,starty);
         ctx.lineTo(start,starty+length);
         ctx.stroke();
 }
-
 function clearCanvas(strokeParser){
     var c=document.getElementById("myCanvas");
     c.width = c.width;
     if(!strokeParser)
         document.getElementById('canvasinput').value=""
 }
-
-
 function drawWedge(start,starty,canvas){
         var c = document.getElementById("myCanvas");
         var ctx = c.getContext("2d");
@@ -386,7 +413,6 @@ function drawWedge(start,starty,canvas){
 		ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
 		ctx.fill(); // connect and fill
 }
-
 function drawWedge2(start,starty,canvas,big){
     var c = document.getElementById("myCanvas");
     var ctx = c.getContext("2d");
@@ -401,7 +427,6 @@ function drawWedge2(start,starty,canvas,big){
 		ctx.lineTo(start, starty+20); // draw up toward left (100 less than 300, so left)
 		ctx.fill(); // connect and fill
     }
-
 }
 
 function showCharacter(character){
