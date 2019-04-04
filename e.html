@@ -498,9 +498,10 @@ Tutorial:
 <script>
 $(function() {
   $("#examples").tablesorter();
-  $("#canvasinput").bind({
+ $("#canvasinput").bind({
     keydown: function(e) {
-        if ((e.which >64 && e.which < 71) || e.which == 83 || e.which == 32 || e.which == 87 || e.which == 226 || e.which == 219 || e.which == 46 || e.which == 49 || e.which == 55 || e.which==8 || e.which == 111 || e.which==110 || (e.which>186 && e.which<192)) {
+        if ((e.which >64 && e.which < 71) || (e.which>36 && e.which<41) || e.which == 83 || e.which == 86 || e.which == 32 || e.which == 87 || e.which == 226 || e.which == 219 
+		|| e.which == 46 || e.which == 49 || e.which == 55 || e.which==8 || e.which == 111 || e.which==110 || (e.which>186 && e.which<192)) {
                 return true;
         }
         return false;
