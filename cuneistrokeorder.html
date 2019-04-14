@@ -69,7 +69,8 @@ function paleoCodageToSVG(paleoCode){
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
 function strokeParser(input,svgonly){
     var ctx = document.getElementById("myCanvas").getContext("2d");
-    clearCanvas(true);
+    if(!svgonly)
+        clearCanvas(true);
     smaller=false;
     mirror=false;
     halfangle=false;
