@@ -56,8 +56,7 @@ var ctx2 = new C2S(1000,1000);
 function paleoCodageToSVG(paleoCode){
 	console.log(paleoCode)
 	strokeParser(paleoCode,true)
-    console.log(ctx2.getSerializedSvg())
-	ctx2.scale(10,10);
+    	console.log(ctx2.getSerializedSvg())
 	svghtml=ctx2.getSerializedSvg();
 	console.log(svghtml)
 	console.log(svghtml.indexOf('d="')+" - "+svghtml.indexOf('"',svghtml.indexOf('d="')+3))
