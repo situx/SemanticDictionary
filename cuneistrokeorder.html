@@ -8,6 +8,7 @@
   crossorigin="anonymous"></script>
   <script src="js/tablesorter.js"></script>
   <script src="js/charStringConverter.js"></script>
+
   <script src="js/canvas2svg.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/opentype.js@latest/dist/opentype.min.js"></script>
   <script>
@@ -834,6 +835,7 @@ function clearCanvas(strokeParser){
     var c=document.getElementById("myCanvas");
     c.width = c.width;
 	ctx2.clearRect(0,0,70,100);
+    ctx3=new opentype.Path();
 	//document.getElementById("canvas").width=document.getElementById("canvas").width
     if(!strokeParser)
         document.getElementById('canvasinput').value=""
