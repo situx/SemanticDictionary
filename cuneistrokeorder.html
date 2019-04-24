@@ -12,6 +12,7 @@
   <script src="js/canvas2svg.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/opentype.js@latest/dist/opentype.min.js"></script>
   <script>
+  	    var alphabetToFontCode={}
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
                 document.getElementById("canvasImg").src = canvas.toDataURL();
@@ -20,6 +21,7 @@ function to_image(){
 }
 
 function createOpenTypeGlyph(charname,unicode,path){
+    console.log(unicode)
     return new opentype.Glyph({
         name: charname,
         unicode: unicode.replace("0x",""),
@@ -28,10 +30,14 @@ function createOpenTypeGlyph(charname,unicode,path){
     });
 }
 
-  function convertToSubstitution(str,n){
+  function convertToSubstitution(str,n=1){
         var ret=[]
         for(var i = 0, len = str.length; i < len; i += n) {
-                ret.push(str.substr(i, n))
+                if(str.substr(i,n) in alphabetToFontCode){
+                                    ret.push(alphabetToFontCode[str.substr(i,n)])
+                }/*else{
+                                ret.push(str.substr(i, n))
+                }*/
         }
         return ret;
   }
@@ -79,20 +85,37 @@ function createOpenFont(){
         }
         console.log(coun++)
 	}
+	coun--;
+    var first=0x30, last= 0x4A;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+            alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+	var first = 0x41, last = 0x5A;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+      alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+    var first=0x61, last= 0x7B;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+            alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+    
     //glyphs.push(createOpenTypeGlyph([0],codepointlist[0],svglist[0]))
 	console.log("Glyphs: "+glyphs)
     font = new opentype.Font({familyName: 'OpenTypeSans', styleName: 'Medium', unitsPerEm: 1000, ascender: 800, descender: -200, glyphs: glyphs});
     console.log(font.toTables());
     for(svg in charnamelist){
         var sub=convertToSubstitution(charnamelist[svg].replace(" ","").toLowerCase())
-        console.log(sub)
-        //font.substitution.addLigature({ "sub": convertToSubstitution(charnamelist[svg].replace(" ","").toLowerCase()), "by": charnamelist[svg] })
+        console.log(sub+" - "+charnamelist[svg])
+        font.substitution.addLigature("liga",{ "sub": sub, "by": svg })
     }
     console.log(font.substitution)
     var buffer = font.toArrayBuffer();
     var font2 = opentype.parse(buffer);
     document.getElementById('fontFamilyName').innerHTML = font2.names.fontFamily.en;
-     for (var i = 0; i < font2.glyphs.length; i++) {
+     for (var i = 0; i < $('#examples tr').length; i++) {
         var glyph = font2.glyphs.get(i);
         var ctx = createGlyphCanvas(glyph, 150);
         var x = 50;
