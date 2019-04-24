@@ -1,3 +1,5 @@
+
+<!doctype html>
 <html>
 <head>
 <script src="https://hongru.github.io/proj/canvas2image/canvas2image.js"></script>
@@ -6,14 +8,183 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
   <script src="js/tablesorter.js"></script>
+  <script src="js/charStringConverter.js"></script>
+
   <script src="js/canvas2svg.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opentype.js@latest/dist/opentype.min.js"></script>
   <script>
+  	    var alphabetToFontCode={}
 function to_image(){
                 var canvas = document.getElementById("myCanvas");
                 document.getElementById("canvasImg").src = canvas.toDataURL();
                 Canvas2Image.saveAsPNG(canvas);
                 document.getElementById("canvasImg").style.visibility = 'hidden';
 }
+
+function createOpenTypeGlyph(charname,unicode,path){
+    console.log(unicode)
+    return new opentype.Glyph({
+        name: charname,
+        unicode: unicode.replace("0x",""),
+        advanceWidth: 650,
+        path: path
+    });
+}
+
+  function convertToSubstitution(str,n=1){
+        var ret=[]
+        for(var i = 0, len = str.length; i < len; i += n) {
+                if(str.substr(i,n) in alphabetToFontCode){
+                                    ret.push(alphabetToFontCode[str.substr(i,n)])
+                }/*else{
+                                ret.push(str.substr(i, n))
+                }*/
+        }
+        return ret;
+  }
+
+function buildSubstitution() {
+    var substitutions={}
+    console.log("Charnamelist: "+charnamelist)
+    for (var i = 0; i < charnamelist.length; i++) {
+        substitutions[convertToSubstitutionString(charnamelist[i].replace(" ","").toLowerCase(),1)]=charnamelist[i].replace(" ","").toLowerCase()
+    }
+    console.log(substitutions)
+    return substitutions;
+  }
+
+function createOpenFont(){
+    var svglist=[]
+	var codepointlist=[]
+	var charnamelist=[]
+	var counterr=0
+	$('.codebutton').each(function(i, obj) {
+		var paleo=paleoCodageToSVG($(this).text(),counterr);
+		var paleo=paleoCodageToOpenTypePath($(this).text())
+		counterr++;
+		//console.log(convertOutlineToType2({"outline":paleo}))
+		//console.log(i+" - "+$('.svg:nth-child('+i+')'))
+		console.log(paleo)
+		//$('.svg:nth-child('+i+')' ).html(paleo)
+		svglist.push(paleo)
+	});
+	$('.codepoint').each(function(i, obj) {
+		codepointlist.push($(this).text())
+	});
+	$('.transliteration').each(function(i, obj) {
+		charnamelist.push($(this).text())
+	});
+	console.log(svglist)
+	console.log(codepointlist)
+	console.log(charnamelist)
+	var glyphs=[]
+	var coun=0
+	for(svg in svglist){
+	    if(svg<charnamelist.length && svg<=codepointlist.length && svg<svglist.length){
+            glyphs.push(createOpenTypeGlyph(charnamelist[svg],codepointlist[svg],svglist[svg]))
+            //opentype.gsub.add(charnamelist[svg])
+        }
+        console.log(coun++)
+	}
+	coun--;
+    var first=0x30, last= 0x4A;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+            alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+	var first = 0x41, last = 0x5A;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+      alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+    var first=0x61, last= 0x7B;
+    for (var i=first; i<last; i++) {
+      glyphs.push(createOpenTypeGlyph(String.fromCharCode(i),"0x"+i,""));
+            alphabetToFontCode[String.fromCharCode(i)]=coun++
+    }
+    
+    //glyphs.push(createOpenTypeGlyph([0],codepointlist[0],svglist[0]))
+	console.log("Glyphs: "+glyphs)
+    font = new opentype.Font({familyName: 'OpenTypeSans', styleName: 'Medium', unitsPerEm: 1000, ascender: 800, descender: -200, glyphs: glyphs});
+    console.log(font.toTables());
+    for(svg in charnamelist){
+        var sub=convertToSubstitution(charnamelist[svg].replace(" ","").toLowerCase())
+        console.log(sub+" - "+charnamelist[svg])
+        font.substitution.addLigature("liga",{ "sub": sub, "by": svg })
+    }
+    console.log(font.substitution)
+    var buffer = font.toArrayBuffer();
+    var font2 = opentype.parse(buffer);
+    document.getElementById('fontFamilyName').innerHTML = font2.names.fontFamily.en;
+     for (var i = 0; i < $('#examples tr').length; i++) {
+        var glyph = font2.glyphs.get(i);
+        var ctx = createGlyphCanvas(glyph, 150);
+        var x = 50;
+        var y = 120;
+        var fontSize = 72;
+        glyph.draw(ctx, x, y, fontSize);
+        glyph.drawPoints(ctx, x, y, fontSize);
+        glyph.drawMetrics(ctx, x, y, fontSize);
+    }
+    clearCanvas();
+}
+
+    function createGlyphCanvas(glyph, size) {
+        var canvasId, html, glyphsDiv, wrap, canvas, ctx;
+        canvasId = 'c' + glyph.index;
+        html = '<div class="wrapper" style="width:' + size + 'px"><canvas id="' + canvasId + '" width="' + size + '" height="' + size + '"></canvas><span>'+glyph.name+"[" + glyph.index+"]" + '</span></div>';
+        glyphsDiv = document.getElementById('glyphs');
+        wrap = document.createElement('div');
+        wrap.innerHTML = html;
+        glyphsDiv.appendChild(wrap);
+        canvas = document.getElementById(canvasId);
+        ctx = canvas.getContext('2d');
+        return ctx;
+    }
+
+function to_svg(){
+	svg=ctx2.getSerializedSvg(true)
+	saveTextAsFile(svg,"svg")
+	paleoCodageToSVG($('#canvasinput').val());
+}
+
+function createFont(){
+	svglist=[]
+	codepointlist=[]
+	charnamelist=[]
+	$('.codebutton').each(function(i, obj) {
+		paleo=paleoCodageToSVG($(this).text());
+		console.log(convertOutline({"outline":paleo}))
+		svglist.push(paleo)
+	});
+	$('.codepoint').each(function(i, obj) {
+		codepointlist.push($(this).text())
+	});
+	$('.transliteration').each(function(i, obj) {
+		charnamelist.push($(this).text())
+	});
+	console.log(svglist)
+	console.log(codepointlist)
+	console.log(charnamelist)
+}
+
+function saveTextAsFile(tosave,fileext)
+{
+    var a = document.createElement('a');
+    a.style = "display: none";  
+    var blob= new Blob([tosave], {type:'text/plain'});
+    var url = window.URL.createObjectURL(blob);
+    var filename = "cunei."+fileext;
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(function(){
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);  
+    }, 1000);
+}
+
 var curposx=30;
 var curposy=30;
 var strokelength=30;
@@ -21,112 +192,325 @@ var wedgelength=10;
 var multiplier=1.5;
 var smallermultiplier=0.5
 var rotmultiplier=5;
+var scalemultiplier=1
+var scalemultiplierForStrokeLength=1
 var smaller=false;
 var mirror=false;
 var halfangle=false;
+var opentypestrokeWidth=5
+var ot=false;
+var font;
 var rot=0;
+var ctx3=new opentype.Path();
+var ctx2 = new C2S(70,100);
+
+
+function paleoCodageToOpenTypePath(paleoCode){
+        //ot=true;
+        ctx3=new opentype.Path();
+        ctx3.stroke="black"
+        ctx3.strokeWidth=2
+        strokeParser(paleoCode,true)
+        //ot=false;
+        return ctx3;
+}
+
+function paleoCodageToSVG(paleoCode,index){
+	//console.log(paleoCode)
+	strokeParser(paleoCode,false)
+    //console.log(ctx2.getSerializedSvg())
+	//ctx2.scale(10,10);
+	svghtml=ctx2.getSerializedSvg();
+    if(index){
+        console.log(index+" - "+svghtml)
+        //$('.svg :nth-child('+index+')' ).html(svghtml)
+        //var parser = new DOMParser();
+        //var dom = parser.parseFromString(svghtml, "text/xml");
+        console.log("Index: "+index)
+        var elem=$('.svgcontainer').eq(index)
+       // var container=elem.createChild('div')
+        //container.innerHTML=svghtml
+        elem.html(svghtml)
+        //$(dom).appendTo('.svg:nth-child('+index+')')
+        //document.getElementById('svg').appendChild(dom.documentElement);
+	}
+	//console.log(svghtml)
+	//console.log(svghtml.indexOf('d="')+" - "+svghtml.indexOf('"',svghtml.indexOf('d="')+3))
+	svghtml=svghtml.substring(svghtml.indexOf('d="')+3,svghtml.indexOf('"',svghtml.indexOf('d="')+3))
+	svghtml=svghtml.replace(/\.5/g,'')
+
+	return svghtml
+	//console.log(svghtml)
+}
+
 //var canvasSVGContext = new CanvasSVG.Deferred();
 //canvasSVGContext.wrapCanvas(document.getElementById("myCanvas"));
-function strokeParser(input){
-    clearCanvas(true);
+function strokeParser(input,svgonly){
+    var ctx = document.getElementById("myCanvas").getContext("2d");
+	clearCanvas(true);
     smaller=false;
     mirror=false;
     halfangle=false;
-    curposx=10;
-    curposy=10;
+	curposy=10;
+	curposx=10;
     for (var i = 0; i < input.length; i++) {
         switch(input.charAt(i)){
                 case "a":
-                    drawVerticalLine(curposx,curposy,"myCanvas",true,false);
+					scalemultiplier=1
+					scalemultiplierForStrokeLength=1
+					drawVerticalLine(curposx,curposy,ctx,true,false);
+					drawVerticalLine(curposx,curposy,ctx2,true,false);
+					if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						mirror=!mirror
+					}
+					ot=true;
+					drawVerticalLine(curposx,curposy,ctx3,true,false);
+					ot=false;
 					rot=0;
                     break;
                 case "A":
-                    drawVerticalLine(curposx,curposy,"myCanvas",true,true);
+					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+					drawVerticalLine(curposx,curposy,ctx,true,true);
+					drawVerticalLine(curposx,curposy,ctx2,true,true);
+                    if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						mirror=!mirror
+					}
+					ot=true; 
+					drawVerticalLine(curposx,curposy,ctx3,true,true);
+					ot=false
 					rot=0;
                     break;
                 case "b":
-                        drawHorizontalLine(curposx,curposy,"myCanvas",true,false);
+					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+                        drawHorizontalLine(curposx,curposy,ctx,true,false);
+						drawHorizontalLine(curposx,curposy,ctx2,true,false);
+											if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						//mirror=!mirror
+					}
+						ot=true; //mirror=!mirror;
+						drawHorizontalLine(curposx,curposy,ctx3,true,false);
+						ot=false
 						rot=0;
                         break;
                 case "B":
-                        drawHorizontalLine(curposx,curposy,"myCanvas",true,true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawHorizontalLine(curposx,curposy,ctx,true,true);
+					drawHorizontalLine(curposx,curposy,ctx2,true,true);
+										if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						
+					}
+						ot=true; //mirror=!mirror;
+						drawHorizontalLine(curposx,curposy,ctx3,true,true);
+						ot=false
 						rot=0;
                         break;
                 case "c":
-                        drawDiagonalLine1(curposx,curposy,"myCanvas",false);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine1(curposx,curposy,ctx,false);
+					drawDiagonalLine1(curposx,curposy,ctx2,false);
+										if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine1(curposx,curposy,ctx3,false);
+						ot=false
 						rot=0;
                         break;
                 case "C":
-                        drawDiagonalLine1(curposx,curposy,"myCanvas",true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine1(curposx,curposy,ctx,true);
+					drawDiagonalLine1(curposx,curposy,ctx2,true);
+										if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine1(curposx,curposy,ctx3,true);
+						ot=false
 						rot=0;
                         break;
                 case "d":
-                        drawDiagonalLine2(curposx,curposy,"myCanvas",false);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine2(curposx,curposy,ctx,false);
+						drawDiagonalLine2(curposx,curposy,ctx2,false);
+											if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine2(curposx,curposy,ctx3,false);
+						ot=false
 						rot=0;
                         break;
                 case "D":
-                        drawDiagonalLine2(curposx,curposy,"myCanvas",true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine2(curposx,curposy,ctx,true);
+						drawDiagonalLine2(curposx,curposy,ctx2,true);
+											if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine2(curposx,curposy,ctx3,true);
+						ot=false
 						rot=0;
                         break;
                 case "e":
-                        drawDiagonalLine3(curposx,curposy,"myCanvas",false);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine3(curposx,curposy,ctx,false);
+						drawDiagonalLine3(curposx,curposy,ctx2,false);
+											if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine3(curposx,curposy,ctx3,false);
+						ot=false
 						rot=0;
                         break;
                 case "E":
-                        drawDiagonalLine3(curposx,curposy,"myCanvas",true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine3(curposx,curposy,ctx,true);
+                        drawDiagonalLine3(curposx,curposy,ctx2,true);
+										if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine3(curposx,curposy,ctx3,true);
+						ot=false
 						rot=0;
                         break;
                 case "f":
-                        drawDiagonalLine4(curposx,curposy,"myCanvas",false);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine4(curposx,curposy,ctx,false);
+						drawDiagonalLine4(curposx,curposy,ctx2,false);
+											if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine4(curposx,curposy,ctx3,false);
+						ot=false
 						rot=0;
 						break;
                 case "F":
-                        drawDiagonalLine4(curposx,curposy,"myCanvas",true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawDiagonalLine4(curposx,curposy,ctx,true);
+						drawDiagonalLine4(curposx,curposy,ctx2,true);
+											if(svgonly){
+						scalemultiplier=10
+						scalemultiplierForStrokeLength=0.25*scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawDiagonalLine4(curposx,curposy,ctx3,true);
+						ot=false
 						rot=0;
 						break;
                 case "s":
                         smaller=true;
                         break;
                 case "w":
-                        drawWedge2(curposx,curposy,"myCanvas",false);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawWedge2(curposx,curposy,ctx,false);
+						drawWedge2(curposx,curposy,ctx2,false);
+											if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawWedge2(curposx,curposy,ctx3,false);
+						ot=false
 						rot=0;
                         break;
                 case "W":
-                        drawWedge2(curposx,curposy,"myCanvas",true);
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawWedge2(curposx,curposy,ctx,true);
+						drawWedge2(curposx,curposy,ctx2,true);
+											if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawWedge2(curposx,curposy,ctx3,true);
+						ot=false
 						rot=0;
                         break;
                 case "w2":
-                        drawWedge(curposx,curposy,"myCanvas");
+                					scalemultiplier=1
+                    scalemultiplierForStrokeLength=1
+						drawWedge(curposx,curposy,ctx);
+						drawWedge(curposx,curposy,ctx2);
+											if(svgonly){
+						scalemultiplier=15
+						scalemultiplierForStrokeLength=scalemultiplier
+						mirror=!mirror
+					}
+						ot=true; mirror=!mirror;
+						drawWedge(curposx,curposy,ctx3);
+						ot=false;
 						rot=0;
                         break;
                 case "-":
-                        curposx+=10;
-                        curposy=10;
+                        curposx+=10*scalemultiplier;
+                        curposy=10*scalemultiplier;
                         break;
                 case "#":
-                        curposx+=5;
-                        curposy=10;
+                        curposx+=5*scalemultiplier;
+                        curposy=10*scalemultiplier;
                         break;
-                case ":": curposy+=7;
+                case ":": curposy+=7*scalemultiplier;
                         break;
                 case "!": //mirror character
                         mirror=true;
                         break;
-                case "'": curposy=10;
+                case "'": curposy=10*scalemultiplier;
                         break;
-				case "\"": curposy=0;
+				case "\"": curposy=0*scalemultiplier;
                         break;
-				case "~": curposx-=10;
-                        curposy=10;
+				case "~": curposx-=10*scalemultiplier;
+                        curposy=10*scalemultiplier;
                         break;
-                case "/": curposy+=3.5;
+                case "/": curposy+=3.5*scalemultiplier;
                     break;
                 case "|": halfangle=true;
                         break;
                 case ";": curposy+=strokelength;
                         break;
-                case ".": curposy+=7;
-                        curposx+=7;
+                case ".": curposy+=7*scalemultiplier;
+                        curposx+=7*scalemultiplier;
                         break;
 				case "<": 
 				        rot--;
@@ -134,299 +518,375 @@ function strokeParser(input){
 				case ">": 
 						rot++;
                         break;
-                case "\\": curposy+=7;
-                        curposx-=7;
+                case "\\": curposy+=7*scalemultiplier;
+                        curposx-=7*scalemultiplier;
                         break;
-                case ",": curposy-=7;
-                        curposx-=7;
+                case ",": curposy-=7*scalemultiplier;
+                        curposx-=7*scalemultiplier;
                         break;
                 case "_": curposx+=strokelength;
-                        curposy=10;
+                        curposy=10*scalemultiplier;
                         break;
-                case " ": curposx+=1.5*strokelength;
+                case " ": curposx+=1.5*strokelength*scalemultiplier;
                         break;
                 default: 
         }
         //console.log(input.charAt(i));
     }
 }
+
 function drawVerticalLine(start,starty,canvas,strokeparse,big){
         if(strokeparse==false)
             curposx+=10
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
-            length=multiplier*strokelength;
+            length=multiplier*scalemultiplierForStrokeLength*strokelength;
             if(mirror){
-                        ctx.moveTo(start-5, starty+10+length); // start at top left corner of canvas
-                        ctx.lineTo(start+5, starty+10+length); // go 200px to right (x), straight line from 0 to 0
-                        ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
+                        canvas.moveTo(start-5*scalemultiplier, starty+10*scalemultiplier+length); // start at top left corner of canvas
+                        canvas.lineTo(start+5*scalemultiplier, starty+10*scalemultiplier+length); // go 200px to right (x), straight line from 0 to 0
+                        canvas.lineTo(start, starty+length*scalemultiplier); // go to horizontal 100 (x) and vertical 200 (y)
             }else{
-                        ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
-                        ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
-                        ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+                        canvas.moveTo(start-5*scalemultiplier, starty+10*scalemultiplier); // start at top left corner of canvas
+                        canvas.lineTo(start+5*scalemultiplier, starty+10*scalemultiplier); // go 200px to right (x), straight line from 0 to 0
+                        canvas.lineTo(start, starty+20*scalemultiplier); // go to horizontal 100 (x) and vertical 200 (y)
             }
-            ctx.fill();
+             if(!ot)
+                canvas.fill();
         }else if(smaller){
-            length=0.5*strokelength;
+            length=0.5*scalemultiplierForStrokeLength*strokelength;
             smaller=false;
             if(mirror){
-                    ctx.moveTo(start-5, starty+5+length); // start at top left corner of canvas
-                    ctx.lineTo(start+5, starty+5+length); // go 200px to right (x), straight line from 0 to 0
-                    ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
-            }else{
-                ctx.moveTo(start-5, starty+15); // start at top left corner of canvas
-                ctx.lineTo(start+5, starty+15); // go 200px to right (x), straight line from 0 to 0
-                ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)            
+                    canvas.moveTo(start-5*scalemultiplier, starty+5*scalemultiplier+length); // start at top left corner of canvas
+                    canvas.lineTo(start+5*scalemultiplier, starty+5*scalemultiplier+length); // go 200px to right (x), straight line from 0 to 0
+                    canvas.lineTo(start, starty+length*scalemultiplier); // go to horizontal 100 (x) and vertical 200 (y)
+            }else{ 
+                canvas.moveTo(start-5*scalemultiplier, starty+15*scalemultiplier); // start at top left corner of canvas
+                canvas.lineTo(start+5*scalemultiplier, starty+15*scalemultiplier); // go 200px to right (x), straight line from 0 to 0
+                canvas.lineTo(start, starty+20*scalemultiplier); // go to horizontal 100 (x) and vertical 200 (y)            
             }
-            ctx.fill();
+            if(!ot)
+                canvas.fill();
         }else{
-            length=strokelength;
+            length=scalemultiplierForStrokeLength*strokelength;
             if(mirror){
-                        ctx.moveTo(start-5, starty+10+length); // start at top left corner of canvas
-                        ctx.lineTo(start+5, starty+10+length); // go 200px to right (x), straight line from 0 to 0
-                        ctx.lineTo(start, starty+length); // go to horizontal 100 (x) and vertical 200 (y)
+                        canvas.moveTo(start-5*scalemultiplier*1.5, starty+10*scalemultiplier*1.5+length); // start at top left corner of canvas
+                        canvas.lineTo(start+5*scalemultiplier*1.5, starty+10*scalemultiplier*1.5+length); // go 200px to right (x), straight line from 0 to 0
+                        canvas.lineTo(start, starty+10+length); // go to horizontal 100 (x) and vertical 200 (y)
             }else{
-                        ctx.moveTo(start-5, starty+10); // start at top left corner of canvas
-                        ctx.lineTo(start+5, starty+10); // go 200px to right (x), straight line from 0 to 0
-                        ctx.lineTo(start, starty+20); // go to horizontal 100 (x) and vertical 200 (y)
+                        canvas.moveTo(start-5*scalemultiplier, starty+10*scalemultiplier); // start at top left corner of canvas
+                        canvas.lineTo(start+5*scalemultiplier, starty+10*scalemultiplier); // go 200px to right (x), straight line from 0 to 0
+                        canvas.lineTo(start, starty+20*scalemultiplier); // go to horizontal 100 (x) and vertical 200 (y)
             }
-            ctx.fill();
+             if(!ot){
+                canvas.fill();
+            }
         }
         if(mirror){
-                    ctx.moveTo(start,starty);
-                    ctx.lineTo(start,starty+length);
-                    ctx.stroke();
+                     if(!ot){
+                        canvas.moveTo(start,starty);
+                        canvas.lineTo(start,starty+length);
+                        canvas.stroke();
+                    }else{
+                                canvas.moveTo(start-opentypestrokeWidth,starty);
+                                canvas.lineTo(start-opentypestrokeWidth,starty+length);
+                                canvas.lineTo(start+opentypestrokeWidth,starty+20*scalemultiplier+length);
+                                canvas.lineTo(start+opentypestrokeWidth,starty+20*scalemultiplier);
+                                canvas.lineTo(start-opentypestrokeWidth,starty);
+                    }
             mirror=false;
         }else{
-                    ctx.moveTo(start,starty+20);
-                    ctx.lineTo(start,starty+20+length);
-                    ctx.stroke();
+
+                     if(!ot){
+                        canvas.moveTo(start,starty+20*scalemultiplier);
+                        canvas.lineTo(start,starty+20*scalemultiplier+length);
+                        canvas.moveTo(start,starty+20*scalemultiplier);
+                        canvas.lineTo(start,starty+20*scalemultiplier+length);
+                        canvas.stroke();
+                    }else{
+                                canvas.moveTo(start-opentypestrokeWidth,starty+20*scalemultiplier);
+                                canvas.lineTo(start-opentypestrokeWidth,starty+20*scalemultiplier+length);
+                                canvas.lineTo(start+opentypestrokeWidth,starty+20*scalemultiplier+length);
+                                canvas.lineTo(start+opentypestrokeWidth,starty+20*scalemultiplier);
+                                canvas.lineTo(start-opentypestrokeWidth,starty+20*scalemultiplier);
+                    }
         }
+
 }
 function drawHorizontalLine(start,starty,canvas,strokeparse,big){
         if(strokeparse==false)
             curposy+=10
-		//alert(rot+" - "+start+" - "+starty)
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
-            length=multiplier*strokelength;
+            length=multiplier*scalemultiplierForStrokeLength*strokelength;
             if(mirror){
-                        ctx.moveTo(start+10+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                        ctx.lineTo(start+10+length, starty+25); // draw straight down (from 300,0) to 200px
-                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+                        canvas.moveTo(start+10*scalemultiplier+length, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        canvas.lineTo(start+10*scalemultiplier+length, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+                        canvas.lineTo(start+length, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
             }else{
-                    ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                    ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-                    ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+                    canvas.moveTo(start-10*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                    canvas.lineTo(start-10*scalemultiplier, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+                    canvas.lineTo(start, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
             }
-            ctx.fill(); // connect and fill
+             if(!ot)
+                canvas.fill(); // connect and fill
         }else if(smaller){
-            length=smallermultiplier*strokelength;
+            length=smallermultiplier*scalemultiplierForStrokeLength*strokelength;
             smaller=false;
             if(mirror){
-                        ctx.moveTo(start+5+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                        ctx.lineTo(start+5+length, starty+25); // draw straight down (from 300,0) to 200px
-                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+                        canvas.moveTo(start+5*scalemultiplier+length, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        canvas.lineTo(start+5*scalemultiplier+length, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+                        canvas.lineTo(start+length, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
             }else{
-                        ctx.moveTo(start-5, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                        ctx.lineTo(start-5, starty+25); // draw straight down (from 300,0) to 200px
-                        ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+                        canvas.moveTo(start-5*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        canvas.lineTo(start-5*scalemultiplier, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+                        canvas.lineTo(start, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
             }
-            ctx.fill(); // connect and fill
+            if(!ot)
+                canvas.fill(); // connect and fill
         }else{
-            length=strokelength;
+            length=scalemultiplierForStrokeLength*strokelength;
             if(mirror){
-                        ctx.moveTo(start+10+length, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-                        ctx.lineTo(start+10+length, starty+25); // draw straight down (from 300,0) to 200px
-                        ctx.lineTo(start+length, starty+20); // draw up toward right (100 half of 200)
+                        canvas.moveTo(start+10*scalemultiplier+length, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+                        canvas.lineTo(start+10*scalemultiplier+length, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+                        canvas.lineTo(start+length, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
             }else{
                         
 						if(rot>0){
 						   start2=Math.cos(rot)*length+10;
 						   starty2=Math.sin(rot)*length+10;
-						   ctx.moveTo(start+start2-10, starty+starty2+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-						   ctx.lineTo(start+start2-10, starty+starty2+25); // draw straight down (from 300,0) to 200px
-                           ctx.lineTo(start+start2, starty+starty2+20); // draw up toward right (100 half of 200)
+						   canvas.moveTo(start+start2-10, starty+starty2+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+						   canvas.lineTo(start+start2-10, starty+starty2+25); // draw straight down (from 300,0) to 200px
+                           canvas.lineTo(start+start2, starty+starty2+20); // draw up toward right (100 half of 200)
 						}else{
-							ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-							ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-							ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
+							canvas.moveTo(start-10*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+							canvas.lineTo(start-10*scalemultiplier, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+							canvas.lineTo(start, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
 						}
+
             }
-            ctx.fill(); // connect and fill
+            if(!ot)
+                canvas.fill(); // connect and fill
         }
         if(mirror){
-                ctx.moveTo(start+length,starty+20);
-                ctx.lineTo(start,starty+20);
-                ctx.stroke();
+                 if(!ot){
+                    canvas.moveTo(start+length,starty+20*scalemultiplier);
+                    canvas.lineTo(start,starty+20*scalemultiplier);
+                    canvas.stroke();
+                }else{
+                                canvas.moveTo(start,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier-opentypestrokeWidth);
+                    }
             mirror=false;
         }else if(rot>0){
 				console.log(rot)
 				start2=Math.cos(Math.PI/2+rot)*length;
 				starty2=Math.sin(Math.PI/2+rot)*length;
-				ctx.moveTo(start+start2,starty+20);
-				ctx.lineTo(start+length,starty+starty2+20);
-                ctx.stroke();
+				canvas.moveTo(start+start2*scalemultiplier,starty+20*scalemultiplier);
+				canvas.lineTo(start+length,starty+starty2+20*scalemultiplier);
+                 if(!ot){
+                    canvas.stroke();
+                }else{
+                                canvas.moveTo(start+start2,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier-opentypestrokeWidth);
+                    }
 		}else{
-                ctx.moveTo(start,starty+20);
-                ctx.lineTo(start+length,starty+20);
-                ctx.stroke();
+
+                 if(!ot){
+                canvas.moveTo(start,starty+20*scalemultiplier);
+                canvas.lineTo(start+length,starty+20*scalemultiplier);
+                 canvas.stroke();
+                 }
+                else{
+                                canvas.moveTo(start,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier-opentypestrokeWidth);
+                                canvas.lineTo(start+length,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier+opentypestrokeWidth);
+                                canvas.lineTo(start,starty+20*scalemultiplier-opentypestrokeWidth);
+                    }
         }
+
+
 }
 function drawDiagonalLine1(start,starty,canvas,big){
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
             wlength=wedgelength
 			if(halfangle)
                 length=0.6*length
             length=multiplier*strokelength;
-            ctx.moveTo(start+wlength-10, starty+wlength-10);
-            ctx.lineTo(start+wlength-10, starty-10);
-            ctx.lineTo(start-10, starty+wlength-10);
-            ctx.fill(); // connect and fill
+            canvas.moveTo(start+wlength-10*scalemultiplier, starty+wlength-10*scalemultiplier);
+            canvas.lineTo(start+wlength-10*scalemultiplier, starty-10*scalemultiplier);
+            canvas.lineTo(start-10, starty+wlength-10);
         }else if(smaller){
             length=smallermultiplier*strokelength;
             wlength=wedgelength-5
-            ctx.moveTo(start+wlength-5, starty+wlength-5);
-            ctx.lineTo(start+wlength-5, starty-5);
-            ctx.lineTo(start-5, starty+wlength-5);
-            ctx.fill(); // connect and fill
+            canvas.moveTo(start+wlength-5*scalemultiplier, starty+wlength-5*scalemultiplier);
+            canvas.lineTo(start+wlength-5*scalemultiplier, starty-5*scalemultiplier);
+            canvas.lineTo(start-5*scalemultiplier, starty+wlength-5*scalemultiplier);
             smaller=false;
         }else{
-            length=strokelength;
+            length=scalemultiplierForStrokeLength*strokelength;
 			wlength=wedgelength
-            ctx.moveTo(start, starty);
-            ctx.lineTo(start-wedgelength, starty);
-            ctx.lineTo(start, starty-wedgelength);
-            ctx.fill(); // connect and fill
+            canvas.moveTo(start, starty);
+            canvas.lineTo(start-wedgelength*scalemultiplier, starty);
+            canvas.lineTo(start, starty-wedgelength*scalemultiplier);
         }
-        ctx.moveTo(start,starty);
+         if(!ot)
+            canvas.fill();
+        canvas.moveTo(start,starty);
         if(halfangle){
-                ctx.lineTo(start+length,starty+0.6*length);
+                canvas.lineTo(start+length,starty+0.6*length);
         }else{
-                ctx.lineTo(start+length,starty+length);
+                canvas.lineTo(start+length*scalemultiplier,starty+length*scalemultiplier);
         }
-        ctx.stroke();
+         if(!ot){
+            canvas.stroke();
+        }else{
+                canvas.moveTo(start,starty);
+                canvas.lineTo(start-opentypestrokeWidth,starty-opentypestrokeWidth+20*scalemultiplier);
+                canvas.lineTo(start-opentypestrokeWidth,starty-opentypestrokeWidth+20*scalemultiplier);
+                canvas.lineTo(start-opentypestrokeWidth,starty-opentypestrokeWidth+20*scalemultiplier+length);
+        }
 }
+
 function drawDiagonalLine2(start,starty,canvas,big){
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
             if(halfangle)
                 length=0.6*length
-			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length+10);
-			ctx.lineTo(start-10, starty+length);
-			ctx.fill(); // connect and fill
+			canvas.moveTo(start, starty+length);
+			canvas.lineTo(start, starty+length+10);
+			canvas.lineTo(start-10, starty+length);
+			 if(!ot)
+                canvas.fill(); // connect and fill
         }else if(smaller){
 			length=smallermultiplier*strokelength;
-                        if(halfangle)
-                            length=0.6*length
-			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length+5);
-			ctx.lineTo(start-5, starty+length);
-			ctx.fill(); // connect and fill
+            if(halfangle)
+                length=0.6*length
+			canvas.moveTo(start, starty+length);
+			canvas.lineTo(start, starty+length+5);
+			canvas.lineTo(start-5, starty+length);
 			smaller=false;
 		}else{
-                        length=strokelength;
-                        if(halfangle)
-                            length=0.6*length
-			ctx.moveTo(start, starty+length);
-			ctx.lineTo(start, starty+length+10);
-			ctx.lineTo(start-10, starty+length);
-			ctx.fill(); // connect and fill
+             length=scalemultiplierForStrokeLength*strokelength;
+             if(halfangle)
+                length=0.6*length
+			canvas.moveTo(start, starty+length);
+			canvas.lineTo(start, starty+length+10);
+			canvas.lineTo(start-10, starty+length);
         }
-        ctx.moveTo(start+length,starty);
-            ctx.lineTo(start,starty+length);
-        
-        ctx.stroke();
+         if(!ot)
+            canvas.fill();
+         if(!ot){
+            canvas.moveTo(start+length*scalemultiplier,starty);
+            canvas.lineTo(start,starty+length*scalemultiplier);
+            canvas.stroke();
+        }else{
+            canvas.moveTo(start+length*scalemultiplier,starty);
+            canvas.lineTo(start,starty+length*scalemultiplier);
+
+        }
 }
+
 function drawDiagonalLine3(start,starty,canvas,big){
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
-			ctx.moveTo(start+length,starty+length);
-			ctx.lineTo(start+length+wedgelength, starty+length);
-			ctx.lineTo(start+length, starty+length+wedgelength);
-			ctx.fill();
+			canvas.moveTo(start+length,starty+length);
+			canvas.lineTo(start+length+wedgelength, starty+length);
+			canvas.lineTo(start+length, starty+length+wedgelength);
         }else if(smaller){
 			length=smallermultiplier*strokelength;
-			ctx.moveTo(start+length,starty+length);
-			ctx.lineTo(start+length+wedgelength-5, starty+length);
-			ctx.lineTo(start+length, starty+length+wedgelength-5);
-			ctx.fill();
+			canvas.moveTo(start+length,starty+length);
+			canvas.lineTo(start+length+wedgelength-5, starty+length);
+			canvas.lineTo(start+length, starty+length+wedgelength-5);
 			smaller=false;
 		}else{
-            length=strokelength;
-			ctx.moveTo(start+length,starty+length);
-			ctx.lineTo(start+length+wedgelength, starty+length);
-			ctx.lineTo(start+length, starty+length+wedgelength);
-			ctx.fill();
+            length=scalemultiplierForStrokeLength*strokelength;
+			canvas.moveTo(start+length,starty+length);
+			canvas.lineTo(start+length+wedgelength*scalemultiplier, starty+length);
+			canvas.lineTo(start+length, starty+length+wedgelength*scalemultiplier);
         }
-        ctx.moveTo(start,starty);
-        ctx.lineTo(start+length,starty+length);
-        ctx.stroke();
+         if(!ot)
+            canvas.fill();
+		canvas.moveTo(start,starty);
+        canvas.lineTo(start+length,starty+length);
+         if(!ot){
+            canvas.moveTo(start,starty);
+            canvas.lineTo(start+length,starty+length);
+            canvas.stroke();
+        }else{
+            canvas.moveTo(start,starty);
+            canvas.lineTo(start+length-opentypestrokeWidth,starty+length+opentypestrokeWidth);
+            canvas.lineTo(start+length,starty+length);
+            canvas.lineTo(start,starty);
+        }
 }
+
 function drawDiagonalLine4(start,starty,canvas,big){
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
         if(big){
             length=multiplier*strokelength;
-			ctx.moveTo(start+length,starty);
-			ctx.lineTo(start+length, starty-wedgelength);
-			ctx.lineTo(start+length+wedgelength, starty);
-			ctx.fill();
+			canvas.moveTo(start+length,starty);
+			canvas.lineTo(start+length, starty-wedgelength);
+			canvas.lineTo(start+length+wedgelength, starty);
         }else if(smaller){
 			length=smallermultiplier*strokelength;
-			ctx.moveTo(start+length,starty);
-			ctx.lineTo(start+length, starty-wedgelength+5);
-			ctx.lineTo(start+length+wedgelength-5, starty);
-			ctx.fill();
+			canvas.moveTo(start+length,starty);
+			canvas.lineTo(start+length, starty-wedgelength+5);
+			canvas.lineTo(start+length+wedgelength-5, starty);
 			smaller=false;
 		}else{
-            length=strokelength;
-			ctx.moveTo(start+length,starty);
-			ctx.lineTo(start+length, starty-wedgelength);
-			ctx.lineTo(start+length+wedgelength, starty);
-			ctx.fill();
+            length=scalemultiplierForStrokeLength*strokelength;
+			canvas.moveTo(start+length,starty);
+			canvas.lineTo(start+length, starty-wedgelength);
+			canvas.lineTo(start+length+wedgelength, starty);
         }
-        ctx.moveTo(start+length,starty);
-        ctx.lineTo(start,starty+length);
-        ctx.stroke();
+         if(!ot)
+            canvas.fill();
+         if(!ot){
+            canvas.moveTo(start+length*scalemultiplier,starty);
+            canvas.lineTo(start,starty+length*scalemultiplier);
+            canvas.stroke();
+        }else{
+            canvas.moveTo(start+length*scalemultiplier,starty);
+            canvas.lineTo(start,starty+length*scalemultiplier);
+        }
 }
+
 function clearCanvas(strokeParser){
     var c=document.getElementById("myCanvas");
     c.width = c.width;
+	ctx2.clearRect(0,0,70,100);
+    ctx3=new opentype.Path();
+	//document.getElementById("canvas").width=document.getElementById("canvas").width
     if(!strokeParser)
         document.getElementById('canvasinput').value=""
 }
+
+
+
 function drawWedge(start,starty,canvas){
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
-        ctx.moveTo(start-10, starty+15); // pick up "pen," reposition at 300 (horiz), 0 (vert)
-		ctx.lineTo(start-10, starty+25); // draw straight down (from 300,0) to 200px
-		ctx.lineTo(start, starty+20); // draw up toward right (100 half of 200)
-		ctx.fill(); // connect and fill
+        canvas.moveTo(start-10*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 0 (vert)
+		canvas.lineTo(start-10*scalemultiplier, starty+25*scalemultiplier); // draw straight down (from 300,0) to 200px
+		canvas.lineTo(start, starty+20*scalemultiplier); // draw up toward right (100 half of 200)
+         if(!ot)
+            canvas.fill(); // connect and fill
 }
+
 function drawWedge2(start,starty,canvas,big){
-    var c = document.getElementById("myCanvas");
-    var ctx = c.getContext("2d");
     if(big){
-        ctx.moveTo(start+10, starty+15); // pick up "pen," reposition at 300 (horiz), 200 (vert)
-		ctx.lineTo(start+10, starty+30); // draw straight down by 200px (200 + 200)
-		ctx.lineTo(start, starty+25); // draw up toward left (100 less than 300, so left)
-		ctx.fill(); // connect and fill
+        canvas.moveTo(start+10*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 200 (vert)
+		canvas.lineTo(start+10*scalemultiplier, starty+30*scalemultiplier); // draw straight down by 200px (200 + 200)
+		canvas.lineTo(start, starty+25*scalemultiplier); // draw up toward left (100 less than 300, so left)
     }else{
-        ctx.moveTo(start+10, starty+15); // pick up "pen," reposition at 300 (horiz), 200 (vert)
-		ctx.lineTo(start+10, starty+25); // draw straight down by 200px (200 + 200)
-		ctx.lineTo(start, starty+20); // draw up toward left (100 less than 300, so left)
-		ctx.fill(); // connect and fill
+        canvas.moveTo(start+10*scalemultiplier, starty+15*scalemultiplier); // pick up "pen," reposition at 300 (horiz), 200 (vert)
+		canvas.lineTo(start+10*scalemultiplier, starty+25*scalemultiplier); // draw straight down by 200px (200 + 200)
+		canvas.lineTo(start, starty+20*scalemultiplier); // draw up toward left (100 less than 300, so left)
     }
+     if(!ot)
+        canvas.fill();
 }
 
 function showCharacter(character){
@@ -434,6 +894,37 @@ function showCharacter(character){
         document.getElementById('canvasinput').value=character
 }
 </script>
+<style>
+        body {
+            font: 13px Helvetica, arial, freesans, sans-serif;
+            line-height: 1.4;
+            color: #333;
+            margin: 0 0 50px 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 940px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #glyphs {
+            clear: both;
+        }
+
+        .wrapper {
+            float: left;
+            margin: 5px;
+            border: 1px solid #ccc;
+        }
+
+        .wrapper span {
+            text-align: center;
+            background: #ddd;
+            display: block;
+        }
+    </style>
 <style>
 .table-wrapper-scroll-y {
   display: block;
@@ -451,7 +942,8 @@ function showCharacter(character){
 Your browser does not support the HTML5 canvas tag.</canvas>
 <img id="canvasImg"/>
 <br/>
-Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="clearcanvas" onClick="clearCanvas(false)">Clear Canvas</button><button id="downloadImage" onClick="to_image()">Download Image</button><br/>
+Stroke Order Input: <input type="text" id="canvasinput" onKeyUp="strokeParser(document.getElementById('canvasinput').value)"/><button id="clearcanvas" onClick="clearCanvas(false)">Clear Canvas</button>
+<button id="downloadImage" onClick="to_image()">Download Image</button><button id="downloadSVG" onClick="to_svg()">Download SVG</button><button id="createFont" onClick="createFont()">Create Font</button><br/>
 <br/>
 Tutorial:
 <ul>
@@ -483,7 +975,7 @@ Tutorial:
 <div class="table-wrapper-scroll-y">
 <table align="center" id="examples" class="tablesorter">
 <thead>
-<tr><th>Sign</th><th>Code point</th><th>Transliteration</th><th>Borger</th><th>Comment</th><th>Code</th></tr><tr>
+<tr><th>Sign</th><th>Code point</th><th>Transliteration</th><th>Borger</th><th>Comment</th><th>Code</th><th>SVG</th></tr><tr>
 </thead><tbody>
 <tr><td>𒂊</td><td>U+1208A</td><td>E</td><td>498</td><td>HT246</td><td><button onClick="showCharacter('B:b:b:b_a-a:a')">B:b:b:b_a-a:a</a></td></tr>
 <tr><td>𒂊</td><td>U+1208A</td><td>E</td><td>498</td><td>HT4</td><td><button onClick="showCharacter('b::b:b:b:b_:a:a')">b::b:b:b:b_:a:a</a></td></tr>
@@ -491,14 +983,22 @@ Tutorial:
 <tr><td>𒂊</td><td>U+1208A</td><td>E</td><td>498</td><td>HT88,291,37,298</td><td><button onClick="showCharacter('b:b:b_a:a')">b:b:b_a:a</a></td></tr>
 <tr><td>𒂊</td><td>U+1208A</td><td>E</td><td>498</td><td>HT188</td><td><button onClick="showCharacter('b::b_a-a:a')">b::b_a-a:a</a></td></tr>
 <tr><td>𒂊</td><td>U+1208A</td><td>E</td><td>498</td><td>HT585</td><td><button onClick="showCharacter('b::b-:sb--a-a:a')">b::b-:sb--a-a:a</a></td></tr>
-</tbody></table>
+</tbody></table></tbody></table>
 </div>
-</td></tr></table>
+</td><td class="svg"><div class="svgcontainer"></div></td></tr></table>
+<div class="container">
+    <h1 id="fontFamilyName"></h1>
+
+    <p>This font is generated dynamically in the browser.</p>
+    <button onclick="font.download()">Download Font</button>
+
+    <div id="glyphs"></div>
+    </div>
 <div id="graphDiv" width="1000" height="600"></div>
 <script>
 $(function() {
   $("#examples").tablesorter();
- $("#canvasinput").bind({
+  $("#canvasinput").bind({
     keydown: function(e) {
         if ((e.which >64 && e.which < 71) || (e.which>36 && e.which<41) || e.which == 83 || e.which == 86 || e.which == 32 || e.which == 87 || e.which == 226 || e.which == 219 
 		|| e.which == 46 || e.which == 49 || e.which == 55 || e.which==8 || e.which == 111 || e.which==110 || (e.which>186 && e.which<192)) {
@@ -509,8 +1009,8 @@ $(function() {
 });
   var count = $('#examples tr').length;
 	$('#amount').html((count-1)+" characters");
+	createOpenFont();
 	});
 </script>
-
-</body>
+  </body>
 </html>
