@@ -25,7 +25,7 @@ function createOpenTypeGlyph(charname,unicode,path){
     console.log(unicode)
     return new opentype.Glyph({
         name: charname,
-        unicode: unicode.replace("0x",""),
+        unicode: unicode!=undefined?unicode.replace("0x",""):"",
         advanceWidth: 650,
         path: path
     });
