@@ -10,6 +10,7 @@
 var edges=[]
 var nodes=[]
 var nodemap=[]
+var graphml=""
 
 function levenshteinDistance (s, t) {
     if (!s.length) return t.length;
@@ -48,6 +49,20 @@ var i=1;
 		nodes.push({id: node, label: nodemap[node]})
 	}
 }}
+
+function graphToGraphML(){
+    graphml='<?xml version="1.0" encoding="UTF-8"?>\n<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">\n<key id="d0" for="node" yfiles.type="nodegraphics"/><key id="d1" for="edge" yfiles.type="edgegraphics"/> <graph id="G" edgedefault="undirected">\n'
+    for(var node in nodes){
+        console.log(node)
+        graphml+="<node id=\""+nodes[node]["id"].trim()+"\"/>\n"
+    }
+    for(var edge in edges){
+        console.log(edge)
+        graphml+="<edge id=\"e"+edge+"\" from=\""+edges[edge]["from"].trim()+"\" to=\""+edges[edge]["to"].trim()+"\"/>\n"
+    }
+    graphml+="</graph>\n</graphml>"
+}
+
   function substringgraph(){
 var similar={}
 //Â´graph.addLink(1, 2);
@@ -79,7 +94,28 @@ var similar={}
 	for(var node in nodemap){
 		nodes.push({id: node, label: nodemap[node]})
 	}
-	
+	graphToGraphML()
+}
+
+function exportGraphML(){
+    saveTextAsFile(graphml,"graphml","export");
+}
+
+function saveTextAsFile(tosave,fileext,filename)
+{
+    var a = document.createElement('a');
+    a.style = "display: none";  
+    var blob= new Blob([tosave], {type:'text/plain'});
+    var url = window.URL.createObjectURL(blob);
+    var filename = filename+fileext;
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(function(){
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);  
+    }, 1000);
 }
 </script>
 <link rel="stylesheet" type="text/css" href="css/vis.css">
@@ -100,5 +136,6 @@ var container = document.getElementById('mynetwork');
   var network = new vis.Network(container, data, options);
 });
 </script>
+<button id="exportGraphML" onClick="exportGraphML()">Export GraphML</button>
 </body>
 </html>
