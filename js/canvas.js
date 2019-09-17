@@ -280,7 +280,7 @@ var dlength=120
 function getPaleoCodeDirection(){
         var paleoCodeResult=""
         strokeArray.sort(function(a, b) {
-            return parseFloat(a.price) - parseFloat(b.price);
+            return parseFloat(a.origx) - parseFloat(b.origx);
         });
         for(stroke in strokeArray){
             var delta_x=strokeArray[stroke]["targetX"]-strokeArray[stroke]["origx"]
