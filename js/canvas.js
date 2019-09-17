@@ -281,7 +281,7 @@ function getPaleoCodeDirection(){
         var paleoCodeResult=""
         strokeArray.sort(function(a, b) {
             return parseFloat(a.origx) - parseFloat(b.origx);
-        });
+        }).reverse();
         for(stroke in strokeArray){
             var delta_x=strokeArray[stroke]["targetX"]-strokeArray[stroke]["origx"]
             var delta_y=strokeArray[stroke]["targetY"]-strokeArray[stroke]["origy"]
