@@ -196,6 +196,7 @@ function clearButton() {
 	d=0;
 	s=0;
     paleoCode=""
+    strokeArray=[]
 	$("#aLabel").text("A: "+(a));
 	$("#bLabel").text("B: "+(b));
 	$("#cLabel").text("C: "+(c));
@@ -344,6 +345,7 @@ function clearCanvas()
 	d=0;
 	s=0;
 	paleoCode=""
+    strokeArray=[]
     $("#aLabel").text("A: "+(a));
 	$("#bLabel").text("B: "+(b));
 	$("#cLabel").text("C: "+(c));
