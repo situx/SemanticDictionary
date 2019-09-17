@@ -139,6 +139,7 @@ function prepareSimpleCanvas(ime,font)
 		paint_simple = false;
 	  	redrawSimple();
 		getDirection();
+        console.log("PaleoCodeDirection: "+getPaleoCodeDirection())
 		var strokes="";
 		if(a>0){
 		  strokes+="a"+a;
@@ -253,6 +254,48 @@ function getDirection(){
         }else if(radius>30 && radius<150){
 	    $("#cLabel").text("C: "+(++c));
             return 3;
+        }
+        return 0;
+    }
+    
+var alength=100    
+var blength=100
+var clength=120
+var dlength=120
+
+ 
+ 
+function getPaleoCodeDirection(){
+        var delta_x = clickX_simple[clickX_simple.length-1] - mouseX;
+        var delta_y = clickY_simple[clickX_simple.length-1] - mouseY;
+        var m=delta_y/delta_x;
+        var radius = Math.atan(m)*100;
+	$("#sLabel").text("Strokes: "+(++s));
+        if(radius>140 && radius<200){
+            if(delta_y<0){
+                return "a";
+            }else{
+                return "!a";
+            }
+        }else if(radius>-30 && radius<30){
+	    $("#bLabel").text("B: "+(++b));
+            if(delta_x>0){
+                return "b";
+            }else{
+                return "!b";
+            }
+        }else if(radius<-30 && radius>-170){
+            if(delta_x>0){
+                return "d";
+            }else{
+                return "f";
+            }
+        }else if(radius>30 && radius<150){
+            if(delta_x>0){
+                return "c";
+            }else{
+                return "e";
+            }
         }
         return 0;
     }
