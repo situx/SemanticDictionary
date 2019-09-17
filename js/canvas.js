@@ -290,7 +290,7 @@ function getPaleoCodeDirection(){
             if(delta_y<0){
                 paleoCodeResult+="!a";
             }else{
-                paleoCodResult+="a";
+                paleoCodeResult+="a";
             }
         }else if(radius>-30 && radius<30){
             if(delta_x>0){
