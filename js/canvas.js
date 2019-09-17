@@ -277,36 +277,43 @@ var dlength=120
  
  
 function getPaleoCodeDirection(){
-        var delta_x = clickX_simple[clickX_simple.length-1] - mouseX;
-        var delta_y = clickY_simple[clickX_simple.length-1] - mouseY;
+        var paleoCodeResult=""
+        strokeArray.sort(function(a, b) {
+            return parseFloat(a.price) - parseFloat(b.price);
+        });
+        for(stroke in strokeArray){
+            var delta_x=strokeArray[stroke]["targetX"]-strokeArray[stroke]["origx"]
+            var delta_y=strokeArray[stroke]["targetY"]-strokeArray[stroke]["origy"]
         var m=delta_y/delta_x;
         var radius = Math.atan(m)*100;
         if(radius>140 && radius<200){
             if(delta_y<0){
-                return "!a";
+                paleoCodeResult+="!a";
             }else{
-                return "a";
+                paleoCodResult+="a";
             }
         }else if(radius>-30 && radius<30){
             if(delta_x>0){
-                return "b";
+                paleoCodeResult+="b";
             }else{
-                return "!b";
+                paleoCodeResult+="!b";
             }
         }else if(radius<-30 && radius>-170){
             if(delta_x>0){
-                return "d";
+                paleoCodeResult+="d";
             }else{
-                return "f";
+                paleoCodeResult+="f";
             }
         }else if(radius>30 && radius<150){
             if(delta_x>0){
-                return "c";
+                paleoCodeResult+="c";
             }else{
-                return "e";
+                paleoCodeResult+="e";
             }
         }
-        return 0;
+            
+        }
+        return paleoCodeResult;
     }
 
 /**
