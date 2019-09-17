@@ -65,6 +65,7 @@ var b=0;
 var c=0;
 var d=0;
 var s=0;
+var paleoCode=""
 var strokeToChar={};
 /**
 * Calls the redraw function after all neccessary resources are loaded.
@@ -107,6 +108,8 @@ function prepareSimpleCanvas(ime,font)
 	$("#dLabel").css("background-color","white");
 	$("#sLabel").text("Strokes: "+(s));
 	$("#sLabel").css("background-color","white");
+    $("#pLabel").text("PaleoCode: "+paleoCode);
+	$("#pLabel").css("background-color","white");
 	$.getJSON("strokeime/"+ime+".json", function( data ) {
 	    strokeToChar=data;
 	  });
@@ -139,7 +142,9 @@ function prepareSimpleCanvas(ime,font)
 		paint_simple = false;
 	  	redrawSimple();
 		getDirection();
-        console.log("PaleoCodeDirection: "+getPaleoCodeDirection())
+        pc=getPaleoCodeDirection();
+        paleoCode+=pc
+        console.log("PaleoCodeDirection: "+pc)
 		var strokes="";
 		if(a>0){
 		  strokes+="a"+a;
@@ -193,6 +198,7 @@ function clearButton() {
 	$("#cLabel").text("C: "+(c));
 	$("#dLabel").text("D: "+(d));
 	$("#sLabel").text("Strokes: "+(s));
+    $("#pLabel").text("PaleoCode: "+paleoCode);
   clearCanvas_simple()
 }
 
@@ -273,9 +279,9 @@ function getPaleoCodeDirection(){
 	$("#sLabel").text("Strokes: "+(++s));
         if(radius>140 && radius<200){
             if(delta_y<0){
-                return "a";
-            }else{
                 return "!a";
+            }else{
+                return "a";
             }
         }else if(radius>-30 && radius<30){
 	    $("#bLabel").text("B: "+(++b));
