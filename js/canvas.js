@@ -194,6 +194,7 @@ function clearButton() {
 	c=0;
 	d=0;
 	s=0;
+    paleoCode=""
 	$("#aLabel").text("A: "+(a));
 	$("#bLabel").text("B: "+(b));
 	$("#cLabel").text("C: "+(c));
