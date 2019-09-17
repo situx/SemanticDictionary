@@ -67,6 +67,7 @@ var d=0;
 var s=0;
 var paleoCode=""
 var strokeToChar={};
+var strokeArray=[]
 /**
 * Calls the redraw function after all neccessary resources are loaded.
 */
@@ -247,6 +248,8 @@ function redrawSimple()
 function getDirection(){
         var delta_x = clickX_simple[clickX_simple.length-1] - mouseX;
         var delta_y = clickY_simple[clickX_simple.length-1] - mouseY;
+        strokeArray.put({"origx":clickX_simple[clickX_simple.length-1],"origy":clickY_simple[clickX_simple.length-1],"targetX":clickX_simple[clickX_simple.length-1]+delta_x,"targetY":clickY_simple[clickX_simple.length-1]+delta_y})
+        console.log(JSON.stringify(strokeArray))
         var m=delta_y/delta_x;
         var radius = Math.atan(m)*100;
 	$("#sLabel").text("Strokes: "+(++s));
