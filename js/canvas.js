@@ -144,6 +144,7 @@ function prepareSimpleCanvas(ime,font)
 		getDirection();
         pc=getPaleoCodeDirection();
         paleoCode+=pc
+        $("#pLabel").text("PaleoCode: "+paleoCode);
         console.log("PaleoCodeDirection: "+pc)
 		var strokes="";
 		if(a>0){
@@ -276,7 +277,6 @@ function getPaleoCodeDirection(){
         var delta_y = clickY_simple[clickX_simple.length-1] - mouseY;
         var m=delta_y/delta_x;
         var radius = Math.atan(m)*100;
-	$("#sLabel").text("Strokes: "+(++s));
         if(radius>140 && radius<200){
             if(delta_y<0){
                 return "!a";
@@ -284,7 +284,6 @@ function getPaleoCodeDirection(){
                 return "a";
             }
         }else if(radius>-30 && radius<30){
-	    $("#bLabel").text("B: "+(++b));
             if(delta_x>0){
                 return "b";
             }else{
@@ -333,11 +332,13 @@ function clearCanvas()
 	c=0;
 	d=0;
 	s=0;
-	$("#aLabel").text("A: "+(a));
+	paleoCode=""
+    $("#aLabel").text("A: "+(a));
 	$("#bLabel").text("B: "+(b));
 	$("#cLabel").text("C: "+(c));
 	$("#dLabel").text("D: "+(d));
 	$("#sLabel").text("Strokes: "+(s));
+    $("#pLabel").text("PaleoCode: "+paleoCode);
 }
 
 /**
