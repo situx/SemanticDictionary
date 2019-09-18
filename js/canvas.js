@@ -144,8 +144,7 @@ function prepareSimpleCanvas(ime,font)
 	  	redrawSimple();
 		getDirection();
         pc=getPaleoCodeDirection();
-        paleoCode+=pc
-        $("#pLabel").text("PaleoCode: "+paleoCode);
+        $("#pLabel").text("PaleoCode: "+pc);
         console.log("PaleoCodeDirection: "+pc)
 		var strokes="";
 		if(a>0){
@@ -286,7 +285,7 @@ function getPaleoCodeDirection(){
             prop:'origy',
             direction: 1
         }];
-        strokeArray.sort(function(a,b){
+        strokeArray=strokeArray.sort(function(a,b){
         let i = 0, result = 0;
         while(i < sortBy.length && result === 0) {
             result = sortBy[i].direction*(a[ sortBy[i].prop ].toString() < b[ sortBy[i].prop ].toString() ? -1 : (a[ sortBy[i].prop ].toString() > b[ sortBy[i].prop ].toString() ? 1 : 0));
