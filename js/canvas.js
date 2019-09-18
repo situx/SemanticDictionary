@@ -332,9 +332,9 @@ function getPaleoCodeDirection(){
             console.log(previousStroke["origx"]+"<"+currentStroke["origx"]+"="+(previousStroke["origx"]<currentStroke["origx"]))
             console.log(previousStroke["targetX"]+"<"+currentStroke["targetX"]+"="+(previousStroke["targetX"]<currentStroke["targetX"]))
             if(previousStroke["origx"]<currentStroke["origx"] && previousStroke["targetX"]<currentStroke["targetX"]){
-                paleoCodeResult+=":"
-            }else if(previousStroke["origy"]<currentStroke["origy"] && previousStroke["targetY"]<currentStroke["targetY"]){
                 paleoCodeResult+="-"
+            }else if(previousStroke["origy"]<currentStroke["origy"] && previousStroke["targetY"]<currentStroke["targetY"]){
+                paleoCodeResult+=":"
             }
         }
         paleoCodeResult+=strokeType
