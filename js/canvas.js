@@ -146,6 +146,7 @@ function prepareSimpleCanvas(ime,font)
         pc=getPaleoCodeDirection();
         $("#pLabel").text("PaleoCode: "+pc);
         console.log("PaleoCodeDirection: "+pc)
+        paleoCode=pc
 		var strokes="";
 		if(a>0){
 		  strokes+="a"+a;
@@ -299,32 +300,41 @@ function getPaleoCodeDirection(){
             var delta_y=strokeArray[stroke]["targetY"]-strokeArray[stroke]["origy"]
         var m=delta_y/delta_x;
         var radius = Math.atan(m)*100;
+        var strokeType=""
         if(radius>140 && radius<200){
             if(delta_y<0){
-                paleoCodeResult+="!a";
+                strokeType="!a"
             }else{
-                paleoCodeResult+="a";
+                strokeType="a";
             }
         }else if(radius>-30 && radius<30){
             if(delta_x>0){
-                paleoCodeResult+="b";
+                strokeType="b";
             }else{
-                paleoCodeResult+="!b";
+                strokeType="!b";
             }
         }else if(radius<-30 && radius>-170){
             if(delta_x>0){
-                paleoCodeResult+="d";
+                strokeType="d";
             }else{
-                paleoCodeResult+="f";
+                strokeType="f";
             }
         }else if(radius>30 && radius<150){
             if(delta_x>0){
-                paleoCodeResult+="c";
+                strokeType="c";
             }else{
-                paleoCodeResult+="e";
+                strokeType="e";
             }
         }
+        if(stroke>0){
+            previousStroke=strokeArray[stroke-1]
+            currentStroke=strokeArray[stroke-1]
+            if(previousStroke["originx"]<currentStroke["originx"] && previousStroke["targetX"]<currentStroke["targetX"]){
+                paleoCodeResult+=":"
+            }
             
+        }
+        paleoCodeResult+=strokeType
         }
         return paleoCodeResult;
     }
