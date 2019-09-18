@@ -279,9 +279,22 @@ var dlength=120
  
 function getPaleoCodeDirection(){
         var paleoCodeResult=""
-        strokeArray.sort(function(a, b) {
-            return parseFloat(a.origx) - parseFloat(b.origx);
-        }).reverse();
+        let sortBy = [{
+            prop:'origx',
+            direction: 1
+        },{
+            prop:'origy',
+            direction: 1
+        }];
+        strokeArray.sort(function(a,b){
+        let i = 0, result = 0;
+        while(i < sortBy.length && result === 0) {
+            result = sortBy[i].direction*(a[ sortBy[i].prop ].toString() < b[ sortBy[i].prop ].toString() ? -1 : (a[ sortBy[i].prop ].toString() > b[ sortBy[i].prop ].toString() ? 1 : 0));
+            i++;
+        }
+        return result;
+        })
+        console.log(JSON.stringify(strokeArray))
         for(stroke in strokeArray){
             var delta_x=strokeArray[stroke]["targetX"]-strokeArray[stroke]["origx"]
             var delta_y=strokeArray[stroke]["targetY"]-strokeArray[stroke]["origy"]
