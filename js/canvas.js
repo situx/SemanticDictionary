@@ -328,8 +328,8 @@ function getPaleoCodeDirection(){
         }
         if(stroke>0){
             previousStroke=strokeArray[stroke-1]
-            currentStroke=strokeArray[stroke-1]
-            console.log(previousStroke["originx"]+"<"+currentStroke["originx"]+"="+(previousStroke["originx"]<currentStroke["originx"]))
+            currentStroke=strokeArray[stroke]
+            console.log(previousStroke["origx"]+"<"+currentStroke["origx"]+"="+(previousStroke["origx"]<currentStroke["origx"]))
             console.log(previousStroke["targetX"]+"<"+currentStroke["targetX"]+"="+(previousStroke["targetX"]<currentStroke["targetX"]))
             if(previousStroke["originx"]<currentStroke["originx"] && previousStroke["targetX"]<currentStroke["targetX"]){
                 paleoCodeResult+=":"
