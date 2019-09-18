@@ -336,7 +336,6 @@ function getPaleoCodeDirection(){
             }else if(previousStroke["origy"]<currentStroke["origy"] && previousStroke["targetY"]<currentStroke["targetY"]){
                 paleoCodeResult+="-"
             }
-            }
         }
         paleoCodeResult+=strokeType
         }
