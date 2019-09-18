@@ -334,7 +334,7 @@ function getPaleoCodeDirection(){
             if(previousStroke["origx"]<currentStroke["origx"] && previousStroke["targetX"]<currentStroke["targetX"] && currentStroke["origx"]>previousStroke["targetX"]){
                 paleoCodeResult+="-"
             }else if(previousStroke["origy"]<currentStroke["origy"] && previousStroke["targetY"]<currentStroke["targetY"] 
-                && currentStroke["origy"]>previousStroke["targetY"] && previousStroke["targetX"]<currentStroke["originx"]){
+                && currentStroke["origy"]>previousStroke["targetY"] && previousStroke["targetX"]<currentStroke["origx"]){
                 paleoCodeResult+=":"
             }
         }
