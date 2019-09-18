@@ -331,6 +331,7 @@ function getPaleoCodeDirection(){
             currentStroke=strokeArray[stroke]
             console.log(previousStroke["origx"]+"<"+currentStroke["origx"]+"="+(previousStroke["origx"]<currentStroke["origx"]))
             console.log(previousStroke["targetX"]+"<"+currentStroke["targetX"]+"="+(previousStroke["targetX"]<currentStroke["targetX"]))
+            console.log("origx>targetX?"+currentStroke["origx"]>previousStroke["targetX"]))
             if(previousStroke["origx"]<currentStroke["origx"] && previousStroke["targetX"]<currentStroke["targetX"] && currentStroke["origx"]>previousStroke["targetX"]){
                 paleoCodeResult+="-"
             }else if(previousStroke["origy"]<currentStroke["origy"] && previousStroke["targetY"]<currentStroke["targetY"] 
