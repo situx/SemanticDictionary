@@ -4,7 +4,7 @@
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/vis.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
   <script src="js/paleocode.js"></script>
 <script>
 var edges=[]
@@ -118,7 +118,7 @@ function saveTextAsFile(tosave,fileext,filename)
     }, 1000);
 }
 </script>
-<link rel="stylesheet" type="text/css" href="css/vis.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
 </head>
 <body>
 <div id="mynetwork"></div>
@@ -132,7 +132,11 @@ var container = document.getElementById('mynetwork');
     nodes: nodes,
     edges: edges
   };
-  var options = { physics:false,interaction:{dragNodes:true,hover:true}, layout: {    improvedLayout:true,hierarchical:{enabled:true, levelSeparation:50, nodeSpacing:300,sortMethod:"hubsize",direction:"UD",edgeMinimization:true,parentCentralization:true,blockShifting:true}}};
+  var options = { physics:false,interaction:{dragNodes:true,hover:true,navigationButtons: true, keyboard: {
+                enabled: true,
+                bindToWindow: false
+            },
+            navigationButtons: true,zoomView:true}, layout: {    improvedLayout:true,hierarchical:{enabled:true, levelSeparation:50, nodeSpacing:300,sortMethod:"hubsize",direction:"UD",edgeMinimization:true,parentCentralization:true,blockShifting:true}}};
   var network = new vis.Network(container, data, options);
 });
 </script>
