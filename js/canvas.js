@@ -310,15 +310,18 @@ function getPaleoCodeDirection(){
         var paleoCodeResult=""
         let sortBy = [{
             prop:'origx',
-            direction: -1
-        },{
+            direction: 1
+        }];
+        /*
+         * ,{
             prop:'origy',
             direction: -1
-        }];
+        }
+         */
         strokeArray=strokeArray.sort(function(a,b){
         let i = 0, result = 0;
         while(i < sortBy.length && result === 0) {
-            result = sortBy[i].direction*(a[ sortBy[i].prop ].toString() < b[ sortBy[i].prop ].toString() ? -1 : (a[ sortBy[i].prop ].toString() > b[ sortBy[i].prop ].toString() ? 1 : 0));
+            result = sortBy[i].direction*(a[ sortBy[i].prop ] < b[ sortBy[i].prop ] ? -1 : (a[ sortBy[i].prop ] > b[ sortBy[i].prop ] ? 1 : 0));
             i++;
         }
         return result;
