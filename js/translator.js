@@ -150,7 +150,7 @@ function prepareTranslation(language){
 }
 
 function getRuleScriptForPOS(language){
-$.getScript( "lang/"+language+"/pos/"+language+"_matches.js", function( data, textStatus, jqxhr ) {
+$.getScript( "https://situx.github.io/SemanticDictionary/lang/"+language+"/pos/"+language+"_matches.js", function( data, textStatus, jqxhr ) {
 	  console.log( data ); // Data returned
 	  console.log( textStatus ); // Success
 	  console.log( jqxhr.status ); // 200
@@ -230,15 +230,15 @@ function getHighlightedWord(text) {
   }
   }
 
-$(document).ready(function(){
 $("#lefttextarea").on("click", function (event) {
-    //alert("On Key Up");
+    console.log("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
     xpos=event.pageX
     ypos=event.pageY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
+    console.log(lastWord)
     //alert(JSON.stringify(caretXY));
     $("#lefttextarea").prop('title',lastWord);
     $("#lefttextarea").prop('title2',caretXY);
@@ -258,6 +258,7 @@ $("#lefttextarea").on("click", function (event) {
         }
       },
           content: function () {
+              console.log("Get Word Information")
               return getWordInformation($(this).prop('title'),$('#leftsel').val(),
             		  $('#rightsel').val(),false,"<br>");
           }
@@ -266,4 +267,4 @@ $("#lefttextarea").on("click", function (event) {
 	  $(this).mouseover();
 
     //alert(getWordInformation(lastWord,"hit","cunei",false));
-})});
+});
