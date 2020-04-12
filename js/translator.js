@@ -22,6 +22,11 @@ tempmap=window[$('#langtextsel').val()+"_matches"]["matches"].filter(function (e
  return tempmap;
 }
 
+function getTranslationFromDictionary(){
+//TODO Integrate Semantic Dictionary
+    
+}
+
 function translate(originalText,language,language2,escapechars,transmap){
 	result="";
 	originalText=replaceAll(originalText,"[","");
@@ -234,7 +239,7 @@ $("#lefttextarea").on("click", function (event) {
     console.log("On Key Up");
     var caret = getCaretPosition(this);
     var caretXY=$(this).textareaHelper('caretPos');
-    xpos=event.pageX
+    xpos=event.pageX-100
     ypos=event.pageY
     var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
     lastWord = result ? result[0] : null;
@@ -251,7 +256,7 @@ $("#lefttextarea").on("click", function (event) {
 	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
           $( this ).css( position);	  
           $( "<div>" )
-            .addClass( "arrow" )
+            .addClass( "arrow.top" )
             .addClass( feedback.vertical )
             .addClass( feedback.horizontal )
             .appendTo( this );
