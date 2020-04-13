@@ -132,28 +132,28 @@ background-color: #00ff00;
   opacity: .6;
 }
 .determinative {
-color: #ffa500;
+background-color: #ffa500;
   opacity: .6;
   
 }
 .namedentity {
-color: #ff2eb5;
+background-color: #ff2eb5;
   opacity: .6; 
 }
 .pronoun {
-color: #0000ff;
+background-color: #0000ff;
   opacity: .6;
 }
 .relativepronoun {
-color: #5fff8c;
+background-color: #5fff8c;
   opacity: .6;
 }
 .noun {
-color: #895f33;
+background-color: #895f33;
   opacity: .6;
 }
 .number {
-color: #ffc0cb;
+background-color: #ffc0cb;
   opacity: .6;
 }
 
