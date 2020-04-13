@@ -1,3 +1,6 @@
 <option value="enkismall.txt">Enki Small</option>
 <option value="test.txt">Test</option>
+<option value="testking.txt">Testking</option>
+<option value="testking2.txt">Testking2</option>
+<option value="testking3.txt">Testking3</option>
 <option value="wikipedia.txt">Wikipedia</option>
