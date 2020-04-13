@@ -1,8 +1,11 @@
 var langToTransMap={};
 var transmap={};
+var transdict={};
 var markmap={};
 var lastWord;
 var highlighted=false;
+var langmap={}
+var langcharmap={}
 
 function replaceAll(string, find, replace) {
 	  return string.replace(new RegExp(escapeRegExp(find), 'g'), replace);
@@ -23,9 +26,30 @@ tempmap=window[$('#langtextsel').val()+"_matches"]["matches"].filter(function (e
  return tempmap;
 }
 
-function getTranslationFromDictionary(){
-//TODO Integrate Semantic Dictionary
-    
+function getTranslationFromDictionary(word,wordparticlesremoved,language,resultstring){
+	console.log(language)
+	var dict=window[language]["records"]
+	if(!(language in langmap)){
+		langmap[language]={}
+		langmap[language]["pos"]={}
+		langmap[language]["transliteration"]={}
+		for(rec in dict){
+			if(!(dict[rec]["pos"] in langmap[language]["pos"])){
+				langmap[language]["pos"][dict[rec]["pos"]]=[]
+			}
+			langmap[language]["pos"][dict[rec]["pos"]].push(dict[rec])
+			if(!(dict[rec]["transliteration"] in langmap[language]["transliteration"])){
+				langmap[language]["transliteration"][dict[rec]["transliteration"]]=[]
+			}
+			langmap[language]["transliteration"][dict[rec]["transliteration"]].push(dict[rec])	
+		}
+	}
+	console.log(langmap[language]["transliteration"][word])
+	if(word in langmap[language]["transliteration"]){
+		resultstring+="Translation: "+langmap[language]["transliteration"][word][0]["translation"]
+		return langmap[language]["transliteration"][word][0]["translation"];
+	}
+	return "";
 }
 
 function translate(originalText,language,language2,escapechars,transmap){
@@ -50,8 +74,29 @@ function translate(originalText,language,language2,escapechars,transmap){
 		words=line.split(" ");
 		for(j=0; j<words.length; ++j){
 			word=words[j];
+			if(word.trim()=="")
+				continue;
+			if(word.match(/[A-Z][a-z0-9].*/)){
+				result+=word.replace("-","")+" "
+				continue;
+			}
+			console.log("Looking up word: "+word.replace("[","").replace("]","").trim())
+			matches=getHighlightedWord(word,true)
+			console.log(matches)
+			if(typeof matches !== 'undefined' && typeof matches.value !== 'undefined'){
+				console.log("Found Match: "+matches)
+				result+=matches.value.replace("<br>","")+" "
+				continue;
+			}
+			dictlookup=getTranslationFromDictionary(word.replace("[","").replace("]","").trim(),word.replace("[","").replace("]","").trim(),language,"")
+			if(typeof dictlookup !== 'undefined' && dictlookup!=""){
+				console.log("Found dict Match: "+dictlookup)
+				result+=dictlookup+" "
+				continue;
+			}
 			//alert("Word: "+word);
 			sylls=word.split("-");
+			result+="( "
 			for(k=0; k<sylls.length; ++k){
 				syll=sylls[k];
 				//alert("Syll: "+syll);
@@ -61,15 +106,15 @@ function translate(originalText,language,language2,escapechars,transmap){
 				if(rec!= undefined && rec.length>0){
 					result+=rec[0].script;					
 				}else{
-					result+=syll;
+					result+=syll+" ";
 				}
 			}
-			result+=" ";
+			result+=") ";
 		}
 		result+="\n";
 	}
-	result=replaceAll(result,"(","");
-	result=replaceAll(result,")","");
+	result=replaceAll(result,"()","");
+	//result=replaceAll(result,")","");
 	return result;
 }
 
@@ -85,12 +130,12 @@ function prepareTranslation(language){
 		    },
 	    	success: function(data) {
 	    		var transmap=data;  
-                        alert(transmap)
+                        //alert(transmap)
 	    	}
 
 	    });
 		$("#translatebutton").click(function() {
-                       alert($('#leftsel').val()+"_matches");
+                       //alert($('#leftsel').val()+"_matches");
                     if($('#leftsel').val() in langToTransMap){
                         transmap=langToTransMap[$('#leftsel').val()]
                             $('textarea#righttextarea').val(translate($('textarea#lefttextarea').val(),$('#leftsel').val(),$('#rightsel').val(),$("#escapechars").is(':checked'),transmap));
@@ -102,9 +147,9 @@ function prepareTranslation(language){
                             console.log( jqxhr.status ); // 200
                             console.log( "Load was performed." );
                             langToTransMap[$('#leftsel').val()]=window[$('#leftsel').val()+"_map"];
-                            alert(JSON.stringify(langToTransMap[$('#leftsel').val()]))
+                            //alert(JSON.stringify(langToTransMap[$('#leftsel').val()]))
                            transmap=langToTransMap[$('#leftsel').val()]
-                            alert(JSON.stringify(transmap))
+                            //alert(JSON.stringify(transmap))
                             $('textarea#righttextarea').val(translate($('textarea#lefttextarea').val(),$('#leftsel').val(),$('#rightsel').val(),$("#escapechars").is(':checked'),transmap));
                     });
                     
@@ -146,7 +191,7 @@ function prepareTranslation(language){
                         });*/
                         }
 			  highlighter=$('.translation').find('.target')
-			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"]);
+			    .textareaHighlighter(window[$('#langtextsel').val()+"_matches"],{isAutoExpand:true,debug:true});
                         highlighted=true;
 				//alert(JSON.stringify(window[$('#langtextsel').val()+"_matches"]))
                     
@@ -183,16 +228,55 @@ function getCaretPosition(ctrl) {
 
 function getWordInformation(word,language,language2,escapechars,separator){
   var result="";
-  result+=word+separator;  
-  result+="Translation: "+translate(word,language,language2,escapechars)+separator;
+  result+=word.replace("[","").replace("]","").trim()+" "+textToCuneiform(word.replace("[","").replace("]","").trim(),language)+separator;  
   result+=getHighlightedWord(word);
+  if(!(result.includes("Translation:"))){
+	  result+="Translation: "+translate(word,language,language2,escapechars)+separator;
+  }
   return result;
-  
 }
 
-function getHighlightedWord(text) {
+function textToCuneiform(word,language){
+	if(!(language in langcharmap)){
+		langcharmap[language]={}
+		langcharmap[language]["pos"]={}
+		langcharmap[language]["transliteration"]={}
+		var transmapp = window[language+"_map"]["records"];
+		for(rec in transmapp){
+			if(!(transmapp[rec]["transliteration"] in langcharmap[language]["transliteration"])){
+				langcharmap[language]["transliteration"][transmapp[rec]["transliteration"]]=[]
+			}
+			langcharmap[language]["transliteration"][transmapp[rec]["transliteration"]].push(transmapp[rec])	
+		}
+	}
+	console.log(langcharmap)
+	sylls=word.toLowerCase().split("-");
+	var resultt=""
+			resultt+="( "
+			for(k=0; k<sylls.length; ++k){
+				syll=sylls[k];
+				console.log("Syll: "+syll);
+				if(syll in langcharmap[language]["transliteration"]){
+					resultt+=langcharmap[language]["transliteration"][syll][0].script;
+				}else{
+					resultt+=syll+" ";
+				}
+                /*rec=getRecord(syll,transmap)
+                //alert(JSON.stringify(rec[0]))
+                //alert(JSON.stringify(rec[0].script))
+				if(rec!= undefined && rec.length>0){
+					resultt+=rec[0].script;					
+				}else{
+					resultt+=syll+" ";
+				}*/
+			}
+	resultt+=") ";
+	return resultt;
+}
+
+function getHighlightedWord(text,jsonexport) {
     var list = window[$('#langtextsel').val()+"_matches"]["matches"];
-    console.log("List: "+list)
+    //console.log("List: "+list)
     console.log("Text: "+text)
     //alert($('#leftsel').val()+"_matches");
    //alert(JSON.stringify(list));
@@ -218,7 +302,9 @@ function getHighlightedWord(text) {
             console.log("Matches: "+matches)
             console.log(item)
             console.log(item.tag)
-            
+            if(jsonexport){
+				return item
+			}
         //    console.log("List: "+list) HTML escape matching words
         var matchgroup=window[$('#langtextsel').val()+"_matches_groups"][item.tag];
         console.log("MatchGroup: "+JSON.stringify(window[$('#langtextsel').val()+"_matches_groups"]));
@@ -229,9 +315,6 @@ function getHighlightedWord(text) {
             console.log("iteration: "+j)
             console.log(matches[0][j])
             console.log(matchgroup[j])
-            if(typeof matches[0][j] !== 'undefined'){
-                console.log(matches[0][j].match(matchgroup[j]["match"]))
-            }
             //console.log(matches[j].match(matchgroup[j]["match"]))
             if(typeof matches[0][j] !== 'undefined' && matchgroup[j] && matches[0][j].match(matchgroup[j]["match"])){
                // alert("Matchgroup: "+matchgroup[j]["description"]);
@@ -241,49 +324,13 @@ function getHighlightedWord(text) {
         }
 	  //alert(item.description);
           //alert(JSON.stringify(item));
-          result+=item.description;
+		 if(typeof item.description !== 'undefined')
+			result+=item.description;
+		  if(typeof item.value !== 'undefined')
+			result+="Translation: "+item.value;
           //alert(result);
 	  return result;
 	}
       }
   }
   }
-
-$("#lefttextarea").on("click", function (event) {
-    console.log("On Key Up");
-    var caret = getCaretPosition(this);
-    var caretXY=$(this).textareaHelper('caretPos');
-    xpos=event.pageX-100
-    ypos=event.pageY
-    var result = /\S+$/.exec(this.value.slice(0, this.value.indexOf(' ',caret.end)));
-    lastWord = result ? result[0] : null;
-    console.log(lastWord)
-    //alert(JSON.stringify(caretXY));
-    $("#lefttextarea").prop('title',lastWord);
-    $("#lefttextarea").prop('title2',caretXY);
-     $(document).tooltip({
-      position: {
-        my: "center bottom-20",
-        at: "center top",
-        using: function( position, feedback ) {
-	  position.top=ypos+12//caretXY.top+12;
-	  position.left=xpos//-$("#lefttextarea").width()+caretXY.left+300;
-          $( this ).css( position);	  
-          $( "<div>" )
-            .addClass( "arrow.top" )
-            .addClass( feedback.vertical )
-            .addClass( feedback.horizontal )
-            .appendTo( this );
-        }
-      },
-          content: function () {
-              console.log("Get Word Information")
-              return getWordInformation($(this).prop('title'),$('#leftsel').val(),
-            		  $('#rightsel').val(),false,"<br>");
-          }
-      });
-	  $(this).mouseout();
-	  $(this).mouseover();
-
-    //alert(getWordInformation(lastWord,"hit","cunei",false));
-});
