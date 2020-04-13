@@ -16,6 +16,7 @@ function getRecord(syll,transmap){
      //alert("GetRec: "+JSON.stringify(transmap));
 tempmap=window[$('#langtextsel').val()+"_matches"]["matches"].filter(function (el) {
  //tempmap=transmap["records"].filter(function (el) {
+    //console.log(el)
   return el.transliteration === syll || el.script === syll
 });    
  //alert("Filtered: "+syll+" "+JSON.stringify(tempmap));
@@ -191,6 +192,8 @@ function getWordInformation(word,language,language2,escapechars,separator){
 
 function getHighlightedWord(text) {
     var list = window[$('#langtextsel').val()+"_matches"]["matches"];
+    console.log("List: "+list)
+    console.log("Text: "+text)
     //alert($('#leftsel').val()+"_matches");
    //alert(JSON.stringify(list));
     var item;
@@ -200,28 +203,39 @@ function getHighlightedWord(text) {
       item = list[i];
 
       if (item["match"]) {
-            //alert(JSON.stringify(item));
         //item._trie = new marexandre.Trie();
         if (item["match"] instanceof RegExp) {
 	  if(text.match(item.match)!=null){
-            //alert(item.match);
-	    //alert(text.match(item.match));
-	    matches = text.match(item.match);
+
+         console.log(item.match);
+	    console.log(text);
+	    matches = [...text.matchAll(item.match)];
 	  }
         } else {
           matches = item.match;
         }
         if(matches!=null){
-        // HTML escape matching words
+            console.log("Matches: "+matches)
+            console.log(item)
+            console.log(item.tag)
+            
+        //    console.log("List: "+list) HTML escape matching words
         var matchgroup=window[$('#langtextsel').val()+"_matches_groups"][item.tag];
-        //alert(JSON.stringify(matches));
+        console.log("MatchGroup: "+JSON.stringify(window[$('#langtextsel').val()+"_matches_groups"]));
+        console.log(matchgroup)
         result="";
         if(matchgroup!=null){
-        for(j=0;j<matchgroup.length;j++){
-            //alert("Matchgroup["+j+"]");
-            if(matches[matchgroup[j]["group"]].match(matchgroup[j]["match"])){
+        for(j=0;j<matches[0].length;j++){
+            console.log("iteration: "+j)
+            console.log(matches[0][j])
+            console.log(matchgroup[j])
+            if(typeof matches[0][j] !== 'undefined'){
+                console.log(matches[0][j].match(matchgroup[j]["match"]))
+            }
+            //console.log(matches[j].match(matchgroup[j]["match"]))
+            if(typeof matches[0][j] !== 'undefined' && matchgroup[j] && matches[0][j].match(matchgroup[j]["match"])){
                // alert("Matchgroup: "+matchgroup[j]["description"]);
-                result+=matchgroup[j]["description"];
+                result+=matchgroup[j]["description"]+"<br/>";
             }
         }
         }
