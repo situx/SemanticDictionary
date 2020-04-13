@@ -5,6 +5,12 @@ var hit_matches={matches: [{
 "description":"Typ: Conjunction (CONJ)<br>POSTag: CONJUNCTION<br>Value: or<br>"
 },
 {
+"match":/[\s\[]([0-9]+)[^\s]*/gm,
+"matchClass":"number","tag":"NUM"
+,"priority":1,
+"description":"Typ: Number (NUM)<br>POSTag: NUM<br>"
+},
+{
 "match":/[\s\[](𒈾𒊍𒈠|nas-su)[^\s]*/gm,
 "matchClass":"conjunction","tag":"CONJ"
 ,"priority":1,
