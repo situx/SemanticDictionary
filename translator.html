@@ -138,6 +138,9 @@ empty
   <script src="js/helper.js"></script>
 <script src="js/jquery.textarea-highlighter.js"></script>
 <script src="js/textarea-helper.js"></script>
+<script src="js/sumerian.js"></script>
+<script src="js/akkadian.js"></script>
+<script src="js/hittite.js"></script>
 <script src="lang/akk/pos/akk_matches.js"></script>
 <script src="lang/hit/pos/hit_matches.js"></script>
 <script src="lang/sux/pos/sux_matches.js"></script>
@@ -174,6 +177,7 @@ empty
         }
       },
           content: function () {
+              console.log("initializing tooltips")
               return $(this).prop('title');
           }
       });
