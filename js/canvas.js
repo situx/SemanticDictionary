@@ -14,6 +14,7 @@
 // limitations under the License.
 
 var canvas;
+var canvas_simple;
 var context;
 var canvasWidth = 200;
 var canvasHeight = 190;
@@ -86,6 +87,8 @@ var clickDrag_simple = new Array();
 var paint_simple;
 var canvas_simple;
 var context_simple;
+
+
 /**
 * Creates a canvas element.
 */
@@ -93,12 +96,12 @@ function prepareSimpleCanvas(ime,font)
 {
 	// Create the canvas (Neccessary for IE because it doesn't know what a canvas element is)
 	var canvasDiv = document.getElementById('canvasSimpleDiv');
-	canvas_simple = document.createElement('canvas');
-	canvas_simple.setAttribute('width', canvasWidth);
-	canvas_simple.setAttribute('height', canvasHeight);
-	canvas_simple.setAttribute('id', 'canvasSimple');
-	canvas_simple.setAttribute('style', 'background-color:white;border:gray 5px solid');
-	canvasDiv.appendChild(canvas_simple);
+	canvas_simple = document.getElementById('canvasSimple');
+	//canvas_simple.setAttribute('width', canvasWidth);
+	//canvas_simple.setAttribute('height', canvasHeight);
+	//canvas_simple.setAttribute('id', 'canvasSimple');
+	//canvas_simple.setAttribute('style', 'background-color:white;border:gray 5px solid');
+	//canvasDiv.appendChild(canvas_simple);
 	$("#aLabel").text("A: "+(a));
 	$("#aLabel").css("background-color","white");
 	$("#bLabel").text("B: "+(b));
@@ -118,6 +121,7 @@ function prepareSimpleCanvas(ime,font)
 		canvas_simple = G_vmlCanvasManager.initElement(canvas_simple);
 	}
 	context_simple = canvas_simple.getContext("2d");
+    UndoCanvas.enableUndo(context_simple)
 	
 	// Add mouse events
 	// ----------------
@@ -221,12 +225,14 @@ function addClickSimple(x, y, dragging)
 function clearCanvas_simple()
 {
 	context_simple.clearRect(0, 0, canvasWidth, canvasHeight);
+    UndoCanvas.disableUndo(context_simple)
+    UndoCanvas.enableUndo(context_simple)
 }
 
 function redrawSimple()
 {
 	clearCanvas_simple();
-	
+	//context_simple.putTag();
 	var radius = 5;
 	context_simple.strokeStyle = "#000000";
 	context_simple.lineJoin = "round";
@@ -305,75 +311,84 @@ function lineIntersect(x1,y1,x2,y2, x3,y3,x4,y4) {
     }
     return true;
 }
+
+function undoButton() {
+    context_simple.undoTag();
+}
+
+function redoButton() {
+    context_simple.redoTag();
+}
  
 function getPaleoCodeDirection(){
         var paleoCodeResult=""
         let sortBy = [{
             prop:'origx',
             direction: 1
-        }];
-        /*
-         * ,{
+        },{
             prop:'origy',
-            direction: -1
-        }
-         */
-        strokeArray=strokeArray.sort(function(a,b){
+            direction: 1
+        }];
+        var strokeArraysorted=strokeArray.sort(function(a,b){
         let i = 0, result = 0;
         while(i < sortBy.length && result === 0) {
             result = sortBy[i].direction*(a[ sortBy[i].prop ] < b[ sortBy[i].prop ] ? -1 : (a[ sortBy[i].prop ] > b[ sortBy[i].prop ] ? 1 : 0));
             i++;
         }
         return result;
-        })
-        console.log(JSON.stringify(strokeArray))
-        for(stroke in strokeArray){
-            var delta_x=strokeArray[stroke]["targetX"]-strokeArray[stroke]["origx"]
-            var delta_y=strokeArray[stroke]["targetY"]-strokeArray[stroke]["origy"]
-        var m=delta_y/delta_x;
-        var radius = Math.atan(m)*100;
-        var strokeType=""
-        if(radius>140 && radius<200){
-            if(delta_y<0){
-                strokeType="!a"
-            }else{
-                strokeType="a";
+        }).reverse();
+        console.log(JSON.stringify(strokeArraysorted))
+        for(stroke in strokeArraysorted){
+            console.log(strokeArraysorted[stroke]["origx"])
+            var delta_x=strokeArraysorted[stroke]["targetX"]-strokeArraysorted[stroke]["origx"]
+            var delta_y=strokeArraysorted[stroke]["targetY"]-strokeArraysorted[stroke]["origy"]
+            var m=delta_y/delta_x;
+            var radius = Math.atan(m)*100;
+            console.log("Radius: "+radius)
+            var strokeType=""
+            if(radius>140 && radius<200){
+                if(delta_y<0){
+                    strokeType="!a"
+                }else{
+                    strokeType="a";
+                }
+            }else if(radius>-30 && radius<30){
+                if(delta_x>0){
+                    strokeType="b";
+                }else{
+                    strokeType="!b";
+                }
+            }else if(radius<-30 && radius>-170){
+                if(delta_x>0){
+                    strokeType="d";
+                }else{
+                    strokeType="f";
+                }
+            }else if(radius>30 && radius<150){
+                if(delta_x>0){
+                    strokeType="c";
+                }else{
+                    strokeType="e";
+                }
             }
-        }else if(radius>-30 && radius<30){
-            if(delta_x>0){
-                strokeType="b";
-            }else{
-                strokeType="!b";
-            }
-        }else if(radius<-30 && radius>-170){
-            if(delta_x>0){
-                strokeType="d";
-            }else{
-                strokeType="f";
-            }
-        }else if(radius>30 && radius<150){
-            if(delta_x>0){
-                strokeType="c";
-            }else{
-                strokeType="e";
-            }
-        }
-        if(stroke>0){
-            previousStroke=strokeArray[stroke-1]
-            currentStroke=strokeArray[stroke]
-            var linesintersect=lineIntersect(currentStroke["origx"],currentStroke["origy"],currentStroke["targetX"],currentStroke["targetY"],
+            if(stroke>0){
+                previousStroke=strokeArraysorted[stroke-1]
+                currentStroke=strokeArraysorted[stroke]
+                var linesintersect=lineIntersect(currentStroke["origx"],currentStroke["origy"],currentStroke["targetX"],currentStroke["targetY"],
                                                      previousStroke["origx"],previousStroke["origy"],previousStroke["targetX"],previousStroke["targetY"])
-            console.log("Intersect? "+linesintersect)
-            console.log(previousStroke["origx"]+"<"+currentStroke["origx"]+"="+(previousStroke["origx"]<currentStroke["origx"]))
-            console.log(previousStroke["targetX"]+"<"+currentStroke["targetX"]+"="+(previousStroke["targetX"]<currentStroke["targetX"]))
-            console.log("origx>targetX?"+currentStroke["origx"]>previousStroke["targetX"])
-            if(previousStroke["targetX"]<currentStroke["origx"]){
-                paleoCodeResult+="-"
-            }else if(previousStroke["targetY"]<currentStroke["origy"]){
-                paleoCodeResult+=":"
+                console.log("Intersect? "+linesintersect)
+                console.log(previousStroke["origx"]+"<"+currentStroke["origx"]+"="+(previousStroke["origx"]<currentStroke["origx"]))
+                console.log(previousStroke["targetX"]+"<"+currentStroke["targetX"]+"="+(previousStroke["targetX"]<currentStroke["targetX"]))
+                console.log("origx>targetX?"+currentStroke["origx"]>previousStroke["targetX"])
+                if(previousStroke["targetX"]<currentStroke["origx"]){
+                    paleoCodeResult+="-"
+                }else if((previousStroke["targetY"]>currentStroke["targetY"] && previousStroke["origy"]>currentStroke["origy"]) || 
+                    (previousStroke["targetY"]<currentStroke["targetY"] && previousStroke["origy"]<currentStroke["origy"])){
+                    paleoCodeResult+=":"
+                }
             }
-        }
-        paleoCodeResult+=strokeType
+            paleoCodeResult+=strokeType
+            console.log("PaleoCodeResult: "+paleoCodeResult)
         }
         return paleoCodeResult;
     }
@@ -400,6 +415,8 @@ function addClick(x, y, dragging)
 function clearCanvas()
 {
 	context.clearRect(0, 0, canvasWidth, canvasHeight);
+    UndoCanvas.disableUndo(context_simple)
+    UndoCanvas.enableUndo(context_simple)
 	a=0;
 	b=0;
 	c=0;

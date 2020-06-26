@@ -193,7 +193,7 @@ var hittite_map={
 { "recid":166, "got":"a3", "charName":"A", "MesZL":"839","aBZL":"470","LHA":"579","HethZL":"364; 365","transliteration":"pi","script":"𒀀"},
 { "recid":167, "got":"c2d2", "charName":"SIG", "MesZL":"881","aBZL":"437","LHA":"592","HethZL":"255","transliteration":"pik","script":"𒋝"},
 { "recid":168, "got":"a2b8c1", "charName":"APIN (ENGAR)", "MesZL":"90","aBZL":"5","LHA":"56","HethZL":"9","concept":"", "meaning":"", "transliteration":"pin","script":"𒀳"},
-{ "recid":169, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"https://www.wikidata.org/wiki/Q3947", "meaning":"house", "transliteration":"pir","script":"𒌓"},
+{ "recid":169, "got":"c2d2", "charName":"UD (BABBAR)", "MesZL":"596","aBZL":"332","LHA":"381","HethZL":"316","concept":"http://www.wikidata.org/entity/Q3947", "meaning":"house", "transliteration":"pir","script":"𒌓"},
 { "recid":170, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","concept":"", "meaning":"", "transliteration":"pis","script":"𒄫"},
 { "recid":171, "got":"a4b4c2", "charName":"GIR (ḪA-gunû)", "MesZL":"558","aBZL":"222","LHA":"346","HethZL":"244A","concept":"", "meaning":"", "transliteration":"pisz","script":"𒄫"},
 { "recid":172, "got":"a5b4", "charName":"É", "MesZL":"495","aBZL":"107","LHA":"324","HethZL":"199","concept":"", "meaning":"", "transliteration":"pit","script":"𒂍"},
