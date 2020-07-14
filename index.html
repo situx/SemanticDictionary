@@ -100,20 +100,20 @@ function isArray(what) {
     }
         
     function getWordFormDialog(obj,translit,postag,anchor){
-            //alert(obj+" - "+translit+" - "+postag);
+            console.log(obj+" - "+translit+" - "+postag);
             map=window[$('#dictselect').val()]["records"]
-            //alert(JSON.stringify(map))
+            console.log(JSON.stringify(map))
             data2="[{field: \"script\", caption:\"Script\"},{field: \"transliteration\", caption:\"Transliteration\"},{field: \"transcription\", caption:\"Transcription\"},{field: \"translation\", caption:\"Translation\"}"
             data="<h3>Word Forms for "+translit+"</h3><table id=\"table_"+obj+"content"+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th>"
-            //alert(data)
+            console.logalert(data)
             tdcounter=0;
-            //alert(JSON.stringify(posTagToPattern[postag]))
-            //alert("Pat: "+JSON.stringify(window[$('#dictselect').val()+"_pat"]))
+            console.log(JSON.stringify(posTagToPattern[postag]))
+            console.log("Pat: "+JSON.stringify(window[$('#dictselect').val()+"_pat"]))
             for(pattern in posTagToPattern[postag]){
-                    //alert(JSON.stringify(posTagToPattern[postag][pattern]))
+                    console.log(JSON.stringify(posTagToPattern[postag][pattern]))
                     for(att in posTagToPattern[postag][pattern]){
-                            //alert(att)
-                            //alert(JSON.stringify(posTagToPattern[postag][pattern][att]))
+                            console.log(att)
+                            console.log(JSON.stringify(posTagToPattern[postag][pattern][att]))
                             if(att!="transsuffix" && att!="transprefix" && att!="rep" && att!="content" && att!="transliteration" && att!="representation"){
                                             data2+=",{field: \""+att+"\", caption: \""+capitalizeFirstLetter(att)+"\"}"
                                            data+="<th>"+capitalizeFirstLetter(att)+"</th>";
@@ -126,11 +126,11 @@ function isArray(what) {
                             //alert(data)
             for(pattern in posTagToPattern[postag]){
                         if(map[obj]["logogram"]!=undefined){
-                                            //alert(JSON.stringify(map[obj]["transliteration"]))
+                                            console.log(JSON.stringify(map[obj]["transliteration"]))
                                                 data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
                         }else{
                                         if(!mapordict){
-                                        //alert(JSON.stringify(map[obj]))
+                                        console.log(JSON.stringify(map[obj]))
                                         translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[postag][pattern]["pattern"])
                                         data+="<tr><td>"+("scriptpattern" in posTagToPattern[postag][pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[postag][pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+
                                         (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[postag][pattern] &&  posTagToPattern[postag][pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ",""):map[obj]["translation"]):"")
@@ -159,6 +159,7 @@ function isArray(what) {
     }
     
     function openDialog(anchor,obj,translit,postag){
+            console.log("Open Dialog: "+anchor)
             var dialogg = document.getElementById(anchor); 
             $("#"+anchor).html("")
             $("#"+anchor).html(getWordFormDialog(obj,translit,postag,anchor))
