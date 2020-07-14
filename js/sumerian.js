@@ -1,11 +1,18 @@
 var sumerian={
  "name": "sumerian",
  "header":"sumerian Dictionary",
-"selectType":"cell",
 "show":{
 "toolbar":true,
 "footer":true
 },
+"multiSearch": true,
+"searches": [
+            { "field": 'recid', "caption": 'ID ', "type": 'int' },
+            { "field": 'transliteration', "caption": 'Transliteration', "type": 'text' },
+            { "field": 'transcription', "caption": 'Transcription', "type": 'text' },
+            { "field": 'script', "caption": 'Script', "type": 'text'},
+            { "field": 'translation', "caption": 'Translation', "type": 'text' }
+],
 "columns":[
 {"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:sumerian;font-size:18px;"},
 {"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%",},
