@@ -124,7 +124,9 @@ function isArray(what) {
                 data2+="],records:["
                 data+="</tr></thead><tbody>"
                             //alert(data)
+            console.log(posTagToPattern)
             for(pattern in posTagToPattern[postag]){
+                        console.log(posTagToPattern[postag])
                         if(map[obj]["logogram"]!=undefined){
                                             console.log(JSON.stringify(map[obj]["transliteration"]))
                                                 data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
