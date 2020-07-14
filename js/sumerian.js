@@ -39,7 +39,7 @@ var sumerian={
         result=""
         if(record.pos!=undefined && record.pos!=""){
             //result+="<dialog id=\"el_"+record.transliteration+"_"+record.pos+"_dialog\"/><a href=\"javascript:openDialog('el_"+record.transliteration+"_"+record.pos+"_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\" target=\"_blank\">"
-            result+="<a href=\"javascript:openDialog('wordform_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\" target=\"_blank\">"
+            result+="<a href=\"javascript:openDialog('wordform_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\">"
             result+=record.pos
             result+="</a>"
         }else{
