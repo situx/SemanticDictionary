@@ -107,7 +107,8 @@ function isArray(what) {
             data="<h3>Word Forms for "+translit+"</h3><table id=\"table_"+obj+"content"+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th>"
             //console.log(data)
             tdcounter=0;
-            //console.log(JSON.stringify(posTagToPattern[postag]))
+            console.log(JSON.stringify(posTagToPattern[postag]))
+            posTagToPattern=window[$('#dictselect').val()+"_pat"]["pattern"]
             //console.log("Pat: "+JSON.stringify(window[$('#dictselect').val()+"_pat"]))
             for(pattern in posTagToPattern[postag]){
                     //console.log(JSON.stringify(posTagToPattern[postag][pattern]))
