@@ -133,7 +133,7 @@ function isArray(what) {
                         console.log(posTagToPattern[postag])
                         if(map[obj]["logogram"]!=undefined){
                                             console.log(JSON.stringify(map[obj]["transliteration"]))
-                                                data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
+                                                data+="<tr><td>"+map[obj]["content"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+map[obj]["logogram"]+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[pattern]?posTagToPattern[pattern]["transprefix"]+" ":"")+(map[obj]["translation"]!=undefined?map[obj]["translation"]:"")+("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")
                         }else{
                                         if(!mapordict){
                                         console.log(JSON.stringify(map[obj]))
