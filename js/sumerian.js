@@ -7,10 +7,10 @@ var sumerian={
 "footer":true
 },
 "columns":[
-{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:sumerian;font-size:18px;"},
-{"field":"transliteration","caption":"Transliteration","selectable":true,"sortable":true,"resizable":true,"size":"20%",},
-{"field":"transcription","caption":"Transcription","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
-{"field":"translation","caption":"Translation","selectable":true,"sortable":true,"resizable":true,"size":"20%",
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:sumerian;font-size:18px;"},
+{"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%",},
+{"field":"transcription","caption":"Transcription","sortable":true,"resizable":true,"size":"20%"},
+{"field":"translation","caption":"Translation","sortable":true,"resizable":true,"size":"20%",
     render:function(record){
         result=""
         if(record.concept!=undefined && record.concept!=""){
@@ -28,7 +28,7 @@ var sumerian={
         }
         return result
 }},
-{"field":"pos","caption":"POSTag","selectable":true,"sortable":true,"resizable":true,"size":"20%",render:function(record){
+{"field":"pos","caption":"POSTag","sortable":true,"resizable":true,"size":"20%",render:function(record){
         result=""
         if(record.pos!=undefined && record.pos!=""){
             //result+="<dialog id=\"el_"+record.transliteration+"_"+record.pos+"_dialog\"/><a href=\"javascript:openDialog('el_"+record.transliteration+"_"+record.pos+"_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\" target=\"_blank\">"
@@ -40,7 +40,7 @@ var sumerian={
         }
         return result
 }},
-{"field":"ref","caption":"Reference","selectable":true,"sortable":true,"resizable":true,"size":"20%",render:function(record){
+{"field":"ref","caption":"Reference","sortable":true,"resizable":true,"size":"20%",render:function(record){
         result=""
         if(record.refURL!=undefined && record.refURL!=""){
             result+="<a href=\""+record.refURL+"\" target=\"_blank\">"
