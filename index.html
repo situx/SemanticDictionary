@@ -144,13 +144,13 @@ function isArray(what) {
                                         
                                         }
                                         }
-                                        if("pattern" in posTagToPattern[pattern]){
+                                        /*if("pattern" in posTagToPattern[pattern]){
                                                 if(att!="cunei" && att!="transsuffix" && att!="transprefix" && att!="content" && att!="representation" && att!="scriptpattern"){
                                                     console.log(posTagToPattern[pattern])
                                                     console.log(posTagToPattern[pattern]["pattern"])
                                                     /*if(second==0){
                                                             extendedtitle+="<th>"+capitalizeFirstLetter(att)+"</th>"
-                                                    }*/
+                                                    }
                                                     data+="<td>"
                                                     if(posTagToPattern[postag][pattern][att]!=undefined){
                                                         data+="<a href=\""+posTagToPattern[postag][pattern][att]+"\"  target=\"_blank\">"+(posTagToPattern[postag][pattern][att]==""?"":posTagToPattern[postag][pattern][att].toString().substring(posTagToPattern[postag][pattern][att].toString().indexOf('#')+1))
@@ -161,7 +161,7 @@ function isArray(what) {
                                                     }
                                                     data+="</td>"
                                                 }
-                                        }
+                                        }*/
                                         }
                         return data+"</tbody></table><button type=\"button\" onclick=\"closeDialog('"+anchor+"')\">Close</button>"
     }
