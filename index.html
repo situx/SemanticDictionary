@@ -126,7 +126,10 @@ function isArray(what) {
                 data+="</tr></thead><tbody>"
                             //alert(data)
             console.log(posTagToPattern)
-            for(pattern in posTagToPattern[postag]){
+            for(pattern in posTagToPattern){
+                        if(posTagToPattern[pattern]["postag"]!=postag){
+                            continue;
+                        }
                         console.log(posTagToPattern[postag])
                         if(map[obj]["logogram"]!=undefined){
                                             console.log(JSON.stringify(map[obj]["transliteration"]))
@@ -134,17 +137,17 @@ function isArray(what) {
                         }else{
                                         if(!mapordict){
                                         console.log(JSON.stringify(map[obj]))
-                                        translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[postag][pattern]["pattern"])
-                                        data+="<tr><td>"+("scriptpattern" in posTagToPattern[postag][pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[postag][pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transprefix"]+" ":"")+
-                                        (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[postag][pattern] &&  posTagToPattern[postag][pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ",""):map[obj]["translation"]):"")
-                                        +("transsuffix" in posTagToPattern[postag][pattern]?posTagToPattern[postag][pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
+                                        translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[pattern]["pattern"])
+                                        data+="<tr><td>"+("scriptpattern" in posTagToPattern[pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[pattern]?posTagToPattern[pattern]["transprefix"]+" ":"")+
+                                        (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[pattern] &&  posTagToPattern[pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ",""):map[obj]["translation"]):"")
+                                        +("transsuffix" in posTagToPattern[pattern]?posTagToPattern[pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
                                         
                                         }
                                         }
-                                        for(att in posTagToPattern[postag][pattern]){
+                                        if("pattern" in posTagToPattern[pattern]){
                                                 if(att!="cunei" && att!="transsuffix" && att!="transprefix" && att!="content" && att!="representation" && att!="scriptpattern"){
-                                                    console.log(posTagToPattern[postag][pattern])
-                                                    console.log(posTagToPattern[postag][pattern][att])
+                                                    console.log(posTagToPattern[pattern])
+                                                    console.log(posTagToPattern[pattern]["pattern"])
                                                     /*if(second==0){
                                                             extendedtitle+="<th>"+capitalizeFirstLetter(att)+"</th>"
                                                     }*/
