@@ -85,7 +85,7 @@ var akkadian_pat={
             "transsuffix": "",
             "pattern": "~-im",   
             "scriptpattern":"~𒅎",
-            "transprefix": "",
+            "transprefix": "of",
             "representation": "transliteration"
         },
         {
