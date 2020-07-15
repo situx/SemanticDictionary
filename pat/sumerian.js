@@ -56,6 +56,35 @@ var sumerian_pat={
             "scriptpattern":"~𒀝",
             "transprefix": "of",
             "representation": "transliteration"
+        },{
+            "postag": "NN",
+            "person": " ",
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "wordcase": "http://purl.org/olia/olia.owl#Terminative",
+            "animacy": "http://purl.org/olia/olia.owl#Animate",
+            "tense": "",
+            "mood": "",
+            "voice": "",
+            "transsuffix": "",
+            "pattern": "~-sze3",   
+            "scriptpattern":"~𒂠",
+            "transprefix": "finally",
+            "representation": "transliteration"
+        },
+        {
+            "postag": "NN",
+            "person": " ",
+            "number": "http://purl.org/olia/olia.owl#Singular",
+            "wordcase": "http://purl.org/olia/olia.owl#Dative",
+            "animacy": "http://purl.org/olia/olia.owl#Animate",
+            "tense": "",
+            "mood": "",
+            "voice": "",
+            "transsuffix": "",
+            "pattern": "~-ra",   
+            "scriptpattern":"~𒊏",
+            "transprefix": "to",
+            "representation": "transliteration"
         },
         {
             "postag": "NN",
