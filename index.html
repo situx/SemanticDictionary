@@ -104,7 +104,7 @@ function isArray(what) {
             map=window[$('#dictselect').val()]["records"]
             //console.log(JSON.stringify(map))
             data2="[{field: \"script\", caption:\"Script\"},{field: \"transliteration\", caption:\"Transliteration\"},{field: \"transcription\", caption:\"Transcription\"},{field: \"translation\", caption:\"Translation\"}"
-            data="<h3>Word Forms for "+translit+"</h3><table id=\"table_"+obj+"content"+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th><th>Wordcase</th>"
+            data="<h3>Word Forms for "+translit+" ["+postag+"]</h3><table id=\"table_"+obj+"content"+"\" class=\"tablesorter\"><thead><tr><th>Script</th><th>Transliteration</th><th>Transcription</th><th>Translation</th><th>Wordcase</th>"
             //console.log(data)
             tdcounter=0;
             console.log(JSON.stringify(posTagToPattern[postag]))
@@ -139,7 +139,7 @@ function isArray(what) {
                                         console.log(JSON.stringify(map[obj]))
                                         translit=transformTransliteration(map[obj]["transliteration"], posTagToPattern[pattern]["pattern"])
                                         data+="<tr><td>"+("scriptpattern" in posTagToPattern[pattern]?transformTransliteration(map[obj]["script"],posTagToPattern[pattern]["scriptpattern"]):map[obj]["script"])+"</td><td>"+translit+"</td><td>"+translit.replace(new RegExp("-",'g'),"").replace(new RegExp("[0-9]","g"),"")+"</td><td>"+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"<a href=\""+map[obj]["concept"]+"\" target=\"_blank\">":"")+("transprefix" in posTagToPattern[pattern]?posTagToPattern[pattern]["transprefix"]+" ":"")+
-                                        (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[pattern] &&  posTagToPattern[pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ",""):map[obj]["translation"]):"")
+                                        (map[obj]["translation"]!=undefined?("transprefix" in posTagToPattern[pattern] &&  posTagToPattern[pattern]["transprefix"]!=""?map[obj]["translation"].replace("to ","").replace("a ",""):map[obj]["translation"]):"")
                                         +("transsuffix" in posTagToPattern[pattern]?posTagToPattern[pattern]["transsuffix"]+" ":"")+(map[obj]["concept"]!=null && map[obj]["concept"]!=""?"</a>":"")+"</td>"
                                         data+="<td>"+posTagToPattern[pattern]["person"].substring(posTagToPattern[pattern]["person"].lastIndexOf('#')+1)+" "+posTagToPattern[pattern]["number"].substring(posTagToPattern[pattern]["number"].lastIndexOf('#')+1)+" "+posTagToPattern[pattern]["wordcase"].substring(posTagToPattern[pattern]["wordcase"].lastIndexOf('#')+1)+"</td>"
                                         
