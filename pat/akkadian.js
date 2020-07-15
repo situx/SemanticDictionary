@@ -1,4 +1,4 @@
-var sumerian_pat={
+var akkadian_pat={
     "pattern": [
         {
             "postag": "NE",
