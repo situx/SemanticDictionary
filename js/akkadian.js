@@ -1,16 +1,23 @@
 var akkadian={
  "name": "akkadian",
  "header":"akkadian Dictionary",
-"selectType":"cell",
 "show":{
 "toolbar":true,
 "footer":true
 },
+"multiSearch": true,
+"searches": [
+            { "field": 'recid', "caption": 'ID ', "type": 'int' },
+            { "field": 'transliteration', "caption": 'Transliteration', "type": 'text' },
+            { "field": 'transcription', "caption": 'Transcription', "type": 'text' },
+            { "field": 'script', "caption": 'Script', "type": 'text'},
+            { "field": 'translation', "caption": 'Translation', "type": 'text' }
+],
 "columns":[
-{"field":"script","caption":"Script","selectable":true,"sortable":true,"resizable":true,"size":"20%","style":"font-family:akkadian;font-size:18px;"},
-{"field":"transliteration","caption":"Transliteration","selectable":true,"sortable":true,"resizable":true,"size":"20%",},
-{"field":"transcription","caption":"Transcription","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
-{"field":"translation","caption":"Translation","selectable":true,"sortable":true,"resizable":true,"size":"20%",
+{"field":"script","caption":"Script","sortable":true,"resizable":true,"size":"20%","style":"font-family:sumerian;font-size:18px;"},
+{"field":"transliteration","caption":"Transliteration","sortable":true,"resizable":true,"size":"20%",},
+{"field":"transcription","caption":"Transcription","sortable":true,"resizable":true,"size":"20%"},
+{"field":"translation","caption":"Translation","sortable":true,"resizable":true,"size":"20%",
     render:function(record){
         result=""
         if(record.concept!=undefined && record.concept!=""){
@@ -28,10 +35,30 @@ var akkadian={
         }
         return result
 }},
-{"field":"pos","caption":"POSTag","selectable":true,"sortable":true,"resizable":true,"size":"20%"},
-{"field":"ref","caption":"Reference","selectable":true,"sortable":true,"resizable":true,"size":"20%"}
-]
-,"records":[
+{"field":"pos","caption":"POSTag","sortable":true,"resizable":true,"size":"20%",render:function(record){
+        result=""
+        if(record.pos!=undefined && record.pos!=""){
+            //result+="<dialog id=\"el_"+record.transliteration+"_"+record.pos+"_dialog\"/><a href=\"javascript:openDialog('el_"+record.transliteration+"_"+record.pos+"_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\" target=\"_blank\">"
+            result+="<a href=\"javascript:openDialog('wordform_dialog','"+record.recid+"','"+record.transliteration+"','"+record.pos+"')\">"
+            result+=record.pos
+            result+="</a>"
+        }else{
+            result+=record.pos
+        }
+        return result
+}},
+{"field":"ref","caption":"Reference","sortable":true,"resizable":true,"size":"20%",render:function(record){
+        result=""
+        if(record.refURL!=undefined && record.refURL!=""){
+            result+="<a href=\""+record.refURL+"\" target=\"_blank\">"
+            result+=record.ref
+            result+="</a>"
+        }else{
+            result=record.ref
+        }
+        return result
+}}
+],"records":[
 {"recid":0,"concept":"http://www.wikidata.org/entity/Q11004","meaning":"", "ref":"akkdict","pos":"NN","transcription":"hi.isar", "transliteration":"hi-.i3-sar","translation":"type of vegetable","script":""},
 {"recid":1,"concept":"http://www.wikidata.org/entity/Q11004","meaning":"", "ref":"akkdict","pos":"NN","transcription":"hisar", "transliteration":"hi-sar","translation":"a vegetable","script":""},
 {"recid":2,"concept":"http://www.wikidata.org/entity/Q11004","meaning":"", "ref":"akkdict","pos":"NN","transcription":"lak", "transliteration":"lak649","translation":"assembly","script":""},
