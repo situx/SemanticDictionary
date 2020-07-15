@@ -3,7 +3,7 @@ This repository provides semantic dictionaries for ancient languages in common f
 Current languages covered by the dictionary are:
 - Akkadian
 - Sumerian
-- Egyptian Hieroglyphes
+- Egyptian Hieroglyphes 
 
 Specific export formats are provided for:
 - [Anki](https://apps.ankiweb.net) Flashcard Learning
