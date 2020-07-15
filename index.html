@@ -86,11 +86,10 @@ function isArray(what) {
             }
             if(pattern.endsWith("~")){
                     if(transliteration.match(new RegExp("[A-z0-9]+"))){
-                        pattern.substring(0,pattern.length-1)+"-"+transliteration;
-                    }else{
                         return pattern.substring(0,pattern.length-1)+"-"+transliteration;
+                    }else{
+                        return pattern.substring(0,pattern.length-1)+transliteration;
                     }
-                    
             }
             if(pattern.includes("~")){
                 spl=pattern.split("~")
