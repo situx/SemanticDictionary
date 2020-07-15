@@ -88,7 +88,7 @@ function isArray(what) {
                     if(transliteration.match(new RegExp("[A-z0-9]+"))){
                         pattern.substring(0,pattern.length-1)+"-"+transliteration;
                     }else{
-                        return pattern.substring(0,pattern.length-1)+transliteration;
+                        return pattern.substring(0,pattern.length-1)+"-"+transliteration;
                     }
                     
             }
