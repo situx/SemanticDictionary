@@ -96,7 +96,7 @@ function prepareSimpleCanvas(ime,font)
 {
 	// Create the canvas (Neccessary for IE because it doesn't know what a canvas element is)
 	var canvasDiv = document.getElementById('canvasSimpleDiv');
-	canvas_simple = document.getElementById('canvasSimple');
+	canvas_simple = document.getElementById('canvas');
 	//canvas_simple.setAttribute('width', canvasWidth);
 	//canvas_simple.setAttribute('height', canvasHeight);
 	//canvas_simple.setAttribute('id', 'canvasSimple');
