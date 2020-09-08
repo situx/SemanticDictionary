@@ -225,8 +225,8 @@ function addClickSimple(x, y, dragging)
 function clearCanvas_simple()
 {
 	context_simple.clearRect(0, 0, canvasWidth, canvasHeight);
-    UndoCanvas.disableUndo(context_simple)
-    UndoCanvas.enableUndo(context_simple)
+    //UndoCanvas.disableUndo(context_simple)
+    //UndoCanvas.enableUndo(context_simple)
 }
 
 function redrawSimple()
@@ -415,8 +415,8 @@ function addClick(x, y, dragging)
 function clearCanvas()
 {
 	context.clearRect(0, 0, canvasWidth, canvasHeight);
-    UndoCanvas.disableUndo(context_simple)
-    UndoCanvas.enableUndo(context_simple)
+    //UndoCanvas.disableUndo(context_simple)
+    //UndoCanvas.enableUndo(context_simple)
 	a=0;
 	b=0;
 	c=0;
