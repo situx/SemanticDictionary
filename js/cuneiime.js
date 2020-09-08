@@ -13,7 +13,7 @@ var lastpos=""
             currentIMEDict=imedicts[name];
     }else{
         $.ajax({
-    url: "ime/"+name+"_dict.json",
+    url: "ime/"+name+"_dict.js",
     dataType: 'json',
     success: function( data ) {
         try {
