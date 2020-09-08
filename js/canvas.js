@@ -121,7 +121,7 @@ function prepareSimpleCanvas(ime,font)
 		canvas_simple = G_vmlCanvasManager.initElement(canvas_simple);
 	}
 	context_simple = canvas_simple.getContext("2d");
-    UndoCanvas.enableUndo(context_simple)
+    //UndoCanvas.enableUndo(context_simple)
 	
 	// Add mouse events
 	// ----------------
