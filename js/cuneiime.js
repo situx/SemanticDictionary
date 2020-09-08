@@ -13,7 +13,7 @@ var lastpos=""
             currentIMEDict=imedicts[name];
     }else{
         $.ajax({
-    url: "ime/"+name+"_dict.js",
+    url: "ime/"+name+"_dict.json",
     dataType: 'json',
     success: function( data ) {
         try {
@@ -30,7 +30,7 @@ var lastpos=""
             currentPatterns=patterndicts[name];
     }else{
                     $.ajax({
-    url: "pat/"+name+".json",
+    url: "pat/"+name+".js",
     dataType: 'json',
     success: function( data ) {
         try {
