@@ -1,4 +1,10 @@
 # Semantic Dictionaries for ancient languages in XML, JSON and Lemon-RDF
+
+This repository is not maintained anymore.
+Further work on documenting cuneiform languages is done in Wikidata.
+- (https://situx.github.io/paleordia/language/?q=Q36790&qLabel=Sumerian)[Sumerian]
+- (https://situx.github.io/paleordia/language/?q=Q35518&qLabel=Akkadian)[Akkadian]
+
 This repository provides semantic dictionaries for ancient languages in common formats and will in the future also provide application cases using dictionary data.
 Current languages covered by the dictionary are:
 - Akkadian
